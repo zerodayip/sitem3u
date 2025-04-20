@@ -22,9 +22,10 @@ with open("d/schedule_son.txt", "r", encoding="utf-8") as f:
         if entry:
             schedule_entries.append(entry)
 
-# Şu anki saat alınır ve UTC olarak dakikası sıfırlanır
+# Şu anki saat alınır ve dakikası sıfırlanır
 current_time = datetime.now(timezone.utc)
-current_hour_str = current_time.strftime("%H:%M")  # Şu anki saat (sadece saat ve dakika)
+rounded_hour = current_time.replace(minute=0, second=0, microsecond=0)
+current_hour_str = rounded_hour.strftime("%H:%M")  # Saat başı olarak alındı (dakika sıfırlandı)
 
 # Geçici temp_schedule.txt dosyasını oluşturma
 with open("d/temp_schedule.txt", "w", encoding="utf-8") as temp_file:
