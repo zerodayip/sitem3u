@@ -14,59 +14,65 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout Public Repository (veriler)
-      uses: actions/checkout@v2
+      - name: Checkout Public Repository (veriler)
+        uses: actions/checkout@v2
 
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: '3.x'
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
 
-    - name: Clone Private Repository (Py)
-      run: |
-        git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/MDuymazz/Py.git private_py
+      - name: Clone Private Repository (Py)
+        run: |
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/MDuymazz/Py.git private_py
 
-    - name: Install Python dependencies from private repo
-      run: |
-        pip install -r private_py/requirements.txt
+      - name: Install Python dependencies from private repo
+        run: |
+          pip install -r private_py/requirements.txt
 
-    - name: Run data_html.py
-      run: python private_py/vavoo/data_html.py
+      - name: Run data_html.py
+        run: python private_py/vavoo/data_html.py
 
-    - name: Run kanallar.py
-      run: python private_py/vavoo/kanallar.py
+      - name: Run kanallar.py
+        run: python private_py/vavoo/kanallar.py
 
-    - name: Run generate_m3u.py
-      run: python private_py/vavoo/generate_m3u.py
+      - name: Run generate_m3u.py
+        run: python private_py/vavoo/generate_m3u.py
 
-    - name: Run dizi_gunluk.py
-      run: python private_py/vavoo/dizi_gunluk.py
+      - name: Run dizi_gunluk.py
+        run: python private_py/vavoo/dizi_gunluk.py
 
-    - name: Run diziler_m3u.py
-      run: python private_py/vavoo/diziler_m3u.py
+      - name: Run diziler_m3u.py
+        run: python private_py/vavoo/diziler_m3u.py
 
-    - name: Run sporekrani.py
-      run: python private_py/vavoo/sporekrani.py
+      - name: Run sporekrani.py
+        run: python private_py/vavoo/sporekrani.py
 
-    - name: Run spor_ekrani_m3u.py
-      run: python private_py/vavoo/spor_ekrani_m3u.py
+      - name: Run spor_ekrani_m3u.py
+        run: python private_py/vavoo/spor_ekrani_m3u.py
 
-    - name: Run birlestir.py
-      run: python private_py/birlestir.py
+      - name: Run birlestir.py
+        run: python private_py/birlestir.py
 
-    - name: Commit and Push Changes
-      run: |
-        git config user.name "GitHub Actions"
-        git config user.email "actions@github.com"
-        
-        # Dosya eklemeleri yalnızca gerekli olanları içerecek
-        git add v/ playlist.m3u 
+      # Playlist dosyasını sil ve yeniden oluştur
+      - name: Delete and Recreate playlist.m3u
+        run: |
+          # Dosyayı sil
+          git rm playlist.m3u || true
+          
+          # Birleştirme işlemini yap
+          python private_py/birlestir.py  # `birlestir.py` dosyasını çalıştır
 
-        # Git stash ile geçici saklama işlemi yapıyoruz
-        git stash push -m "temp"
-        git pull --rebase
-        git stash pop || true
+          # Dosyayı ekle
+          git add playlist.m3u
 
-        # Yalnızca gereken dosyalar ile commit ve push yap
-        git add v/ playlist.m3u 
-        git diff --cached --quiet || (git commit -m "Update output files via workflow V" && git push)
+      - name: Commit and Push Changes
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          
+          git stash push -m "temp"
+          git pull --rebase
+          git stash pop || true
+
+          git diff --cached --quiet || (git commit -m "Update output files via workflow V" && git push)
