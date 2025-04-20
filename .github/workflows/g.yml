@@ -60,16 +60,25 @@ jobs:
       - name: Run birlestir.py
         run: python private_py/birlestir.py
 
+      # Playlist dosyasını sil ve yeniden oluştur
+      - name: Delete and Recreate playlist.m3u
+        run: |
+          # Dosyayı sil
+          git rm playlist.m3u || true
+          
+          # Birleştirme işlemini yap
+          python private_py/birlestir.py  # `birlestir.py` dosyasını çalıştır
+
+          # Dosyayı ekle
+          git add playlist.m3u
+
       - name: Commit and Push Changes
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
 
-          git add g/ playlist.m3u 
-
           git stash push -m "temp"
           git pull --rebase
           git stash pop || true
 
-          git add g/ playlist.m3u 
           git diff --cached --quiet || (git commit -m "Update output files via main workflow" && git push)
