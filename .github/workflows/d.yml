@@ -1,0 +1,83 @@
+name: Run Python Scripts from Private Repo ( D )
+
+on:
+  workflow_dispatch:          # Manuel tetikleme için
+  schedule:
+    - cron: '15 */1 * * *'     # Her saat başı çalıştıracak şekilde ayarlandı
+
+concurrency:
+  group: golvar-d
+  cancel-in-progress: true
+
+jobs:
+  run-python-scripts:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Public Repository (veriler)
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Clone Private Repository (Py)
+      run: |
+        git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/MDuymazz/Py.git private_py
+
+    - name: Install Python dependencies from private repo
+      run: |
+        pip install -r private_py/requirements.txt
+
+    # daddyliveevent scripts
+    - name: Run daddylivehtml.py
+      run: python private_py/daddyliveevent/daddylivehtml.py
+
+    - name: Run schedule_al.py
+      run: python private_py/daddyliveevent/schedule_al.py
+
+    - name: Run server_key_schedule.py
+      run: python private_py/daddyliveevent/server_key_schedule.py
+
+    - name: Run schedule_son.py
+      run: python private_py/daddyliveevent/schedule_son.py
+
+    - name: Run eventm3u.py
+      run: python private_py/daddyliveevent/eventm3u.py
+
+    - name: Run convertm3u.py
+      run: python private_py/daddyliveevent/convertm3u.py
+
+    # daddylivekanal scripts
+    - name: Run kanal_verileri.py
+      run: python private_py/daddylivekanal/kanal_verileri.py
+
+    - name: Run server_key_kanal.py
+      run: python private_py/daddylivekanal/server_key_kanal.py
+
+    - name: Run kanal_birlestir.py
+      run: python private_py/daddylivekanal/kanal_birlestir.py
+
+    - name: Run kanalm3u.py
+      run: python private_py/daddylivekanal/kanalm3u.py
+
+    - name: Run birlestir.py
+      run: python private_py/birlestir.py
+
+    - name: Commit and Push Changes
+      run: |
+        git config user.name "GitHub Actions"
+        git config user.email "actions@github.com"
+        
+        # Dosya eklemeleri yalnızca gerekli olanları içerecek
+        git add d/ playlist.m3u
+
+        # Git stash ile geçici saklama işlemi yapıyoruz
+        git stash push -m "temp"
+        git pull --rebase
+        git stash pop || true
+
+        # Yalnızca gereken dosyalar ile commit ve push yap
+        git add d/ playlist.m3u
+        git diff --cached --quiet || (git commit -m "Update output files via workflow D" && git push)
