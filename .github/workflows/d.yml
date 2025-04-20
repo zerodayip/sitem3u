@@ -3,7 +3,7 @@ name: Run Python Scripts from Private Repo ( D )
 on:
   workflow_dispatch:          # Manuel tetikleme için
   schedule:
-    - cron: '15 */1 * * *'     # Her saat başı çalıştıracak şekilde ayarlandı
+    - cron: '15 */1 * * *'     # Her saat başı çalıştırılacak
 
 concurrency:
   group: golvar-d
@@ -14,76 +14,69 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout Public Repository (veriler)
-      uses: actions/checkout@v2
+      - name: Checkout Public Repository (veriler)
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          fetch-depth: 0
+          ref: main
 
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: '3.x'
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
 
-    - name: Clone Private Repository (Py)
-      run: |
-        git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/MDuymazz/Py.git private_py
+      - name: Clone Private Repository (Py)
+        run: |
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/MDuymazz/Py.git private_py
 
-    - name: Install Python dependencies from private repo
-      run: |
-        pip install -r private_py/requirements.txt
+      - name: Install Python dependencies from private repo
+        run: |
+          pip install -r private_py/requirements.txt
 
-    # daddyliveevent scripts
-    - name: Run daddylivehtml.py
-      run: python private_py/daddyliveevent/daddylivehtml.py
+      # daddyliveevent scripts
+      - name: Run daddylivehtml.py
+        run: python private_py/daddyliveevent/daddylivehtml.py
 
-    - name: Run schedule_al.py
-      run: python private_py/daddyliveevent/schedule_al.py
+      - name: Run schedule_al.py
+        run: python private_py/daddyliveevent/schedule_al.py
 
-    - name: Run server_key_schedule.py
-      run: python private_py/daddyliveevent/server_key_schedule.py
+      - name: Run server_key_schedule.py
+        run: python private_py/daddyliveevent/server_key_schedule.py
 
-    - name: Run schedule_son.py
-      run: python private_py/daddyliveevent/schedule_son.py
+      - name: Run schedule_son.py
+        run: python private_py/daddyliveevent/schedule_son.py
 
-    - name: Run eventm3u.py
-      run: python private_py/daddyliveevent/eventm3u.py
+      - name: Run eventm3u.py
+        run: python private_py/daddyliveevent/eventm3u.py
 
-    - name: Run convertm3u.py
-      run: python private_py/daddyliveevent/convertm3u.py
+      - name: Run convertm3u.py
+        run: python private_py/daddyliveevent/convertm3u.py
 
-    # daddylivekanal scripts
-    - name: Run kanal_verileri.py
-      run: python private_py/daddylivekanal/kanal_verileri.py
+      # daddylivekanal scripts
+      - name: Run kanal_verileri.py
+        run: python private_py/daddylivekanal/kanal_verileri.py
 
-    - name: Run server_key_kanal.py
-      run: python private_py/daddylivekanal/server_key_kanal.py
+      - name: Run server_key_kanal.py
+        run: python private_py/daddylivekanal/server_key_kanal.py
 
-    - name: Run kanal_birlestir.py
-      run: python private_py/daddylivekanal/kanal_birlestir.py
+      - name: Run kanal_birlestir.py
+        run: python private_py/daddylivekanal/kanal_birlestir.py
 
-    - name: Run kanalm3u.py
-      run: python private_py/daddylivekanal/kanalm3u.py
+      - name: Run kanalm3u.py
+        run: python private_py/daddylivekanal/kanalm3u.py
 
-    # Playlist dosyasını sil ve yeniden oluştur
-    - name: Delete and recreate playlist.m3u
-      run: |
-        # Dosyayı sil
-        git rm playlist.m3u || true
-        
-        # Birleştirme işlemini yap
-        python private_py/birlestir.py  # `birlestir.py` dosyasını çalıştır
-        
-        # Dosya ekle
-        git add playlist.m3u
+      - name: Run birlestir.py
+        run: python private_py/birlestir.py
 
-    - name: Commit and Push Changes
-      run: |
-        git config user.name "GitHub Actions"
-        git config user.email "actions@github.com"
-        
-        # Git stash ile geçici saklama işlemi yapıyoruz
-        git stash push -m "temp"
-        git pull --rebase
-        git stash pop || true
+      # Tüm değişiklikleri sahneye al
+      - name: Add all changes
+        run: |
+          git add -A
 
-        # Yalnızca gereken dosyalar ile commit ve push yap
-        git add playlist.m3u
-        git diff --cached --quiet || (git commit -m "Recreate playlist.m3u" && git push)
+      - name: Commit and Push Changes
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git commit -m "Update all output files and via workflow D" || echo "No changes to commit"
+          git push origin main
