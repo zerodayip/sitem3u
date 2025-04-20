@@ -1,4 +1,7 @@
 MatchType: "Futbol"
+Text: "CANLI (21:30) DEPORTIVO RIESTRA – SAN LORENZO (SPOR SMART)"
+
+MatchType: "Futbol"
 Text: "CANLI (20:30) ST.PAULI – BAYER LEVERKUSEN (BEIN SPORTS 5)"
 
 MatchType: "Futbol"
@@ -12,30 +15,6 @@ Text: "CANLI (19:30) KAA GENT – CLUB BRUGGE (TV85)"
 
 MatchType: "Basketbol"
 Text: "CANLI (19:30) BARCELONA – GRAN CANARIA (SPOR SMART 2)"
-
-MatchType: "Futbol"
-Text: "CANLI (19:00) GENÇLERBIRLIĞI – BANDIRMASPOR (TRT SPOR)"
-
-MatchType: "Futbol"
-Text: "CANLI (19:00) GENÇLERBIRLIĞI – BANDIRMASPOR (BEIN SPORTS 2)"
-
-MatchType: "Futbol"
-Text: "CANLI (19:00) BOLOGNA – INTER (S SPORT 2)"
-
-MatchType: "Futbol"
-Text: "CANLI (19:00) FENERBAHÇE – KAYSERISPOR (BEIN SPORTS 1)"
-
-MatchType: "Futbol"
-Text: "CANLI (18:30) LEICESTER CITY – LIVERPOOL (BEIN SPORTS 3)"
-
-MatchType: "Futbol"
-Text: "CANLI (18:30) B.DORTMUND – MONCHENGLADBACH (BEIN SPORTS 5)"
-
-MatchType: "Futbol"
-Text: "CANLI (18:30) B.DORTMUND – MONCHENGLADBACH (TIVIBU SPOR 2)"
-
-MatchType: "Futbol"
-Text: "BUGÜN 21:30 DEPORTIVO RIESTRA – SAN LORENZO (SPOR SMART)"
 
 MatchType: "Futbol"
 Text: "BUGÜN 21:45 MILAN – ATALANTA (S SPORT 2)"
