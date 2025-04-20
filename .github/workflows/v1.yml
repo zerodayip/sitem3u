@@ -1,4 +1,4 @@
-name: Merge M3U Playlists and Push
+name: Merge M3U Playlists and Push ( V )
 
 on:
   workflow_run:
