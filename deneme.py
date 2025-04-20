@@ -24,7 +24,7 @@ with open("d/schedule_son.txt", "r", encoding="utf-8") as f:
 
 # Şu anki saat alınır ve UTC olarak dakikası sıfırlanır
 current_time = datetime.now(timezone.utc)
-today_date = current_time.date()
+current_hour_str = current_time.strftime("%H:%M")  # Şu anki saat (sadece saat ve dakika)
 
 # Geçici temp_schedule.txt dosyasını oluşturma
 with open("d/temp_schedule.txt", "w", encoding="utf-8") as temp_file:
@@ -35,15 +35,12 @@ with open("d/temp_schedule.txt", "w", encoding="utf-8") as temp_file:
 
         try:
             event_time_str = event.strip().split()[0]  # Örn: "19:00"
-            event_time_obj = datetime.strptime(event_time_str, "%H:%M").replace(
-                year=today_date.year,
-                month=today_date.month,
-                day=today_date.day,
-                tzinfo=timezone.utc
-            )
+
+            # Etkinlik saatini al
+            event_time_obj = datetime.strptime(event_time_str, "%H:%M").time()
 
             # Etkinlik saati şu anki saatten büyükse yaz
-            if event_time_obj > current_time:
+            if event_time_str > current_hour_str:
                 temp_file.write(f'Channel_Name={channel_name}\n')
                 temp_file.write(f'Channel_server={channel_server}\n')
                 temp_file.write(f'Event={event}\n\n')
