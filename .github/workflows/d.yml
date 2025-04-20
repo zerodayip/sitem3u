@@ -62,22 +62,28 @@ jobs:
     - name: Run kanalm3u.py
       run: python private_py/daddylivekanal/kanalm3u.py
 
-    - name: Run birlestir.py
-      run: python private_py/birlestir.py
+    # Playlist dosyasını sil ve yeniden oluştur
+    - name: Delete and recreate playlist.m3u
+      run: |
+        # Dosyayı sil
+        git rm playlist.m3u || true
+        
+        # Birleştirme işlemini yap
+        python private_py/birlestir.py  # `birlestir.py` dosyasını çalıştır
+        
+        # Dosya ekle
+        git add playlist.m3u
 
     - name: Commit and Push Changes
       run: |
         git config user.name "GitHub Actions"
         git config user.email "actions@github.com"
         
-        # Dosya eklemeleri yalnızca gerekli olanları içerecek
-        git add d/ playlist.m3u
-
         # Git stash ile geçici saklama işlemi yapıyoruz
         git stash push -m "temp"
         git pull --rebase
         git stash pop || true
 
         # Yalnızca gereken dosyalar ile commit ve push yap
-        git add d/ playlist.m3u
-        git diff --cached --quiet || (git commit -m "Update output files via workflow D" && git push)
+        git add playlist.m3u
+        git diff --cached --quiet || (git commit -m "Recreate playlist.m3u" && git push)
