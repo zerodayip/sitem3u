@@ -70,5 +70,5 @@ jobs:
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git commit -m "Update all output files and playlist.m3u via workflow G" || echo "No changes to commit"
+          git commit -m "Update all output files via workflow G" || echo "No changes to commit"
           git push origin main
