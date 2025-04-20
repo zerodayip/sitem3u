@@ -1,4 +1,13 @@
 MatchType: "Futbol"
+Text: "CANLI (22:00) REAL MADRID – ATHLETIC BILBAO (S SPORT)"
+
+MatchType: "Futbol"
+Text: "CANLI (21:45) MILAN – ATALANTA (S SPORT 2)"
+
+MatchType: "Futbol"
+Text: "CANLI (21:45) ST. ETIENNE – LYON (BEIN SPORTS 3)"
+
+MatchType: "Futbol"
 Text: "CANLI (21:30) DEPORTIVO RIESTRA – SAN LORENZO (SPOR SMART)"
 
 MatchType: "Futbol"
@@ -6,24 +15,6 @@ Text: "CANLI (20:30) ST.PAULI – BAYER LEVERKUSEN (BEIN SPORTS 5)"
 
 MatchType: "Futbol"
 Text: "CANLI (20:30) ST.PAULI – BAYER LEVERKUSEN (TIVIBU SPOR 1)"
-
-MatchType: "Futbol"
-Text: "CANLI (19:30) SEVILLA – ALAVES (S SPORT)"
-
-MatchType: "Futbol"
-Text: "CANLI (19:30) KAA GENT – CLUB BRUGGE (TV85)"
-
-MatchType: "Basketbol"
-Text: "CANLI (19:30) BARCELONA – GRAN CANARIA (SPOR SMART 2)"
-
-MatchType: "Futbol"
-Text: "BUGÜN 21:45 MILAN – ATALANTA (S SPORT 2)"
-
-MatchType: "Futbol"
-Text: "BUGÜN 21:45 ST. ETIENNE – LYON (BEIN SPORTS 3)"
-
-MatchType: "Futbol"
-Text: "BUGÜN 22:00 REAL MADRID – ATHLETIC BILBAO (S SPORT)"
 
 MatchType: "Basketbol"
 Text: "YARIN 04:30 HOUSTON ROCKETS – GS WARRIORS (S SPORT)"
