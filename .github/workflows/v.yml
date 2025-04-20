@@ -59,16 +59,17 @@ jobs:
         run: |
           git rm playlist.m3u || true
           python private_py/birlestir.py
-          # Tüm değişiklikleri ekle
-          git add -A
+          # Tüm değişiklikleri sahneye al
+          git add -A  # <-- Bu komutla değişiklikleri sahneye alıyoruz
 
       - name: Commit and Push Changes
         run: |
+          # Git bilgilerini yapılandır
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
 
-          git stash push -m "temp"
-          git pull --rebase
-          git stash pop || true
+          # Değişiklikleri commit et
+          git commit -m "Update output files via workflow V" || echo "No changes to commit"  # Eğer değişiklik yoksa commit işlemi yapılmaz
 
-          git diff --cached --quiet || (git commit -m "Update output files via workflow V" && git push)
+          # Değişiklikleri push et
+          git push origin main
