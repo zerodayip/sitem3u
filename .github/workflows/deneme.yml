@@ -28,7 +28,7 @@ jobs:
       run: |
         git config --global user.name "github-actions"
         git config --global user.email "github-actions@github.com"
-        git add subdomain.txt
+        git add d/temp_schedule.txt
         git commit -m "Add/update subdomain.txt from workflow" || echo "No changes to commit"
         git push
       env:
