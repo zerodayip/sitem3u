@@ -1,7 +1,10 @@
 name: Merge M3U Playlists and Push
 
 on:
-  workflow_dispatch:  # Manuel tetikleme, ancak onay yok
+  workflow_run:
+    workflows: ["Run Python Scripts from Private Repo ( V )"]  # İlk workflow'un adı
+    types:
+      - completed
 
 jobs:
   merge-m3u-playlists:
@@ -22,7 +25,7 @@ jobs:
 
       - name: Install Python dependencies
         run: |
-          pip install -r private_py/requirements.txt
+          pip install requests 
 
       - name: Merge M3U Playlists
         run: |
