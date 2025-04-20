@@ -59,7 +59,8 @@ jobs:
         run: |
           git rm playlist.m3u || true
           python private_py/birlestir.py
-          git add playlist.m3u v/
+          # Tüm değişiklikleri ekle
+          git add -A
 
       - name: Commit and Push Changes
         run: |
