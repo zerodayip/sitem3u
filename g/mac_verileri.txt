@@ -1,0 +1,207 @@
+MatchType: "Futbol"
+Text: "CANLI (20:30) ST.PAULI – BAYER LEVERKUSEN (BEIN SPORTS 5)"
+
+MatchType: "Futbol"
+Text: "CANLI (20:30) ST.PAULI – BAYER LEVERKUSEN (TIVIBU SPOR 1)"
+
+MatchType: "Futbol"
+Text: "CANLI (19:30) SEVILLA – ALAVES (S SPORT)"
+
+MatchType: "Futbol"
+Text: "CANLI (19:30) KAA GENT – CLUB BRUGGE (TV85)"
+
+MatchType: "Basketbol"
+Text: "CANLI (19:30) BARCELONA – GRAN CANARIA (SPOR SMART 2)"
+
+MatchType: "Futbol"
+Text: "CANLI (19:00) GENÇLERBIRLIĞI – BANDIRMASPOR (TRT SPOR)"
+
+MatchType: "Futbol"
+Text: "CANLI (19:00) GENÇLERBIRLIĞI – BANDIRMASPOR (BEIN SPORTS 2)"
+
+MatchType: "Futbol"
+Text: "CANLI (19:00) BOLOGNA – INTER (S SPORT 2)"
+
+MatchType: "Futbol"
+Text: "CANLI (19:00) FENERBAHÇE – KAYSERISPOR (BEIN SPORTS 1)"
+
+MatchType: "Futbol"
+Text: "CANLI (18:30) LEICESTER CITY – LIVERPOOL (BEIN SPORTS 3)"
+
+MatchType: "Futbol"
+Text: "CANLI (18:30) B.DORTMUND – MONCHENGLADBACH (BEIN SPORTS 5)"
+
+MatchType: "Futbol"
+Text: "CANLI (18:30) B.DORTMUND – MONCHENGLADBACH (TIVIBU SPOR 2)"
+
+MatchType: "Futbol"
+Text: "BUGÜN 21:30 DEPORTIVO RIESTRA – SAN LORENZO (SPOR SMART)"
+
+MatchType: "Futbol"
+Text: "BUGÜN 21:45 MILAN – ATALANTA (S SPORT 2)"
+
+MatchType: "Futbol"
+Text: "BUGÜN 21:45 ST. ETIENNE – LYON (BEIN SPORTS 3)"
+
+MatchType: "Futbol"
+Text: "BUGÜN 22:00 REAL MADRID – ATHLETIC BILBAO (S SPORT)"
+
+MatchType: "Basketbol"
+Text: "YARIN 04:30 HOUSTON ROCKETS – GS WARRIORS (S SPORT)"
+
+MatchType: "Futbol"
+Text: "YARIN 13:30 TORINO – UDINESE (S SPORT 2)"
+
+MatchType: "Futbol"
+Text: "YARIN 16:00 CAGLIARI – FIORENTINA (S SPORT 2)"
+
+MatchType: "Futbol"
+Text: "YARIN 19:00 GENOA – LAZIO (S SPORT 2)"
+
+MatchType: "Basketbol"
+Text: "YARIN 19:00 TÜRK TELEKOM – TOFAŞ (BEIN SPORTS 5)"
+
+MatchType: "Futbol"
+Text: "YARIN 20:00 ALANYASPOR – SAMSUNSPOR (BEIN SPORTS 1)"
+
+MatchType: "Futbol"
+Text: "YARIN 20:00 IĞDIRSPOR – SAKARYASPOR (TRT SPOR)"
+
+MatchType: "Futbol"
+Text: "YARIN 20:00 IĞDIRSPOR – SAKARYASPOR (BEIN SPORTS 2)"
+
+MatchType: "Futbol"
+Text: "YARIN 21:45 ANNECY – LORIENT (BEIN SPORTS 4)"
+
+MatchType: "Futbol"
+Text: "YARIN 21:45 PARMA – JUVENTUS (S SPORT 2)"
+
+MatchType: "Futbol"
+Text: "YARIN 22:00 GIRONA – REAL BETIS (S SPORT)"
+
+MatchType: "Futbol"
+Text: "YARIN 22:00 TOTTENHAM – NOTTINGHAM FOREST (BEIN SPORTS 3)"
+
+MatchType: "CANLI"
+Text: "BEIN SPORTS 1"
+
+MatchType: "CANLI"
+Text: "S SPORT"
+
+MatchType: "CANLI"
+Text: "SPOR SMART"
+
+MatchType: "CANLI"
+Text: "TIVIBU SPOR 1"
+
+MatchType: "CANLI"
+Text: "TABII SPOR 1"
+
+MatchType: "CANLI"
+Text: "TRT SPOR"
+
+MatchType: "CANLI"
+Text: "BEIN SPORTS HABER"
+
+MatchType: "CANLI"
+Text: "TABII SPOR"
+
+MatchType: "CANLI"
+Text: "A SPOR"
+
+MatchType: "CANLI"
+Text: "TIVIBU SPOR"
+
+MatchType: "CANLI"
+Text: "TV8,5"
+
+MatchType: "CANLI"
+Text: "S SPORT 2"
+
+MatchType: "CANLI"
+Text: "SPOR SMART 2"
+
+MatchType: "CANLI"
+Text: "HT SPOR"
+
+MatchType: "CANLI"
+Text: "BEIN SPORTS 2"
+
+MatchType: "CANLI"
+Text: "BEIN SPORTS 3"
+
+MatchType: "CANLI"
+Text: "BEIN SPORTS 4"
+
+MatchType: "CANLI"
+Text: "BEIN SPORTS 5"
+
+MatchType: "CANLI"
+Text: "BEIN SPORTS MAX 1"
+
+MatchType: "CANLI"
+Text: "BEIN SPORTS MAX 2"
+
+MatchType: "CANLI"
+Text: "TRT SPOR YILDIZ"
+
+MatchType: "CANLI"
+Text: "TABII SPOR 2"
+
+MatchType: "CANLI"
+Text: "TABII SPOR 3"
+
+MatchType: "CANLI"
+Text: "TABII SPOR 4"
+
+MatchType: "CANLI"
+Text: "TABII SPOR 5"
+
+MatchType: "CANLI"
+Text: "TABII SPOR 6"
+
+MatchType: "CANLI"
+Text: "TIVIBU SPOR 2"
+
+MatchType: "CANLI"
+Text: "TIVIBU SPOR 3"
+
+MatchType: "CANLI"
+Text: "TIVIBU SPOR 4"
+
+MatchType: "CANLI"
+Text: "EUROSPORT 1"
+
+MatchType: "CANLI"
+Text: "EUROSPORT 2"
+
+MatchType: "CANLI"
+Text: "NBA TV"
+
+MatchType: "CANLI"
+Text: "TRT 1"
+
+MatchType: "CANLI"
+Text: "ATV"
+
+MatchType: "CANLI"
+Text: "A2"
+
+MatchType: "CANLI"
+Text: "FB TV"
+
+MatchType: "CANLI"
+Text: "SPORTSTV"
+
+MatchType: "CANLI"
+Text: "TV8"
+
+MatchType: "CANLI"
+Text: "CBC SPORT"
+
+MatchType: "CANLI"
+Text: "İDMAN TV"
+
+MatchType: "CANLI"
+Text: "İCTİMAİ TV"
+
