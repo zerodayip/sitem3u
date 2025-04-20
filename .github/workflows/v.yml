@@ -51,16 +51,6 @@ jobs:
       - name: Run spor_ekrani_m3u.py
         run: python private_py/vavoo/spor_ekrani_m3u.py
 
-      - name: Run birlestir.py
-        run: python private_py/birlestir.py
-
-      # Playlist dosyasını sil ve yeniden oluştur
-      - name: Delete and Recreate playlist.m3u
-        run: |
-          git rm playlist.m3u || true  # playlist.m3u dosyasını silmeye çalış
-          python private_py/birlestir.py  # playlist.m3u'yu yeniden oluştur
-          git add playlist.m3u  # playlist.m3u dosyasını sahneye al
-
       # Tüm değişiklikleri sahneye al
       - name: Add all changes
         run: |
