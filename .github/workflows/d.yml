@@ -66,9 +66,6 @@ jobs:
       - name: Run kanalm3u.py
         run: python private_py/daddylivekanal/kanalm3u.py
 
-      - name: Run birlestir.py
-        run: python private_py/birlestir.py
-
       # Tüm değişiklikleri sahneye al
       - name: Add all changes
         run: |
