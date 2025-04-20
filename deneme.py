@@ -40,8 +40,8 @@ with open("d/temp_schedule.txt", "w", encoding="utf-8") as temp_file:
             # Etkinlik saatini al
             event_time_obj = datetime.strptime(event_time_str, "%H:%M").time()
 
-            # Etkinlik saati şu anki saatten büyükse yaz
-            if event_time_str > current_hour_str:
+            # Etkinlik saati şu anki saatten büyük veya eşitse yaz
+            if event_time_str >= current_hour_str:
                 temp_file.write(f'Channel_Name={channel_name}\n')
                 temp_file.write(f'Channel_server={channel_server}\n')
                 temp_file.write(f'Event={event}\n\n')
