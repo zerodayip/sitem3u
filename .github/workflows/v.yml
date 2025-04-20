@@ -3,7 +3,7 @@ name: Run Python Scripts from Private Repo ( V )
 on:
   workflow_dispatch:          # Manuel tetikleme için
   schedule:
-    - cron: '30 21 * * *'     # Her 3 saatte bir çalıştırır
+    - cron: '30 21 * * *'     # Her gün 21:30'da çalışır
 
 concurrency:
   group: golvar-v
@@ -57,20 +57,15 @@ jobs:
       # Playlist dosyasını sil ve yeniden oluştur
       - name: Delete and Recreate playlist.m3u
         run: |
-          # Dosyayı sil
           git rm playlist.m3u || true
-          
-          # Birleştirme işlemini yap
-          python private_py/birlestir.py  # `birlestir.py` dosyasını çalıştır
-
-          # Dosyayı ekle
-          git add playlist.m3u
+          python private_py/birlestir.py
+          git add playlist.m3u v/
 
       - name: Commit and Push Changes
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          
+
           git stash push -m "temp"
           git pull --rebase
           git stash pop || true
