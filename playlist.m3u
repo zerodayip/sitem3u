@@ -529,6 +529,11 @@ https://vavoo.to/play/3760496907/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/275850888/index.m3u8
 
+#EXTINF:-1 tvg-name="CANLI (21:30) DEPORTIVO RIESTRA – SAN LORENZO (SPOR SMART)" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",CANLI (21:30) DEPORTIVO RIESTRA – SAN LORENZO (SPOR SMART)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5091/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+
 #EXTINF:-1 tvg-name="CANLI (20:30) ST.PAULI – BAYER LEVERKUSEN (BEIN SPORTS 5)" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",CANLI (20:30) ST.PAULI – BAYER LEVERKUSEN (BEIN SPORTS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
@@ -553,46 +558,6 @@ https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.work
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5092/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
-
-#EXTINF:-1 tvg-name="CANLI (19:00) GENÇLERBIRLIĞI – BANDIRMASPOR (TRT SPOR)" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",CANLI (19:00) GENÇLERBIRLIĞI – BANDIRMASPOR (TRT SPOR)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5032/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
-
-#EXTINF:-1 tvg-name="CANLI (19:00) GENÇLERBIRLIĞI – BANDIRMASPOR (BEIN SPORTS 2)" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",CANLI (19:00) GENÇLERBIRLIĞI – BANDIRMASPOR (BEIN SPORTS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5063/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
-
-#EXTINF:-1 tvg-name="CANLI (19:00) BOLOGNA – INTER (S SPORT 2)" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",CANLI (19:00) BOLOGNA – INTER (S SPORT 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5102/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
-
-#EXTINF:-1 tvg-name="CANLI (19:00) FENERBAHÇE – KAYSERISPOR (BEIN SPORTS 1)" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",CANLI (19:00) FENERBAHÇE – KAYSERISPOR (BEIN SPORTS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5062/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
-
-#EXTINF:-1 tvg-name="CANLI (18:30) LEICESTER CITY – LIVERPOOL (BEIN SPORTS 3)" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",CANLI (18:30) LEICESTER CITY – LIVERPOOL (BEIN SPORTS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5064/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
-
-#EXTINF:-1 tvg-name="CANLI (18:30) B.DORTMUND – MONCHENGLADBACH (BEIN SPORTS 5)" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",CANLI (18:30) B.DORTMUND – MONCHENGLADBACH (BEIN SPORTS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5066/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
-
-#EXTINF:-1 tvg-name="CANLI (18:30) B.DORTMUND – MONCHENGLADBACH (TIVIBU SPOR 2)" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",CANLI (18:30) B.DORTMUND – MONCHENGLADBACH (TIVIBU SPOR 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5083/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
-
-#EXTINF:-1 tvg-name="BUGÜN 21:30 DEPORTIVO RIESTRA – SAN LORENZO (SPOR SMART)" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",BUGÜN 21:30 DEPORTIVO RIESTRA – SAN LORENZO (SPOR SMART)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5091/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 
 #EXTINF:-1 tvg-name="BUGÜN 21:45 MILAN – ATALANTA (S SPORT 2)" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",BUGÜN 21:45 MILAN – ATALANTA (S SPORT 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -673,13 +638,13 @@ https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.work
 #EXTVLCOPT:http-origin=https://funzoneplay.cfd
 #EXTVLCOPT:http-referrer=https://funzoneplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium766/mono.m3u8
+https://zekocode.jquery.com/zeko/premium766/mono.m3u8
 
 #EXTINF:-1 tvg-id="20:00 (FUTBOL) TURKEY – 1. LIG : GENÇLERBIRLIĞI VS BANDIRMASPORTRT SPOR TURKEY |BEIN SPORTS 2 TURKEY" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",20:00 (FUTBOL) TURKEY – 1. LIG : GENÇLERBIRLIĞI VS BANDIRMASPORTRT SPOR TURKEY |BEIN SPORTS 2 TURKEY
 #EXTVLCOPT:http-origin=https://funzoneplay.cfd
 #EXTVLCOPT:http-referrer=https://funzoneplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium889/mono.m3u8
+https://windcode.jquery.com/wind/premium889/mono.m3u8
 
 #EXTINF:-1 tvg-id="20:00 (FUTBOL) ITALY – SERIE A : BOLOGNA VS INTERNAZIONALESKY SPORT 251 IT |SKY SPORT CALCIO IT |SPORT TV4 PORTUGAL |ELEVEN SPORTS 2 POLAND |ZIGGO SPORT 1 NL |MATCH! FOOTBALL 1 RUSSIA |PRIMA SPORT 4 ROMANIA |DIGI SPORT 3 ROMANIA |CYTAVISION SPORTS 4 CYPRUS |FOX DEPORTES |ABU DHABI SPORTS PREMIUM 1 |ARENA PREMIUM 2 SERBIA |COSMOTE SPORT 1 GREECE |ARENA SPORT 4 CROATIA |TV4 SPORTKANALEN |MAX SPORT 3 BULGARIA |SUPERSPORT FOOTBALL |ESPN4 BRAZIL |SPORT 3 ISRAEL" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",20:00 (FUTBOL) ITALY – SERIE A : BOLOGNA VS INTERNAZIONALESKY SPORT 251 IT |SKY SPORT CALCIO IT |SPORT TV4 PORTUGAL |ELEVEN SPORTS 2 POLAND |ZIGGO SPORT 1 NL |MATCH! FOOTBALL 1 RUSSIA |PRIMA SPORT 4 ROMANIA |DIGI SPORT 3 ROMANIA |CYTAVISION SPORTS 4 CYPRUS |FOX DEPORTES |ABU DHABI SPORTS PREMIUM 1 |ARENA PREMIUM 2 SERBIA |COSMOTE SPORT 1 GREECE |ARENA SPORT 4 CROATIA |TV4 SPORTKANALEN |MAX SPORT 3 BULGARIA |SUPERSPORT FOOTBALL |ESPN4 BRAZIL |SPORT 3 ISRAEL
 #EXTVLCOPT:http-origin=https://funzoneplay.cfd
@@ -703,7 +668,7 @@ https://ddy6new.newkso.ru/ddy6/premium746/mono.m3u8
 #EXTVLCOPT:http-origin=https://funzoneplay.cfd
 #EXTVLCOPT:http-referrer=https://funzoneplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium62/mono.m3u8
+https://zekocode.jquery.com/zeko/premium62/mono.m3u8
 
 #EXTINF:-1 tvg-id="20:00 (MOTORSPORT) FORMULA 1 : STC SAUDI ARABIAN GRAND PRIX – GRAND PRIX SUNDAYSKY SPORTS F1 UK |ESPN USA |SKY SPORT F1 DE |TSN5 |DAZN F1 ES |CANAL+ FRANCE |CANAL+ FORMULA 1 |SKY SPORT 1 NZ |SKY SPORTS F1 ITALY |ANT+ F1 GREECE |VODAFONE SPORT |SPORT KLUB 1 CROATIA |V SPORT MOTOR SWEDEN |ARENA PREMIUM 3 SERBIA |CYTAVISION SPORTS 6 CYPRUS |TV3+ DENMARK |ESPN DEPORTES |FOX SPORTS 1 MX |SPORT 5 LIVE ISRAEL" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",20:00 (MOTORSPORT) FORMULA 1 : STC SAUDI ARABIAN GRAND PRIX – GRAND PRIX SUNDAYSKY SPORTS F1 UK |ESPN USA |SKY SPORT F1 DE |TSN5 |DAZN F1 ES |CANAL+ FRANCE |CANAL+ FORMULA 1 |SKY SPORT 1 NZ |SKY SPORTS F1 ITALY |ANT+ F1 GREECE |VODAFONE SPORT |SPORT KLUB 1 CROATIA |V SPORT MOTOR SWEDEN |ARENA PREMIUM 3 SERBIA |CYTAVISION SPORTS 6 CYPRUS |TV3+ DENMARK |ESPN DEPORTES |FOX SPORTS 1 MX |SPORT 5 LIVE ISRAEL
 #EXTVLCOPT:http-origin=https://funzoneplay.cfd
@@ -11834,7 +11799,7 @@ https://vavoo.to/play/3053206623/index.m3u8
 #EXTVLCOPT:http-origin=https://funzoneplay.cfd
 #EXTVLCOPT:http-referrer=https://funzoneplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium51/mono.m3u8
+https://zekomasxs.mizhls.ru/zeko/premium51/mono.m3u8
 
 #EXTINF:-1 tvg-id="A&E USA" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA KANALLARI",A&E USA
 #EXTVLCOPT:http-origin=https://funzoneplay.cfd
@@ -11846,7 +11811,7 @@ https://zekonew.newkso.ru/zeko/premium302/mono.m3u8
 #EXTVLCOPT:http-origin=https://funzoneplay.cfd
 #EXTVLCOPT:http-referrer=https://funzoneplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium303/mono.m3u8
+https://nfsmasxs.mizhls.ru/nfs/premium303/mono.m3u8
 
 #EXTINF:-1 tvg-id="Animal Planet" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA KANALLARI",Animal Planet
 #EXTVLCOPT:http-origin=https://funzoneplay.cfd
