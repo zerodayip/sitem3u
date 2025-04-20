@@ -57,10 +57,14 @@ jobs:
       # Playlist dosyasını sil ve yeniden oluştur
       - name: Delete and Recreate playlist.m3u
         run: |
-          git rm playlist.m3u || true
-          python private_py/birlestir.py
-          # Tüm değişiklikleri sahneye al
-          git add -A  # <-- Bu komutla değişiklikleri sahneye alıyoruz
+          git rm playlist.m3u || true  # playlist.m3u dosyasını silmeye çalış
+          python private_py/birlestir.py  # playlist.m3u'yu yeniden oluştur
+          git add playlist.m3u  # playlist.m3u dosyasını sahneye al
+
+      # Tüm değişiklikleri sahneye al
+      - name: Add all changes
+        run: |
+          git add -A  # Bu komut, tüm değişiklikleri sahneye alır
 
       - name: Commit and Push Changes
         run: |
@@ -69,7 +73,7 @@ jobs:
           git config user.email "actions@github.com"
 
           # Değişiklikleri commit et
-          git commit -m "Update output files via workflow V" || echo "No changes to commit"  # Eğer değişiklik yoksa commit işlemi yapılmaz
+          git commit -m "Update all output files and playlist.m3u via workflow V" || echo "No changes to commit"
 
           # Değişiklikleri push et
           git push origin main
