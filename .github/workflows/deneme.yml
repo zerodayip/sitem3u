@@ -1,34 +1,31 @@
-name: Fetch Daddylive JSON
+name: Selenium Python Workflow
 
 on:
-  workflow_dispatch:
+  workflow_dispatch:  # Bu iş akışını manuel başlatmak için kullanılır
 
 jobs:
-  scrape:
+  selenium-job:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      - name: Check out repository
+        uses: actions/checkout@v2
 
-      - name: Setup Python
-        uses: actions/setup-python@v4
+      - name: Set up Python
+        uses: actions/setup-python@v2
         with:
-          python-version: '3.10'
+          python-version: '3.x'
 
       - name: Install dependencies
         run: |
-          pip install requests beautifulsoup4
+          pip install selenium
+          sudo apt-get install -y wget
+          wget https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_linux64.zip
+          sudo apt install unzip
+          unzip chromedriver_linux64.zip
+          sudo mv chromedriver /usr/local/bin
+          rm chromedriver_linux64.zip
 
-
-      - name: Run scraper
+      - name: Run Selenium script
         run: |
           python deneme.py
-
-      - name: Commit and push changes
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@users.noreply.github.com"
-          git add schedule.html
-          git commit -m "Run scraper and update results"
-          git push
