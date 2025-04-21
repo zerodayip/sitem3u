@@ -20,7 +20,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests beautifulsoup4 python-dateutil
+          pip install httpx
 
       - name: Run the script
         run: |
