@@ -25,3 +25,13 @@ jobs:
       - name: Run the script
         run: |
           python deneme.py
+
+      - name: Commit and Push schedule.html
+        run: |
+          git config --global user.name "Your Name"
+          git config --global user.email "your-email@example.com"
+          git add schedule.html
+          git commit -m "Update schedule.html"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
