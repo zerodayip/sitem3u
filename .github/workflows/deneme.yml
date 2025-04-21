@@ -18,7 +18,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install selenium-wire selenium webdriver-manager
+          pip install selenium-wire selenium webdriver-manager blinker mitmproxy
 
       - name: Install Chrome
         run: |
