@@ -1,18 +1,28 @@
 from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
-from webdriver_manager.chrome import ChromeDriverManager
+import time
+import requests
 
+# Headless Chrome ayarları
 options = Options()
-options.add_argument('--headless')
-options.add_argument('--no-sandbox')
-options.add_argument('--disable-dev-shm-usage')
+options.add_argument("--headless")
+options.add_argument("--no-sandbox")
+options.add_argument("--disable-dev-shm-usage")
 
-service = Service(ChromeDriverManager().install())
-driver = webdriver.Chrome(service=service, options=options)
+driver = webdriver.Chrome(options=options)
 
-driver.get("https://daddylive.mp/schedule/schedule.html")
-html = driver.page_source
-print(html)
+# Ana sayfaya git
+driver.get("https://daddylive.mp")
+
+# 10 saniye bekle
+time.sleep(10)
+
+# Sonra JSON verisini requests ile al
+session = requests.Session()
+session.headers.update({"User-Agent": "Mozilla/5.0"})
+
+url = "https://daddylive.mp/schedule/schedule-generated.php"
+response = session.get(url)
+print(response.text)
 
 driver.quit()
