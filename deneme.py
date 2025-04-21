@@ -1,21 +1,30 @@
-import requests
-from bs4 import BeautifulSoup
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.options import Options
+import time
 
-# Verilen URL
+chrome_options = Options()
+chrome_options.add_argument("--headless")  # Tarayıcıyı arka planda çalıştırır
+chrome_options.add_argument("--disable-gpu")
+chrome_options.add_argument("--no-sandbox")
+
+# WebDriver'ı başlatıyoruz
+service = Service('/usr/local/bin/chromedriver')
+driver = webdriver.Chrome(service=service, options=chrome_options)
+
+# Hedef URL'yi açıyoruz
 url = 'https://daddylive.mp/schedule/schedule.html'
+driver.get(url)
 
-# Sayfayı istek ile al
-response = requests.get(url)
+# Sayfanın dinamik olarak yüklenmesi için beklemek
+time.sleep(5)
 
-# Eğer istek başarılı ise (HTTP status 200)
-if response.status_code == 200:
-    # Sayfanın HTML içeriğini al
-    html_content = response.text
-    
-    # HTML içeriğini işlemek için BeautifulSoup kullan
-    soup = BeautifulSoup(html_content, 'html.parser')
-    
-    # HTML içeriğini yazdır (isteğe bağlı, sadece kontrol için)
-    print(soup.prettify())
-else:
-    print("Sayfa alınamadı:", response.status_code)
+# HTML içeriğini alıyoruz
+html_content = driver.page_source
+
+# Sayfanın HTML içeriğini yazdırıyoruz
+print(html_content)
+
+# WebDriver'ı kapatıyoruz
+driver.quit()
