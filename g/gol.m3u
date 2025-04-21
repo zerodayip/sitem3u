@@ -1,241 +1,229 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="CANLI (16:00) CAGLIARI – FIORENTINA (S SPORT 2)" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",CANLI (16:00) CAGLIARI – FIORENTINA (S SPORT 2)
+#EXTINF:-1 tvg-name="CANLI (21:45) ANNECY – LORIENT (BEIN SPORTS 4)" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",CANLI (21:45) ANNECY – LORIENT (BEIN SPORTS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5102/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
-#EXTINF:-1 tvg-name="BUGÜN 19:00 TÜRK TELEKOM – TOFAŞ (BEIN SPORTS 5)" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",BUGÜN 19:00 TÜRK TELEKOM – TOFAŞ (BEIN SPORTS 5)
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5065/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+#EXTINF:-1 tvg-name="CANLI (21:45) PARMA – JUVENTUS (S SPORT 2)" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",CANLI (21:45) PARMA – JUVENTUS (S SPORT 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5066/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
-#EXTINF:-1 tvg-name="BUGÜN 19:00 GENOA – LAZIO (S SPORT 2)" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",BUGÜN 19:00 GENOA – LAZIO (S SPORT 2)
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5102/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+#EXTINF:-1 tvg-name="CANLI (20:00) IĞDIRSPOR – SAKARYASPOR (TRT SPOR)" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",CANLI (20:00) IĞDIRSPOR – SAKARYASPOR (TRT SPOR)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5102/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
-#EXTINF:-1 tvg-name="BUGÜN 20:00 ALANYASPOR – SAMSUNSPOR (BEIN SPORTS 1)" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",BUGÜN 20:00 ALANYASPOR – SAMSUNSPOR (BEIN SPORTS 1)
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5032/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+#EXTINF:-1 tvg-name="CANLI (20:00) IĞDIRSPOR – SAKARYASPOR (BEIN SPORTS 2)" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",CANLI (20:00) IĞDIRSPOR – SAKARYASPOR (BEIN SPORTS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5062/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
-#EXTINF:-1 tvg-name="BUGÜN 20:00 IĞDIRSPOR – SAKARYASPOR (TRT SPOR)" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",BUGÜN 20:00 IĞDIRSPOR – SAKARYASPOR (TRT SPOR)
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5063/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+#EXTINF:-1 tvg-name="CANLI (20:00) ALANYASPOR – SAMSUNSPOR (BEIN SPORTS 1)" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",CANLI (20:00) ALANYASPOR – SAMSUNSPOR (BEIN SPORTS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5032/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
-#EXTINF:-1 tvg-name="BUGÜN 20:00 IĞDIRSPOR – SAKARYASPOR (BEIN SPORTS 2)" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",BUGÜN 20:00 IĞDIRSPOR – SAKARYASPOR (BEIN SPORTS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5063/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
-#EXTINF:-1 tvg-name="BUGÜN 21:45 PARMA – JUVENTUS (S SPORT 2)" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",BUGÜN 21:45 PARMA – JUVENTUS (S SPORT 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5102/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
-#EXTINF:-1 tvg-name="BUGÜN 21:45 ANNECY – LORIENT (BEIN SPORTS 4)" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",BUGÜN 21:45 ANNECY – LORIENT (BEIN SPORTS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5065/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5062/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="BUGÜN 22:00 GIRONA – REAL BETIS (S SPORT)" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",BUGÜN 22:00 GIRONA – REAL BETIS (S SPORT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5101/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5101/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="BUGÜN 22:00 TOTTENHAM – NOTTINGHAM FOREST (BEIN SPORTS 3)" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",BUGÜN 22:00 TOTTENHAM – NOTTINGHAM FOREST (BEIN SPORTS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5064/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5064/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="YARIN 05:00 DENVER NUGGETS – LA CLIPPERS (S SPORT)" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",YARIN 05:00 DENVER NUGGETS – LA CLIPPERS (S SPORT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5101/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5101/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="YARIN 12:30 LUDWIGSBURG – PETKIMSPOR (S SPORT)" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",YARIN 12:30 LUDWIGSBURG – PETKIMSPOR (S SPORT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5101/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5101/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="YARIN 15:00 TELEKOM BONN – OOSTENDE (S SPORT)" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",YARIN 15:00 TELEKOM BONN – OOSTENDE (S SPORT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5101/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5101/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="YARIN 20:00 VALENCIA – ESPANYOL (TIVIBU SPOR 1)" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",YARIN 20:00 VALENCIA – ESPANYOL (TIVIBU SPOR 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5082/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5082/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="YARIN 20:30 KONYASPOR – GALATASARAY (ATV)" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",YARIN 20:30 KONYASPOR – GALATASARAY (ATV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5001/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5001/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="YARIN 20:45 FENERBAHÇE BEKO – PARIS (S SPORT)" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",YARIN 20:45 FENERBAHÇE BEKO – PARIS (S SPORT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5101/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5101/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="YARIN 21:30 PANATHINAIKOS – ANADOLU EFES (S SPORT 2)" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",YARIN 21:30 PANATHINAIKOS – ANADOLU EFES (S SPORT 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5102/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5102/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="YARIN 22:30 BARCELONA – MALLORCA (TIVIBU SPOR 1)" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",YARIN 22:30 BARCELONA – MALLORCA (TIVIBU SPOR 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5082/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5082/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="YARIN 22:45 RIO AVE – SPORTING LISBON (TRT SPOR)" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",YARIN 22:45 RIO AVE – SPORTING LISBON (TRT SPOR)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5032/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5032/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="BEIN SPORTS 1" tvg-language="Turkish" tvg-country="TR" group-title="SPOR YAYINLARI (MAC SAATİ)",BEIN SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5062/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5062/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="S SPORT" tvg-language="Turkish" tvg-country="TR" group-title="SPOR YAYINLARI (MAC SAATİ)",S SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5101/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5101/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="SPOR SMART" tvg-language="Turkish" tvg-country="TR" group-title="SPOR YAYINLARI (MAC SAATİ)",SPOR SMART
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5091/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5091/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="TIVIBU SPOR 1" tvg-language="Turkish" tvg-country="TR" group-title="SPOR YAYINLARI (MAC SAATİ)",TIVIBU SPOR 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5082/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5082/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="TABII SPOR 1" tvg-language="Turkish" tvg-country="TR" group-title="SPOR YAYINLARI (MAC SAATİ)",TABII SPOR 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5072/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5072/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="TRT SPOR" tvg-language="Turkish" tvg-country="TR" group-title="SPOR YAYINLARI (MAC SAATİ)",TRT SPOR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5032/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5032/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="BEIN SPORTS HABER" tvg-language="Turkish" tvg-country="TR" group-title="SPOR YAYINLARI (MAC SAATİ)",BEIN SPORTS HABER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5061/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5061/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="TABII SPOR" tvg-language="Turkish" tvg-country="TR" group-title="SPOR YAYINLARI (MAC SAATİ)",TABII SPOR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5071/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5071/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="A SPOR" tvg-language="Turkish" tvg-country="TR" group-title="SPOR YAYINLARI (MAC SAATİ)",A SPOR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5003/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5003/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="TIVIBU SPOR" tvg-language="Turkish" tvg-country="TR" group-title="SPOR YAYINLARI (MAC SAATİ)",TIVIBU SPOR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5081/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5081/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="TV 8-5" tvg-language="Turkish" tvg-country="TR" group-title="SPOR YAYINLARI (MAC SAATİ)",TV 8-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5052/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5052/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="S SPORT 2" tvg-language="Turkish" tvg-country="TR" group-title="SPOR YAYINLARI (MAC SAATİ)",S SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5102/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5102/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="SPOR SMART 2" tvg-language="Turkish" tvg-country="TR" group-title="SPOR YAYINLARI (MAC SAATİ)",SPOR SMART 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5092/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5092/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="HT SPOR" tvg-language="Turkish" tvg-country="TR" group-title="SPOR YAYINLARI (MAC SAATİ)",HT SPOR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5021/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5021/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="BEIN SPORTS 2" tvg-language="Turkish" tvg-country="TR" group-title="SPOR YAYINLARI (MAC SAATİ)",BEIN SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5063/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5063/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="BEIN SPORTS 3" tvg-language="Turkish" tvg-country="TR" group-title="SPOR YAYINLARI (MAC SAATİ)",BEIN SPORTS 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5064/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5064/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="BEIN SPORTS 4" tvg-language="Turkish" tvg-country="TR" group-title="SPOR YAYINLARI (MAC SAATİ)",BEIN SPORTS 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5065/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5065/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="BEIN SPORTS 5" tvg-language="Turkish" tvg-country="TR" group-title="SPOR YAYINLARI (MAC SAATİ)",BEIN SPORTS 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5066/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5066/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="BEIN SPORTS MAX 1" tvg-language="Turkish" tvg-country="TR" group-title="SPOR YAYINLARI (MAC SAATİ)",BEIN SPORTS MAX 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5067/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5067/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="BEIN SPORTS MAX 2" tvg-language="Turkish" tvg-country="TR" group-title="SPOR YAYINLARI (MAC SAATİ)",BEIN SPORTS MAX 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5068/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5068/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="TRT SPOR YILDIZ" tvg-language="Turkish" tvg-country="TR" group-title="SPOR YAYINLARI (MAC SAATİ)",TRT SPOR YILDIZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5033/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5033/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="TABII SPOR 2" tvg-language="Turkish" tvg-country="TR" group-title="SPOR YAYINLARI (MAC SAATİ)",TABII SPOR 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5073/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5073/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="TABII SPOR 3" tvg-language="Turkish" tvg-country="TR" group-title="SPOR YAYINLARI (MAC SAATİ)",TABII SPOR 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5074/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5074/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="TABII SPOR 4" tvg-language="Turkish" tvg-country="TR" group-title="SPOR YAYINLARI (MAC SAATİ)",TABII SPOR 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5075/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5075/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="TABII SPOR 5" tvg-language="Turkish" tvg-country="TR" group-title="SPOR YAYINLARI (MAC SAATİ)",TABII SPOR 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5076/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5076/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="TABII SPOR 6" tvg-language="Turkish" tvg-country="TR" group-title="SPOR YAYINLARI (MAC SAATİ)",TABII SPOR 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5077/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5077/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="TIVIBU SPOR 2" tvg-language="Turkish" tvg-country="TR" group-title="SPOR YAYINLARI (MAC SAATİ)",TIVIBU SPOR 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5083/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5083/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="TIVIBU SPOR 3" tvg-language="Turkish" tvg-country="TR" group-title="SPOR YAYINLARI (MAC SAATİ)",TIVIBU SPOR 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5084/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5084/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="TIVIBU SPOR 4" tvg-language="Turkish" tvg-country="TR" group-title="SPOR YAYINLARI (MAC SAATİ)",TIVIBU SPOR 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5085/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5085/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="EUROSPORT 1" tvg-language="Turkish" tvg-country="TR" group-title="SPOR YAYINLARI (MAC SAATİ)",EUROSPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5111/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5111/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="EUROSPORT 2" tvg-language="Turkish" tvg-country="TR" group-title="SPOR YAYINLARI (MAC SAATİ)",EUROSPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5112/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5112/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="NBA TV" tvg-language="Turkish" tvg-country="TR" group-title="SPOR YAYINLARI (MAC SAATİ)",NBA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5121/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5121/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="TRT 1" tvg-language="Turkish" tvg-country="TR" group-title="SPOR YAYINLARI (MAC SAATİ)",TRT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5031/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5031/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="ATV" tvg-language="Turkish" tvg-country="TR" group-title="SPOR YAYINLARI (MAC SAATİ)",ATV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5001/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5001/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="A2" tvg-language="Turkish" tvg-country="TR" group-title="SPOR YAYINLARI (MAC SAATİ)",A2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5002/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5002/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="FB TV" tvg-language="Turkish" tvg-country="TR" group-title="SPOR YAYINLARI (MAC SAATİ)",FB TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5011/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5011/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="SPORTSTV" tvg-language="Turkish" tvg-country="TR" group-title="SPOR YAYINLARI (MAC SAATİ)",SPORTSTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5041/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5041/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="TV8" tvg-language="Turkish" tvg-country="TR" group-title="SPOR YAYINLARI (MAC SAATİ)",TV8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5051/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5051/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="CBC SPORT" tvg-language="Turkish" tvg-country="TR" group-title="SPOR YAYINLARI (MAC SAATİ)",CBC SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5131/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5131/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="İDMAN TV" tvg-language="Turkish" tvg-country="TR" group-title="SPOR YAYINLARI (MAC SAATİ)",İDMAN TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5132/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5132/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="İCTİMAİ TV" tvg-language="Turkish" tvg-country="TR" group-title="SPOR YAYINLARI (MAC SAATİ)",İCTİMAİ TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5133/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5133/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
