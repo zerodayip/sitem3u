@@ -1,5 +1,8 @@
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 import time
 
 options = Options()
@@ -11,15 +14,20 @@ options.add_argument("--user-agent=Mozilla/5.0")
 
 driver = webdriver.Chrome(options=options)
 
-# 1. Ana sayfaya git (cookie, token vs. için)
-driver.get("https://daddylive.mp/")
-time.sleep(10)
+try:
+    # Ana sayfaya git
+    driver.get("https://daddylive.mp/")
+    
+    # Extra Schedule butonunun yüklenmesini bekle (bu sayfanın JS'lerinin yüklenmesini tetikliyor)
+    WebDriverWait(driver, 15).until(
+        EC.presence_of_element_located((By.XPATH, "//button[contains(text(),'Extra Schedule')]"))
+    )
 
-# 2. JSON verisinin üretildiği URL'ye git
-driver.get("https://daddylive.mp/schedule/schedule-generated.php")
-time.sleep(2)
+    # Beklemenin ardından veriye git
+    driver.get("https://daddylive.mp/schedule/schedule-generated.php")
+    time.sleep(2)
 
-# 3. İçeriği yazdır
-print(driver.page_source)
+    print(driver.page_source)
 
-driver.quit()
+finally:
+    driver.quit()
