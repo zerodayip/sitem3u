@@ -1,25 +1,27 @@
-name: Daddylive HTML Alıcı
+name: Run Daddylive Extractor
 
 on:
-  workflow_dispatch:  # Manuel çalıştırma
+  workflow_dispatch:  # Elle çalıştırma
+  # schedule:
+  # - cron: '0 12 * * *'  # Her gün saat 12:00 UTC
 
 jobs:
-  fetch-html:
+  run-script:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Depoyu klonla
-      uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
-    - name: Python kurulumu
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.10'
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
 
-    - name: Gerekli paketleri yükle
-      run: |
-        pip install selenium webdriver-manager
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4 python-dateutil
 
-    - name: HTML içeriğini çek
-      run: |
-        python deneme.py
+      - name: Run the script
+        run: |
+          python deneme.py
