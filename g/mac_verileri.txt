@@ -1,6 +1,3 @@
-MatchType: "Basketbol"
-Text: "CANLI (04:30) HOUSTON ROCKETS – GS WARRIORS (S SPORT)"
-
 MatchType: "Futbol"
 Text: "BUGÜN 13:30 TORINO – UDINESE (S SPORT 2)"
 

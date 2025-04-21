@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="CANLI (04:30) HOUSTON ROCKETS – GS WARRIORS (S SPORT)" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",CANLI (04:30) HOUSTON ROCKETS – GS WARRIORS (S SPORT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5101/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="BUGÜN 13:30 TORINO – UDINESE (S SPORT 2)" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",BUGÜN 13:30 TORINO – UDINESE (S SPORT 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
