@@ -7,11 +7,14 @@ Text: "BUGÜN 14:00 A.SABALENKA – J.OSTAPENKO (BEIN SPORTS MAX 1)"
 MatchType: "Futbol"
 Text: "BUGÜN 16:00 CAGLIARI – FIORENTINA (S SPORT 2)"
 
+MatchType: "Basketbol"
+Text: "BUGÜN 19:00 TÜRK TELEKOM – TOFAŞ (BEIN SPORTS 5)"
+
 MatchType: "Futbol"
 Text: "BUGÜN 19:00 GENOA – LAZIO (S SPORT 2)"
 
-MatchType: "Basketbol"
-Text: "BUGÜN 19:00 TÜRK TELEKOM – TOFAŞ (BEIN SPORTS 5)"
+MatchType: "Futbol"
+Text: "BUGÜN 20:00 ALANYASPOR – SAMSUNSPOR (BEIN SPORTS 1)"
 
 MatchType: "Futbol"
 Text: "BUGÜN 20:00 IĞDIRSPOR – SAKARYASPOR (TRT SPOR)"
@@ -20,19 +23,16 @@ MatchType: "Futbol"
 Text: "BUGÜN 20:00 IĞDIRSPOR – SAKARYASPOR (BEIN SPORTS 2)"
 
 MatchType: "Futbol"
-Text: "BUGÜN 20:00 ALANYASPOR – SAMSUNSPOR (BEIN SPORTS 1)"
-
-MatchType: "Futbol"
 Text: "BUGÜN 21:45 ANNECY – LORIENT (BEIN SPORTS 4)"
 
 MatchType: "Futbol"
 Text: "BUGÜN 21:45 PARMA – JUVENTUS (S SPORT 2)"
 
 MatchType: "Futbol"
-Text: "BUGÜN 22:00 TOTTENHAM – NOTTINGHAM FOREST (BEIN SPORTS 3)"
+Text: "BUGÜN 22:00 GIRONA – REAL BETIS (S SPORT)"
 
 MatchType: "Futbol"
-Text: "BUGÜN 22:00 GIRONA – REAL BETIS (S SPORT)"
+Text: "BUGÜN 22:00 TOTTENHAM – NOTTINGHAM FOREST (BEIN SPORTS 3)"
 
 MatchType: "Basketbol"
 Text: "YARIN 05:00 DENVER NUGGETS – LA CLIPPERS (S SPORT)"
@@ -44,6 +44,9 @@ MatchType: "Basketbol"
 Text: "YARIN 15:00 TELEKOM BONN – OOSTENDE (S SPORT)"
 
 MatchType: "Futbol"
+Text: "YARIN 20:00 VALENCIA – ESPANYOL (TIVIBU SPOR 1)"
+
+MatchType: "Futbol"
 Text: "YARIN 20:30 KONYASPOR – GALATASARAY (ATV)"
 
 MatchType: "Basketbol"
@@ -51,6 +54,9 @@ Text: "YARIN 20:45 FENERBAHÇE BEKO – PARIS (S SPORT)"
 
 MatchType: "Basketbol"
 Text: "YARIN 21:30 PANATHINAIKOS – ANADOLU EFES (S SPORT 2)"
+
+MatchType: "Futbol"
+Text: "YARIN 22:30 BARCELONA – MALLORCA (TIVIBU SPOR 1)"
 
 MatchType: "Futbol"
 Text: "YARIN 22:45 RIO AVE – SPORTING LISBON (TRT SPOR)"
