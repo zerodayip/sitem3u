@@ -1,1 +1,464 @@
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Comfortaa&display=swap" rel="stylesheet">
+
+    <style>
+        html {
+            font-family: 'Comfortaa', sans-serif;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+            color: #333;
+            background-color: #f5f5f5;
+            border: 1px solid #ddd;
+        }
+
+        th, td {
+            text-align: left;
+            padding: 8px;
+            transition-duration: 0.3s;
+            border-bottom: 1px solid #ddd;
+        }
+
+        th {
+            background-color: #e0e0e0;
+        }
+
+        .hidden {
+            display: none;
+        }
+
+        .channel-link {
+            color: #ff0000;
+            transition-duration: 0.3s;
+        }
+
+        .channel-link:hover {
+            color: #990000;
+        }
+
+        .channel-button {
+            background-color: #333;
+            color: #fff;
+            border: none;
+            padding: 8px 16px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 12px;
+            margin: 4px 2px;
+            cursor: pointer;
+            border-radius: 4px;
+            transition-duration: 0.3s;
+        }
+
+        .channel-button:hover {
+            background-color: #555;
+        }
+
+        .event-row {
+            display: flex;
+            align-items: baseline;
+            border-bottom: 1px solid #ddd;
+            transition-duration: 0.3s;
+            line-height: 1.7;
+        }
+
+        .event-row td:first-child {
+            border-bottom: none;
+        }
+
+        .event-row:hover {
+            background-color: #f0f0f0;
+            cursor: pointer;
+        }
+
+        .event-row:hover td {
+            background-color: transparent;
+        }
+
+        .event-row:hover .channel-button-small {
+            background-color: #555;
+        }
+
+        .date-row {
+            background-color: #fff;
+            color: #0066cc;
+            font-size: 22px;
+        }
+
+        .category-row {
+            background-color: #c1c1c1;
+        }
+
+        .channel-row {
+            background-color: #fff;
+        }
+
+        .channel-button-small {
+            background-color: #333;
+            color: #fff;
+            border: none;
+            padding: 8px 16px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 12px;
+            margin: 4px 2px;
+            cursor: pointer;
+            border-radius: 4px;
+            font-weight: bold;
+            transition-duration: 0.3s;
+            font-family: 'Comfortaa', sans-serif;
+        }
+
+        .channel-button-small:hover {
+            background-color: #555;
+        }
+
+        #timezone-container {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+
+        #timezone {
+            margin: 5px;
+            padding: 10px;
+            font-size: 16px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            cursor: pointer;
+            font-family: 'Comfortaa', sans-serif;
+            width: 20%;
+            min-width: 100px;
+            box-sizing: border-box;
+        }
+
+        #search-box {
+            margin: 5px;
+            padding: 10px;
+            font-size: 16px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            box-sizing: border-box;
+            width: 80%;
+            font-family: 'Comfortaa', sans-serif;
+        }
+
+        @media only screen and (max-width: 600px) {
+            #timezone,
+            #search-box {
+                width: 100%;
+                margin-left: 0;
+            }
+        }
+
+        @media only screen and (min-width: 901px) and (max-width: 1200px) {
+            #timezone {
+                font-size: 14px;
+            }
+            #search-box {
+                width: 50%;
+            }
+        }
+
+        @media only screen and (min-width: 1201px) {
+            #timezone {
+                font-size: 16px;
+            }
+        }
+
+        #timezone option {
+            padding: 10px;
+            font-size: 14px;
+        }
+
+        .event-row strong {
+            margin-right: 40px;
+        }
+
+        @media only screen and (max-width: 600px) {
+            .event-info {
+                display: block;
+                margin-left: 0;
+            }
+        }
+
+        #toggleExtraSchedule {
+            width: 100%;
+            background-color: #31708f;
+            color: #fff;
+            border: none;
+            padding: 16px 20px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 18px;
+            margin: 10px 0;
+            cursor: pointer;
+            border-radius: 6px;
+            font-family: 'Comfortaa', sans-serif;
+            transition-duration: 0.3s;
+            line-height: 1.5;
+        }
+
+        #toggleExtraSchedule:hover {
+            background-color: #368db7;
+        }
+
+        .extra-schedule-table-wrapper {
+
+        }
+
+        .extra-schedule-table-wrapper.visible {
+            padding: 15px 15px;
+            margin: auto;
+            background-color: #31708f;
+            transition-duration: 0.3s;
+            margin-bottom: 30px;
+            border-radius: 10px;
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <div id="timezone-container">
+        <input type="text" id="search-box" placeholder="Search..." oninput="filterTable()">
+        <select id="timezone" onchange="changeTimeZone()">
+            <option value="-12">GMT-12</option>
+            <option value="-11">GMT-11</option>
+            <option value="-10">GMT-10</option>
+            <option value="-9">GMT-9</option>
+            <option value="-8">GMT-8</option>
+            <option value="-7">GMT-7</option>
+            <option value="-6">GMT-6</option>
+            <option value="-5">GMT-5</option>
+            <option value="-4">GMT-4</option>
+            <option value="-3">GMT-3</option>
+            <option value="-2">GMT-2</option>
+            <option value="-1">GMT-1</option>
+            <option value="0" selected>GMT</option>
+            <option value="1">GMT+1</option>
+            <option value="2">GMT+2</option>
+            <option value="3">GMT+3</option>
+            <option value="4">GMT+4</option>
+            <option value="5">GMT+5</option>
+            <option value="6">GMT+6</option>
+            <option value="7">GMT+7</option>
+            <option value="8">GMT+8</option>
+            <option value="9">GMT+9</option>
+            <option value="10">GMT+10</option>
+            <option value="11">GMT+11</option>
+            <option value="12">GMT+12</option>
+        </select>
+    </div>
+
+    <button id="toggleExtraSchedule" class="channel-button">Extra Schedule</button>
+
+    <div id="content-container"></div>
+
+    <script>
+        async function fetchJsonData() {
+            const response = await fetch('/schedule/schedule-generated.php');
+            const jsonData = await response.json();
+            return jsonData;
+        }
+
+        async function fetchExtraJsonData() {
+            const response = await fetch('/schedule/schedule-extra-generated.php');
+            const extraJsonData = await response.json();
+            return extraJsonData;
+        }
+
+        function toggleChannels(eventIndex, isExtraSchedule) {
+            const channelsRow = document.getElementById(isExtraSchedule ? `extra-channels-${eventIndex}` : `channels-${eventIndex}`);
+            channelsRow.classList.toggle('hidden');
+
+            if (isExtraSchedule) {
+                const eventRow = document.getElementById(`extra-event-${eventIndex}`);
+                eventRow.classList.toggle('hidden');
+            }
+        }
+
+        function adjustTimezone(time, timezoneOffset) {
+            const [hours, minutes] = time.split(':').map(Number);
+            const adjustedHours = (hours + timezoneOffset + 24) % 24;
+            const adjustedMinutes = minutes.toString().padStart(2, '0');
+            return `${adjustedHours.toString().padStart(2, '0')}:${adjustedMinutes}`;
+        }
+
+        function generateTable(timezoneOffset) {
+            fetchJsonData().then(jsonData => {
+                const contentContainer = document.getElementById('content-container');
+
+                for (const day in jsonData) {
+                    const dayData = jsonData[day];
+                    const table = document.createElement('table');
+
+                    const headerRow = table.insertRow();
+                    const headerCell = headerRow.insertCell(0);
+                    headerCell.innerHTML = `<strong>${day}</strong>`;
+                    headerCell.colSpan = 2;
+                    headerRow.classList.add('date-row');
+
+                    for (const category in dayData) {
+                        const events = dayData[category];
+
+                        const categoryRow = table.insertRow();
+                        const categoryCell = categoryRow.insertCell(0);
+                        categoryCell.innerHTML = `<strong>${category}</strong>`;
+                        categoryCell.colSpan = 2;
+                        categoryRow.classList.add('category-row');
+
+                        events.forEach((event, index) => {
+                            const row = table.insertRow();
+                            row.classList.add('event-row');
+                            row.addEventListener('click', () => toggleChannels(`${day}-${category}-${index}`, false));
+
+                            const cell1 = row.insertCell(0);
+                            const adjustedTime = adjustTimezone(event.time, timezoneOffset);
+
+                            cell1.innerHTML = `<div class="event-time"><strong>${adjustedTime}</strong></div><div class="event-info">${event.event}</div>`;
+                            cell1.colSpan = 2;
+                            cell1.classList.add('event-row');
+
+                            const channelsRow = table.insertRow();
+                            channelsRow.id = `channels-${day}-${category}-${index}`;
+                            channelsRow.classList.add('hidden');
+                            channelsRow.classList.add('channel-row');
+
+                            const channelsCell = channelsRow.insertCell(0);
+                            channelsCell.colSpan = 2;
+
+                            const buttonContainer = document.createElement('div');
+
+                            event.channels.forEach((channel, channelIndex) => {
+                                const channelButton = document.createElement('button');
+                                channelButton.className = 'channel-button-small';
+                                channelButton.innerText = `${channel.channel_name} (CH-${channel.channel_id})`;
+                                channelButton.onclick = () => window.open(`/stream/stream-${channel.channel_id}.php`, '_blank');
+                                buttonContainer.appendChild(channelButton);
+                            });
+
+                            channelsCell.appendChild(buttonContainer);
+                        });
+                    }
+
+                    contentContainer.appendChild(table);
+                }
+            });
+        }
+
+        function generateExtraTable(timezoneOffset) {
+            fetchExtraJsonData().then(extraJsonData => {
+                const contentContainer = document.getElementById('content-container');
+                const extraScheduleWrapper = document.createElement('div');
+                extraScheduleWrapper.className = 'extra-schedule-table-wrapper';
+                extraScheduleWrapper.id = 'extra-schedule-table';
+                extraScheduleWrapper.classList.add('hidden');
+
+                for (const day in extraJsonData) {
+                    const dayData = extraJsonData[day];
+                    const table = document.createElement('table');
+
+                    const headerRow = table.insertRow();
+                    const headerCell = headerRow.insertCell(0);
+                    headerCell.innerHTML = `<strong>${day}</strong>`;
+                    headerCell.colSpan = 2;
+                    headerRow.classList.add('date-row');
+
+                    for (const category in dayData) {
+                        const events = dayData[category];
+
+                        const categoryRow = table.insertRow();
+                        const categoryCell = categoryRow.insertCell(0);
+                        categoryCell.innerHTML = `<strong>${category}</strong>`;
+                        categoryCell.colSpan = 2;
+                        categoryRow.classList.add('category-row');
+
+                        events.forEach((event, index) => {
+                            const row = table.insertRow();
+                            row.classList.add('event-row');
+                            row.addEventListener('click', () => toggleChannels(`${day}-${category}-${index}`, true));
+
+                            const cell1 = row.insertCell(0);
+                            const adjustedTime = adjustTimezone(event.time, timezoneOffset);
+
+                            cell1.innerHTML = `<div class="event-time"><strong>${adjustedTime}</strong></div><div class="event-info">${event.event}</div>`;
+                            cell1.colSpan = 2;
+                            cell1.classList.add('event-row');
+
+                            const channelsRow = table.insertRow();
+                            channelsRow.id = `extra-channels-${day}-${category}-${index}`;
+                            channelsRow.classList.add('hidden');
+                            channelsRow.classList.add('channel-row');
+
+                            const channelsCell = channelsRow.insertCell(0);
+                            channelsCell.colSpan = 2;
+
+                            const buttonContainer = document.createElement('div');
+
+                            event.channels.forEach((channel, channelIndex) => {
+                                const channelButton = document.createElement('button');
+                                channelButton.className = 'channel-button-small';
+                                channelButton.innerText = `${channel.channel_name} (CH-${channel.channel_id})`;
+                                channelButton.onclick = () => window.open(`/extra/stream-${channel.channel_id}.php`, '_blank');
+                                buttonContainer.appendChild(channelButton);
+                            });
+
+                            channelsCell.appendChild(buttonContainer);
+                        });
+                    }
+
+                    extraScheduleWrapper.appendChild(table);
+                }
+
+                contentContainer.appendChild(extraScheduleWrapper);
+            });
+        }
+
+        function toggleExtraScheduleVisibility() {
+            const extraScheduleWrapper = document.getElementById('extra-schedule-table');
+            extraScheduleWrapper.classList.toggle('hidden');
+            extraScheduleWrapper.classList.toggle('visible');
+        }
+
+        document.getElementById('toggleExtraSchedule').addEventListener('click', toggleExtraScheduleVisibility);
+
+        function changeTimeZone() {
+            const selectedTimeZone = parseInt(document.getElementById('timezone').value);
+            const contentContainer = document.getElementById('content-container');
+            contentContainer.innerHTML = '';
+            generateExtraTable(selectedTimeZone);
+            generateTable(selectedTimeZone);
+        }
+
+        function filterTable() {
+            const searchTerm = document.getElementById('search-box').value.toLowerCase();
+            const eventRows = document.querySelectorAll('.event-row');
+
+            eventRows.forEach(row => {
+                const eventText = row.textContent.toLowerCase();
+                row.style.display = eventText.includes(searchTerm) ? '' : 'none';
+            });
+        }
+
+        generateExtraTable(0);
+        generateTable(0);
+    </script>
+
+</body>
+
+</html>
