@@ -1,22 +1,16 @@
-import chromedriver_binary_auto
 from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
+from webdriver_manager.chrome import ChromeDriverManager
 
-# Chrome seçeneklerini ayarlayın
-chrome_options = Options()
-chrome_options.add_argument("--headless")  # Tarayıcıyı arka planda çalıştırmak için
+options = Options()
+options.add_argument('--headless')
+options.add_argument('--no-sandbox')
+options.add_argument('--disable-dev-shm-usage')
 
-# ChromeDriver servisini başlatın
-service = Service()
-driver = webdriver.Chrome(service=service, options=chrome_options)
-
-# Web sayfasını açın
+driver = webdriver.Chrome(ChromeDriverManager().install(), options=options)
 driver.get("https://daddylive.mp/schedule/schedule.html")
 
-# Sayfa kaynağını alın
-html_content = driver.page_source
-print(html_content)
+html = driver.page_source
+print(html)
 
-# Tarayıcıyı kapatın
 driver.quit()
