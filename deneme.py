@@ -1,47 +1,27 @@
-from bs4 import BeautifulSoup
+from seleniumwire import webdriver
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.chrome.service import Service
+from webdriver_manager.chrome import ChromeDriverManager
+import time
 
-# HTML dosyasını oku
-with open("schedule2.html", "r", encoding="utf-8") as file:
-    soup = BeautifulSoup(file, "html.parser")
+options = Options()
+options.add_argument('--headless')
+options.add_argument('--no-sandbox')
+options.add_argument('--disable-dev-shm-usage')
 
-# Bütün satırları sırayla al
-rows = soup.find("table").find_all("tr")
+driver = webdriver.Chrome(
+    service=Service(ChromeDriverManager().install()),
+    options=options,
+    seleniumwire_options={}
+)
 
-current_category = None
-output_lines = []
+driver.get("https://daddylive.mp/schedule")
+time.sleep(5)
 
-# Satırları sırayla işle
-for i, row in enumerate(rows):
-    if "category-row" in row.get("class", []):
-        current_category = row.get_text(strip=True)
+for request in driver.requests:
+    if request.response and "schedule-generated.php" in request.url:
+        print("JSON VERİSİ:")
+        print(request.response.body.decode("utf-8"))
+        break
 
-    elif "event-row" in row.get("class", []):
-        time = row.find("div", class_="event-time").get_text(strip=True)
-        event_info = row.find("div", class_="event-info").get_text(strip=True)
-
-        # Sonraki satır kanal bilgisi
-        next_row = rows[i + 1] if i + 1 < len(rows) else None
-        if next_row and "channel-row" in next_row.get("class", []):
-            channel_link = next_row.find("a", class_="channel-button-small")
-            if channel_link and "stream-" in channel_link["href"]:
-                channel_id = channel_link["href"].split("stream-")[-1].split(".php")[0]
-            else:
-                channel_id = "N/A"
-            channel_name = channel_link.get_text(strip=True) if channel_link else ""
-        else:
-            channel_id = "N/A"
-            channel_name = ""
-
-        # Event formatla
-        full_event = f'{time} ({current_category}) {event_info}{channel_name}'
-
-        # Listeye ekle
-        output_lines.append(f'Channel_ID= "{channel_id}"')
-        output_lines.append(f'Event= "{full_event}"\n')
-
-# schedule2.txt dosyasına yaz
-with open("schedule2.txt", "w", encoding="utf-8") as outfile:
-    outfile.write("\n".join(output_lines))
-
-print("schedule2.txt başarıyla oluşturuldu.")
-
+driver.quit()
