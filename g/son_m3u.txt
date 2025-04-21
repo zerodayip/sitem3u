@@ -1,22 +1,18 @@
-MatchType: "Tenis"
-Text: "CANLI (14:00) A.SABALENKA – J.OSTAPENKO (BEIN SPORTS MAX 1)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5067/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
-
 MatchType: "Futbol"
-Text: "CANLI (13:30) TORINO – UDINESE (S SPORT 2)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5102/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
-
-MatchType: "Futbol"
-Text: "BUGÜN 16:00 CAGLIARI – FIORENTINA (S SPORT 2)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5102/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
-
-MatchType: "Futbol"
-Text: "BUGÜN 19:00 GENOA – LAZIO (S SPORT 2)"
+Text: "CANLI (16:00) CAGLIARI – FIORENTINA (S SPORT 2)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5102/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 
 MatchType: "Basketbol"
 Text: "BUGÜN 19:00 TÜRK TELEKOM – TOFAŞ (BEIN SPORTS 5)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5066/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+
+MatchType: "Futbol"
+Text: "BUGÜN 19:00 GENOA – LAZIO (S SPORT 2)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5102/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+
+MatchType: "Futbol"
+Text: "BUGÜN 20:00 ALANYASPOR – SAMSUNSPOR (BEIN SPORTS 1)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5062/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 
 MatchType: "Futbol"
 Text: "BUGÜN 20:00 IĞDIRSPOR – SAKARYASPOR (TRT SPOR)"
@@ -25,10 +21,6 @@ https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.work
 MatchType: "Futbol"
 Text: "BUGÜN 20:00 IĞDIRSPOR – SAKARYASPOR (BEIN SPORTS 2)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5063/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
-
-MatchType: "Futbol"
-Text: "BUGÜN 20:00 ALANYASPOR – SAMSUNSPOR (BEIN SPORTS 1)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-a513da5af1.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5062/a.strmrdr-cf-worker-a513da5af1.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 
 MatchType: "Futbol"
 Text: "BUGÜN 21:45 PARMA – JUVENTUS (S SPORT 2)"
