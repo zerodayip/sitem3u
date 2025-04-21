@@ -79,7 +79,7 @@ Channel_server= "wind"
 Event= "01:00 (TV SHOWS) LA CASA DE LOS FAMOSOS: ALL-STARS SEASON 5, EPISODE 65TELEMUNDO USA"
 
 Channel_Name= "210"
-Channel_server= "null"
+Channel_server= "ddy6"
 Event= "01:00 (TV SHOWS) CALL THE MIDWIFE SEASON 14, EPISODE 4PBS USA"
 
 Channel_Name= "766"
@@ -115,7 +115,7 @@ Channel_server= "nfs"
 Event= "02:00 (TV SHOWS) VOLVER A CAER SEASON 1, EPISODE 4UNIVISION USA"
 
 Channel_Name= "210"
-Channel_server= "null"
+Channel_server= "ddy6"
 Event= "02:00 (TV SHOWS) WOLF HALL: THE MIRROR AND THE LIGHT ON MASTERPIECE SEASON 2, EPISODE 5PBS USA"
 
 Channel_Name= "769"
@@ -171,7 +171,7 @@ Channel_server= "zeko"
 Event= "03:00 (TV SHOWS) FILTHY FORTUNES SEASON 1, EPISODE 7DISCOVERY USA"
 
 Channel_Name= "210"
-Channel_server= "null"
+Channel_server= "ddy6"
 Event= "03:00 (TV SHOWS) MARIE-ANTOINETTE SEASON 2, EPISODE 5PBS USA"
 
 Channel_Name= "767"

@@ -6828,11 +6828,11 @@ https://nfsnew.newkso.ru/nfs/premium334/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium653/mono.m3u8
 
-#EXTINF:-1 tvg-id="PBS USA USA" tvg-logo="null" group-title="GÜNLÜK DÜNYA KANALLARI",PBS USA USA
+#EXTINF:-1 tvg-id="PBS USA USA" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA KANALLARI",PBS USA USA
 #EXTVLCOPT:http-origin=https://funzoneplay.cfd
 #EXTVLCOPT:http-referrer=https://funzoneplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nullnew.newkso.ru/null/premium210/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium210/mono.m3u8
 
 #EXTINF:-1 tvg-id="PDC TV" tvg-logo="wind" group-title="GÜNLÜK DÜNYA KANALLARI",PDC TV
 #EXTVLCOPT:http-origin=https://funzoneplay.cfd

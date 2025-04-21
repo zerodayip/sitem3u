@@ -1,5 +1,1427 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="03:00 (TV SHOWS) FILTHY FORTUNES SEASON 1, EPISODE 7DISCOVERY USA" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",03:00 (TV SHOWS) FILTHY FORTUNES SEASON 1, EPISODE 7DISCOVERY USA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium313/mono.m3u8
+
+#EXTINF:-1 tvg-id="03:00 (TV SHOWS) MARIE-ANTOINETTE SEASON 2, EPISODE 5PBS USA" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA SPORLARI",03:00 (TV SHOWS) MARIE-ANTOINETTE SEASON 2, EPISODE 5PBS USA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6top1.newkso.ru/ddy6/premium210/mono.m3u8
+
+#EXTINF:-1 tvg-id="03:00 (TV SHOWS) THE EQUALIZER SEASON 5, EPISODE 16CBSNY USA" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",03:00 (TV SHOWS) THE EQUALIZER SEASON 5, EPISODE 16CBSNY USA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium767/mono.m3u8
+
+#EXTINF:-1 tvg-id="03:00 (TV SHOWS) BAR RESCUE SEASON 9, EPISODE 31PARAMOUNT NETWORK" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",03:00 (TV SHOWS) BAR RESCUE SEASON 9, EPISODE 31PARAMOUNT NETWORK
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium334/mono.m3u8
+
+#EXTINF:-1 tvg-id="03:00 (TV SHOWS) SISTER WIVES SEASON 19, EPISODE 21TLC USA" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",03:00 (TV SHOWS) SISTER WIVES SEASON 19, EPISODE 21TLC USA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium337/mono.m3u8
+
+#EXTINF:-1 tvg-id="03:00 (TV SHOWS) THE RIGHTEOUS GEMSTONES SEASON 4, EPISODE 7HBO USA" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",03:00 (TV SHOWS) THE RIGHTEOUS GEMSTONES SEASON 4, EPISODE 7HBO USA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium321/mono.m3u8
+
+#EXTINF:-1 tvg-id="03:00 (TV SHOWS) OVW WRESTLING NEWSPORTSNET PITTSBURGH" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",03:00 (TV SHOWS) OVW WRESTLING NEWSPORTSNET PITTSBURGH
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium922/mono.m3u8
+
+#EXTINF:-1 tvg-id="03:00 (BASKETBOL) NBL : NELSON GIANTS VS WELLINGTON SAINTSSKY SPORT 3 NZ" tvg-logo="dokko1" group-title="GÜNLÜK DÜNYA SPORLARI",03:00 (BASKETBOL) NBL : NELSON GIANTS VS WELLINGTON SAINTSSKY SPORT 3 NZ
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1top1.newkso.ru/dokko1/premium590/mono.m3u8
+
+#EXTINF:-1 tvg-id="03:00 (BUZ HOKEYİ) NHL : MINNESOTA WILD VS VEGAS GOLDEN KNIGHTSHOME FEED |AWAY FEED |ESPN USA |FANDUEL SPORTS NETWORK NORTH |SPORTSNET 360 |SPORTSNET ONTARIO |SPORTSNET WEST |SPORTSNET EAST |TVA SPORTS |SKY SPORT TOP EVENT DE |SKY SPORT MIX DE" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",03:00 (BUZ HOKEYİ) NHL : MINNESOTA WILD VS VEGAS GOLDEN KNIGHTSHOME FEED |AWAY FEED |ESPN USA |FANDUEL SPORTS NETWORK NORTH |SPORTSNET 360 |SPORTSNET ONTARIO |SPORTSNET WEST |SPORTSNET EAST |TVA SPORTS |SKY SPORT TOP EVENT DE |SKY SPORT MIX DE
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium11/mono.m3u8
+
+#EXTINF:-1 tvg-id="03:30 (TV SHOWS) THE REHEARSAL SEASON 2, EPISODE 1 • PREMIEREVICE TV USA" tvg-logo="dokko1" group-title="GÜNLÜK DÜNYA SPORLARI",03:30 (TV SHOWS) THE REHEARSAL SEASON 2, EPISODE 1 • PREMIEREVICE TV USA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1top1.newkso.ru/dokko1/premium659/mono.m3u8
+
+#EXTINF:-1 tvg-id="05:00 (FUTBOL) AUSTRALIA – A-LEAGUE WOMEN : WELLINGTON PHOENIX VS WESTERN UNITEDTNT SPORTS 1 UK |SKY SPORT 2 NZ" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",05:00 (FUTBOL) AUSTRALIA – A-LEAGUE WOMEN : WELLINGTON PHOENIX VS WESTERN UNITEDTNT SPORTS 1 UK |SKY SPORT 2 NZ
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium31/mono.m3u8
+
+#EXTINF:-1 tvg-id="06:00 (FUTBOL) AUSTRALIA – A-LEAGUE : SYDNEY FC VS NEWCASTLE JETSTNT SPORTS 3 UK |SKY SPORT 4 NZ" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",06:00 (FUTBOL) AUSTRALIA – A-LEAGUE : SYDNEY FC VS NEWCASTLE JETSTNT SPORTS 3 UK |SKY SPORT 4 NZ
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium33/mono.m3u8
+
+#EXTINF:-1 tvg-id="06:00 (GOLF) DP WORLD TOUR VOLVO CHINA OPENSKY SPORTS GOLF UK |GOLF CHANNEL USA |MOVISTAR GOLF |SUPERSPORT GOLF |SKY SPORTS MAIN EVENT" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",06:00 (GOLF) DP WORLD TOUR VOLVO CHINA OPENSKY SPORTS GOLF UK |GOLF CHANNEL USA |MOVISTAR GOLF |SUPERSPORT GOLF |SKY SPORTS MAIN EVENT
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium70/mono.m3u8
+
+#EXTINF:-1 tvg-id="06:20 (AUSSIE RULES) AFL : SYDNEY SWANS VS PORT ADELAIDE POWERTNT SPORTS 2 UK |FOX SPORTS 2 USA (CH-758" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",06:20 (AUSSIE RULES) AFL : SYDNEY SWANS VS PORT ADELAIDE POWERTNT SPORTS 2 UK |FOX SPORTS 2 USA (CH-758
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium32/mono.m3u8
+
+#EXTINF:-1 tvg-id="07:05 (RUGBY LEAGUE) NATIONAL RUGBY LEAGUE : NEWCASTLE KNIGHTS VS CRONULLA SHARKSBEIN SPORTS 2 FRANCE |SKY SPORTS ACTION UK" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",07:05 (RUGBY LEAGUE) NATIONAL RUGBY LEAGUE : NEWCASTLE KNIGHTS VS CRONULLA SHARKSBEIN SPORTS 2 FRANCE |SKY SPORTS ACTION UK
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium117/mono.m3u8
+
+#EXTINF:-1 tvg-id="08:00 (FUTBOL) JAPAN – J1 LEAGUE : URAWA REDS VS YOKOHAMA F. MARINOSSPORTDIGITAL FUSSBALL DE" tvg-logo="dokko1" group-title="GÜNLÜK DÜNYA SPORLARI",08:00 (FUTBOL) JAPAN – J1 LEAGUE : URAWA REDS VS YOKOHAMA F. MARINOSSPORTDIGITAL FUSSBALL DE
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1top1.newkso.ru/dokko1/premium571/mono.m3u8
+
+#EXTINF:-1 tvg-id="08:00 (FUTBOL) AUSTRALIA – A-LEAGUE : CENTRAL COAST MARINERS VS MACARTHURTNT SPORTS 1 UK |SKY SPORT 3 NZ" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",08:00 (FUTBOL) AUSTRALIA – A-LEAGUE : CENTRAL COAST MARINERS VS MACARTHURTNT SPORTS 1 UK |SKY SPORT 3 NZ
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium31/mono.m3u8
+
+#EXTINF:-1 tvg-id="08:00 (SU TOPU) WOMEN’S WATER POLO WORLD CUP SUPER FINALM4 SPORTS HUNGARY" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",08:00 (SU TOPU) WOMEN’S WATER POLO WORLD CUP SUPER FINALM4 SPORTS HUNGARY
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium265/mono.m3u8
+
+#EXTINF:-1 tvg-id="09:30 (FUTBOL) SLOVAKIA – 2. FUTBALOVÁ LIGA : MALŽENICE VS PÚCHOVJOJ SPORT SLOVAKIA" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",09:30 (FUTBOL) SLOVAKIA – 2. FUTBALOVÁ LIGA : MALŽENICE VS PÚCHOVJOJ SPORT SLOVAKIA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium4/mono.m3u8
+
+#EXTINF:-1 tvg-id="09:30 (MOTORSPORT) 12 HOURS OF SPA-FRANCORCHAMPS 2025ZIGGO SPORT 3 NL" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",09:30 (MOTORSPORT) 12 HOURS OF SPA-FRANCORCHAMPS 2025ZIGGO SPORT 3 NL
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium919/mono.m3u8
+
+#EXTINF:-1 tvg-id="09:30 (BASKETBOL) CZECH REPUBLIC ZBL : KP BRNO VS. DSK LEVHARTI CHOMUTOVNOVA SPORT 1 CZECH" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",09:30 (BASKETBOL) CZECH REPUBLIC ZBL : KP BRNO VS. DSK LEVHARTI CHOMUTOVNOVA SPORT 1 CZECH
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium18/mono.m3u8
+
+#EXTINF:-1 tvg-id="09:30 (BASKETBOL) LIGA BETCLIC : OVARENSE VS FC PORTODAZN ELEVEN 2 PORTUGAL" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",09:30 (BASKETBOL) LIGA BETCLIC : OVARENSE VS FC PORTODAZN ELEVEN 2 PORTUGAL
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium456/mono.m3u8
+
+#EXTINF:-1 tvg-id="09:30 (BUZ HOKEYİ) IIHF WOMEN’S WORLD HOCKEY CHAMPIONSHIP : FINLAND VS CZECHIANHL NETWORK USA |TSN1 |TSN4" tvg-logo="dokko1" group-title="GÜNLÜK DÜNYA SPORLARI",09:30 (BUZ HOKEYİ) IIHF WOMEN’S WORLD HOCKEY CHAMPIONSHIP : FINLAND VS CZECHIANHL NETWORK USA |TSN1 |TSN4
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1top1.newkso.ru/dokko1/premium663/mono.m3u8
+
+#EXTINF:-1 tvg-id="10:00 (BİLARDO) WORLD CHAMPIONSHIP SNOOKER ROUND 1TNT SPORT 3 UK |BBC TWO UK |EUROSPORT 1 FRANCE" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",10:00 (BİLARDO) WORLD CHAMPIONSHIP SNOOKER ROUND 1TNT SPORT 3 UK |BBC TWO UK |EUROSPORT 1 FRANCE
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium33/mono.m3u8
+
+#EXTINF:-1 tvg-id="10:20 (AUSSIE RULES) AFL : WESTERN BULLDOGS VS ST KILDA SAINTSTNT SPORTS 1 UK |FOX SOCCER PLUS" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",10:20 (AUSSIE RULES) AFL : WESTERN BULLDOGS VS ST KILDA SAINTSTNT SPORTS 1 UK |FOX SOCCER PLUS
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium31/mono.m3u8
+
+#EXTINF:-1 tvg-id="10:30 (FUTBOL) CZECH 1. LIGA WOMEN : SPARTA PRAGUE VS SLAVIA PRAGUECT SPORT CZECH" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",10:30 (FUTBOL) CZECH 1. LIGA WOMEN : SPARTA PRAGUE VS SLAVIA PRAGUECT SPORT CZECH
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium1/mono.m3u8
+
+#EXTINF:-1 tvg-id="10:30 (HENTBOL) DIVISIÓN DE HONOR WOMEN : PORRINO W VS GUARDES WTELEDEPORTE SPAIN" tvg-logo="dokko1" group-title="GÜNLÜK DÜNYA SPORLARI",10:30 (HENTBOL) DIVISIÓN DE HONOR WOMEN : PORRINO W VS GUARDES WTELEDEPORTE SPAIN
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1top1.newkso.ru/dokko1/premium529/mono.m3u8
+
+#EXTINF:-1 tvg-id="10:45 (AT YARIŞI) LA ZARZUELA HIPPODROME : SPRING SEASONMOVISTAR DEPORTES 3 SPAIN" tvg-logo="dokko1" group-title="GÜNLÜK DÜNYA SPORLARI",10:45 (AT YARIŞI) LA ZARZUELA HIPPODROME : SPRING SEASONMOVISTAR DEPORTES 3 SPAIN
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1top1.newkso.ru/dokko1/premium526/mono.m3u8
+
+#EXTINF:-1 tvg-id="11:00 (FUTBOL) SPAIN – PRIMERA DIVISIÓN FEMENINA : LEVANTE VS DEPORTIVO DE LA CORUÑADAZN 1 ES" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",11:00 (FUTBOL) SPAIN – PRIMERA DIVISIÓN FEMENINA : LEVANTE VS DEPORTIVO DE LA CORUÑADAZN 1 ES
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium445/mono.m3u8
+
+#EXTINF:-1 tvg-id="11:00 (FUTBOL) PORTUGAL – SEGUNDA LIGA : ALVERCA VS UD OLIVEIRENSESPORT TV1 PORTUGAL" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",11:00 (FUTBOL) PORTUGAL – SEGUNDA LIGA : ALVERCA VS UD OLIVEIRENSESPORT TV1 PORTUGAL
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium49/mono.m3u8
+
+#EXTINF:-1 tvg-id="11:00 (CRICKET) INDIAN PREMIER LEAGUE : KINGS XI PUNJAB VS ROYAL CHALLENGERS BANGALOREWILLOW CRICKET |WILLOW CRICKET 2 |SKY SPORT 2 NZ |SKY SPORTS CRICKET |FOX CRICKET |ASTRO CRICKET |SUPERSPORT CRICKET" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",11:00 (CRICKET) INDIAN PREMIER LEAGUE : KINGS XI PUNJAB VS ROYAL CHALLENGERS BANGALOREWILLOW CRICKET |WILLOW CRICKET 2 |SKY SPORT 2 NZ |SKY SPORTS CRICKET |FOX CRICKET |ASTRO CRICKET |SUPERSPORT CRICKET
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium346/mono.m3u8
+
+#EXTINF:-1 tvg-id="11:00 (BASKETBOL) SÜPER LIGI : YALOVASPOR VS MERSIN BSBBEIN SPORTS 5 TURKEY" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA SPORLARI",11:00 (BASKETBOL) SÜPER LIGI : YALOVASPOR VS MERSIN BSBBEIN SPORTS 5 TURKEY
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6top1.newkso.ru/ddy6/premium106/mono.m3u8
+
+#EXTINF:-1 tvg-id="11:00 (HENTBOL) RUSSIAN CUP. WOMEN. FINAL FOUR. MATCH FOR 3RD PLACE. LIVE BROADCAST FROM ASTRAKHANMATCH IGRA RUSSIA" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA SPORLARI",11:00 (HENTBOL) RUSSIAN CUP. WOMEN. FINAL FOUR. MATCH FOR 3RD PLACE. LIVE BROADCAST FROM ASTRAKHANMATCH IGRA RUSSIA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6top1.newkso.ru/ddy6/premium151/mono.m3u8
+
+#EXTINF:-1 tvg-id="11:00 (SU TOPU) WOMEN’S WATER POLO WORLD CUP SUPER FINALM4 SPORTS HUNGARY" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",11:00 (SU TOPU) WOMEN’S WATER POLO WORLD CUP SUPER FINALM4 SPORTS HUNGARY
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium265/mono.m3u8
+
+#EXTINF:-1 tvg-id="11:15 (FUTBOL) NETHERLANDS – EREDIVISIE : UTRECHT VS AJAXESPN 1 NL |ESPN+ USA |SPORTDIGITAL FUSSBALL DE |SPORT TV3 PORTUGAL |POLSAT SPORT 3 POLAND |ASTRO FOOTBALL |ARENA PREMIUM 2 SERBIA |NOVA SPORTS 2 GREECE |SPORTKLUB 2 CROATIA |V SPORT FOOTBALL |RING BG |ESPN ARGENTINA |SPORT 1 ISRAEL" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",11:15 (FUTBOL) NETHERLANDS – EREDIVISIE : UTRECHT VS AJAXESPN 1 NL |ESPN+ USA |SPORTDIGITAL FUSSBALL DE |SPORT TV3 PORTUGAL |POLSAT SPORT 3 POLAND |ASTRO FOOTBALL |ARENA PREMIUM 2 SERBIA |NOVA SPORTS 2 GREECE |SPORTKLUB 2 CROATIA |V SPORT FOOTBALL |RING BG |ESPN ARGENTINA |SPORT 1 ISRAEL
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium379/mono.m3u8
+
+#EXTINF:-1 tvg-id="11:15 (MOTORSPORT) F1 ACADEMY SAUDI ARABIA FEATURE RACESKY SPORTS F1 UK |SKY SPORT F1 DE |TV3 MAX DENMRK |CANAL+ SPORT FRANCE" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",11:15 (MOTORSPORT) F1 ACADEMY SAUDI ARABIA FEATURE RACESKY SPORTS F1 UK |SKY SPORT F1 DE |TV3 MAX DENMRK |CANAL+ SPORT FRANCE
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium60/mono.m3u8
+
+#EXTINF:-1 tvg-id="11:30 (FUTBOL) TURKEY – 1. LIG : KEÇIÖRENGÜCÜ VS ÜMRANIYESPORTRT SPOR TURKEY |BEIN SPORTS 2 TURKEY" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",11:30 (FUTBOL) TURKEY – 1. LIG : KEÇIÖRENGÜCÜ VS ÜMRANIYESPORTRT SPOR TURKEY |BEIN SPORTS 2 TURKEY
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium889/mono.m3u8
+
+#EXTINF:-1 tvg-id="11:30 (FUTBOL) TURKEY – 1. LIG : YENI MALATYASPOR VS ADANASPORTABII6" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",11:30 (FUTBOL) TURKEY – 1. LIG : YENI MALATYASPOR VS ADANASPORTABII6
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium3/mono.m3u8
+
+#EXTINF:-1 tvg-id="11:30 (FUTBOL) SUPER LIG : İSTANBUL BAŞAKŞEHIR VS GAZIANTEP FKBEIN SPORTS 1 TURKEY" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",11:30 (FUTBOL) SUPER LIG : İSTANBUL BAŞAKŞEHIR VS GAZIANTEP FKBEIN SPORTS 1 TURKEY
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium62/mono.m3u8
+
+#EXTINF:-1 tvg-id="11:30 (MOTORSPORT) FIA WEC | ROUND 2 | 6 HOURS OF IMOLA RACETNT SPORTS 4 UK |EUROSPORT 2 POLAND |EUROSPORT 2 SPAIN |EUROSPORT 2 FRANCE |BANDSPORTS BRASIL" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",11:30 (MOTORSPORT) FIA WEC | ROUND 2 | 6 HOURS OF IMOLA RACETNT SPORTS 4 UK |EUROSPORT 2 POLAND |EUROSPORT 2 SPAIN |EUROSPORT 2 FRANCE |BANDSPORTS BRASIL
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium34/mono.m3u8
+
+#EXTINF:-1 tvg-id="11:30 (BASKETBOL) ACB : CAPRABO LLEIDA VS. VALENCIA BASKETMOVISTAR DEPORTES 2 SPAIN |NOVA SPORT BULGARIA" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",11:30 (BASKETBOL) ACB : CAPRABO LLEIDA VS. VALENCIA BASKETMOVISTAR DEPORTES 2 SPAIN |NOVA SPORT BULGARIA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium438/mono.m3u8
+
+#EXTINF:-1 tvg-id="11:30 (BASKETBOL) ACB : REAL MADRID VS. BC ANDORRAMOVISTAR DEPORTES SPAIN |M+ VAMOS ES |DAZN ELEVEN 1 PORTUGAL |COSMOTE SPORT 5 GREECE |CANAL+ SPORT POLAND |ARENA SPORT 2 SERBIA |SPORTKLUB 1 CROATIA |DIEMA SPORT 2 BULGARIA |SPORT 4 ISRAEL" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",11:30 (BASKETBOL) ACB : REAL MADRID VS. BC ANDORRAMOVISTAR DEPORTES SPAIN |M+ VAMOS ES |DAZN ELEVEN 1 PORTUGAL |COSMOTE SPORT 5 GREECE |CANAL+ SPORT POLAND |ARENA SPORT 2 SERBIA |SPORTKLUB 1 CROATIA |DIEMA SPORT 2 BULGARIA |SPORT 4 ISRAEL
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium436/mono.m3u8
+
+#EXTINF:-1 tvg-id="11:55 (FUTBOL) WORLD – BEACH SOCCER : PORTUGAL VS ITALYCANAL 11 PORTUGAL" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA SPORLARI",11:55 (FUTBOL) WORLD – BEACH SOCCER : PORTUGAL VS ITALYCANAL 11 PORTUGAL
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6top1.newkso.ru/ddy6/premium540/mono.m3u8
+
+#EXTINF:-1 tvg-id="12:00 (FUTBOL) RUSSIA – PREMIER LEAGUE : DINAMO MOSKVA VS RUBIN KAZAN’MATCH TV RUSSIA" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA SPORLARI",12:00 (FUTBOL) RUSSIA – PREMIER LEAGUE : DINAMO MOSKVA VS RUBIN KAZAN’MATCH TV RUSSIA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6top1.newkso.ru/ddy6/premium127/mono.m3u8
+
+#EXTINF:-1 tvg-id="12:00 (FUTBOL) RUSSIA – PREMIER LEAGUE : FAKEL VS ROSTOVMATCH PREMIER RUSSIA |ARENA SPORT 3 CROATIA" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA SPORLARI",12:00 (FUTBOL) RUSSIA – PREMIER LEAGUE : FAKEL VS ROSTOVMATCH PREMIER RUSSIA |ARENA SPORT 3 CROATIA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6top1.newkso.ru/ddy6/premium573/mono.m3u8
+
+#EXTINF:-1 tvg-id="12:00 (TENNIS) ATP 500 BARCELONA, ATP 500 MUNICH, WTA 500 STUTTGART, WTA 250 ROUENTENNIS CHANNEL |TSN5 |POLSAT SPORT 2 POLAND |SKY SPORTS TENNIS UK |TV4 TENNIS |MOVISTAR DEPORTES 2 SPAIN |ZIGGO SPORT 1 NL |ZIGGO SPORT 4 NL |ZIGGO SPORT 5 NL |MOVISTAR DEPORTES 3 SPAIN |SPORT TV2 PORTUGAL |MAX SPORT 1 BULGARIA |ARENA 3 PREMIUM SERBIA |ARENA SPORT 1 SERBIA |CYTAVISION SPORTS 5 CYPRUS |MAX SPORT 3 BULGARIA |SPORT KLUB 1 CROATIA |SPORT KLUB 2 CROATIA |SPORT KLUB HD CROATIA |SPORT 5 PLUS ISRAEL" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA SPORLARI",12:00 (TENNIS) ATP 500 BARCELONA, ATP 500 MUNICH, WTA 500 STUTTGART, WTA 250 ROUENTENNIS CHANNEL |TSN5 |POLSAT SPORT 2 POLAND |SKY SPORTS TENNIS UK |TV4 TENNIS |MOVISTAR DEPORTES 2 SPAIN |ZIGGO SPORT 1 NL |ZIGGO SPORT 4 NL |ZIGGO SPORT 5 NL |MOVISTAR DEPORTES 3 SPAIN |SPORT TV2 PORTUGAL |MAX SPORT 1 BULGARIA |ARENA 3 PREMIUM SERBIA |ARENA SPORT 1 SERBIA |CYTAVISION SPORTS 5 CYPRUS |MAX SPORT 3 BULGARIA |SPORT KLUB 1 CROATIA |SPORT KLUB 2 CROATIA |SPORT KLUB HD CROATIA |SPORT 5 PLUS ISRAEL
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6top1.newkso.ru/ddy6/premium40/mono.m3u8
+
+#EXTINF:-1 tvg-id="12:00 (MOTORSPORT) SPEEDWAY 2.EKSTRALIGA : KROSNO VS LESZNOCANAL+ SPORT 5 POLAND" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",12:00 (MOTORSPORT) SPEEDWAY 2.EKSTRALIGA : KROSNO VS LESZNOCANAL+ SPORT 5 POLAND
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium75/mono.m3u8
+
+#EXTINF:-1 tvg-id="12:00 (CYCLING) AMSTEL GOLD RACE WOMEN | MAASTRICHT – BERG EN TERBLIJT TNT SPORTS 2 UK |EUROSPORT 1 POLAND |EUROSPORT 1 SPAIN |EUROSPORT 1 FRANCE" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",12:00 (CYCLING) AMSTEL GOLD RACE WOMEN | MAASTRICHT – BERG EN TERBLIJT TNT SPORTS 2 UK |EUROSPORT 1 POLAND |EUROSPORT 1 SPAIN |EUROSPORT 1 FRANCE
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium32/mono.m3u8
+
+#EXTINF:-1 tvg-id="12:00 (DARTS) LIVE GERMAN DARTS GRAND PRIX – ZENITHPDC TV |DAZN1 DE |SPORT1 DE" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",12:00 (DARTS) LIVE GERMAN DARTS GRAND PRIX – ZENITHPDC TV |DAZN1 DE |SPORT1 DE
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium43/mono.m3u8
+
+#EXTINF:-1 tvg-id="12:00 (BUZ HOKEYİ) KHL : TRACTOR CHELYABINSK VS DINAMO MINSKKHL TV" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA SPORLARI",12:00 (BUZ HOKEYİ) KHL : TRACTOR CHELYABINSK VS DINAMO MINSKKHL TV
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6top1.newkso.ru/ddy6/premium152/mono.m3u8
+
+#EXTINF:-1 tvg-id="12:15 (FUTBOL) HUNGARY – NB1 : FEHÉRVÁR VS MTKM4 SPORTS HUNGARY" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",12:15 (FUTBOL) HUNGARY – NB1 : FEHÉRVÁR VS MTKM4 SPORTS HUNGARY
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium265/mono.m3u8
+
+#EXTINF:-1 tvg-id="12:15 (GOLF) PGA TOUR RBC HERITAGESKY SPORTS GOLF UK |GOLF CHANNEL USA |MOVISTAR GOLF |SUPERSPORT GOLF" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",12:15 (GOLF) PGA TOUR RBC HERITAGESKY SPORTS GOLF UK |GOLF CHANNEL USA |MOVISTAR GOLF |SUPERSPORT GOLF
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium70/mono.m3u8
+
+#EXTINF:-1 tvg-id="12:30 (FUTBOL) BELGIUM – PRO LEAGUE : ANDERLECHT VS ANTWERPDAZN PRO LEAGUE 1 BELGIUM |ESPN+ USA |SPORTDIGITAL+ DE |ZIGGO SPORT 1 NL |ESPN3 MEXICO" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",12:30 (FUTBOL) BELGIUM – PRO LEAGUE : ANDERLECHT VS ANTWERPDAZN PRO LEAGUE 1 BELGIUM |ESPN+ USA |SPORTDIGITAL+ DE |ZIGGO SPORT 1 NL |ESPN3 MEXICO
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium5/mono.m3u8
+
+#EXTINF:-1 tvg-id="12:30 (FUTBOL) GERMANY – BUNDESLIGA 2 : SIMULCASTSKY SPORT BUNDESLIGA 1 |SKY SPORT TOP EVENT DE" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA SPORLARI",12:30 (FUTBOL) GERMANY – BUNDESLIGA 2 : SIMULCASTSKY SPORT BUNDESLIGA 1 |SKY SPORT TOP EVENT DE
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6top1.newkso.ru/ddy6/premium558/mono.m3u8
+
+#EXTINF:-1 tvg-id="12:30 (FUTBOL) GERMANY – BUNDESLIGA 2 : KÖLN VS PREUSSEN MÜNSTERSKY SPORT BUNDESLIGA 2 |ESPN+ USA |TIVIBU SPOR 2 TURKEY |MATCH! FOOTBALL 3 RUSSIA |VODAFONE SPORT |NOVA SPORTS 4 GREECE |SPORTKLUB 3 CROATIA" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",12:30 (FUTBOL) GERMANY – BUNDESLIGA 2 : KÖLN VS PREUSSEN MÜNSTERSKY SPORT BUNDESLIGA 2 |ESPN+ USA |TIVIBU SPOR 2 TURKEY |MATCH! FOOTBALL 3 RUSSIA |VODAFONE SPORT |NOVA SPORTS 4 GREECE |SPORTKLUB 3 CROATIA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium6/mono.m3u8
+
+#EXTINF:-1 tvg-id="12:30 (FUTBOL) GERMANY – BUNDESLIGA 2 : DARMSTADT 98 VS HANNOVER 96SKY SPORT BUNDESLIGA 5 |TIVIBU SPOR 3 TURKEY" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",12:30 (FUTBOL) GERMANY – BUNDESLIGA 2 : DARMSTADT 98 VS HANNOVER 96SKY SPORT BUNDESLIGA 5 |TIVIBU SPOR 3 TURKEY
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium7/mono.m3u8
+
+#EXTINF:-1 tvg-id="12:30 (FUTBOL) GERMANY – BUNDESLIGA 2 : KARLSRUHER SC VS GREUTHER FÜRTHSKY SPORT BUNDESLIGA 6" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",12:30 (FUTBOL) GERMANY – BUNDESLIGA 2 : KARLSRUHER SC VS GREUTHER FÜRTHSKY SPORT BUNDESLIGA 6
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium8/mono.m3u8
+
+#EXTINF:-1 tvg-id="12:30 (FUTBOL) GERMANY – BUNDESLIGA 2 : MAGDEBURG VS JAHN REGENSBURGSKY SPORT BUNDESLIGA 3 |TIVIBU SPOR 4 TURKEY" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",12:30 (FUTBOL) GERMANY – BUNDESLIGA 2 : MAGDEBURG VS JAHN REGENSBURGSKY SPORT BUNDESLIGA 3 |TIVIBU SPOR 4 TURKEY
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium9/mono.m3u8
+
+#EXTINF:-1 tvg-id="12:30 (FUTBOL) GERMANY – BUNDESLIGA 2 : ULM VS HERTHA BSCSKY SPORT BUNDESLIGA 4" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",12:30 (FUTBOL) GERMANY – BUNDESLIGA 2 : ULM VS HERTHA BSCSKY SPORT BUNDESLIGA 4
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium10/mono.m3u8
+
+#EXTINF:-1 tvg-id="12:30 (FUTBOL) GERMANY – 3. LIGA : SAARBRÜCKEN VS DYNAMO DRESDENMAGENTA SPORT 301 |SPORTKLUB 4 CROATIA" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",12:30 (FUTBOL) GERMANY – 3. LIGA : SAARBRÜCKEN VS DYNAMO DRESDENMAGENTA SPORT 301 |SPORTKLUB 4 CROATIA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium14/mono.m3u8
+
+#EXTINF:-1 tvg-id="12:30 (HENTBOL) RUSSIA SUPERLEAGUE : CSKA MOSCOW VS PERMМАТЧ АРЕНА" tvg-logo="dokko1" group-title="GÜNLÜK DÜNYA SPORLARI",12:30 (HENTBOL) RUSSIA SUPERLEAGUE : CSKA MOSCOW VS PERMМАТЧ АРЕНА
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1top1.newkso.ru/dokko1/premium159/mono.m3u8
+
+#EXTINF:-1 tvg-id="13:00 (FUTBOL) SCOTLAND – SWPL 1 : HEART OF MIDLOTHIAN LFC VS GLASGOW CITY LFCBBC SCOTLAND" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",13:00 (FUTBOL) SCOTLAND – SWPL 1 : HEART OF MIDLOTHIAN LFC VS GLASGOW CITY LFCBBC SCOTLAND
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium15/mono.m3u8
+
+#EXTINF:-1 tvg-id="13:00 (FUTBOL) SPAIN – LA LIGA : REAL VALLADOLID VS OSASUNAM+ LALIGA TV |LALIGATV UK |VIAPLAY SPORTS 2 UK |PREMIER SPORTS 2 IRELAND |DAZN ELEVEN 3 PORTUGAL |BEIN SPORTS MAX 7 FRANCE |PRIMA SPORT 3 ROMANIA |ESPN DEPORTES |MATCH! FOOTBALL 2 RUSSIA |ZIGGO SPORT 2 NL |ARENA PREMIUM 3 SERBIA |NOVA SPORTS 1 GREECE |ARENA SPORT 2 CROATIA |TV4 FOTBALL |MAX SPORT 4 BULGARIA |ESPN2 ARGENTINA |SUPERSPORT LALIGA |BEIN SPORTS MENA 3" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",13:00 (FUTBOL) SPAIN – LA LIGA : REAL VALLADOLID VS OSASUNAM+ LALIGA TV |LALIGATV UK |VIAPLAY SPORTS 2 UK |PREMIER SPORTS 2 IRELAND |DAZN ELEVEN 3 PORTUGAL |BEIN SPORTS MAX 7 FRANCE |PRIMA SPORT 3 ROMANIA |ESPN DEPORTES |MATCH! FOOTBALL 2 RUSSIA |ZIGGO SPORT 2 NL |ARENA PREMIUM 3 SERBIA |NOVA SPORTS 1 GREECE |ARENA SPORT 2 CROATIA |TV4 FOTBALL |MAX SPORT 4 BULGARIA |ESPN2 ARGENTINA |SUPERSPORT LALIGA |BEIN SPORTS MENA 3
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium84/mono.m3u8
+
+#EXTINF:-1 tvg-id="13:00 (FUTBOL) SPAIN – SEGUNDA DIVISION : CARTAGENA VS GRANADALALIGA TV HYPERMOTION |#VAMOS ES |ESPN+ USA" tvg-logo="dokko1" group-title="GÜNLÜK DÜNYA SPORLARI",13:00 (FUTBOL) SPAIN – SEGUNDA DIVISION : CARTAGENA VS GRANADALALIGA TV HYPERMOTION |#VAMOS ES |ESPN+ USA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1top1.newkso.ru/dokko1/premium539/mono.m3u8
+
+#EXTINF:-1 tvg-id="13:00 (FUTBOL) SWEDEN – ALLSVENSKAN : ÖSTER VS AIKKANAL 5 SWEDEN" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",13:00 (FUTBOL) SWEDEN – ALLSVENSKAN : ÖSTER VS AIKKANAL 5 SWEDEN
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium16/mono.m3u8
+
+#EXTINF:-1 tvg-id="13:00 (FUTBOL) SWEDEN – DAMALLSVENSKAN : LINKÖPING VS NORRKÖPINGTV6 SWEDEN" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",13:00 (FUTBOL) SWEDEN – DAMALLSVENSKAN : LINKÖPING VS NORRKÖPINGTV6 SWEDEN
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium17/mono.m3u8
+
+#EXTINF:-1 tvg-id="13:00 (CLIMBING) WORLD CUP | KEQIAO MEN’S BOULDER | FINALTNT SPORTS 1 UK" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",13:00 (CLIMBING) WORLD CUP | KEQIAO MEN’S BOULDER | FINALTNT SPORTS 1 UK
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium31/mono.m3u8
+
+#EXTINF:-1 tvg-id="13:00 (HENTBOL) CHAMPIONS LEAGUE WOMEN : CSM BUCURESTI W VS ESBJERG WSPORT TV6 PORTUGAL |SPORT 1 HUNGARY |TV3 SPORT DENMARK |DIGI SPORT 1 ROMANIA |PRIMA SPORT 1 ROMANIA" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA SPORLARI",13:00 (HENTBOL) CHAMPIONS LEAGUE WOMEN : CSM BUCURESTI W VS ESBJERG WSPORT TV6 PORTUGAL |SPORT 1 HUNGARY |TV3 SPORT DENMARK |DIGI SPORT 1 ROMANIA |PRIMA SPORT 1 ROMANIA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6top1.newkso.ru/ddy6/premium291/mono.m3u8
+
+#EXTINF:-1 tvg-id="13:15 (MOTORSPORT) FORMULA 2 : STC SAUDI ARABIAN GRAND PRIX – RACESKY SPORTS F1 UK |SKY SPORT F1 DE |DAZN F1 ES |CANAL+ SPORT FRANCE |CANAL+ FORMULA 1 |SKY SPORT 1 NZ |SKY SPORTS F1 ITALY |ANT+ F1 GREECE |V SPORT MOTOR SWEDEN |SPORT KLUB 1 CROATIA |FOX SPORTS 1 MX |BANDSPORTS BRASIL |SPORT 5 LIVE ISRAEL" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",13:15 (MOTORSPORT) FORMULA 2 : STC SAUDI ARABIAN GRAND PRIX – RACESKY SPORTS F1 UK |SKY SPORT F1 DE |DAZN F1 ES |CANAL+ SPORT FRANCE |CANAL+ FORMULA 1 |SKY SPORT 1 NZ |SKY SPORTS F1 ITALY |ANT+ F1 GREECE |V SPORT MOTOR SWEDEN |SPORT KLUB 1 CROATIA |FOX SPORTS 1 MX |BANDSPORTS BRASIL |SPORT 5 LIVE ISRAEL
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium60/mono.m3u8
+
+#EXTINF:-1 tvg-id="13:30 (FUTBOL) NETHERLANDS – EERSTE DIVISIE : ADO DEN HAAG VS PSV IIESPN 1 NL" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",13:30 (FUTBOL) NETHERLANDS – EERSTE DIVISIE : ADO DEN HAAG VS PSV IIESPN 1 NL
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium379/mono.m3u8
+
+#EXTINF:-1 tvg-id="13:30 (FUTBOL) AUSTRIA – FOOTBALL BUNDESLIGA : SIMULCASTSKY SPORT AUSTRIA 1" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA SPORLARI",13:30 (FUTBOL) AUSTRIA – FOOTBALL BUNDESLIGA : SIMULCASTSKY SPORT AUSTRIA 1
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6top1.newkso.ru/ddy6/premium559/mono.m3u8
+
+#EXTINF:-1 tvg-id="13:30 (FUTBOL) AUSTRIA – FOOTBALL BUNDESLIGA : WOLFSBERGER AC VS RAPID WIENSKY SPORT AUSTRIA 2" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",13:30 (FUTBOL) AUSTRIA – FOOTBALL BUNDESLIGA : WOLFSBERGER AC VS RAPID WIENSKY SPORT AUSTRIA 2
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium18/mono.m3u8
+
+#EXTINF:-1 tvg-id="13:30 (FUTBOL) AUSTRIA – FOOTBALL BUNDESLIGA : STURM GRAZ VS BLAU-WEISS LINZSKY SPORT AUSTRIA 3" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",13:30 (FUTBOL) AUSTRIA – FOOTBALL BUNDESLIGA : STURM GRAZ VS BLAU-WEISS LINZSKY SPORT AUSTRIA 3
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium19/mono.m3u8
+
+#EXTINF:-1 tvg-id="13:30 (FUTBOL) AZERBAIJAN – PREMIER LIQA : SHAMAKHI VS KAPAZCBC SPORT AZERBAIJAN" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",13:30 (FUTBOL) AZERBAIJAN – PREMIER LIQA : SHAMAKHI VS KAPAZCBC SPORT AZERBAIJAN
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium20/mono.m3u8
+
+#EXTINF:-1 tvg-id="13:30 (BASKETBOL) SÜPER LIGI : BESIKTAS VS PETKIM SPORBEIN SPORTS 5 TURKEY" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA SPORLARI",13:30 (BASKETBOL) SÜPER LIGI : BESIKTAS VS PETKIM SPORBEIN SPORTS 5 TURKEY
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6top1.newkso.ru/ddy6/premium106/mono.m3u8
+
+#EXTINF:-1 tvg-id="13:30 (CYCLING) AMSTEL GOLD RACE MEN | MAASTRICHT – BERG EN TERBLIJT TNT SPORTS 2 UK |EUROSPORT 1 POLAND |EUROSPORT 1 SPAIN |EUROSPORT 1 FRANCE" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",13:30 (CYCLING) AMSTEL GOLD RACE MEN | MAASTRICHT – BERG EN TERBLIJT TNT SPORTS 2 UK |EUROSPORT 1 POLAND |EUROSPORT 1 SPAIN |EUROSPORT 1 FRANCE
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium32/mono.m3u8
+
+#EXTINF:-1 tvg-id="13:30 (AT YARIŞI) LIVE RACING FROM AROUND THE UKSKY SPORTS RACING UK" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",13:30 (AT YARIŞI) LIVE RACING FROM AROUND THE UKSKY SPORTS RACING UK
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium554/mono.m3u8
+
+#EXTINF:-1 tvg-id="13:30 (BUZ HOKEYİ) IIHF WOMEN’S WORLD HOCKEY CHAMPIONSHIP : UNITED STATES VS CANADANHL NETWORK USA |TSN1 |TSN4" tvg-logo="dokko1" group-title="GÜNLÜK DÜNYA SPORLARI",13:30 (BUZ HOKEYİ) IIHF WOMEN’S WORLD HOCKEY CHAMPIONSHIP : UNITED STATES VS CANADANHL NETWORK USA |TSN1 |TSN4
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1top1.newkso.ru/dokko1/premium663/mono.m3u8
+
+#EXTINF:-1 tvg-id="13:30 (VOLLEYBALL) BEACH VOLLEYBALL: PRO TOUR – BRASILIACOSMOTE SPORT 9 GREECE" tvg-logo="dokko1" group-title="GÜNLÜK DÜNYA SPORLARI",13:30 (VOLLEYBALL) BEACH VOLLEYBALL: PRO TOUR – BRASILIACOSMOTE SPORT 9 GREECE
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1top1.newkso.ru/dokko1/premium630/mono.m3u8
+
+#EXTINF:-1 tvg-id="14:00 (TV SHOWS) PEPPA PIG SEASON 8, EPISODE 30NICK JR. USA" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",14:00 (TV SHOWS) PEPPA PIG SEASON 8, EPISODE 30NICK JR. USA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium329/mono.m3u8
+
+#EXTINF:-1 tvg-id="14:00 (TV SHOWS) PRIMOS SEASON 1, EPISODE 27DISNEY XD" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",14:00 (TV SHOWS) PRIMOS SEASON 1, EPISODE 27DISNEY XD
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium314/mono.m3u8
+
+#EXTINF:-1 tvg-id="14:00 (FUTBOL) ENGLAND – PREMIER LEAGUE : SIMULCASTOPTUS SPORT |SKY SPORT 8 NZ" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",14:00 (FUTBOL) ENGLAND – PREMIER LEAGUE : SIMULCASTOPTUS SPORT |SKY SPORT 8 NZ
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium21/mono.m3u8
+
+#EXTINF:-1 tvg-id="14:00 (FUTBOL) ENGLAND – PREMIER LEAGUE : IPSWICH TOWN VS ARSENALOPTUS SPORT |SKY SPORT 5 NZ |SKY SPORTS MAIN EVENT UK |SKY SPORTS PREMIER LEAGUE UK |DAZN1 SPAIN |SKY SPORT PREMIER LEAGUE DE |DAZN ELEVEN 4 PORTUGAL |SKY SPORT CALCIO IT |CANAL+ FOOT FRANCE |PRIMA SPORT 2 ROMANIA |CYTAVISION SPORTS 3 CYPRUS |ASTRO PREMIER LEAGUE 2 |BEIN SPORTS 3 TURKEY |ARENA PREMIUM 2 SERBIA |NOVA SPORTS PREMIER LEAGUE GREECE |ARENA SPORT 1 CROATIA |TV3+ DENMARK |V SPORT PREMIUM |DIEMA SPORT 2 BULGARIA |ESPN ARGENTINA |SUPERSPORT PREMIER LEAGUE |BEIN SPORTS MENA 1 |BEIN SPORTS MENA ENGLISH 1 |SPORT 1 ISRAEL" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",14:00 (FUTBOL) ENGLAND – PREMIER LEAGUE : IPSWICH TOWN VS ARSENALOPTUS SPORT |SKY SPORT 5 NZ |SKY SPORTS MAIN EVENT UK |SKY SPORTS PREMIER LEAGUE UK |DAZN1 SPAIN |SKY SPORT PREMIER LEAGUE DE |DAZN ELEVEN 4 PORTUGAL |SKY SPORT CALCIO IT |CANAL+ FOOT FRANCE |PRIMA SPORT 2 ROMANIA |CYTAVISION SPORTS 3 CYPRUS |ASTRO PREMIER LEAGUE 2 |BEIN SPORTS 3 TURKEY |ARENA PREMIUM 2 SERBIA |NOVA SPORTS PREMIER LEAGUE GREECE |ARENA SPORT 1 CROATIA |TV3+ DENMARK |V SPORT PREMIUM |DIEMA SPORT 2 BULGARIA |ESPN ARGENTINA |SUPERSPORT PREMIER LEAGUE |BEIN SPORTS MENA 1 |BEIN SPORTS MENA ENGLISH 1 |SPORT 1 ISRAEL
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium22/mono.m3u8
+
+#EXTINF:-1 tvg-id="14:00 (FUTBOL) ENGLAND – PREMIER LEAGUE : FULHAM VS CHELSEAOPTUS SPORT |USA NETWORK |SKY SPORT 6 NZ |DAZN4 SPAIN |SKY SPORT MIX DE |DAZN ELEVEN 2 PORTUGAL |CANAL+ LIVE 3 FRANCE |TELEMUNDO |SKY SPORT 251 IT |DIGI SPORT 4 ROMANIA |CYTAVISION SPORTS 7 CYPRUS |NOVA SPORTS 2 GREECE |ARENA PREMIUM 1 SERBIA |ARENA SPORT 3 CROATIA |V SPORT FOOTBALL |NOVA SPORT BULGARIA |ESPN BRAZIL |SUPERSPORT MAXIMO 1 |BEIN SPORTS MENA 2 |SPORT 4 ISRAEL" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",14:00 (FUTBOL) ENGLAND – PREMIER LEAGUE : FULHAM VS CHELSEAOPTUS SPORT |USA NETWORK |SKY SPORT 6 NZ |DAZN4 SPAIN |SKY SPORT MIX DE |DAZN ELEVEN 2 PORTUGAL |CANAL+ LIVE 3 FRANCE |TELEMUNDO |SKY SPORT 251 IT |DIGI SPORT 4 ROMANIA |CYTAVISION SPORTS 7 CYPRUS |NOVA SPORTS 2 GREECE |ARENA PREMIUM 1 SERBIA |ARENA SPORT 3 CROATIA |V SPORT FOOTBALL |NOVA SPORT BULGARIA |ESPN BRAZIL |SUPERSPORT MAXIMO 1 |BEIN SPORTS MENA 2 |SPORT 4 ISRAEL
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium23/mono.m3u8
+
+#EXTINF:-1 tvg-id="14:00 (FUTBOL) ENGLAND – PREMIER LEAGUE : MANCHESTER UNITED VS WOLVERHAMPTON WANDERERSOPTUS SPORT |SKY SPORT 7 NZ |DAZN2 SPAIN |DAZN ELEVEN 1 PORTUGAL |SKY SPORT 252 IT |CANAL+ LIVE 4 FRANCE |SKY SPORT 8 DE |ASTRO PREMIER LEAGUE |ASTRO GRANDSTAND |DIGI SPORT 2 ROMANIA |CYTAVISION SPORTS 6 CYPRUS |ARENA SPORT 2 SERBIA |SEE DENMRK |NOVA SPORTS PRIME GREECE |ESPN4 BRAZIL |DIEMA SPORT BULGARIA |SUPERSPORT VARIETY 3 |SUPERSPORT MÁXIMO 1 |BEIN SPORTS MENA 5 |SPORT 2 ISRAEL" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",14:00 (FUTBOL) ENGLAND – PREMIER LEAGUE : MANCHESTER UNITED VS WOLVERHAMPTON WANDERERSOPTUS SPORT |SKY SPORT 7 NZ |DAZN2 SPAIN |DAZN ELEVEN 1 PORTUGAL |SKY SPORT 252 IT |CANAL+ LIVE 4 FRANCE |SKY SPORT 8 DE |ASTRO PREMIER LEAGUE |ASTRO GRANDSTAND |DIGI SPORT 2 ROMANIA |CYTAVISION SPORTS 6 CYPRUS |ARENA SPORT 2 SERBIA |SEE DENMRK |NOVA SPORTS PRIME GREECE |ESPN4 BRAZIL |DIEMA SPORT BULGARIA |SUPERSPORT VARIETY 3 |SUPERSPORT MÁXIMO 1 |BEIN SPORTS MENA 5 |SPORT 2 ISRAEL
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium24/mono.m3u8
+
+#EXTINF:-1 tvg-id="14:00 (FUTBOL) FRANCE – LIGUE 1 : LILLE VS AUXERREDAZN1 FRANCE |BEIN SPORTS USA |BEIN SPORTS EN ESPAÑOL |SPORT TV3 PORTUGAL |ELEVEN SPORTS 4 POLAND |BEIN SPORTS MENA 4 |SPORT 5 ISRAEL" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",14:00 (FUTBOL) FRANCE – LIGUE 1 : LILLE VS AUXERREDAZN1 FRANCE |BEIN SPORTS USA |BEIN SPORTS EN ESPAÑOL |SPORT TV3 PORTUGAL |ELEVEN SPORTS 4 POLAND |BEIN SPORTS MENA 4 |SPORT 5 ISRAEL
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium68/mono.m3u8
+
+#EXTINF:-1 tvg-id="14:00 (FUTBOL) ITALY – SERIE A : EMPOLI VS VENEZIADAZN ZONA IT |SPORT TV4 PORTUGAL |ELEVEN SPORTS 3 POLAND |ABU DHABI SPORTS PREMIUM 1 |MATCH! FOOTBALL 1 RUSSIA |CYTAVISION SPORTS 4 CYPRUS |ESPN MEXICO |COSMOTE SPORT 1 GREECE |ARENA SPORT 4 CROATIA |TV4 SPORT LIVE 1 |MAX SPORT 3 BULGARIA |SUPERSPORT FOOTBALL" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",14:00 (FUTBOL) ITALY – SERIE A : EMPOLI VS VENEZIADAZN ZONA IT |SPORT TV4 PORTUGAL |ELEVEN SPORTS 3 POLAND |ABU DHABI SPORTS PREMIUM 1 |MATCH! FOOTBALL 1 RUSSIA |CYTAVISION SPORTS 4 CYPRUS |ESPN MEXICO |COSMOTE SPORT 1 GREECE |ARENA SPORT 4 CROATIA |TV4 SPORT LIVE 1 |MAX SPORT 3 BULGARIA |SUPERSPORT FOOTBALL
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium877/mono.m3u8
+
+#EXTINF:-1 tvg-id="14:00 (FUTBOL) CAF CONFEDERATION CUP : SIMBA VS STELLENBOSCHSPORT TV6 PORTUGAL |CANAL+ SPORT 1 AFRIQUE |SUPERSPORT VARIETY 4 |BEIN SPORTS MENA 6" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA SPORLARI",14:00 (FUTBOL) CAF CONFEDERATION CUP : SIMBA VS STELLENBOSCHSPORT TV6 PORTUGAL |CANAL+ SPORT 1 AFRIQUE |SUPERSPORT VARIETY 4 |BEIN SPORTS MENA 6
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6top1.newkso.ru/ddy6/premium291/mono.m3u8
+
+#EXTINF:-1 tvg-id="14:00 (FUTBOL) SUPER LIG : RIZESPOR VS EYÜPSPORBEIN SPORTS 1 TURKEY" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",14:00 (FUTBOL) SUPER LIG : RIZESPOR VS EYÜPSPORBEIN SPORTS 1 TURKEY
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium62/mono.m3u8
+
+#EXTINF:-1 tvg-id="14:00 (FUTBOL) SOUTH AFRICA – DSTV PREMIERSHIP : MAGESI VS TS GALAXYSUPERSPORT PSL" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",14:00 (FUTBOL) SOUTH AFRICA – DSTV PREMIERSHIP : MAGESI VS TS GALAXYSUPERSPORT PSL
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium413/mono.m3u8
+
+#EXTINF:-1 tvg-id="14:00 (FUTBOL) TURKEY – 1. LIG : EROKSPOR VS KOCAELISPORTRT SPOR TURKEY |BEIN SPORTS 2 TURKEY" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",14:00 (FUTBOL) TURKEY – 1. LIG : EROKSPOR VS KOCAELISPORTRT SPOR TURKEY |BEIN SPORTS 2 TURKEY
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium889/mono.m3u8
+
+#EXTINF:-1 tvg-id="14:00 (BASKETBOL) BBL : HAMBURG VS BAYERNSPORTKLUB 6 CROATIA" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA SPORLARI",14:00 (BASKETBOL) BBL : HAMBURG VS BAYERNSPORTKLUB 6 CROATIA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6top1.newkso.ru/ddy6/premium160/mono.m3u8
+
+#EXTINF:-1 tvg-id="14:00 (GAA) GAA CLUB CHAMPIONSHIP – CLARE VS CORKRTE 2" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",14:00 (GAA) GAA CLUB CHAMPIONSHIP – CLARE VS CORKRTE 2
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium365/mono.m3u8
+
+#EXTINF:-1 tvg-id="14:00 (HENTBOL) HANDBALL. RUSSIAN CUP. WOMEN. FINAL FOUR. FINAL. LIVE BROADCAST FROM ASTRAKHANMATCH IGRA RUSSIA" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA SPORLARI",14:00 (HENTBOL) HANDBALL. RUSSIAN CUP. WOMEN. FINAL FOUR. FINAL. LIVE BROADCAST FROM ASTRAKHANMATCH IGRA RUSSIA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6top1.newkso.ru/ddy6/premium151/mono.m3u8
+
+#EXTINF:-1 tvg-id="14:00 (HENTBOL) HANDBALL-BUNDESLIGA : FUCHSE BERLIN VS HANNOVER-BURGDORFTV3 MAX DENMRK |SPORTKLUB 2 CROATIA" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA SPORLARI",14:00 (HENTBOL) HANDBALL-BUNDESLIGA : FUCHSE BERLIN VS HANNOVER-BURGDORFTV3 MAX DENMRK |SPORTKLUB 2 CROATIA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6top1.newkso.ru/ddy6/premium223/mono.m3u8
+
+#EXTINF:-1 tvg-id="14:00 (AT YARIŞI) LIVE RACING FROM MARKET RASEN, CORK AND FAIRYHOUSERACING TV UK" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",14:00 (AT YARIŞI) LIVE RACING FROM MARKET RASEN, CORK AND FAIRYHOUSERACING TV UK
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium555/mono.m3u8
+
+#EXTINF:-1 tvg-id="14:15 (MOTORSPORT) SPEEDWAY 2.EKSTRALIGA : POZNAN VS LODZCANAL+ SPORT 5 POLAND" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",14:15 (MOTORSPORT) SPEEDWAY 2.EKSTRALIGA : POZNAN VS LODZCANAL+ SPORT 5 POLAND
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium75/mono.m3u8
+
+#EXTINF:-1 tvg-id="14:20 (VOLLEYBALL) ITALY SERIE A1 : CUCINE LUBE CIVITANOVA VS SIR SAFETY PERUGIAMAX SPORT 2 BULGARIA |SPORT KLUB 5 CROATIA" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",14:20 (VOLLEYBALL) ITALY SERIE A1 : CUCINE LUBE CIVITANOVA VS SIR SAFETY PERUGIAMAX SPORT 2 BULGARIA |SPORT KLUB 5 CROATIA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium473/mono.m3u8
+
+#EXTINF:-1 tvg-id="14:30 (FUTBOL) BUNDESLIGA : AUGSBURG VS EINTRACHT FRANKFURTDAZN2 DE |SKY SPORTS FOOTBALL UK |ESPN2 USA |ELEVEN SPORTS 2 POLAND |BEIN SPORTS MAX 5 FRANCE |TIVIBU SPOR 1 TURKEY |SKY SPORT 254 IT |MATCH! FOOTBALL 3 RUSSIA |ARENA SPORT 1 SERBIA |NOVA SPORTS 3 GREECE |SPORTKLUB 3 CROATIA" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA SPORLARI",14:30 (FUTBOL) BUNDESLIGA : AUGSBURG VS EINTRACHT FRANKFURTDAZN2 DE |SKY SPORTS FOOTBALL UK |ESPN2 USA |ELEVEN SPORTS 2 POLAND |BEIN SPORTS MAX 5 FRANCE |TIVIBU SPOR 1 TURKEY |SKY SPORT 254 IT |MATCH! FOOTBALL 3 RUSSIA |ARENA SPORT 1 SERBIA |NOVA SPORTS 3 GREECE |SPORTKLUB 3 CROATIA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6top1.newkso.ru/ddy6/premium427/mono.m3u8
+
+#EXTINF:-1 tvg-id="14:30 (FUTBOL) RUSSIA – PREMIER LEAGUE : ZENIT VS KHIMKIMATCH PREMIER RUSSIA |MATCH TV RUSSIA |ARENA SPORT 3 SERBIA" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA SPORLARI",14:30 (FUTBOL) RUSSIA – PREMIER LEAGUE : ZENIT VS KHIMKIMATCH PREMIER RUSSIA |MATCH TV RUSSIA |ARENA SPORT 3 SERBIA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6top1.newkso.ru/ddy6/premium573/mono.m3u8
+
+#EXTINF:-1 tvg-id="14:30 (MOTORSPORT) FIA WEC | ROUND 2 | 6 HOURS OF IMOLA RACETNT SPORTS 4 UK |EUROSPORT 2 POLAND |EUROSPORT 2 SPAIN |EUROSPORT 2 FRANCE |BANDSPORTS BRASIL |ARENA SPORT 4 SERBIA" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",14:30 (MOTORSPORT) FIA WEC | ROUND 2 | 6 HOURS OF IMOLA RACETNT SPORTS 4 UK |EUROSPORT 2 POLAND |EUROSPORT 2 SPAIN |EUROSPORT 2 FRANCE |BANDSPORTS BRASIL |ARENA SPORT 4 SERBIA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium34/mono.m3u8
+
+#EXTINF:-1 tvg-id="14:30 (BİLARDO) WORLD CHAMPIONSHIP SNOOKER ROUND 1TNT SPORT 3 UK |BBC TWO UK" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",14:30 (BİLARDO) WORLD CHAMPIONSHIP SNOOKER ROUND 1TNT SPORT 3 UK |BBC TWO UK
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium33/mono.m3u8
+
+#EXTINF:-1 tvg-id="14:30 (RUGBY UNION) AVIVA PREMIERSHIP RUGBY : BRISTOL VS LEICESTER TIGERSTNT SPORTS 1 UK |SUPERSPORT RUGBY |MOVISTAR DEPORTES 5 SPAIN |BEIN SPORTS 6 MAX FRANCE" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",14:30 (RUGBY UNION) AVIVA PREMIERSHIP RUGBY : BRISTOL VS LEICESTER TIGERSTNT SPORTS 1 UK |SUPERSPORT RUGBY |MOVISTAR DEPORTES 5 SPAIN |BEIN SPORTS 6 MAX FRANCE
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium31/mono.m3u8
+
+#EXTINF:-1 tvg-id="14:45 (FUTBOL) HUNGARY – NB1 : FERENCVÁROS VS NYÍREGYHÁZA SPARTACUSM4 SPORTS HUNGARY" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",14:45 (FUTBOL) HUNGARY – NB1 : FERENCVÁROS VS NYÍREGYHÁZA SPARTACUSM4 SPORTS HUNGARY
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium265/mono.m3u8
+
+#EXTINF:-1 tvg-id="15:00 (FUTBOL) SCOTLAND – SCOTTISH CUP : ST. JOHNSTONE VS CELTICVIAPLAY SPORTS 1 UK |PREMIER SPORTS 1 IRELAND |ASTRO FOOTBALL |SPORTKLUB 4 CROATIA" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",15:00 (FUTBOL) SCOTLAND – SCOTTISH CUP : ST. JOHNSTONE VS CELTICVIAPLAY SPORTS 1 UK |PREMIER SPORTS 1 IRELAND |ASTRO FOOTBALL |SPORTKLUB 4 CROATIA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium451/mono.m3u8
+
+#EXTINF:-1 tvg-id="15:00 (FUTBOL) BELGIUM – PRO LEAGUE : GENK VS UNION SAINT-GILLOISEDAZN PRO LEAGUE 1 BELGIUM |ESPN+ USA |GOL PLAY ES |SPORTDIGITAL+ DE |ZIGGO SPORT 1 NL |NOVA SPORTS 4 GREECE |SPORT 3 ISRAEL" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",15:00 (FUTBOL) BELGIUM – PRO LEAGUE : GENK VS UNION SAINT-GILLOISEDAZN PRO LEAGUE 1 BELGIUM |ESPN+ USA |GOL PLAY ES |SPORTDIGITAL+ DE |ZIGGO SPORT 1 NL |NOVA SPORTS 4 GREECE |SPORT 3 ISRAEL
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium5/mono.m3u8
+
+#EXTINF:-1 tvg-id="15:00 (FUTBOL) BRAZIL – BRASILEIRÃO : JUVENTUDE VS MIRASSOLPREMIERE BR" tvg-logo="dokko1" group-title="GÜNLÜK DÜNYA SPORLARI",15:00 (FUTBOL) BRAZIL – BRASILEIRÃO : JUVENTUDE VS MIRASSOLPREMIERE BR
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1top1.newkso.ru/dokko1/premium156/mono.m3u8
+
+#EXTINF:-1 tvg-id="15:00 (FUTBOL) SPAIN – PRIMERA DIVISIÓN FEMENINA : REAL MADRID VS REAL BETISDAZN3 SPAIN |ELLAS VAMOS ES" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",15:00 (FUTBOL) SPAIN – PRIMERA DIVISIÓN FEMENINA : REAL MADRID VS REAL BETISDAZN3 SPAIN |ELLAS VAMOS ES
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium447/mono.m3u8
+
+#EXTINF:-1 tvg-id="15:00 (FUTBOL) ROMANIA – LIGA I : CSMS IAŞI VS BOTOŞANIDIGI SPORT 1 ROMANIA |PRIMA SPORT 1 ROMANIA" tvg-logo="top1" group-title="GÜNLÜK DÜNYA SPORLARI",15:00 (FUTBOL) ROMANIA – LIGA I : CSMS IAŞI VS BOTOŞANIDIGI SPORT 1 ROMANIA |PRIMA SPORT 1 ROMANIA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://top1top1.newkso.ru/top1/premium400/mono.m3u8
+
+#EXTINF:-1 tvg-id="15:00 (CRICKET) INDIAN PREMIER LEAGUE : MUMBAI INDIANS VS CHENNAI SUPER KINGSWILLOW CRICKET |WILLOW CRICKET 2 |SKY SPORT 3 NZ |SKY SPORTS CRICKET |FOX CRICKET |ASTRO CRICKET |SUPERSPORT CRICKET" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",15:00 (CRICKET) INDIAN PREMIER LEAGUE : MUMBAI INDIANS VS CHENNAI SUPER KINGSWILLOW CRICKET |WILLOW CRICKET 2 |SKY SPORT 3 NZ |SKY SPORTS CRICKET |FOX CRICKET |ASTRO CRICKET |SUPERSPORT CRICKET
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium346/mono.m3u8
+
+#EXTINF:-1 tvg-id="15:00 (CRICKET) PAKISTAN SUPER LEAGUE : KARACHI KINGS VS ISLAMABAD UNITEDPTV SPORTS PK |A SPORTS PK |SKY SPORTS MIX UK |T SPORTS BD" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA SPORLARI",15:00 (CRICKET) PAKISTAN SUPER LEAGUE : KARACHI KINGS VS ISLAMABAD UNITEDPTV SPORTS PK |A SPORTS PK |SKY SPORTS MIX UK |T SPORTS BD
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6top1.newkso.ru/ddy6/premium450/mono.m3u8
+
+#EXTINF:-1 tvg-id="15:00 (GOLF) CORALES PUNTACANA CHAMPIONSHIP, FINAL ROUNDGOLF CHANNEL USA |SUPERSPORT GOLF" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",15:00 (GOLF) CORALES PUNTACANA CHAMPIONSHIP, FINAL ROUNDGOLF CHANNEL USA |SUPERSPORT GOLF
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium318/mono.m3u8
+
+#EXTINF:-1 tvg-id="15:00 (BASKETBOL) ABA LEAGUE : BC DUBAI VS. KK SPLITARENA SPORT 2 CROATIA" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",15:00 (BASKETBOL) ABA LEAGUE : BC DUBAI VS. KK SPLITARENA SPORT 2 CROATIA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium433/mono.m3u8
+
+#EXTINF:-1 tvg-id="15:00 (HENTBOL) CHAMPIONS LEAGUE WOMEN : ODENSE W VS FTC RAIL CARGO WDR 1 DENMARK |SPORT 1 HUNGARY" tvg-logo="dokko1" group-title="GÜNLÜK DÜNYA SPORLARI",15:00 (HENTBOL) CHAMPIONS LEAGUE WOMEN : ODENSE W VS FTC RAIL CARGO WDR 1 DENMARK |SPORT 1 HUNGARY
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1top1.newkso.ru/dokko1/premium801/mono.m3u8
+
+#EXTINF:-1 tvg-id="15:00 (BUZ HOKEYİ) SLOVAKIA 1ST LIGA : HK 36 SKALICA VS. HC 21 PRESOVJOJ SPORT SLOVAKIA" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",15:00 (BUZ HOKEYİ) SLOVAKIA 1ST LIGA : HK 36 SKALICA VS. HC 21 PRESOVJOJ SPORT SLOVAKIA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium4/mono.m3u8
+
+#EXTINF:-1 tvg-id="15:00 (RUGBY UNION) SIX NATIONS WOMEN : WALES W VS IRELAND WRTE ONE |SKY SPORT 4 NZ |MOVISTAR DEPORTES 6 SPAIN" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",15:00 (RUGBY UNION) SIX NATIONS WOMEN : WALES W VS IRELAND WRTE ONE |SKY SPORT 4 NZ |MOVISTAR DEPORTES 6 SPAIN
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium364/mono.m3u8
+
+#EXTINF:-1 tvg-id="15:15 (FUTBOL) SPAIN – LA LIGA : VILLARREAL VS REAL SOCIEDADM+ LALIGA TV |LALIGATV UK |PREMIER SPORTS 2 IRELAND |DAZN 1 DE |DAZN ELEVEN 3 PORTUGAL |CANAL+ SPORT 3 POLAND |BEIN SPORTS MAX 7 FRANCE |ZIGGO SPORT 2 NL |MATCH! FOOTBALL 2 RUSSIA |PRIMA SPORT 2 ROMANIA |ESPN DEPORTES |ARENA PREMIUM 3 SERBIA |NOVA SPORTS 1 GREECE |TV4 FOTBALL |TV2 SPORT X DENMARK |MAX SPORT 4 BULGARIA |ESPN3 BRAZIL |ESPN2 ARGENTINA |SUPERSPORT LALIGA |BEIN SPORTS MENA 1 |BEIN SPORTS MENA ENGLISH 2" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",15:15 (FUTBOL) SPAIN – LA LIGA : VILLARREAL VS REAL SOCIEDADM+ LALIGA TV |LALIGATV UK |PREMIER SPORTS 2 IRELAND |DAZN 1 DE |DAZN ELEVEN 3 PORTUGAL |CANAL+ SPORT 3 POLAND |BEIN SPORTS MAX 7 FRANCE |ZIGGO SPORT 2 NL |MATCH! FOOTBALL 2 RUSSIA |PRIMA SPORT 2 ROMANIA |ESPN DEPORTES |ARENA PREMIUM 3 SERBIA |NOVA SPORTS 1 GREECE |TV4 FOTBALL |TV2 SPORT X DENMARK |MAX SPORT 4 BULGARIA |ESPN3 BRAZIL |ESPN2 ARGENTINA |SUPERSPORT LALIGA |BEIN SPORTS MENA 1 |BEIN SPORTS MENA ENGLISH 2
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium84/mono.m3u8
+
+#EXTINF:-1 tvg-id="15:15 (FUTBOL) SPAIN – SEGUNDA DIVISION : CÓRDOBA VS REAL OVIEDOLALIGA TV HYPERMOTION |ESPN+ USA" tvg-logo="dokko1" group-title="GÜNLÜK DÜNYA SPORLARI",15:15 (FUTBOL) SPAIN – SEGUNDA DIVISION : CÓRDOBA VS REAL OVIEDOLALIGA TV HYPERMOTION |ESPN+ USA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1top1.newkso.ru/dokko1/premium539/mono.m3u8
+
+#EXTINF:-1 tvg-id="15:30 (FUTBOL) PORTUGAL – SEGUNDA LIGA : MARÍTIMO VS MAFRASPORT TV1 PORTUGAL" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",15:30 (FUTBOL) PORTUGAL – SEGUNDA LIGA : MARÍTIMO VS MAFRASPORT TV1 PORTUGAL
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium49/mono.m3u8
+
+#EXTINF:-1 tvg-id="15:30 (FUTBOL) GERMANY – 3. LIGA : HANNOVER 96 II VS WALDHOF MANNHEIMMAGENTA SPORT 301" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",15:30 (FUTBOL) GERMANY – 3. LIGA : HANNOVER 96 II VS WALDHOF MANNHEIMMAGENTA SPORT 301
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium14/mono.m3u8
+
+#EXTINF:-1 tvg-id="15:45 (FUTBOL) NETHERLANDS – EERSTE DIVISIE : VOLENDAM VS EXCELSIORESPN 1 NL" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",15:45 (FUTBOL) NETHERLANDS – EERSTE DIVISIE : VOLENDAM VS EXCELSIORESPN 1 NL
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium379/mono.m3u8
+
+#EXTINF:-1 tvg-id="15:45 (FUTBOL) NETHERLANDS – EREDIVISIE WOMEN : PSV VS HEERENVEENESPN 4 NL" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",15:45 (FUTBOL) NETHERLANDS – EREDIVISIE WOMEN : PSV VS HEERENVEENESPN 4 NL
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium6/mono.m3u8
+
+#EXTINF:-1 tvg-id="16:00 (TV SHOWS) GIRL MEETS FARM SEASON 15, EPISODE 5THE FOOD NETWORK" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",16:00 (TV SHOWS) GIRL MEETS FARM SEASON 15, EPISODE 5THE FOOD NETWORK
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium384/mono.m3u8
+
+#EXTINF:-1 tvg-id="16:00 (FUTBOL) AUSTRIA – FOOTBALL BUNDESLIGA : AUSTRIA WIEN VS SALZBURGSKY SPORT AUSTRIA 1" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA SPORLARI",16:00 (FUTBOL) AUSTRIA – FOOTBALL BUNDESLIGA : AUSTRIA WIEN VS SALZBURGSKY SPORT AUSTRIA 1
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6top1.newkso.ru/ddy6/premium559/mono.m3u8
+
+#EXTINF:-1 tvg-id="16:00 (FUTBOL) AZERBAIJAN – PREMIER LIQA : ZIRA VS SUMQAYITCBC SPORT AZERBAIJAN" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",16:00 (FUTBOL) AZERBAIJAN – PREMIER LIQA : ZIRA VS SUMQAYITCBC SPORT AZERBAIJAN
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium20/mono.m3u8
+
+#EXTINF:-1 tvg-id="16:00 (FUTBOL) DENMARK – SUPER LIGA : AAB VS SØNDERJYSKETV3 SPORT DENMARK" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA SPORLARI",16:00 (FUTBOL) DENMARK – SUPER LIGA : AAB VS SØNDERJYSKETV3 SPORT DENMARK
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6top1.newkso.ru/ddy6/premium809/mono.m3u8
+
+#EXTINF:-1 tvg-id="16:00 (FUTBOL) PORTUGAL – LIGA 3 : LUSITANIA FC LOUROSA VS FAFECANAL 11 PORTUGAL" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA SPORLARI",16:00 (FUTBOL) PORTUGAL – LIGA 3 : LUSITANIA FC LOUROSA VS FAFECANAL 11 PORTUGAL
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6top1.newkso.ru/ddy6/premium540/mono.m3u8
+
+#EXTINF:-1 tvg-id="16:00 (FUTBOL) ASIAN CUP U17 FINAL : UZBEKISTAN VS SAUDI ARABIASPORT KLUB 9 CROATIA" tvg-logo="dokko1" group-title="GÜNLÜK DÜNYA SPORLARI",16:00 (FUTBOL) ASIAN CUP U17 FINAL : UZBEKISTAN VS SAUDI ARABIASPORT KLUB 9 CROATIA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1top1.newkso.ru/dokko1/premium158/mono.m3u8
+
+#EXTINF:-1 tvg-id="16:00 (MOTORSPORT) SPEEDWAY EKSTRALIGA : GORZOW VS TORUNCANAL+ SPORT 5 POLAND |CANAL+ SPORT POLAND" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",16:00 (MOTORSPORT) SPEEDWAY EKSTRALIGA : GORZOW VS TORUNCANAL+ SPORT 5 POLAND |CANAL+ SPORT POLAND
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium75/mono.m3u8
+
+#EXTINF:-1 tvg-id="16:00 (BASKETBOL) ACB : BASKONIA VS TENERIFEMOVISTAR DEPORTES SPAIN |COSMOTE SPORT 5 GREECE |SPORT KLUB 2 CROATIA" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",16:00 (BASKETBOL) ACB : BASKONIA VS TENERIFEMOVISTAR DEPORTES SPAIN |COSMOTE SPORT 5 GREECE |SPORT KLUB 2 CROATIA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium436/mono.m3u8
+
+#EXTINF:-1 tvg-id="16:00 (BASKETBOL) ACB : BREOGAN VS TECNYCONTA ZARAGOZAMOVISTAR DEPORTES 3 SPAIN" tvg-logo="dokko1" group-title="GÜNLÜK DÜNYA SPORLARI",16:00 (BASKETBOL) ACB : BREOGAN VS TECNYCONTA ZARAGOZAMOVISTAR DEPORTES 3 SPAIN
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1top1.newkso.ru/dokko1/premium526/mono.m3u8
+
+#EXTINF:-1 tvg-id="16:00 (BASKETBOL) SÜPER LIGI : MERKEZEFENDI VS ANADOLU EFESBEIN SPORTS 5 TURKEY" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA SPORLARI",16:00 (BASKETBOL) SÜPER LIGI : MERKEZEFENDI VS ANADOLU EFESBEIN SPORTS 5 TURKEY
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6top1.newkso.ru/ddy6/premium106/mono.m3u8
+
+#EXTINF:-1 tvg-id="16:00 (GAA) GAA CLUB CHAMPIONSHIP – GALWAY VS ROSCOMMONRTE 2" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",16:00 (GAA) GAA CLUB CHAMPIONSHIP – GALWAY VS ROSCOMMONRTE 2
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium365/mono.m3u8
+
+#EXTINF:-1 tvg-id="16:00 (HENTBOL) STARLIGUE : NANTES VS NIMESBEIN SPORTS 1 FRANCE" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",16:00 (HENTBOL) STARLIGUE : NANTES VS NIMESBEIN SPORTS 1 FRANCE
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium116/mono.m3u8
+
+#EXTINF:-1 tvg-id="16:00 (BUZ HOKEYİ) CZECH REPUBLIC EXTRALIGA : HC DUKLA JIHLAVA VS. HC OLOMOUCCT SPORT CZECH HD" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",16:00 (BUZ HOKEYİ) CZECH REPUBLIC EXTRALIGA : HC DUKLA JIHLAVA VS. HC OLOMOUCCT SPORT CZECH HD
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium1/mono.m3u8
+
+#EXTINF:-1 tvg-id="16:00 (VOLLEYBALL) FRANCE LIGUE A, WOMEN : PARIS ST-CLOUD VS VANDŒUVRE NANCY VOLLEY-BALLSPORT EN FRANCE" tvg-logo="dokko1" group-title="GÜNLÜK DÜNYA SPORLARI",16:00 (VOLLEYBALL) FRANCE LIGUE A, WOMEN : PARIS ST-CLOUD VS VANDŒUVRE NANCY VOLLEY-BALLSPORT EN FRANCE
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1top1.newkso.ru/dokko1/premium153/mono.m3u8
+
+#EXTINF:-1 tvg-id="16:00 (VOLLEYBALL) HUNGARY EXTRALIGA WOMEN : VOLLEYBALL BRSE VS. VASAS SCDUNA WORLD HUNGARY" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",16:00 (VOLLEYBALL) HUNGARY EXTRALIGA WOMEN : VOLLEYBALL BRSE VS. VASAS SCDUNA WORLD HUNGARY
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium8/mono.m3u8
+
+#EXTINF:-1 tvg-id="16:10 (FUTBOL) SCOTLAND – SWPL 1 : HIBERNIAN LFC VS RANGERS LFCBBC SCOTLAND" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",16:10 (FUTBOL) SCOTLAND – SWPL 1 : HIBERNIAN LFC VS RANGERS LFCBBC SCOTLAND
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium15/mono.m3u8
+
+#EXTINF:-1 tvg-id="16:15 (FUTBOL) FRANCE – LIGUE 1 : SIMULCASTDAZN1 FRANCE" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",16:15 (FUTBOL) FRANCE – LIGUE 1 : SIMULCASTDAZN1 FRANCE
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium68/mono.m3u8
+
+#EXTINF:-1 tvg-id="16:15 (FUTBOL) FRANCE – LIGUE 1 : BREST VS LENSDAZN2 FRANCE |ARENA SPORT 2 SERBIA |BEIN SPORTS MENA 4" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",16:15 (FUTBOL) FRANCE – LIGUE 1 : BREST VS LENSDAZN2 FRANCE |ARENA SPORT 2 SERBIA |BEIN SPORTS MENA 4
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium76/mono.m3u8
+
+#EXTINF:-1 tvg-id="16:15 (FUTBOL) FRANCE – LIGUE 1 : REIMS VS TOULOUSEDAZN4 FRANCE" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",16:15 (FUTBOL) FRANCE – LIGUE 1 : REIMS VS TOULOUSEDAZN4 FRANCE
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium77/mono.m3u8
+
+#EXTINF:-1 tvg-id="16:15 (FUTBOL) FRANCE – LIGUE 1 : NICE VS ANGERS SCODAZN3 FRANCE |BEIN SPORTS USA |BEIN SPORTS EN ESPAÑOL |SPORT TV3 PORTUGAL |ELEVEN SPORTS 4 POLAND |ARENA SPORT 3 CROATIA |NOVA SPORT BULGARIA |BEIN SPORTS MENA 2" tvg-logo="dokko1" group-title="GÜNLÜK DÜNYA SPORLARI",16:15 (FUTBOL) FRANCE – LIGUE 1 : NICE VS ANGERS SCODAZN3 FRANCE |BEIN SPORTS USA |BEIN SPORTS EN ESPAÑOL |SPORT TV3 PORTUGAL |ELEVEN SPORTS 4 POLAND |ARENA SPORT 3 CROATIA |NOVA SPORT BULGARIA |BEIN SPORTS MENA 2
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1top1.newkso.ru/dokko1/premium86/mono.m3u8
+
+#EXTINF:-1 tvg-id="16:25 (FUTBOL) LITHUANIA A LYGA : HEGELMANN LITAUEN VS ŽALGIRISLRT PLIUS" tvg-logo="dokko1" group-title="GÜNLÜK DÜNYA SPORLARI",16:25 (FUTBOL) LITHUANIA A LYGA : HEGELMANN LITAUEN VS ŽALGIRISLRT PLIUS
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1top1.newkso.ru/dokko1/premium159/mono.m3u8
+
+#EXTINF:-1 tvg-id="16:30 (FUTBOL) ENGLAND – PREMIER LEAGUE : LEICESTER CITY VS LIVERPOOLOPTUS SPORT |SKY SPORTS MAIN EVENT UK |SKY SPORTS PREMIER LEAGUE UK |USA NETWORK |SKY SPORT 8 NZ |MOVISTAR LIGA DE CAMPEONES |DAZN2 SPAIN |SKY SPORT PREMIER LEAGUE DE |SKY SPORT TOP EVENT DE |TELEMUNDO |DAZN ELEVEN 1 PORTUGAL |SKY SPORT ARENA IT |CANAL+ SPORT360 FRANCE |CANAL+ FOOT FRANCE |BEIN SPORTS 3 TURKEY |DIGI SPORT 2 ROMANIA |PRIMA SPORT 2 ROMANIA |CYTAVISION SPORTS 3 CYPRUS |ASTRO PREMIER LEAGUE 2 |ARENA PREMIUM 1 SERBIA |NOVA SPORTS PREMIER LEAGUE GREECE |SEE DENMRK |ARENA SPORT 1 CROATIA |V SPORT PREMIUM |DIEMA SPORT 2 BULGARIA |ESPN BRAZIL |ESPN ARGENTINA |SUPERSPORT PREMIER LEAGUE |BEIN SPORTS MENA 1 |BEIN SPORTS MENA ENGLISH 1 |SPORT 1 ISRAEL" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",16:30 (FUTBOL) ENGLAND – PREMIER LEAGUE : LEICESTER CITY VS LIVERPOOLOPTUS SPORT |SKY SPORTS MAIN EVENT UK |SKY SPORTS PREMIER LEAGUE UK |USA NETWORK |SKY SPORT 8 NZ |MOVISTAR LIGA DE CAMPEONES |DAZN2 SPAIN |SKY SPORT PREMIER LEAGUE DE |SKY SPORT TOP EVENT DE |TELEMUNDO |DAZN ELEVEN 1 PORTUGAL |SKY SPORT ARENA IT |CANAL+ SPORT360 FRANCE |CANAL+ FOOT FRANCE |BEIN SPORTS 3 TURKEY |DIGI SPORT 2 ROMANIA |PRIMA SPORT 2 ROMANIA |CYTAVISION SPORTS 3 CYPRUS |ASTRO PREMIER LEAGUE 2 |ARENA PREMIUM 1 SERBIA |NOVA SPORTS PREMIER LEAGUE GREECE |SEE DENMRK |ARENA SPORT 1 CROATIA |V SPORT PREMIUM |DIEMA SPORT 2 BULGARIA |ESPN BRAZIL |ESPN ARGENTINA |SUPERSPORT PREMIER LEAGUE |BEIN SPORTS MENA 1 |BEIN SPORTS MENA ENGLISH 1 |SPORT 1 ISRAEL
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium21/mono.m3u8
+
+#EXTINF:-1 tvg-id="16:30 (FUTBOL) BUNDESLIGA : BORUSSIA DORTMUND VS BORUSSIA M’GLADBACHDAZN1 DE |SKY SPORTS FOOTBALL UK |DAZN ELEVEN 2 PORTUGAL |ELEVEN SPORTS 3 POLAND |BEIN SPORTS 2 FRANCE |TIVIBU SPOR 2 TURKEY |SKY SPORT 253 IT |DIGI SPORT 4 ROMANIA |MATCH! FOOTBALL 3 RUSSIA |CANAL+ SPORT 1 AFRIQUE |TV3 MAX DENMARK |SPORTV BRAZIL |ARENA SPORT 1 SERBIA |NOVA SPORTS PRIME GREECE |V SPORT FOOTBALL |DIEMA SPORT BULGARIA |SPORT KLUB 3 CROATIA |BEIN SPORTS MENA 5 |SPORT 2 ISRAEL" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA SPORLARI",16:30 (FUTBOL) BUNDESLIGA : BORUSSIA DORTMUND VS BORUSSIA M’GLADBACHDAZN1 DE |SKY SPORTS FOOTBALL UK |DAZN ELEVEN 2 PORTUGAL |ELEVEN SPORTS 3 POLAND |BEIN SPORTS 2 FRANCE |TIVIBU SPOR 2 TURKEY |SKY SPORT 253 IT |DIGI SPORT 4 ROMANIA |MATCH! FOOTBALL 3 RUSSIA |CANAL+ SPORT 1 AFRIQUE |TV3 MAX DENMARK |SPORTV BRAZIL |ARENA SPORT 1 SERBIA |NOVA SPORTS PRIME GREECE |V SPORT FOOTBALL |DIEMA SPORT BULGARIA |SPORT KLUB 3 CROATIA |BEIN SPORTS MENA 5 |SPORT 2 ISRAEL
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6top1.newkso.ru/ddy6/premium426/mono.m3u8
+
+#EXTINF:-1 tvg-id="16:30 (BASKETBOL) ISRAELI BASKETBALL SUPER LEAGUE : BNEI HERZELIYA VS HAPOEL AFULASPORT 5 PLUS ISRAEL" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",16:30 (BASKETBOL) ISRAELI BASKETBALL SUPER LEAGUE : BNEI HERZELIYA VS HAPOEL AFULASPORT 5 PLUS ISRAEL
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium145/mono.m3u8
+
+#EXTINF:-1 tvg-id="17:00 (TV SHOWS) OH BABY! SEASON 5, EPISODE 15ABC NY USA" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",17:00 (TV SHOWS) OH BABY! SEASON 5, EPISODE 15ABC NY USA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium766/mono.m3u8
+
+#EXTINF:-1 tvg-id="17:00 (FUTBOL) TURKEY – 1. LIG : GENÇLERBIRLIĞI VS BANDIRMASPORTRT SPOR TURKEY |BEIN SPORTS 2 TURKEY" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",17:00 (FUTBOL) TURKEY – 1. LIG : GENÇLERBIRLIĞI VS BANDIRMASPORTRT SPOR TURKEY |BEIN SPORTS 2 TURKEY
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium889/mono.m3u8
+
+#EXTINF:-1 tvg-id="17:00 (FUTBOL) ITALY – SERIE A : BOLOGNA VS INTERNAZIONALESKY SPORT 251 IT |SKY SPORT CALCIO IT |SPORT TV4 PORTUGAL |ELEVEN SPORTS 2 POLAND |ZIGGO SPORT 1 NL |MATCH! FOOTBALL 1 RUSSIA |PRIMA SPORT 4 ROMANIA |DIGI SPORT 3 ROMANIA |CYTAVISION SPORTS 4 CYPRUS |FOX DEPORTES |ABU DHABI SPORTS PREMIUM 1 |ARENA PREMIUM 2 SERBIA |COSMOTE SPORT 1 GREECE |ARENA SPORT 4 CROATIA |TV4 SPORTKANALEN |MAX SPORT 3 BULGARIA |SUPERSPORT FOOTBALL |ESPN4 BRAZIL |SPORT 3 ISRAEL" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",17:00 (FUTBOL) ITALY – SERIE A : BOLOGNA VS INTERNAZIONALESKY SPORT 251 IT |SKY SPORT CALCIO IT |SPORT TV4 PORTUGAL |ELEVEN SPORTS 2 POLAND |ZIGGO SPORT 1 NL |MATCH! FOOTBALL 1 RUSSIA |PRIMA SPORT 4 ROMANIA |DIGI SPORT 3 ROMANIA |CYTAVISION SPORTS 4 CYPRUS |FOX DEPORTES |ABU DHABI SPORTS PREMIUM 1 |ARENA PREMIUM 2 SERBIA |COSMOTE SPORT 1 GREECE |ARENA SPORT 4 CROATIA |TV4 SPORTKANALEN |MAX SPORT 3 BULGARIA |SUPERSPORT FOOTBALL |ESPN4 BRAZIL |SPORT 3 ISRAEL
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium26/mono.m3u8
+
+#EXTINF:-1 tvg-id="17:00 (FUTBOL) UEFA WOMEN’S CHAMPIONS LEAGUE : BARCELONA VS CHELSEA FCTNT SPORTS 2 UK |DAZN ZONA IT |DAZN1 SPAIN |ELLAS VAMOS ES |POLSAT SPORT 1 POLAND |TNT SPORTS ARGENTINA" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",17:00 (FUTBOL) UEFA WOMEN’S CHAMPIONS LEAGUE : BARCELONA VS CHELSEA FCTNT SPORTS 2 UK |DAZN ZONA IT |DAZN1 SPAIN |ELLAS VAMOS ES |POLSAT SPORT 1 POLAND |TNT SPORTS ARGENTINA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium32/mono.m3u8
+
+#EXTINF:-1 tvg-id="17:00 (FUTBOL) ARGENTINA PRIMERA B : REAL PILAR VS UAI URQUIZATYC SPORTS ARGENTINA" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA SPORLARI",17:00 (FUTBOL) ARGENTINA PRIMERA B : REAL PILAR VS UAI URQUIZATYC SPORTS ARGENTINA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6top1.newkso.ru/ddy6/premium746/mono.m3u8
+
+#EXTINF:-1 tvg-id="17:00 (FUTBOL) SUPER LIG : FENERBAHÇE VS KAYSERISPORBEIN SPORTS 1 TURKEY |SPORT TV6 PORTUGAL |BEIN SPORTS MAX 5 FRANCE" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",17:00 (FUTBOL) SUPER LIG : FENERBAHÇE VS KAYSERISPORBEIN SPORTS 1 TURKEY |SPORT TV6 PORTUGAL |BEIN SPORTS MAX 5 FRANCE
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium62/mono.m3u8
+
+#EXTINF:-1 tvg-id="17:00 (MOTORSPORT) FORMULA 1 : STC SAUDI ARABIAN GRAND PRIX – GRAND PRIX SUNDAYSKY SPORTS F1 UK |ESPN USA |SKY SPORT F1 DE |TSN5 |DAZN F1 ES |CANAL+ FRANCE |CANAL+ FORMULA 1 |SKY SPORT 1 NZ |SKY SPORTS F1 ITALY |ANT+ F1 GREECE |VODAFONE SPORT |SPORT KLUB 1 CROATIA |V SPORT MOTOR SWEDEN |ARENA PREMIUM 3 SERBIA |CYTAVISION SPORTS 6 CYPRUS |TV3+ DENMARK |ESPN DEPORTES |FOX SPORTS 1 MX |SPORT 5 LIVE ISRAEL" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",17:00 (MOTORSPORT) FORMULA 1 : STC SAUDI ARABIAN GRAND PRIX – GRAND PRIX SUNDAYSKY SPORTS F1 UK |ESPN USA |SKY SPORT F1 DE |TSN5 |DAZN F1 ES |CANAL+ FRANCE |CANAL+ FORMULA 1 |SKY SPORT 1 NZ |SKY SPORTS F1 ITALY |ANT+ F1 GREECE |VODAFONE SPORT |SPORT KLUB 1 CROATIA |V SPORT MOTOR SWEDEN |ARENA PREMIUM 3 SERBIA |CYTAVISION SPORTS 6 CYPRUS |TV3+ DENMARK |ESPN DEPORTES |FOX SPORTS 1 MX |SPORT 5 LIVE ISRAEL
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium60/mono.m3u8
+
+#EXTINF:-1 tvg-id="17:00 (BEYZBOL) COLLEGE SOFTBALL : GEORGIA TECH VS FLORIDA STATEESPNU USA" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",17:00 (BEYZBOL) COLLEGE SOFTBALL : GEORGIA TECH VS FLORIDA STATEESPNU USA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium316/mono.m3u8
+
+#EXTINF:-1 tvg-id="17:00 (HENTBOL) DENMARK HERRELIGAEN : SKANDERBORG-AARHUS HAANDBOLD VS. MORS-THY HAANDBOLDTV2 SPORT DENMARK" tvg-logo="dokko1" group-title="GÜNLÜK DÜNYA SPORLARI",17:00 (HENTBOL) DENMARK HERRELIGAEN : SKANDERBORG-AARHUS HAANDBOLD VS. MORS-THY HAANDBOLDTV2 SPORT DENMARK
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1top1.newkso.ru/dokko1/premium810/mono.m3u8
+
+#EXTINF:-1 tvg-id="17:00 (HENTBOL) HANDBALL-BUNDESLIGA WOMEN : THURINGER W VS BENSHEIM-AUERBACH WEUROSPORT 1 DE" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",17:00 (HENTBOL) HANDBALL-BUNDESLIGA WOMEN : THURINGER W VS BENSHEIM-AUERBACH WEUROSPORT 1 DE
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium235/mono.m3u8
+
+#EXTINF:-1 tvg-id="17:00 (BUZ HOKEYİ) HOCKEYALLSVENSKAN : AIK VS DJURGARDENSTV4 HOCKEY" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",17:00 (BUZ HOKEYİ) HOCKEYALLSVENSKAN : AIK VS DJURGARDENSTV4 HOCKEY
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium700/mono.m3u8
+
+#EXTINF:-1 tvg-id="17:00 (BUZ HOKEYİ) KHL : DYNAMO MOSCOW VS BARS KAZANKHL TV |MATCH TV RUSSIA" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA SPORLARI",17:00 (BUZ HOKEYİ) KHL : DYNAMO MOSCOW VS BARS KAZANKHL TV |MATCH TV RUSSIA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6top1.newkso.ru/ddy6/premium152/mono.m3u8
+
+#EXTINF:-1 tvg-id="17:30 (FUTBOL) RUSSIA – PREMIER LEAGUE : CSKA MOSKVA VS KRYLYA SOVETOVMATCH PREMIER RUSSIA |ARENA PREMIUM 1 SERBIA" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA SPORLARI",17:30 (FUTBOL) RUSSIA – PREMIER LEAGUE : CSKA MOSKVA VS KRYLYA SOVETOVMATCH PREMIER RUSSIA |ARENA PREMIUM 1 SERBIA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6top1.newkso.ru/ddy6/premium573/mono.m3u8
+
+#EXTINF:-1 tvg-id="17:30 (FUTBOL) CHILE – PRIMERA DIVISION : EVERTON VS UNIÓN LA CALERATNT SPORTS PREMIUM CHILE" tvg-logo="dokko1" group-title="GÜNLÜK DÜNYA SPORLARI",17:30 (FUTBOL) CHILE – PRIMERA DIVISION : EVERTON VS UNIÓN LA CALERATNT SPORTS PREMIUM CHILE
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1top1.newkso.ru/dokko1/premium642/mono.m3u8
+
+#EXTINF:-1 tvg-id="17:30 (FUTBOL) SPAIN – LA LIGA : SEVILLA VS DEPORTIVO ALAVÉSDAZN LALIGA |GOL PLAY ES |LALIGATV UK |PREMIER SPORTS 1 IRELAND |DAZN ELEVEN 3 PORTUGAL |BEIN SPORTS MAX 7 FRANCE |ZIGGO SPORT 2 NL |PRIMA SPORT 3 ROMANIA |ARENA SPORT 3 SERBIA |ESPN DEPORTES |MATCH! FOOTBALL 2 RUSSIA |NOVA SPORTS 1 GREECE |ARENA SPORT 2 CROATIA |TV4 FOTBALL |MAX SPORT 4 BULGARIA |SUPERSPORT LALIGA |BEIN SPORTS MENA 3" tvg-logo="dokko1" group-title="GÜNLÜK DÜNYA SPORLARI",17:30 (FUTBOL) SPAIN – LA LIGA : SEVILLA VS DEPORTIVO ALAVÉSDAZN LALIGA |GOL PLAY ES |LALIGATV UK |PREMIER SPORTS 1 IRELAND |DAZN ELEVEN 3 PORTUGAL |BEIN SPORTS MAX 7 FRANCE |ZIGGO SPORT 2 NL |PRIMA SPORT 3 ROMANIA |ARENA SPORT 3 SERBIA |ESPN DEPORTES |MATCH! FOOTBALL 2 RUSSIA |NOVA SPORTS 1 GREECE |ARENA SPORT 2 CROATIA |TV4 FOTBALL |MAX SPORT 4 BULGARIA |SUPERSPORT LALIGA |BEIN SPORTS MENA 3
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1top1.newkso.ru/dokko1/premium538/mono.m3u8
+
+#EXTINF:-1 tvg-id="17:30 (FUTBOL) BELGIUM – PRO LEAGUE : GENT VS CLUB BRUGGEDAZN PRO LEAGUE 1 BELGIUM |SPORT1+ DE|SPORTDIGITAL+ DE |ZIGGO SPORT 5 NL" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",17:30 (FUTBOL) BELGIUM – PRO LEAGUE : GENT VS CLUB BRUGGEDAZN PRO LEAGUE 1 BELGIUM |SPORT1+ DE|SPORTDIGITAL+ DE |ZIGGO SPORT 5 NL
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium5/mono.m3u8
+
+#EXTINF:-1 tvg-id="17:30 (FUTBOL) SPAIN – SEGUNDA DIVISION : ELCHE VS ALBACETELALIGA TV HYPERMOTION" tvg-logo="dokko1" group-title="GÜNLÜK DÜNYA SPORLARI",17:30 (FUTBOL) SPAIN – SEGUNDA DIVISION : ELCHE VS ALBACETELALIGA TV HYPERMOTION
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1top1.newkso.ru/dokko1/premium539/mono.m3u8
+
+#EXTINF:-1 tvg-id="17:30 (BASKETBOL) ACB : FC BARCELONA VS. CB GRAN CANARIAM+ #VAMOS ES |DAZN ELEVEN 4 PORTUGAL |ARENA SPORT 4 SERBIA" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",17:30 (BASKETBOL) ACB : FC BARCELONA VS. CB GRAN CANARIAM+ #VAMOS ES |DAZN ELEVEN 4 PORTUGAL |ARENA SPORT 4 SERBIA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium521/mono.m3u8
+
+#EXTINF:-1 tvg-id="18:00 (FUTBOL) PORTUGAL – LIGA 3 : CF OS BELENENSES VS SPORTING CP IICANAL 11 PORTUGAL" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA SPORLARI",18:00 (FUTBOL) PORTUGAL – LIGA 3 : CF OS BELENENSES VS SPORTING CP IICANAL 11 PORTUGAL
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6top1.newkso.ru/ddy6/premium540/mono.m3u8
+
+#EXTINF:-1 tvg-id="18:00 (FUTBOL) ROMANIA – LIGA I : FCSB VS CFR CLUJDIGI SPORT 1 ROMANIA |PRIMA SPORT 1 ROMANIA" tvg-logo="top1" group-title="GÜNLÜK DÜNYA SPORLARI",18:00 (FUTBOL) ROMANIA – LIGA I : FCSB VS CFR CLUJDIGI SPORT 1 ROMANIA |PRIMA SPORT 1 ROMANIA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://top1top1.newkso.ru/top1/premium400/mono.m3u8
+
+#EXTINF:-1 tvg-id="18:00 (FUTBOL) COSTA RICA : PRIMERA DIVISION : CARTAGINÉS VS GUANACASTECAFUTV" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",18:00 (FUTBOL) COSTA RICA : PRIMERA DIVISION : CARTAGINÉS VS GUANACASTECAFUTV
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium22/mono.m3u8
+
+#EXTINF:-1 tvg-id="18:00 (TENNIS) WOMEN’S COLLEGE TENNIS SEC CHAMPIONSHIP: TEAMS TBASEC NETWORK USA" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",18:00 (TENNIS) WOMEN’S COLLEGE TENNIS SEC CHAMPIONSHIP: TEAMS TBASEC NETWORK USA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium385/mono.m3u8
+
+#EXTINF:-1 tvg-id="18:00 (MOTORSPORT) FORMULA 1 : STC SAUDI ARABIAN GRAND PRIX – RACESKY SPORTS F1 UK |ESPN USA |SKY SPORT F1 DE |TSN5 |DAZN F1 ES |CANAL+ FRANCE |CANAL+ FORMULA 1 |SKY SPORT 1 NZ |SKY SPORTS F1 ITALY |ANT+ F1 GREECE |VODAFONE SPORT |SPORT KLUB 1 CROATIA |V SPORT MOTOR SWEDEN |ARENA PREMIUM 3 SERBIA |CYTAVISION SPORTS 6 CYPRUS |TV3+ DENMARK |ESPN DEPORTES |FOX SPORTS 1 MX |SPORT 5 LIVE ISRAEL" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",18:00 (MOTORSPORT) FORMULA 1 : STC SAUDI ARABIAN GRAND PRIX – RACESKY SPORTS F1 UK |ESPN USA |SKY SPORT F1 DE |TSN5 |DAZN F1 ES |CANAL+ FRANCE |CANAL+ FORMULA 1 |SKY SPORT 1 NZ |SKY SPORTS F1 ITALY |ANT+ F1 GREECE |VODAFONE SPORT |SPORT KLUB 1 CROATIA |V SPORT MOTOR SWEDEN |ARENA PREMIUM 3 SERBIA |CYTAVISION SPORTS 6 CYPRUS |TV3+ DENMARK |ESPN DEPORTES |FOX SPORTS 1 MX |SPORT 5 LIVE ISRAEL
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium60/mono.m3u8
+
+#EXTINF:-1 tvg-id="18:00 (GOLF) WOMEN’S COLLEGE GOLF BIG TEN CHAMPIONSHIPBTN USA" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",18:00 (GOLF) WOMEN’S COLLEGE GOLF BIG TEN CHAMPIONSHIPBTN USA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium397/mono.m3u8
+
+#EXTINF:-1 tvg-id="18:00 (BEYZBOL) COLLEGE BASEBALL : NORTH CAROLINA  VS VIRGINIA TECHACC NETWORK USA" tvg-logo="dokko1" group-title="GÜNLÜK DÜNYA SPORLARI",18:00 (BEYZBOL) COLLEGE BASEBALL : NORTH CAROLINA  VS VIRGINIA TECHACC NETWORK USA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1top1.newkso.ru/dokko1/premium664/mono.m3u8
+
+#EXTINF:-1 tvg-id="18:00 (BASKETBOL) LNB : LIMOGES VS GRAVELINES-DUNKERQUESPORT KLUB HD CROATIA" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",18:00 (BASKETBOL) LNB : LIMOGES VS GRAVELINES-DUNKERQUESPORT KLUB HD CROATIA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium453/mono.m3u8
+
+#EXTINF:-1 tvg-id="18:00 (BASKETBOL) NBA : MEMPHIS GRIZZLIES VS OKLAHOMA CITY THUNDERHOME FEED |AWAY FEED |ABC USA |ABC NY USA |TSN3 |ESPN2 USA |ESPN2 BRAZIL |COSMOTE SPORT 4 |BEIN SPORTS 3 FRANCE |SPORT 5 ISRAEL" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",18:00 (BASKETBOL) NBA : MEMPHIS GRIZZLIES VS OKLAHOMA CITY THUNDERHOME FEED |AWAY FEED |ABC USA |ABC NY USA |TSN3 |ESPN2 USA |ESPN2 BRAZIL |COSMOTE SPORT 4 |BEIN SPORTS 3 FRANCE |SPORT 5 ISRAEL
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium9/mono.m3u8
+
+#EXTINF:-1 tvg-id="18:00 (DARTS) LIVE GERMAN DARTS GRAND PRIX – ZENITHPDC TV |SPORT1 DE |TV3 SPORT DENMARK" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",18:00 (DARTS) LIVE GERMAN DARTS GRAND PRIX – ZENITHPDC TV |SPORT1 DE |TV3 SPORT DENMARK
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium43/mono.m3u8
+
+#EXTINF:-1 tvg-id="18:00 (VOLLEYBALL) SLOVAKIA EXTRALIGA : VK SPARTAK UJS KOMARNO VS. VKP BRATISLAVAJOJ SPORT SLOVAKIA" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",18:00 (VOLLEYBALL) SLOVAKIA EXTRALIGA : VK SPARTAK UJS KOMARNO VS. VKP BRATISLAVAJOJ SPORT SLOVAKIA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium4/mono.m3u8
+
+#EXTINF:-1 tvg-id="18:00 (VOLLEYBALL) TÜRKIYE VVSL LIG, WOMEN : FENERBAHÇE VS VAKIFBANKARENA SPORT 4 SERBIA" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",18:00 (VOLLEYBALL) TÜRKIYE VVSL LIG, WOMEN : FENERBAHÇE VS VAKIFBANKARENA SPORT 4 SERBIA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium581/mono.m3u8
+
+#EXTINF:-1 tvg-id="18:15 (FUTBOL) ISRAEL – LIGAT HA’AL : MACCABI HAIFA VS MACCABI NETANYASPORT 4 ISRAEL" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",18:15 (FUTBOL) ISRAEL – LIGAT HA’AL : MACCABI HAIFA VS MACCABI NETANYASPORT 4 ISRAEL
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium143/mono.m3u8
+
+#EXTINF:-1 tvg-id="18:30 (FUTBOL) BUNDESLIGA : ST. PAULI VS BAYER LEVERKUSENDAZN2 DE |SKY SPORTS FOOTBALL UK |DAZN ELEVEN 2 PORTUGAL |ELEVEN SPORTS 3 POLAND |BEIN SPORTS 2 FRANCE |TIVIBU SPOR 1 TURKEY |SKY SPORT ARENA IT |DIGI SPORT 4 ROMANIA |MATCH! FOOTBALL 3 RUSSIA |ARENA PREMIUM 1 SERBIA |NOVA SPORTS 3 GREECE |TV3 MAX DENMARK |SPORT KLUB 3 CROATIA |DIEMA SPORT BULGARIA |ESPN2 ARGENTINA |BEIN SPORTS MENA 2 |SPORT 2 ISRAEL" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA SPORLARI",18:30 (FUTBOL) BUNDESLIGA : ST. PAULI VS BAYER LEVERKUSENDAZN2 DE |SKY SPORTS FOOTBALL UK |DAZN ELEVEN 2 PORTUGAL |ELEVEN SPORTS 3 POLAND |BEIN SPORTS 2 FRANCE |TIVIBU SPOR 1 TURKEY |SKY SPORT ARENA IT |DIGI SPORT 4 ROMANIA |MATCH! FOOTBALL 3 RUSSIA |ARENA PREMIUM 1 SERBIA |NOVA SPORTS 3 GREECE |TV3 MAX DENMARK |SPORT KLUB 3 CROATIA |DIEMA SPORT BULGARIA |ESPN2 ARGENTINA |BEIN SPORTS MENA 2 |SPORT 2 ISRAEL
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6top1.newkso.ru/ddy6/premium427/mono.m3u8
+
+#EXTINF:-1 tvg-id="18:30 (FUTBOL) GERMANY – 3. LIGA : ERZGEBIRGE AUE VS BORUSSIA DORTMUND IIMAGENTA SPORT 301 |SPORT KLUB 2 CROATIA" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",18:30 (FUTBOL) GERMANY – 3. LIGA : ERZGEBIRGE AUE VS BORUSSIA DORTMUND IIMAGENTA SPORT 301 |SPORT KLUB 2 CROATIA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium14/mono.m3u8
+
+#EXTINF:-1 tvg-id="18:30 (MOTORSPORT) SPEEDWAY EKSTRALIGA : WROCLAW VS ZIELONA GORACANAL+ SPORT POLAND" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",18:30 (MOTORSPORT) SPEEDWAY EKSTRALIGA : WROCLAW VS ZIELONA GORACANAL+ SPORT POLAND
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium48/mono.m3u8
+
+#EXTINF:-1 tvg-id="18:35 (BEYZBOL) MLB : CHICAGO WHITE SOX VS BOSTON RED SOXMLB LEAGUE PASS |NESN USA |CHICAGO SPORTS NETWORK" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",18:35 (BEYZBOL) MLB : CHICAGO WHITE SOX VS BOSTON RED SOXMLB LEAGUE PASS |NESN USA |CHICAGO SPORTS NETWORK
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium12/mono.m3u8
+
+#EXTINF:-1 tvg-id="18:35 (BEYZBOL) MLB : CINCINNATI REDS VS BALTIMORE ORIOLESMLB LEAGUE PASS |FANDUEL SPORTS NETWORK INDIANA |FANDUEL SPORTS NETWORK OHIO" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",18:35 (BEYZBOL) MLB : CINCINNATI REDS VS BALTIMORE ORIOLESMLB LEAGUE PASS |FANDUEL SPORTS NETWORK INDIANA |FANDUEL SPORTS NETWORK OHIO
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium13/mono.m3u8
+
+#EXTINF:-1 tvg-id="18:35 (BEYZBOL) MLB : CLEVELAND GUARDIANS VS PITTSBURGH PIRATESMLB LEAGUE PASS |SPORTSNET PITTSBURGH" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",18:35 (BEYZBOL) MLB : CLEVELAND GUARDIANS VS PITTSBURGH PIRATESMLB LEAGUE PASS |SPORTSNET PITTSBURGH
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium16/mono.m3u8
+
+#EXTINF:-1 tvg-id="18:35 (BEYZBOL) MLB : MIAMI MARLINS VS PHILADELPHIA PHILLIESMLB LEAGUE PASS |NBCS PHILADELPHIA |FANDUEL SPORTS NETWORK FLORIDA" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",18:35 (BEYZBOL) MLB : MIAMI MARLINS VS PHILADELPHIA PHILLIESMLB LEAGUE PASS |NBCS PHILADELPHIA |FANDUEL SPORTS NETWORK FLORIDA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium17/mono.m3u8
+
+#EXTINF:-1 tvg-id="18:35 (BEYZBOL) MLB : MINNESOTA TWINS VS ATLANTA BRAVESMLB LEAGUE PASS |SKY SPORT MAX IT |FANDUEL SPORTS NETWORK SOUTH |FANDUEL SPORTS NETWORK SOUTHEAST" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",18:35 (BEYZBOL) MLB : MINNESOTA TWINS VS ATLANTA BRAVESMLB LEAGUE PASS |SKY SPORT MAX IT |FANDUEL SPORTS NETWORK SOUTH |FANDUEL SPORTS NETWORK SOUTHEAST
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium18/mono.m3u8
+
+#EXTINF:-1 tvg-id="18:37 (BEYZBOL) MLB : SEATTLE MARINERS VS TORONTO BLUE JAYSMLB LEAGUE PASS |ROOT SPORTS NW USA |SPORTSNET ONE" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",18:37 (BEYZBOL) MLB : SEATTLE MARINERS VS TORONTO BLUE JAYSMLB LEAGUE PASS |ROOT SPORTS NW USA |SPORTSNET ONE
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium19/mono.m3u8
+
+#EXTINF:-1 tvg-id="18:40 (BEYZBOL) MLB : KANSAS CITY ROYALS VS DETROIT TIGERSMLB LEAGUE PASS |FANDUEL SPORTS NETWORK DETROIT |FANDUEL SPORTS NETWORK KANSAS CITY" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",18:40 (BEYZBOL) MLB : KANSAS CITY ROYALS VS DETROIT TIGERSMLB LEAGUE PASS |FANDUEL SPORTS NETWORK DETROIT |FANDUEL SPORTS NETWORK KANSAS CITY
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium20/mono.m3u8
+
+#EXTINF:-1 tvg-id="18:40 (BEYZBOL) MLB : NEW YORK YANKEES VS TAMPA BAY RAYSMLB LEAGUE PASS |BALLY SPORTS SUN |YES USA |MLB NETWORK USA" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",18:40 (BEYZBOL) MLB : NEW YORK YANKEES VS TAMPA BAY RAYSMLB LEAGUE PASS |BALLY SPORTS SUN |YES USA |MLB NETWORK USA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium24/mono.m3u8
+
+#EXTINF:-1 tvg-id="18:40 (BEYZBOL) MLB : ST. LOUIS CARDINALS VS NEW YORK METSMLB LEAGUE PASS |TNT SPORTS 4 UK |CW USA |CW PIX 11 USA |FANDUEL SPORTS NETWORK INDIANA |FANDUEL SPORTS NETWORK MIDWEST |FANDUEL SPORTS NETWORK OKLAHOMA" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",18:40 (BEYZBOL) MLB : ST. LOUIS CARDINALS VS NEW YORK METSMLB LEAGUE PASS |TNT SPORTS 4 UK |CW USA |CW PIX 11 USA |FANDUEL SPORTS NETWORK INDIANA |FANDUEL SPORTS NETWORK MIDWEST |FANDUEL SPORTS NETWORK OKLAHOMA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium27/mono.m3u8
+
+#EXTINF:-1 tvg-id="19:00 (FUTBOL) ARGENTINA – PRIMERA NACIONAL : CHACARITA JUNIORS VS COLÓNTYC SPORTS ARGENTINA" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA SPORLARI",19:00 (FUTBOL) ARGENTINA – PRIMERA NACIONAL : CHACARITA JUNIORS VS COLÓNTYC SPORTS ARGENTINA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6top1.newkso.ru/ddy6/premium746/mono.m3u8
+
+#EXTINF:-1 tvg-id="19:00 (FUTBOL) URUGUAY – PRIMERA DIVISION : LIVERPOOL VS PLAZA COLONIAVTV+ URUGUAY |GOLTV USA" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",19:00 (FUTBOL) URUGUAY – PRIMERA DIVISION : LIVERPOOL VS PLAZA COLONIAVTV+ URUGUAY |GOLTV USA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium391/mono.m3u8
+
+#EXTINF:-1 tvg-id="19:00 (BOKS) IBF TITLE FIGHTS 10/12 ROUNDS LIGHT-HEAVYWEIGHT TBC : BEN WHITTAKER VS LIAM CAMERON 2PPV FEED |SKY SPORTS ACTION UK |SKY SPORTS MAIN EVENT |ESPN ARGENTINA" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA SPORLARI",19:00 (BOKS) IBF TITLE FIGHTS 10/12 ROUNDS LIGHT-HEAVYWEIGHT TBC : BEN WHITTAKER VS LIAM CAMERON 2PPV FEED |SKY SPORTS ACTION UK |SKY SPORTS MAIN EVENT |ESPN ARGENTINA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6top1.newkso.ru/ddy6/premium105/mono.m3u8
+
+#EXTINF:-1 tvg-id="19:00 (BOKS) IBF TITLE FIGHTS 10 ROUNDS SUPER-WELTERWEIGHT : LEE CUTLER VS SAM EGGINGTONPPV FEED |SKY SPORTS ACTION UK |SKY SPORTS MAIN EVENT |ESPN ARGENTINA" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA SPORLARI",19:00 (BOKS) IBF TITLE FIGHTS 10 ROUNDS SUPER-WELTERWEIGHT : LEE CUTLER VS SAM EGGINGTONPPV FEED |SKY SPORTS ACTION UK |SKY SPORTS MAIN EVENT |ESPN ARGENTINA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6top1.newkso.ru/ddy6/premium105/mono.m3u8
+
+#EXTINF:-1 tvg-id="19:00 (BOKS) IBF TITLE FIGHTS : FRAZER CLARKE VS EBANEEZER TETTEHPPV FEED |SKY SPORTS ACTION UK |SKY SPORTS MAIN EVENT |ESPN ARGENTINA" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA SPORLARI",19:00 (BOKS) IBF TITLE FIGHTS : FRAZER CLARKE VS EBANEEZER TETTEHPPV FEED |SKY SPORTS ACTION UK |SKY SPORTS MAIN EVENT |ESPN ARGENTINA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6top1.newkso.ru/ddy6/premium105/mono.m3u8
+
+#EXTINF:-1 tvg-id="19:00 (BOKS) IBF TITLE FIGHTS : TYLER DENNY VS ELVIS AHORGAHPPV FEED |SKY SPORTS ACTION UK |SKY SPORTS MAIN EVENT |ESPN ARGENTINA" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA SPORLARI",19:00 (BOKS) IBF TITLE FIGHTS : TYLER DENNY VS ELVIS AHORGAHPPV FEED |SKY SPORTS ACTION UK |SKY SPORTS MAIN EVENT |ESPN ARGENTINA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6top1.newkso.ru/ddy6/premium105/mono.m3u8
+
+#EXTINF:-1 tvg-id="19:00 (BİLARDO) WORLD CHAMPIONSHIP SNOOKER ROUND 1TNT SPORT 3 UK |BBC FOUR UK" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",19:00 (BİLARDO) WORLD CHAMPIONSHIP SNOOKER ROUND 1TNT SPORT 3 UK |BBC FOUR UK
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium33/mono.m3u8
+
+#EXTINF:-1 tvg-id="19:00 (BEYZBOL) COLLEGE BASEBALL : HOLY CROSS VS NAVYCBS SPORTS NETWORK USA" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",19:00 (BEYZBOL) COLLEGE BASEBALL : HOLY CROSS VS NAVYCBS SPORTS NETWORK USA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium308/mono.m3u8
+
+#EXTINF:-1 tvg-id="19:00 (BASKETBOL) ISRAELI BASKETBALL SUPER LEAGUE : BARAK NETANYA VS HAPOEL UNET HOLONSPORT 5 PLUS ISRAEL" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",19:00 (BASKETBOL) ISRAELI BASKETBALL SUPER LEAGUE : BARAK NETANYA VS HAPOEL UNET HOLONSPORT 5 PLUS ISRAEL
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium145/mono.m3u8
+
+#EXTINF:-1 tvg-id="19:00 (HENTBOL) DENMARK HERRELIGAEN : BJERRINGBRO-SILKEBORG HAANDBOLD VS. FREDERICIA HK 1990TV2 SPORT DENMARK" tvg-logo="dokko1" group-title="GÜNLÜK DÜNYA SPORLARI",19:00 (HENTBOL) DENMARK HERRELIGAEN : BJERRINGBRO-SILKEBORG HAANDBOLD VS. FREDERICIA HK 1990TV2 SPORT DENMARK
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1top1.newkso.ru/dokko1/premium810/mono.m3u8
+
+#EXTINF:-1 tvg-id="19:10 (BEYZBOL) MLB : OAKLAND ATHLETICS VS MILWAUKEE BREWERSMLB LEAGUE PASS |NBCS CALIFORNIA USA |FANDUEL SPORTS NETWORK WISCONSIN |TELEMUNDO" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",19:10 (BEYZBOL) MLB : OAKLAND ATHLETICS VS MILWAUKEE BREWERSMLB LEAGUE PASS |NBCS CALIFORNIA USA |FANDUEL SPORTS NETWORK WISCONSIN |TELEMUNDO
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium30/mono.m3u8
+
+#EXTINF:-1 tvg-id="19:15 (FUTBOL) PERU – PRIMERA DIVISION : UTC CAJAMARCA VS ADTLIGA 1 MAX PERU" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",19:15 (FUTBOL) PERU – PRIMERA DIVISION : UTC CAJAMARCA VS ADTLIGA 1 MAX PERU
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium23/mono.m3u8
+
+#EXTINF:-1 tvg-id="19:20 (BEYZBOL) MLB : ARIZONA DIAMONDBACKS VS CHICAGO CUBSMLB LEAGUE PASS |MARQUEE SPORTS NETWORK USA" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",19:20 (BEYZBOL) MLB : ARIZONA DIAMONDBACKS VS CHICAGO CUBSMLB LEAGUE PASS |MARQUEE SPORTS NETWORK USA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium15/mono.m3u8
+
+#EXTINF:-1 tvg-id="19:20 (VOLLEYBALL) AUSTRIA 1. BUNDESLIGA WOMEN : UVC HOLDING GRAZ VS. VB NO SOKOL/POSTORF SPORT PLUS" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",19:20 (VOLLEYBALL) AUSTRIA 1. BUNDESLIGA WOMEN : UVC HOLDING GRAZ VS. VB NO SOKOL/POSTORF SPORT PLUS
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium6/mono.m3u8
+
+#EXTINF:-1 tvg-id="19:30 (TV SHOWS) SPONGEBOB SQUAREPANTS SEASON 15NICK USA" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",19:30 (TV SHOWS) SPONGEBOB SQUAREPANTS SEASON 15NICK USA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium330/mono.m3u8
+
+#EXTINF:-1 tvg-id="19:30 (FUTBOL) ARGENTINA – PRIMERA DIVISIÓN : DEPORTIVO RIESTRA VS SAN LORENZOTNT SPORTS ARGENTINA |SPORTDIGITAL FUSSBALL DE |SPORT 1 ISRAEL" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA SPORLARI",19:30 (FUTBOL) ARGENTINA – PRIMERA DIVISIÓN : DEPORTIVO RIESTRA VS SAN LORENZOTNT SPORTS ARGENTINA |SPORTDIGITAL FUSSBALL DE |SPORT 1 ISRAEL
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6top1.newkso.ru/ddy6/premium388/mono.m3u8
+
+#EXTINF:-1 tvg-id="19:35 (BEYZBOL) MLB : LOS ANGELES DODGERS VS TEXAS RANGERSMLB LEAGUE PASS |SPECTRUM SPORTSNET LA" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",19:35 (BEYZBOL) MLB : LOS ANGELES DODGERS VS TEXAS RANGERSMLB LEAGUE PASS |SPECTRUM SPORTSNET LA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium21/mono.m3u8
+
+#EXTINF:-1 tvg-id="19:45 (FUTBOL) FRANCE – LIGUE 1 : SAINT-ÉTIENNE VS OLYMPIQUE LYONNAISDAZN1 FRANCE |BEIN SPORTS USA |BEIN SPORTS EN ESPAÑOL |SPORT TV2 PORTUGAL |ELEVEN SPORTS 4 POLAND |ARENA SPORT 2 SERBIA |ARENA SPORT 3 CROATIA |BEIN SPORTS 3 TURKEY |V SPORT PREMIUM |NOVA SPORT BULGARIA |BEIN SPORTS MENA 4 |BEIN SPORTS MENA ENGLISH 1 |SPORT 5 STARS ISRAEL" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",19:45 (FUTBOL) FRANCE – LIGUE 1 : SAINT-ÉTIENNE VS OLYMPIQUE LYONNAISDAZN1 FRANCE |BEIN SPORTS USA |BEIN SPORTS EN ESPAÑOL |SPORT TV2 PORTUGAL |ELEVEN SPORTS 4 POLAND |ARENA SPORT 2 SERBIA |ARENA SPORT 3 CROATIA |BEIN SPORTS 3 TURKEY |V SPORT PREMIUM |NOVA SPORT BULGARIA |BEIN SPORTS MENA 4 |BEIN SPORTS MENA ENGLISH 1 |SPORT 5 STARS ISRAEL
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium68/mono.m3u8
+
+#EXTINF:-1 tvg-id="19:45 (FUTBOL) ITALY – SERIE A : MILAN VS ATALANTATNT SPORTS 1 UK |DAZN ZONA IT |SPORT TV1 PORTUGAL |ELEVEN SPORTS 2 POLAND |ABU DHABI SPORTS PREMIUM 1 |ZIGGO SPORT 2 NL |DIGI SPORT 3 ROMANIA |PRIMA SPORT 3 ROMANIA |MATCH! FOOTBALL 1 RUSSIA |FOX DEPORTES |ESPN2 MEXICO |CYTAVISION SPORTS 4 CYPRUS |ARENA PREMIUM 2 SERBIA |COSMOTE SPORT 1 GREECE |ARENA SPORT 4 CROATIA |TV4 SPORT LIVE 1 |MAX SPORT 3 BULGARIA |ESPN4 BRAZIL |SUPERSPORT FOOTBALL" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",19:45 (FUTBOL) ITALY – SERIE A : MILAN VS ATALANTATNT SPORTS 1 UK |DAZN ZONA IT |SPORT TV1 PORTUGAL |ELEVEN SPORTS 2 POLAND |ABU DHABI SPORTS PREMIUM 1 |ZIGGO SPORT 2 NL |DIGI SPORT 3 ROMANIA |PRIMA SPORT 3 ROMANIA |MATCH! FOOTBALL 1 RUSSIA |FOX DEPORTES |ESPN2 MEXICO |CYTAVISION SPORTS 4 CYPRUS |ARENA PREMIUM 2 SERBIA |COSMOTE SPORT 1 GREECE |ARENA SPORT 4 CROATIA |TV4 SPORT LIVE 1 |MAX SPORT 3 BULGARIA |ESPN4 BRAZIL |SUPERSPORT FOOTBALL
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium31/mono.m3u8
+
+#EXTINF:-1 tvg-id="20:00 (FUTBOL) SPAIN – LA LIGA : REAL MADRID VS ATHLETIC CLUBM+ LALIGA TV |M+ LALIGA TV 2 |LALIGATV UK |VIAPLAY SPORTS 1 UK |PREMIER SPORTS 1 IRELAND |TSN2 |DAZN1 DE |DAZN ELEVEN 1 PORTUGAL |CANAL+ SPORT 3 POLAND |BEIN SPORTS 1 FRANCE |SONY TEN 2 HD |MATCH! FOOTBALL 2 RUSSIA |MATCH TV RUSSIA |ZIGGO SPORT 1 NL |ESPN DEPORTES |DIGI SPORT 2 ROMANIA |PRIMA SPORT 2 ROMANIA |ARENA SPORT 1 SERBIA |NOVA SPORTS PRIME GREECE |ARENA SPORT 2 CROATIA |TV4 FOTBALL |MAX SPORT 4 BULGARIA |ESPN BRAZIL |SUPERSPORT LALIGA |SUPERSPORT MAXIMO 1 |BEIN SPORTS MENA 1" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",20:00 (FUTBOL) SPAIN – LA LIGA : REAL MADRID VS ATHLETIC CLUBM+ LALIGA TV |M+ LALIGA TV 2 |LALIGATV UK |VIAPLAY SPORTS 1 UK |PREMIER SPORTS 1 IRELAND |TSN2 |DAZN1 DE |DAZN ELEVEN 1 PORTUGAL |CANAL+ SPORT 3 POLAND |BEIN SPORTS 1 FRANCE |SONY TEN 2 HD |MATCH! FOOTBALL 2 RUSSIA |MATCH TV RUSSIA |ZIGGO SPORT 1 NL |ESPN DEPORTES |DIGI SPORT 2 ROMANIA |PRIMA SPORT 2 ROMANIA |ARENA SPORT 1 SERBIA |NOVA SPORTS PRIME GREECE |ARENA SPORT 2 CROATIA |TV4 FOTBALL |MAX SPORT 4 BULGARIA |ESPN BRAZIL |SUPERSPORT LALIGA |SUPERSPORT MAXIMO 1 |BEIN SPORTS MENA 1
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium84/mono.m3u8
+
+#EXTINF:-1 tvg-id="20:00 (FUTBOL) SPAIN – SEGUNDA DIVISION : DEPORTIVO LA CORUÑA VS TENERIFELALIGA TV HYPERMOTION |ARENA SPORT 3 SERBIA" tvg-logo="dokko1" group-title="GÜNLÜK DÜNYA SPORLARI",20:00 (FUTBOL) SPAIN – SEGUNDA DIVISION : DEPORTIVO LA CORUÑA VS TENERIFELALIGA TV HYPERMOTION |ARENA SPORT 3 SERBIA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1top1.newkso.ru/dokko1/premium539/mono.m3u8
+
+#EXTINF:-1 tvg-id="20:00 (FUTBOL) BRAZIL – BRASILEIRÃO : SÃO PAULO VS SANTOSPREMIERE BR" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",20:00 (FUTBOL) BRAZIL – BRASILEIRÃO : SÃO PAULO VS SANTOSPREMIERE BR
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium88/mono.m3u8
+
+#EXTINF:-1 tvg-id="20:00 (FUTBOL) BRAZIL – BRASILEIRÃO : ATLÉTICO MINEIRO VS BOTAFOGOPREMIERE BR" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",20:00 (FUTBOL) BRAZIL – BRASILEIRÃO : ATLÉTICO MINEIRO VS BOTAFOGOPREMIERE BR
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium76/mono.m3u8
+
+#EXTINF:-1 tvg-id="20:00 (FUTBOL) COLOMBIA – PRIMERA A : ENVIGADO VS DEPORTES TOLIMAWIN+ FUTBOL COLOMBIA" tvg-logo="dokko1" group-title="GÜNLÜK DÜNYA SPORLARI",20:00 (FUTBOL) COLOMBIA – PRIMERA A : ENVIGADO VS DEPORTES TOLIMAWIN+ FUTBOL COLOMBIA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1top1.newkso.ru/dokko1/premium392/mono.m3u8
+
+#EXTINF:-1 tvg-id="20:00 (FUTBOL) CAF CONFEDERATION CUP : RSB BERKANE VS CS CONSTANTINESPORT TV6 PORTUGAL |CANAL+ SPORT 1 AFRIQUE |SUPERSPORT VARIETY 4 |BEIN SPORTS MENA 6 |SPORT 5 LIVE ISRAEL" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA SPORLARI",20:00 (FUTBOL) CAF CONFEDERATION CUP : RSB BERKANE VS CS CONSTANTINESPORT TV6 PORTUGAL |CANAL+ SPORT 1 AFRIQUE |SUPERSPORT VARIETY 4 |BEIN SPORTS MENA 6 |SPORT 5 LIVE ISRAEL
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6top1.newkso.ru/ddy6/premium291/mono.m3u8
+
+#EXTINF:-1 tvg-id="20:00 (FUTBOL) CHILE – PRIMERA DIVISION : O’HIGGINS VS PALESTINOTNT SPORTS PREMIUM CHILE" tvg-logo="dokko1" group-title="GÜNLÜK DÜNYA SPORLARI",20:00 (FUTBOL) CHILE – PRIMERA DIVISION : O’HIGGINS VS PALESTINOTNT SPORTS PREMIUM CHILE
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1top1.newkso.ru/dokko1/premium642/mono.m3u8
+
+#EXTINF:-1 tvg-id="20:00 (BEYZBOL) COLLEGE BASEBALL : FLORIDA VS MISSISSIPPI STATE UNIVERSITYESPN2 USA" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",20:00 (BEYZBOL) COLLEGE BASEBALL : FLORIDA VS MISSISSIPPI STATE UNIVERSITYESPN2 USA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium45/mono.m3u8
+
+#EXTINF:-1 tvg-id="20:00 (BOWLING) PBA BOWLING TOURNAMENT OF CHAMPIONS, FINALSFOX USA" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",20:00 (BOWLING) PBA BOWLING TOURNAMENT OF CHAMPIONS, FINALSFOX USA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium54/mono.m3u8
+
+#EXTINF:-1 tvg-id="20:00 (BUZ HOKEYİ) NHL : NEW JERSEY DEVILS VS CAROLINA HURRICANESHOME FEED |AWAY FEED |ESPN USA |MSG USA |SPORTSNET ONTARIO |SPORTSNET EAST |SPORTSNET 360 |SPORTSNET WEST |FANDUEL SPORTS NETWORK SOUTH |TVA SPORTS |BEIN SPORTS 4 MAX FRANCE" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",20:00 (BUZ HOKEYİ) NHL : NEW JERSEY DEVILS VS CAROLINA HURRICANESHOME FEED |AWAY FEED |ESPN USA |MSG USA |SPORTSNET ONTARIO |SPORTSNET EAST |SPORTSNET 360 |SPORTSNET WEST |FANDUEL SPORTS NETWORK SOUTH |TVA SPORTS |BEIN SPORTS 4 MAX FRANCE
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium3/mono.m3u8
+
+#EXTINF:-1 tvg-id="20:00 (RUGBY UNION) TOP 14 : STADE FRANCAIS VS STADE TOULOUSAINVIAPLAY SPORTS 2 UK |CANAL+ FRANCE" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",20:00 (RUGBY UNION) TOP 14 : STADE FRANCAIS VS STADE TOULOUSAINVIAPLAY SPORTS 2 UK |CANAL+ FRANCE
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium550/mono.m3u8
+
+#EXTINF:-1 tvg-id="20:10 (BEYZBOL) MLB : WASHINGTON NATIONALS VS COLORADO ROCKIESMLB LEAGUE PASS |MASN USA" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",20:10 (BEYZBOL) MLB : WASHINGTON NATIONALS VS COLORADO ROCKIESMLB LEAGUE PASS |MASN USA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium11/mono.m3u8
+
+#EXTINF:-1 tvg-id="20:30 (FUTBOL) PORTUGAL – SEGUNDA LIGA : TONDELA VS VIZELASPORT TV+ PORTUGAL" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",20:30 (FUTBOL) PORTUGAL – SEGUNDA LIGA : TONDELA VS VIZELASPORT TV+ PORTUGAL
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium2/mono.m3u8
+
+#EXTINF:-1 tvg-id="20:30 (FUTBOL) ARGENTINA – PRIMERA DIVISIÓN : SAN MARTÍN SAN JUAN VS GODOY CRUZESPN PREMIUM ARGENTINA" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",20:30 (FUTBOL) ARGENTINA – PRIMERA DIVISIÓN : SAN MARTÍN SAN JUAN VS GODOY CRUZESPN PREMIUM ARGENTINA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium387/mono.m3u8
+
+#EXTINF:-1 tvg-id="20:30 (BASKETBOL) NBA : ORLANDO MAGIC VS BOSTON CELTICSHOME FEED |AWAY FEED |TSN3 |TNT SPORTS 2 UK |ABC USA |M+ #VAMOS ES |BEIN SPORTS 5 MAX FRANCE |BEIN SPORTS 3 FRANCE |SPORT TV3 PORTUGAL |ESPN 2 NL |ARENA SPORT 1 CROATIA |ARENA PREMIUM 1 SERBIA |DIEMA SPORT 3 BULGARIA |COSMOTE SPORT 5 GREECE |TV4 SPORTKANALEN |ESPN2 ARGENTINA |ESPN2 BRAZIL |SPORT 5 PLUS ISRAEL" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",20:30 (BASKETBOL) NBA : ORLANDO MAGIC VS BOSTON CELTICSHOME FEED |AWAY FEED |TSN3 |TNT SPORTS 2 UK |ABC USA |M+ #VAMOS ES |BEIN SPORTS 5 MAX FRANCE |BEIN SPORTS 3 FRANCE |SPORT TV3 PORTUGAL |ESPN 2 NL |ARENA SPORT 1 CROATIA |ARENA PREMIUM 1 SERBIA |DIEMA SPORT 3 BULGARIA |COSMOTE SPORT 5 GREECE |TV4 SPORTKANALEN |ESPN2 ARGENTINA |ESPN2 BRAZIL |SPORT 5 PLUS ISRAEL
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium7/mono.m3u8
+
+#EXTINF:-1 tvg-id="21:00 (TENNIS) MEN’S COLLEGE TENNIS SEC CHAMPIONSHIP: TEAMS TBASEC NETWORK USA" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",21:00 (TENNIS) MEN’S COLLEGE TENNIS SEC CHAMPIONSHIP: TEAMS TBASEC NETWORK USA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium385/mono.m3u8
+
+#EXTINF:-1 tvg-id="21:00 (GOLF) PGA TOUR RBC HERITAGECBSNY USA |CBS USA |SKY SPORTS GOLF UK |GOLF CHANNEL USA |MOVISTAR GOLF |SUPERSPORT GOLF" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",21:00 (GOLF) PGA TOUR RBC HERITAGECBSNY USA |CBS USA |SKY SPORTS GOLF UK |GOLF CHANNEL USA |MOVISTAR GOLF |SUPERSPORT GOLF
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium767/mono.m3u8
+
+#EXTINF:-1 tvg-id="21:07 (BEYZBOL) MLB : SAN FRANCISCO GIANTS VS LOS ANGELES ANGELSMLB LEAGUE PASS |NBCS BAY AREA USA |FANDUEL SPORTS NETWORK WEST |MLB NETWORK USA" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",21:07 (BEYZBOL) MLB : SAN FRANCISCO GIANTS VS LOS ANGELES ANGELSMLB LEAGUE PASS |NBCS BAY AREA USA |FANDUEL SPORTS NETWORK WEST |MLB NETWORK USA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium26/mono.m3u8
+
+#EXTINF:-1 tvg-id="21:10 (FUTBOL) ARGENTINA – PRIMERA NACIONAL : NUEVA CHICAGO VS DEPORTIVO MORÓNTYC SPORTS ARGENTINA" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA SPORLARI",21:10 (FUTBOL) ARGENTINA – PRIMERA NACIONAL : NUEVA CHICAGO VS DEPORTIVO MORÓNTYC SPORTS ARGENTINA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6top1.newkso.ru/ddy6/premium746/mono.m3u8
+
+#EXTINF:-1 tvg-id="21:15 (FUTBOL) URUGUAY – PRIMERA DIVISION : CERRO VS TORQUEVTV+ URUGUAY |GOLTV USA" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",21:15 (FUTBOL) URUGUAY – PRIMERA DIVISION : CERRO VS TORQUEVTV+ URUGUAY |GOLTV USA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium391/mono.m3u8
+
+#EXTINF:-1 tvg-id="21:30 (FUTBOL) PERU – PRIMERA DIVISION : SPORT HUANCAYO VS COMERCIANTES UNIDOSLIGA 1 MAX PERU" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",21:30 (FUTBOL) PERU – PRIMERA DIVISION : SPORT HUANCAYO VS COMERCIANTES UNIDOSLIGA 1 MAX PERU
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium23/mono.m3u8
+
+#EXTINF:-1 tvg-id="22:00 (TV SHOWS) FANDUEL RACING LIVEALTITUDE SPORTS" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",22:00 (TV SHOWS) FANDUEL RACING LIVEALTITUDE SPORTS
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium923/mono.m3u8
+
+#EXTINF:-1 tvg-id="22:00 (FUTBOL) ARGENTINA – PRIMERA DIVISIÓN : SARMIENTO VS PLATENSETNT SPORTS ARGENTINA" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA SPORLARI",22:00 (FUTBOL) ARGENTINA – PRIMERA DIVISIÓN : SARMIENTO VS PLATENSETNT SPORTS ARGENTINA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6top1.newkso.ru/ddy6/premium388/mono.m3u8
+
+#EXTINF:-1 tvg-id="22:00 (AM. FOOTBALL) UFL : DC DEFENDERS VS SAN ANTONIO BRAHMASFOX USA |FOXNY USA" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",22:00 (AM. FOOTBALL) UFL : DC DEFENDERS VS SAN ANTONIO BRAHMASFOX USA |FOXNY USA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium54/mono.m3u8
+
+#EXTINF:-1 tvg-id="22:00 (BEYZBOL) COLLEGE BASEBALL : UCLA VS OREGONBTN USA" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",22:00 (BEYZBOL) COLLEGE BASEBALL : UCLA VS OREGONBTN USA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium397/mono.m3u8
+
+#EXTINF:-1 tvg-id="22:10 (FUTBOL) COLOMBIA – PRIMERA A : UNIÓN MAGDALENA VS ATLÉTICO BUCARAMANGAWIN+ FUTBOL COLOMBIA" tvg-logo="dokko1" group-title="GÜNLÜK DÜNYA SPORLARI",22:10 (FUTBOL) COLOMBIA – PRIMERA A : UNIÓN MAGDALENA VS ATLÉTICO BUCARAMANGAWIN+ FUTBOL COLOMBIA
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1top1.newkso.ru/dokko1/premium392/mono.m3u8
+
+#EXTINF:-1 tvg-id="22:30 (FUTBOL) BRAZIL – BRASILEIRÃO : FLUMINENSE VS VITÓRIAPREMIERE BR" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",22:30 (FUTBOL) BRAZIL – BRASILEIRÃO : FLUMINENSE VS VITÓRIAPREMIERE BR
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium77/mono.m3u8
+
+#EXTINF:-1 tvg-id="22:30 (FUTBOL) BRAZIL – BRASILEIRÃO : FORTALEZA VS PALMEIRASPREMIERE BR" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",22:30 (FUTBOL) BRAZIL – BRASILEIRÃO : FORTALEZA VS PALMEIRASPREMIERE BR
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium88/mono.m3u8
+
+#EXTINF:-1 tvg-id="22:30 (FUTBOL) EL SALVADOR – PRIMERA DIVISION : PLATENSE VS CACAHUATIQUECANAL 4 EL SALVADOR" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA SPORLARI",22:30 (FUTBOL) EL SALVADOR – PRIMERA DIVISION : PLATENSE VS CACAHUATIQUECANAL 4 EL SALVADOR
+#EXTVLCOPT:http-origin=https://funzoneplay.cfd
+#EXTVLCOPT:http-referrer=https://funzoneplay.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6top1.newkso.ru/ddy6/premium55/mono.m3u8
+
 #EXTINF:-1 tvg-id="23:00 (TV SHOWS) SNAPPED: KILLER COUPLES SEASON 18, EPISODE 7OXYGEN TRUE CRIME" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (TV SHOWS) SNAPPED: KILLER COUPLES SEASON 18, EPISODE 7OXYGEN TRUE CRIME
 #EXTVLCOPT:http-origin=https://funzoneplay.cfd
 #EXTVLCOPT:http-referrer=https://funzoneplay.cfd

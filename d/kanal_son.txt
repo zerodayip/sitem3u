@@ -4551,7 +4551,7 @@ Channel_server= "ddy6"
 Event= "POP TV USA"
 
 Channel_Name= "210"
-Channel_server= "null"
+Channel_server= "ddy6"
 Event= "PBS USA USA"
 
 Channel_Name= "43"
