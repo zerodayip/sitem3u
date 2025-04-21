@@ -1,41 +1,41 @@
-name: Run Daddylive Extractor
+name: Extract Schedule Data
 
 on:
-  workflow_dispatch:  # Elle çalıştırma
-  # schedule:
-  # - cron: '0 12 * * *'  # Her gün saat 12:00 UTC
+#  schedule:
+#    - cron: '45 */1 * * *'  # Esegui ogni 3 ore
+  workflow_dispatch:  # Consente l'esecuzione manuale
 
 jobs:
-  run-script:
+  extract-data:
     runs-on: ubuntu-latest
-
+    
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
-
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
-
+      
       - name: Install dependencies
         run: |
-          pip install httpx
-
-      - name: Run the script
+          python -m pip install --upgrade pip
+          pip install beautifulsoup4
+          pip install playwright
+          pip install bs4
+          pip install lxml
+          playwright install 
+      
+      - name: Run extraction script
+        run: python deneme.py
+      
+      - name: Commit and push if changes
         run: |
-          python deneme.py
-
-      - name: Commit and Push schedule.html
-        run: |
-          git config --global user.name "Your Name"
-          git config --global user.email "your-email@example.com"
-          
-          # Manually modify the file to ensure something changes
-          echo "Update made at $(date)" >> schedule.html
-          
-          git add schedule.html
-          git commit -m "Update schedule.html"
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          git config --global user.name 'GitHub Actions Bot'
+          git config --global user.email 'actions@github.com'
+          # Add both HTML and JSON files
+          git add daddyliveSchedule.json
+          # Ignore screenshot files
+          git status
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update schedule data [skip ci]" && git push)
