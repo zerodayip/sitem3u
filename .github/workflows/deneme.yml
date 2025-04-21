@@ -30,6 +30,10 @@ jobs:
         run: |
           git config --global user.name "Your Name"
           git config --global user.email "your-email@example.com"
+          
+          # Manually modify the file to ensure something changes
+          echo "Update made at $(date)" >> schedule.html
+          
           git add schedule.html
           git commit -m "Update schedule.html"
           git push
