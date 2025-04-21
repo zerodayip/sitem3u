@@ -12,5 +12,9 @@ with httpx.Client() as client:
         with open(output_file, "w", encoding="utf-8") as file:
             file.write(response.text)
         print(f"{output_file} başarıyla kaydedildi.")
+        
+        # HTML içeriğini ekrana yazdırıyoruz
+        print("\nHTML İçeriği:")
+        print(response.text[:1000])  # İlk 1000 karakteri ekrana yazdırıyoruz
     else:
         print(f"İstek başarısız oldu. Hata kodu: {response.status_code}")
