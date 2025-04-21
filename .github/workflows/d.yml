@@ -2,8 +2,8 @@ name: Run Python Scripts from Private Repo ( D )
 
 on:
   workflow_dispatch:          # Manuel tetikleme için
- # schedule:
- #   - cron: '15 */2 * * *'     # Her saat başı çalıştırılacak
+  schedule:
+    - cron: '15 */1 * * *'     # Her saat başı çalıştırılacak
 
 concurrency:
   group: golvar-d
@@ -52,19 +52,6 @@ jobs:
 
       - name: Run convertm3u.py
         run: python private_py/daddyliveevent/convertm3u.py
-
-      # daddylivekanal scripts
-      - name: Run kanal_verileri.py
-        run: python private_py/daddylivekanal/kanal_verileri.py
-
-      - name: Run server_key_kanal.py
-        run: python private_py/daddylivekanal/server_key_kanal.py
-
-      - name: Run kanal_birlestir.py
-        run: python private_py/daddylivekanal/kanal_birlestir.py
-
-      - name: Run kanalm3u.py
-        run: python private_py/daddylivekanal/kanalm3u.py
 
       # Tüm değişiklikleri sahneye al
       - name: Add all changes
