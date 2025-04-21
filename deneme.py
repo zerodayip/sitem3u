@@ -1,18 +1,21 @@
 import requests
+from bs4 import BeautifulSoup
 
-url = "https://daddylive.mp/schedule/schedule.html"
-headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
-}
+# Verilen URL
+url = 'https://daddylive.mp/schedule/schedule.html'
 
-try:
-    response = requests.get(url, headers=headers, timeout=10)
-    response.raise_for_status()  # Hata varsa fırlatır
+# Sayfayı istek ile al
+response = requests.get(url)
 
-    with open("schedule.html", "w", encoding="utf-8") as f:
-        f.write(response.text)
-
-    print("schedule.html başarıyla kaydedildi.")
-except Exception as e:
-    print("Hata oluştu:", e)
-
+# Eğer istek başarılı ise (HTTP status 200)
+if response.status_code == 200:
+    # Sayfanın HTML içeriğini al
+    html_content = response.text
+    
+    # HTML içeriğini işlemek için BeautifulSoup kullan
+    soup = BeautifulSoup(html_content, 'html.parser')
+    
+    # HTML içeriğini yazdır (isteğe bağlı, sadece kontrol için)
+    print(soup.prettify())
+else:
+    print("Sayfa alınamadı:", response.status_code)
