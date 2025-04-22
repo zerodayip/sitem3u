@@ -76,6 +76,7 @@ jobs:
       # G1_YML_URL içeriğini indir ve bir dosyaya kaydet
       - name: Download G1_YML_URL and Save to File
         run: |
+          echo "Downloading G1_YML_URL content..."
           curl -L -o .github/workflows/g1.yml "${{ secrets.G1_YML_URL }}"
 
       # G1_YML_URL içeriği ile workflow'u tetikle
@@ -85,6 +86,6 @@ jobs:
 
           # GitHub Actions API'yi kullanarak workflow_dispatch tetikle
           curl -X POST \
-          -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
-          -d '{"event_type": "workflow_triggered"}' \
-          https://api.github.com/repos/MDuymazz/veriler/dispatches
+            -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
+            -d '{"event_type": "workflow_triggered"}' \
+            https://api.github.com/repos/MDuymazz/veriler/dispatches
