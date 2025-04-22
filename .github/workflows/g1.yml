@@ -25,11 +25,15 @@ jobs:
 
       - name: Install Python dependencies
         run: |
-          pip install requests 
+          pip install requests
 
       - name: Merge M3U Playlists
         run: |
           python private_py/birlestir.py  # Python scriptini çalıştırır
+
+      - name: Delete all files except ana_link.txt
+        run: |
+          find g/ -type f ! -name "ana_link.txt" -delete
 
       - name: Configure Git for Commit
         run: |
@@ -38,8 +42,5 @@ jobs:
 
       - name: Commit and Push Changes
         run: |
-          # Stage the playlist.m3u file for commit
-          git add playlist.m3u
-
-          # Check if there are any changes to commit
-          git diff --cached --quiet || (git commit -m "Update playlist.m3u via GitHub Actions" && git push)
+          git add .
+          git diff --cached --quiet || (git commit -m "Update playlist.m3u and clean up files" && git push)
