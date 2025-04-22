@@ -36,7 +36,7 @@ jobs:
 
       # liveevent scripts
       - name: Run livejson.py
-        run: python private_py/daddyliveevent/daddylivehtml.py
+        run: python private_py/daddyliveevent/livejson.py
 
       - name: Run schedule_aljson.py
         run: python private_py/daddyliveevent/schedule_aljson.py
