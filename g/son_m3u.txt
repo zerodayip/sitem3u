@@ -1,5 +1,5 @@
 MatchType: "Basketbol"
-Text: "BUGÜN 05:00 DENVER NUGGETS – LA CLIPPERS (S SPORT)"
+Text: "CANLI (05:00) DENVER NUGGETS – LA CLIPPERS (S SPORT)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5101/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 
 MatchType: "Basketbol"
