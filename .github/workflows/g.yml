@@ -83,7 +83,7 @@ jobs:
       - name: Trigger the downloaded workflow (g1.yml)
         run: |
           echo "Triggering G1 workflow from downloaded g1.yml"
-
+          
           # GitHub Actions API'yi kullanarak workflow_dispatch tetikle
           curl -X POST \
             -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
