@@ -4,6 +4,7 @@ import json
 from datetime import datetime
 import re
 from bs4 import BeautifulSoup
+import subprocess
 
 def html_to_json(html_content):
     soup = BeautifulSoup(html_content, 'html.parser')
@@ -130,6 +131,13 @@ def extract_schedule_container():
             print(f"JSON verileri {json_output} konumuna kaydedildi.")
 
             modify_json_file(json_output)
+
+            # Git komutları ile commit ve push işlemi
+            print("Git commit ve push işlemi yapılıyor...")
+            subprocess.run(["git", "add", json_output], check=True)
+            subprocess.run(["git", "commit", "-m", "Update schedule data [skip ci]"], check=True)
+            subprocess.run(["git", "push"], check=True)
+
             browser.close()
             return True
 
