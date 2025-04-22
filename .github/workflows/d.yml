@@ -39,7 +39,7 @@ jobs:
         run: python private_py/daddyliveevent/daddylivehtml.py
 
       - name: Run schedule_aljson.py
-        run: python private_py/daddyliveevent/schedule_al.py
+        run: python private_py/daddyliveevent/schedule_aljson.py
 
       - name: Run server_key_schedule.py
         run: python private_py/daddyliveevent/server_key_schedule.py
