@@ -1,4 +1,4 @@
-name: Run Pythxon Scripts from Private Repo ( G )
+name: Run Python Scripts frxom Private Repo ( G )
 
 on:
   workflow_dispatch:
@@ -14,7 +14,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Checkout Public Repository
       - name: Checkout Public Repository (veriler)
         uses: actions/checkout@v2
         with:
@@ -22,56 +21,35 @@ jobs:
           fetch-depth: 0
           ref: main
 
-      # 2. Set up Python
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
           python-version: '3.x'
 
-      # 3. Clone Private Repository (Py)
       - name: Clone Private Repository (Py)
         run: |
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/MDuymazz/Py.git private_py
 
-      # 4. Install Python dependencies from private repo
-      - name: Install Python dependencies
+      - name: Install Python dependencies from private repo
         run: |
           pip install -r private_py/requirements.txt
 
-      # 5. Run Python Scripts from Private Repository
-      - name: Run ana_domain.py
-        run: python private_py/golvar/ana_domain.py
+      - name: Run Python Scripts
+        run: |
+          python private_py/golvar/ana_domain.py
+          python private_py/golvar/mac_verileri.py
+          python private_py/golvar/link_alma.py
+          python private_py/golvar/m3u_link.py
+          python private_py/golvar/kod_alma.py
+          python private_py/golvar/link_hazırlama.py
+          python private_py/golvar/encode.py
+          python private_py/golvar/verileri_birlestir.py
+          python private_py/golvar/txt_to_m3u.py
 
-      - name: Run mac_verileri.py
-        run: python private_py/golvar/mac_verileri.py
-
-      - name: Run link_alma.py
-        run: python private_py/golvar/link_alma.py
-
-      - name: Run m3u_link.py
-        run: python private_py/golvar/m3u_link.py
-
-      - name: Run kod_alma.py
-        run: python private_py/golvar/kod_alma.py
-
-      - name: Run link_hazırlama.py
-        run: python private_py/golvar/link_hazırlama.py
-
-      - name: Run encode.py
-        run: python private_py/golvar/encode.py
-
-      - name: Run verileri_birlestir.py
-        run: python private_py/golvar/verileri_birlestir.py
-
-      - name: Run txt_to_m3u.py
-        run: python private_py/golvar/txt_to_m3u.py
-
-      # 6. Add all changes
       - name: Add all changes
         run: |
           git add -A
 
-      # 7. Commit and Push Changes
       - name: Commit and Push Changes
         run: |
           git config user.name "GitHub Actions"
@@ -79,18 +57,14 @@ jobs:
           git commit -m "Update all output files via workflow G" || echo "No changes to commit"
           git push origin main
 
-      # 8. Decode G1_YML from base64 and write to file
-      - name: Decode G1_YML content from base64 and write to file
+      - name: Download G1.yml from secret and write to file
         run: |
-          echo "Decoding G1_YML_CONTENT and writing to file..."
           echo "${{ secrets.G1_YML_CONTENT }}" | base64 --decode > .github/workflows/g1.yml
-          echo "G1_YML content written to .github/workflows/g1.yml"
+          echo "G1.yml content written to .github/workflows/g1.yml"
 
-      # 9. Trigger the G1.yml workflow using the GitHub API
-      - name: Trigger G1.yml workflow
-        run: |
-          echo "Triggering G1.yml workflow"
-          curl -X POST \
-          -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
-          --data '{"ref":"main"}' \
-          https://api.github.com/repos/${{ github.repository }}/actions/workflows/g1.yml/dispatches
+      - name: Trigger G1 workflow in sitem3u repo
+        uses: peter-evans/workflow-dispatch@v1
+        with:
+          repository: MDuymazz/sitem3u  # Burada sitem3u reposu kullanılıyor
+          workflow: .github/workflows/g1.yml
+          ref: main
