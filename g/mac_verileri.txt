@@ -1,5 +1,5 @@
 MatchType: "Futbol"
-Text: "BUGÜN 19:05 DAMAC – AL NASSR (TRT SPOR)"
+Text: "CANLI (19:05) DAMAC – AL NASSR (TRT SPOR)"
 
 MatchType: "Futbol"
 Text: "BUGÜN 20:00 VALENCIA – ESPANYOL (TIVIBU SPOR 1)"
@@ -43,11 +43,11 @@ Text: "YARIN 16:00 KARABAĞ – ARAZ (CBC SPORT)"
 MatchType: "Futbol"
 Text: "YARIN 19:00 SABAH BAKÜ – NEFTÇI BAKÜ (CBC SPORT)"
 
-MatchType: "Basketbol"
-Text: "YARIN 19:30 AEK ATHENS – JSF NANTERRE (TIVIBU SPOR 1)"
-
 MatchType: "Futbol"
 Text: "YARIN 19:30 PARMA – JUVENTUS (S SPORT 2)"
+
+MatchType: "Basketbol"
+Text: "YARIN 19:30 AEK ATHENS – JSF NANTERRE (TIVIBU SPOR 1)"
 
 MatchType: "Futbol"
 Text: "YARIN 20:00 ATHLETIC BILBAO – LAS PALMAS (TIVIBU SPOR 2)"

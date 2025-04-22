@@ -13,8 +13,8 @@ https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb
 https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5101/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8
 https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5131/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8
 https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5131/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8
-https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5082/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8
 https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5102/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8
+https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5082/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8
 https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5083/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8
 https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5101/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8
 https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5102/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8
