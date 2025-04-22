@@ -1,9 +1,5 @@
 MatchType: "Basketbol"
-Text: "CANLI (12:30) LUDWIGSBURG – PETKIMSPOR (S SPORT)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5101/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
-
-MatchType: "Basketbol"
-Text: "BUGÜN 15:00 TELEKOM BONN – OOSTENDE (S SPORT)"
+Text: "CANLI (15:00) TELEKOM BONN – OOSTENDE (S SPORT)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5101/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 
 MatchType: "Futbol"
@@ -66,13 +62,13 @@ MatchType: "Futbol"
 Text: "YARIN 19:00 SABAH BAKÜ – NEFTÇI BAKÜ (CBC SPORT)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5131/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 
-MatchType: "Futbol"
-Text: "YARIN 19:30 PARMA – JUVENTUS (S SPORT 2)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5102/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
-
 MatchType: "Basketbol"
 Text: "YARIN 19:30 AEK ATHENS – JSF NANTERRE (TIVIBU SPOR 1)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5082/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+
+MatchType: "Futbol"
+Text: "YARIN 19:30 PARMA – JUVENTUS (S SPORT 2)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5102/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 
 MatchType: "Futbol"
 Text: "YARIN 20:00 ATHLETIC BILBAO – LAS PALMAS (TIVIBU SPOR 2)"
