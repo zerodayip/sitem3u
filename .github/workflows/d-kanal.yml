@@ -3,7 +3,7 @@ name: Run Python Scripts from Private Repo ( D - KANAL)
 on:
   workflow_dispatch:          # Manuel tetikleme için
   schedule:
-   - cron: '45 21 * * *'     # Her saat başı çalıştırılacak
+   - cron: '45 04 * * *'     # Her saat başı çalıştırılacak
 
 concurrency:
   group: golvar-d
