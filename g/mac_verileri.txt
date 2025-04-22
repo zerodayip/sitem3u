@@ -1,6 +1,3 @@
-MatchType: "Basketbol"
-Text: "CANLI (15:00) TELEKOM BONN – OOSTENDE (S SPORT)"
-
 MatchType: "Futbol"
 Text: "BUGÜN 19:05 DAMAC – AL NASSR (TRT SPOR)"
 
