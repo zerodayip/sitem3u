@@ -269,7 +269,7 @@ Channel_Name= "61"
 Channel_server= "wind"
 
 Channel_Name= "140"
-Channel_server= "null"
+Channel_server= "zeko"
 
 Channel_Name= "100"
 Channel_server= "ddy6"
@@ -506,7 +506,7 @@ Channel_Name= "231"
 Channel_server= "wind"
 
 Channel_Name= "16"
-Channel_server= "null"
+Channel_server= "nfs"
 
 Channel_Name= "1"
 Channel_server= "nfs"
