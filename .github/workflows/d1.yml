@@ -33,7 +33,7 @@ jobs:
 
       - name: Delete all files except ana_link.txt, schedule.json, and livejson.py
         run: |
-          find d/ -type f ! -name "schedule.json" ! -name "logo.txt" ! -name "livejson.py" -delete
+          find d/ -type f ! -name "schedule.json" ! -name "logo.txt" ! -name "counter.txt" ! -name "livejson.py" -delete
 
       - name: Configure Git for Commit
         run: |
