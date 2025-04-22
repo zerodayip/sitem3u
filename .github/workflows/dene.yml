@@ -1,8 +1,8 @@
-name: Extract Schedule Data and Run Python Scripts ( D )
+name: Run Python Scripts from Private Repo ( D )
 
 on:
   schedule:
-    - cron: '45 05 * * *'
+    - cron: '5 */1 * * *'
   workflow_dispatch:
 
 jobs:
