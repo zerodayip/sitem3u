@@ -1,14 +1,15 @@
-name: Merge M3U Playlists and Push to Private Repo (V)
+name: Merge M3U and Push to Private Repo
 
 on:
-  workflow_dispatch:
+  workflow_dispatch:  # Manuel tetikleme
+
   workflow_run:
     workflows: ["Run Python Scripts from Private Repo ( V )"]
     types:
       - completed
 
 jobs:
-  merge-and-push:
+  merge-m3u-playlists:
     runs-on: ubuntu-latest
 
     steps:
@@ -32,21 +33,16 @@ jobs:
         run: |
           python private_py/birlestir.py
 
-      - name: Move M3U Files to Temporary Directory
+      - name: Copy M3U Files to Private Repo
         run: |
-          mkdir m3u
-          cp v/new_m3u.m3u m3u/
-          cp v/programlar.m3u m3u/
-          cp v/vavoo.m3u m3u/
+          mkdir -p private_py/m3u
+          cp v/*.m3u private_py/m3u/
 
-      - name: Push M3U Files to Private Repo
+      - name: Commit and Push M3U Files
         run: |
-          cd m3u
-          git init
-          git remote add origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/MDuymazz/Py.git
+          cd private_py
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add .
-          git commit -m "Update M3U files from public repo"
-          git push --force origin main:m3u-files
-
+          git add m3u/
+          git commit -m "Update M3U files from public repo" || echo "No changes to commit"
+          git push origin main
