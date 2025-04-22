@@ -32,10 +32,6 @@ jobs:
         run: |
           python private_py/birlestir.py  # Python scriptini çalıştırır
 
-      - name: Delete all files except ana_link.txt, schedule.json, and livejson.py
-        run: |
-          find d/ -type f ! -name "schedule.json" ! -name "logo.txt" ! -name "counter.txt" ! -name "livejson.py" -delete
-
       - name: Configure Git for Commit
         run: |
           git config --global user.name "GitHub Actions"
