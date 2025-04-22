@@ -56,6 +56,10 @@ jobs:
         run: |
           git add -A  # Bu komut, tüm değişiklikleri sahneye alır
 
+      - name: Pull latest changes from remote before pushing
+        run: |
+          git pull origin main --rebase  # Uzak depodaki değişiklikleri çek ve rebase yap
+
       - name: Commit and Push Changes
         run: |
           # Git bilgilerini yapılandır
@@ -73,8 +77,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Wait for 20 seconds
-        run: sleep 20  # 20 saniye bekleme
+      - name: Wait for 10 seconds
+        run: sleep 10  # 10 saniye bekleme
 
       - name: Checkout Repository
         uses: actions/checkout@v2
