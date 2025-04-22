@@ -34,11 +34,11 @@ jobs:
         run: |
           pip install -r private_py/requirements.txt
 
-      # daddyliveevent scripts
-      - name: Run daddylivehtml.py
+      # liveevent scripts
+      - name: Run livejson.py
         run: python private_py/daddyliveevent/daddylivehtml.py
 
-      - name: Run schedule_al.py
+      - name: Run schedule_aljson.py
         run: python private_py/daddyliveevent/schedule_al.py
 
       - name: Run server_key_schedule.py
