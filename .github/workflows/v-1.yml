@@ -46,5 +46,9 @@ jobs:
           git push origin main
 
       - name: Clean v folder (keep data.html)
+        shell: bash
         run: |
-          find v/ -type f ! -name "data.html" -delete
+          shopt -s extglob
+          cd v
+          rm -f !(data.html)
+
