@@ -78,6 +78,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Wait for 5 seconds
+        run: sleep 5  # 5 saniye bekleme
+
       - name: Checkout Repository
         uses: actions/checkout@v2
 
