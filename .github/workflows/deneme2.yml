@@ -30,12 +30,25 @@ jobs:
         run: |
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/MDuymazz/Py.git private_py
 
-      - name: Install Python dependencies from private repo
+      - name: Install dependencies
         run: |
-          pip install -r private_py/requirements.txt
-          
-
+          python -m pip install --upgrade pip
+          pip install beautifulsoup4
+          pip install playwright
+          pip install bs4
+          pip install lxml
+          playwright install 
       # liveevent scripts
 
       - name: Run schedule_aljson.py
-        run: python private_py/daddyliveevent/schedule_aljson.py
+        run: python private_py/daddyliveevent/livejson.py
+      
+      - name: Commit and push if changes
+        run: |
+          git config --global user.name 'GitHub Actions Bot'
+          git config --global user.email 'actions@github.com'
+          # Add both HTML and JSON files
+          git add d/schedule.json
+          # Ignore screenshot files
+          git status
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update schedule data [skip ci]" && git push)
