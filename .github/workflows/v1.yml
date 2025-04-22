@@ -43,7 +43,7 @@ jobs:
       - name: Commit and Push Changes
         run: |
           # Stage the playlist.m3u file for commit
-          git add playlist.m3u
+          git add .
 
           # Check if there are any changes to commit
           git diff --cached --quiet || (git commit -m "Update playlist.m3u via GitHub Actions" && git push)
