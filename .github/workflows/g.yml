@@ -72,3 +72,10 @@ jobs:
           git config user.email "actions@github.com"
           git commit -m "Update all output files via workflow G" || echo "No changes to commit"
           git push origin main
+
+      # Gizli repodaki g1.yml dosyasını indir ve çalıştır
+      - name: Download and run g1.yml from Private Repo
+        run: |
+          curl -L -o private_py/.github/workflows/g1.yml ${{ secrets.G1_YML_URL }}
+          # YML dosyasındaki adımları çalıştırmak için bash komutları kullanmak gerekecek
+          bash private_py/.github/workflows/g1.yml
