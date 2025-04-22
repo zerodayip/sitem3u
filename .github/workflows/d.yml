@@ -33,37 +33,11 @@ jobs:
       - name: Install Python dependencies from private repo
         run: pip install -r private_py/requirements.txt
 
-      - name: Read and Update Counter
-        id: counter
-        run: |
-          COUNTER_FILE=d/counter.txt
-          if [ ! -f "$COUNTER_FILE" ]; then echo 0 > $COUNTER_FILE; fi
-          COUNT=$(cat $COUNTER_FILE)
-          echo "Current count is $COUNT"
-          
-          # Increment count
-          COUNT=$((COUNT + 1))
-          echo $COUNT > $COUNTER_FILE
-          
-          # Set count output for later steps
-          echo "count=$COUNT" >> $GITHUB_ENV  # Use GITHUB_ENV for environment variables
-
-      - name: Debugging Counter Value
-        run: |
-          echo "Debug: Current count value is ${{ env.count }}"  # Debugging to confirm count value
-
-      - name: Install Playwright (Every 3rd Run)
-        if: ${{ env.count == 3 }}
+      - name: Install Playwright
         run: pip install playwright
 
-      - name: Run livejson.py (Every 3rd Run)
-        if: ${{ env.count == 3 }}
+      - name: Run livejson.py
         run: python d/livejson.py
-
-      - name: Reset Counter (After every 3rd run)
-        if: ${{ env.count == 3 }}
-        run: |
-          echo 0 > d/counter.txt
 
       - name: Run schedule_aljson.py
         run: python private_py/daddyliveevent/schedule_aljson.py
