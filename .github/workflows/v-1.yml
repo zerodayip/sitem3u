@@ -1,17 +1,18 @@
-name: Merge M3U and Push to Private Repo (V)
+name: Merge M3U Playlists and Push ( V )
 
 on:
+  workflow_dispatch:
   workflow_run:
     workflows: ["Run Python Scripts from Private Repo ( V )"]
     types:
       - completed
 
 jobs:
-  merge-and-push:
+  merge-m3u-playlists:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Public Repo
+      - name: Checkout Repository
         uses: actions/checkout@v2
 
       - name: Set up Python
@@ -19,17 +20,25 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Clone Private Repo
+      - name: Clone Private Repository (Py)
         run: |
-          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/MDuymazz/Py.git private_repo
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/MDuymazz/Py.git private_py
 
-      - name: Copy updated .m3u files to private repo
+      - name: Install Python dependencies
         run: |
-          cp v/*.m3u private_repo/m3u/
+          pip install requests
 
-      - name: Commit and Push to Private Repo
+      - name: Merge M3U Playlists
         run: |
-          cd private_repo
+          python private_py/birlestir.py
+
+      - name: Copy M3U files to Private Repo Folder
+        run: |
+          cp v/*.m3u private_py/m3u/
+
+      - name: Commit and Push M3U Files to Private Repo
+        run: |
+          cd private_py
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add m3u/*.m3u
@@ -37,5 +46,8 @@ jobs:
           git push origin main
 
       - name: Clean v folder (keep data.html)
+        shell: bash
         run: |
-          find v/ -type f ! -name "data.html" -delete
+          shopt -s extglob
+          cd v
+          rm -f !("data.html")
