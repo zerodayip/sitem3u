@@ -1,4 +1,4 @@
-name: Run Python Scripts from Private Repo ( D )
+name: Run Python Scripts from Private Repo ( yhD )
 
 on:
   workflow_dispatch:          # Manuel tetikleme için
