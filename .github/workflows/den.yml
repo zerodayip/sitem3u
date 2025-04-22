@@ -1,0 +1,59 @@
+name: Clean Up and Preserve Specific Files ( V, D, G )
+
+on:
+  workflow_run:
+    workflows: 
+      - "Run Python Scripts from Private Repo ( V )"
+      - "Run Python Scripts from Private Repo ( D )"
+      - "Run Python Scripts from Private Repo ( G )"
+    types:
+      - completed
+
+jobs:
+  clean-up-v:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Delete all files except data.html in v folder
+        run: |
+          find v/ -type f ! -name "data.html" -delete
+
+  clean-up-d:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Delete all files except livejson.py, logo.txt, and schedule.json in d folder
+        run: |
+          find d/ -type f ! -name "livejson.py" ! -name "logo.txt" ! -name "schedule.json" -delete
+
+  clean-up-g:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Delete all files except ana_link.txt in g folder
+        run: |
+          find g/ -type f ! -name "ana_link.txt" -delete
