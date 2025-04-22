@@ -58,7 +58,7 @@ jobs:
 
       - name: Install Playwright (When Counter is b)
         if: ${{ steps.counter.outputs.count == 'b' }}
-        run: pip install playwright
+        run: pip playwright install
 
       - name: Run livejson.py (When Counter is b)
         if: ${{ steps.counter.outputs.count == 'b' }}
