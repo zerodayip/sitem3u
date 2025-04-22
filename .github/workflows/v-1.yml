@@ -6,6 +6,8 @@ on:
     types:
       - completed
 
+  workflow_dispatch:
+
 jobs:
   merge-m3u-playlists:
     runs-on: ubuntu-latest
@@ -36,11 +38,23 @@ jobs:
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
 
-      - name: Commit and Push Changes
+      - name: Copy .m3u files to the 'm3u' directory
         run: |
-          # Stage the playlist.m3u file for commit
-          git add .
+          # m3u klasörüne dosyaları kopyalıyoruz
+          mkdir -p m3u  # Eğer 'm3u' klasörü yoksa oluşturuyoruz
+          cp new_m3u.m3u m3u/
+          cp programlar.m3u m3u/
+          cp vavoo.m3u m3u/
 
-          # Check if there are any changes to commit
-          git diff --cached --quiet || (git commit -m "Update playlist.m3u via GitHub Actions" && git push)
+      - name: Add and Commit M3U Files
+        run: |
+          # Dosyaları git'e ekliyoruz
+          git add m3u/new_m3u.m3u m3u/programlar.m3u m3u/vavoo.m3u
+          
+          # Değişiklikleri commit ediyoruz
+          git diff --cached --quiet || (git commit -m "Update m3u playlists in m3u folder" && git push)
 
+      - name: Push Changes to Private Repo
+        run: |
+          # Değişiklikleri gizli repoya push ediyoruz
+          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/MDuymazz/sitem3u.git main
