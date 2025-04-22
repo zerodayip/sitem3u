@@ -1,5 +1,5 @@
 MatchType: "Basketbol"
-Text: "BUGÜN 12:30 LUDWIGSBURG – PETKIMSPOR (S SPORT)"
+Text: "CANLI (12:30) LUDWIGSBURG – PETKIMSPOR (S SPORT)"
 
 MatchType: "Basketbol"
 Text: "BUGÜN 15:00 TELEKOM BONN – OOSTENDE (S SPORT)"
