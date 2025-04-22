@@ -47,4 +47,4 @@ jobs:
 
       - name: Clean v folder (keep data.html)
         run: |
-          find v/ -type f ! -name "data.html" -exec rm -f {} +
+          find v/ -type f ! -name "data.html" -delete
