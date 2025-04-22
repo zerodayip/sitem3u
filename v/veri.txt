@@ -390,7 +390,7 @@ LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/1TrF3EsSI2idiQO
 
 MAÇ ADI= NANTES - PSG
 SAAT= 21:45
-KANAL= BEIN SPORTS BEIN CONNECT
+KANAL= BEIN SPORTS 4
 LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/HrHBG9jQU5nv4zO5utrTJ24yp69ol4V8nZX5n2rh.svg
 
 MAÇ ADI= AGUIRRE/ALFONSO - GEENS/LEYGUE
@@ -400,7 +400,7 @@ LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/AffkZa98ZDeZMJU
 
 MAÇ ADI= MANCHESTER CITY - ASTON VILLA
 SAAT= 22:00
-KANAL= BEIN SPORTS BEIN CONNECT
+KANAL= BEIN SPORTS 3
 LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/HrHBG9jQU5nv4zO5utrTJ24yp69ol4V8nZX5n2rh.svg
 
 MAÇ ADI= TÜRKIYE’NIN KUPASI GECE
