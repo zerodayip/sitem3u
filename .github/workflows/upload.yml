@@ -2,9 +2,6 @@ name: Upload m3u to Google Drive and delete from GitHub
 
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   upload_m3u:
