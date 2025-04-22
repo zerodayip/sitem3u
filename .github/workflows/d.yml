@@ -56,9 +56,13 @@ jobs:
         run: |
           echo "Debug: Current counter string value is ${{ steps.counter.outputs.count }}"
 
-      - name: Install Playwright (When Counter is b)
+      - name: Install Playwright
         if: ${{ steps.counter.outputs.count == 'b' }}
-        run: pip playwright install
+        run: pip install playwright
+
+      - name: Install Playwright Browser
+        if: ${{ steps.counter.outputs.count == 'b' }}
+        run: npx playwright install  # Tarayıcıları indir
 
       - name: Run livejson.py (When Counter is b)
         if: ${{ steps.counter.outputs.count == 'b' }}
