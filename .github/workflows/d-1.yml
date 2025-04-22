@@ -1,6 +1,7 @@
 name: Merge M3U Playlists and Push ( D )
 
 on:
+  workflow_dispatch:
   workflow_run:
     workflows: ["Run Python Scripts from Private Repo ( D )"]  # İlk workflow'un adı
     types:
