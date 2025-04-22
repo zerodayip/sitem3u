@@ -44,6 +44,7 @@ def html_to_json(html_content):
                 "channels": []
             }
 
+            # Canlı yayın kanallarını arama
             next_row = row.find_next_sibling('tr')
             if next_row and 'channel-row' in next_row.get('class', []):
                 channel_links = next_row.find_all('a', class_='channel-button-small')
@@ -67,7 +68,7 @@ def html_to_json(html_content):
 def modify_json_file(json_file_path):
     with open(json_file_path, "r", encoding="utf-8") as f:
         data = json.load(f)
-
+    
     current_month = datetime.now().strftime("%B")
 
     for date in list(data.keys()):
@@ -80,17 +81,22 @@ def modify_json_file(json_file_path):
             data[new_date] = data.pop(date)
 
     with open(json_file_path, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=4, ensure_ascii=False)
+        json.dump(data, f, indent=4)
 
-    print(f"JSON dosyası güncellendi ve kaydedildi: {json_file_path}")
+    print(f"JSON dosyası {json_file_path} olarak kaydedildi ve güncellendi.")
 
 def extract_schedule_container():
     url = "https://daddylive.mp/"
 
+    # "d" klasörünün yolu (burada "d" klasörünün bulunduğu tam yol kullanılıyor)
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    json_output = os.path.join(script_dir, "d/schedule.json")
+    json_output = os.path.join(script_dir, "d", "schedule.json")
 
-    print(f"{url} adresine erişiliyor ve main-schedule-container alınacak...")
+    # "d" klasörünü kontrol et ve oluştur
+    if not os.path.exists(os.path.join(script_dir, "d")):
+        os.makedirs(os.path.join(script_dir, "d"))
+
+    print(f"Sayfaya erişiliyor: {url}...")
 
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
@@ -102,7 +108,7 @@ def extract_schedule_container():
         try:
             print("Sayfaya gidiliyor...")
             page.goto(url)
-            print("Sayfanın tamamen yüklenmesi bekleniyor...")
+            print("Sayfanın tam olarak yüklenmesi bekleniyor...")
             page.wait_for_timeout(10000)  # 10 saniye
 
             schedule_content = page.evaluate("""() => {
@@ -111,16 +117,17 @@ def extract_schedule_container():
             }""")
 
             if not schedule_content:
-                print("UYARI: main-schedule-container bulunamadı ya da boş!")
+                print("UYARI: main-schedule-container bulunamadı veya boş!")
                 return False
 
             print("HTML içeriği JSON formatına dönüştürülüyor...")
             json_data = html_to_json(schedule_content)
 
+            # JSON verisini "d" klasörüne kaydet
             with open(json_output, "w", encoding="utf-8") as f:
-                json.dump(json_data, f, indent=4, ensure_ascii=False)
+                json.dump(json_data, f, indent=4)
 
-            print(f"JSON verisi şuraya kaydedildi: {json_output}")
+            print(f"JSON verileri {json_output} konumuna kaydedildi.")
 
             modify_json_file(json_output)
             browser.close()
