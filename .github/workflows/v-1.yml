@@ -31,10 +31,6 @@ jobs:
         run: |
           python private_py/birlestir.py  # Python scriptini çalıştırır
 
-      - name: Delete all files except data.html
-        run: |
-          find v/ -type f ! -name "data.html" -delete
-
       - name: Configure Git for Commit
         run: |
           git config --global user.name "GitHub Actions"
