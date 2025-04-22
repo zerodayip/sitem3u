@@ -1,10 +1,10 @@
-FUTBOL=https://example.com/futbol_logo.png
-KRIKET=https://example.com/kriket_logo.png
-BOKS=https://example.com/boks_logo.png
-BİLARDO=https://example.com/bilardo_logo.png
-BEYZBOL=https://example.com/beyzbol_logo.png
-BASKETBOL=https://example.com/basketbol_logo.png
-CİMNASTİK=https://example.com/cimnastik_logo.png
+FUTBOL=https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png
+KRIKET=https://w7.pngwing.com/pngs/386/974/png-transparent-person-swing-cricket-bat-illustration-under-19-cricket-world-cup-indian-premier-league-sport-cricket-sports-equipment-sports-india-national-cricket-team-thumbnail.png
+BOKS=https://w7.pngwing.com/pngs/784/75/png-transparent-boxing-glove-red-boxing-gloves-love-heart-gift-box-thumbnail.png
+BİLARDO=https://w7.pngwing.com/pngs/164/76/png-transparent-billiard-game-set-snooker-billiards-pool-billiard-ball-billiards-game-happy-birthday-vector-images-sports-thumbnail.png
+BEYZBOL=https://w7.pngwing.com/pngs/989/445/png-transparent-baseball-batting-graphy-baseball-boy-child-hand-boy-thumbnail.png
+BASKETBOL=https://w7.pngwing.com/pngs/724/979/png-transparent-basketball-player-playing-basketball-little-boy-child-hat-png-graphics-thumbnail.png
+CİMNASTİK=https://w7.pngwing.com/pngs/547/280/png-transparent-artistic-gymnastics-horizontal-bar-usa-gymnastics-sport-gymnastics-angle-hand-sport-thumbnail.png
 HENTBOL=https://example.com/hentbol_logo.png
 AT YARIŞI=https://example.com/at_yarisi_logo.png
 BUZ HOKEYİ=https://example.com/buz_hokeyi_logo.png
