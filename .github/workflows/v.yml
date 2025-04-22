@@ -107,6 +107,10 @@ jobs:
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
 
+      - name: Pull latest changes from remote before pushing
+        run: |
+          git pull origin main --rebase  # Uzak depodaki değişiklikleri çek ve rebase yap
+
       - name: Commit and Push Changes
         run: |
           git add .
