@@ -1,0 +1,82 @@
+name: Run Python Scripts from Private Repo ( D )
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '15 */1 * * *'
+
+concurrency:
+  group: golvar-d
+  cancel-in-progress: true
+
+jobs:
+  run-python-scripts:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Public Repository (veriler)
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          fetch-depth: 0
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Clone Private Repository (Py)
+        run: |
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/MDuymazz/Py.git private_py
+
+      - name: Install Python dependencies from private repo
+        run: pip install -r private_py/requirements.txt
+
+      - name: Read and Update Counter
+        id: counter
+        run: |
+          COUNTER_FILE=d/counter.txt
+          if [ ! -f "$COUNTER_FILE" ]; then echo 0 > $COUNTER_FILE; fi
+          COUNT=$(cat $COUNTER_FILE)
+          echo "Current count is $COUNT"
+          COUNT=$((COUNT + 1))
+          echo $COUNT > $COUNTER_FILE
+          echo "count=$COUNT" >> $GITHUB_OUTPUT
+
+      - name: Install Playwright (Every 5th Run)
+        if: ${{ steps.counter.outputs.count == '5' }}
+        run: pip install playwright
+
+      - name: Run livejson.py (Every 5th Run)
+        if: ${{ steps.counter.outputs.count == '5' }}
+        run: python d/livejson.py
+
+      - name: Reset Counter
+        if: ${{ steps.counter.outputs.count == '5' }}
+        run: echo 0 > d/counter.txt
+
+      - name: Run schedule_aljson.py
+        run: python private_py/daddyliveevent/schedule_aljson.py
+
+      - name: Run server_key_schedule.py
+        run: python private_py/daddyliveevent/server_key_schedule.py
+
+      - name: Run schedule_son.py
+        run: python private_py/daddyliveevent/schedule_son.py
+
+      - name: Run eventm3u.py
+        run: python private_py/daddyliveevent/eventm3u.py
+
+      - name: Run convertm3u.py
+        run: python private_py/daddyliveevent/convertm3u.py
+
+      - name: Add all changes
+        run: git add -A
+
+      - name: Commit and Push Changes
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git commit -m "Update output and counter via workflow D" || echo "No changes to commit"
+          git push origin main
