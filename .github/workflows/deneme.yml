@@ -28,7 +28,7 @@ jobs:
           playwright install 
       
       - name: Run extraction script
-        run: python deneme.py
+        run: python d/livejson.py
       
       - name: Commit and push if changes
         run: |
