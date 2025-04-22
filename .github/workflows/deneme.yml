@@ -1,21 +1,24 @@
 name: Extract Schedule Data
 
 on:
-  workflow_dispatch:  # Consente l'esecuzione manuale
+  workflow_dispatch:  # Manual trigger for running the workflow
 
 jobs:
   extract-data:
     runs-on: ubuntu-latest
 
     steps:
+      # Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      # Set up Python environment
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
 
+      # Install dependencies
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
@@ -25,16 +28,15 @@ jobs:
           pip install lxml
           playwright install
 
+      # Run the extraction script
       - name: Run extraction script
         run: python d/livejson.py
 
-      - name: Commit and push if changes
+      # Commit and push the changes to GitHub if there are modifications
+      - name: Commit and push changes if JSON is modified
         run: |
           git config --global user.name 'GitHub Actions Bot'
           git config --global user.email 'actions@github.com'
-          # Add the JSON output file (it is schedule.json in 'd' folder)
           git add d/schedule.json
-          # Check if there are any changes to commit
           git status
-          git diff --quiet && git diff --staged --quiet || (
-            git commit -m "Update schedule data [skip ci]" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update schedule data [skip ci]" && git push)
