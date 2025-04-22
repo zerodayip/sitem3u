@@ -1,0 +1,48 @@
+name: Upload m3u to Google Drive and delete from GitHub
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  upload_m3u:
+    runs-on: ubuntu-latest
+
+    env:
+      GOOGLE_CLIENT_SECRET_JSON: ${{ secrets.GOOGLE_CLIENT_SECRET_JSON }}
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          pip install pydrive requests
+
+      - name: Download m3u file from GitHub
+        run: |
+          curl -o playlist.m3u https://raw.githubusercontent.com/MDuymazz/sitem3u/refs/heads/main/playlist2.m3u
+
+      - name: Upload to Google Drive
+        run: python upload_m3u_to_drive.py
+
+      - name: Delete m3u file from GitHub
+        run: |
+          FILE="playlist2.m3u"
+          SHA=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
+            https://api.github.com/repos/MDuymazz/sitem3u/contents/$FILE \
+            | jq -r .sha)
+
+          curl -X PUT \
+            -H "Authorization: token $GITHUB_TOKEN" \
+            -H "Content-Type: application/json" \
+            -d "{\"message\": \"Remove $FILE after upload\", \"sha\": \"$SHA\"}" \
+            https://api.github.com/repos/MDuymazz/sitem3u/contents/$FILE
