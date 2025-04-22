@@ -46,9 +46,6 @@ jobs:
           git push origin main
 
       - name: Clean v folder (keep data.html)
-        shell: bash
         run: |
-          shopt -s extglob
           cd v
-          rm -f !(data.html)
-
+          find . -type f ! -name 'data.html' -exec rm -f {} \;  # Bu komut, 'data.html' dışında tüm dosyaları siler.
