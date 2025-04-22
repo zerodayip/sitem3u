@@ -1,4 +1,4 @@
-name: Run Python Scripts from Private Repo ( G )
+name: Run Pyxxxxthon Scripts from Private Repo ( G )
 
 on:
   workflow_dispatch:
