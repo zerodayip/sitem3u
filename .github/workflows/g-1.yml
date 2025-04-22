@@ -1,7 +1,6 @@
 name: Merge M3U Playlists and Push ( G )
 
 on:
-  workflow_dispatch:
   workflow_run:
     workflows: ["Run Python Scripts from Private Repo ( G )"]  # İlk workflow'un adı
     types:
@@ -31,10 +30,6 @@ jobs:
       - name: Merge M3U Playlists
         run: |
           python private_py/birlestir.py  # Python scriptini çalıştırır
-
-      - name: Delete all files except ana_link.txt
-        run: |
-          find g/ -type f ! -name "ana_link.txt" -delete
 
       - name: Configure Git for Commit
         run: |
