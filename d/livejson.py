@@ -81,7 +81,7 @@ def extract_schedule_container():
     url = "https://daddylive.mp/"
 
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    json_output = os.path.join(script_dir, "daddyliveSchedule.json")
+    json_output = os.path.join(script_dir, "schedule.json")
 
     print(f"{url} sayfasına erişiliyor, ana program içeriği çekiliyor...")
 
