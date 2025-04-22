@@ -1,71 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="13:00 (VOLLEYBALL) SERBIA SUPERLIGA WOMEN : ZELEZNICAR W VS UB W (ARENA SPORT 5 SERBIA)" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",13:00 (VOLLEYBALL) SERBIA SUPERLIGA WOMEN : ZELEZNICAR W VS UB W (ARENA SPORT 5 SERBIA)
-#EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
-#EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfstop1.newkso.ru/nfs/premium18/mono.m3u8
-
-#EXTINF:-1 tvg-id="13:30 (BİLARDO) WORLD SNOOKER CHAMPIONSHIP 2025 : O´SULLIVAN, RONNIE VS. CARTER, ALLISTER (TNT SPORT 3 UK)" tvg-logo="https://w7.pngwing.com/pngs/164/76/png-transparent-billiard-game-set-snooker-billiards-pool-billiard-ball-billiards-game-happy-birthday-vector-images-sports-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",13:30 (BİLARDO) WORLD SNOOKER CHAMPIONSHIP 2025 : O´SULLIVAN, RONNIE VS. CARTER, ALLISTER (TNT SPORT 3 UK)
-#EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
-#EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfstop1.newkso.ru/nfs/premium33/mono.m3u8
-
-#EXTINF:-1 tvg-id="13:30 (BİLARDO) WORLD SNOOKER CHAMPIONSHIP 2025 : O´SULLIVAN, RONNIE VS. CARTER, ALLISTER (BBC TWO UK)" tvg-logo="https://w7.pngwing.com/pngs/164/76/png-transparent-billiard-game-set-snooker-billiards-pool-billiard-ball-billiards-game-happy-birthday-vector-images-sports-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",13:30 (BİLARDO) WORLD SNOOKER CHAMPIONSHIP 2025 : O´SULLIVAN, RONNIE VS. CARTER, ALLISTER (BBC TWO UK)
-#EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
-#EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1top1.newkso.ru/dokko1/premium357/mono.m3u8
-
-#EXTINF:-1 tvg-id="13:30 (BİLARDO) WORLD SNOOKER CHAMPIONSHIP 2025 : O´SULLIVAN, RONNIE VS. CARTER, ALLISTER (TNT SPORT 1 UK)" tvg-logo="https://w7.pngwing.com/pngs/164/76/png-transparent-billiard-game-set-snooker-billiards-pool-billiard-ball-billiards-game-happy-birthday-vector-images-sports-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",13:30 (BİLARDO) WORLD SNOOKER CHAMPIONSHIP 2025 : O´SULLIVAN, RONNIE VS. CARTER, ALLISTER (TNT SPORT 1 UK)
-#EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
-#EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfstop1.newkso.ru/nfs/premium31/mono.m3u8
-
-#EXTINF:-1 tvg-id="13:30 (BİLARDO) WORLD SNOOKER CHAMPIONSHIP 2025 : O´SULLIVAN, RONNIE VS. CARTER, ALLISTER (EUROSPORT 1 POLAND)" tvg-logo="https://w7.pngwing.com/pngs/164/76/png-transparent-billiard-game-set-snooker-billiards-pool-billiard-ball-billiards-game-happy-birthday-vector-images-sports-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",13:30 (BİLARDO) WORLD SNOOKER CHAMPIONSHIP 2025 : O´SULLIVAN, RONNIE VS. CARTER, ALLISTER (EUROSPORT 1 POLAND)
-#EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
-#EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windtop1.newkso.ru/wind/premium57/mono.m3u8
-
-#EXTINF:-1 tvg-id="13:30 (BİLARDO) WORLD SNOOKER CHAMPIONSHIP 2025 : O´SULLIVAN, RONNIE VS. CARTER, ALLISTER (EUROSPORT 1 SPAIN)" tvg-logo="https://w7.pngwing.com/pngs/164/76/png-transparent-billiard-game-set-snooker-billiards-pool-billiard-ball-billiards-game-happy-birthday-vector-images-sports-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",13:30 (BİLARDO) WORLD SNOOKER CHAMPIONSHIP 2025 : O´SULLIVAN, RONNIE VS. CARTER, ALLISTER (EUROSPORT 1 SPAIN)
-#EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
-#EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekotop1.newkso.ru/zeko/premium524/mono.m3u8
-
-#EXTINF:-1 tvg-id="13:30 (BİLARDO) WORLD SNOOKER CHAMPIONSHIP 2025 : O´SULLIVAN, RONNIE VS. CARTER, ALLISTER (EUROSPORT 1 FRANCE)" tvg-logo="https://w7.pngwing.com/pngs/164/76/png-transparent-billiard-game-set-snooker-billiards-pool-billiard-ball-billiards-game-happy-birthday-vector-images-sports-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",13:30 (BİLARDO) WORLD SNOOKER CHAMPIONSHIP 2025 : O´SULLIVAN, RONNIE VS. CARTER, ALLISTER (EUROSPORT 1 FRANCE)
-#EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
-#EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6top1.newkso.ru/ddy6/premium772/mono.m3u8
-
-#EXTINF:-1 tvg-id="13:30 (BİLARDO) WORLD SNOOKER CHAMPIONSHIP 2025 : O´SULLIVAN, RONNIE VS. CARTER, ALLISTER (EUROSPORT 1 DE)" tvg-logo="https://w7.pngwing.com/pngs/164/76/png-transparent-billiard-game-set-snooker-billiards-pool-billiard-ball-billiards-game-happy-birthday-vector-images-sports-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",13:30 (BİLARDO) WORLD SNOOKER CHAMPIONSHIP 2025 : O´SULLIVAN, RONNIE VS. CARTER, ALLISTER (EUROSPORT 1 DE)
-#EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
-#EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windtop1.newkso.ru/wind/premium235/mono.m3u8
-
-#EXTINF:-1 tvg-id="13:30 (BİLARDO) WORLD SNOOKER CHAMPIONSHIP 2025 : O´SULLIVAN, RONNIE VS. CARTER, ALLISTER (EUROSPORT 1 SE)" tvg-logo="https://w7.pngwing.com/pngs/164/76/png-transparent-billiard-game-set-snooker-billiards-pool-billiard-ball-billiards-game-happy-birthday-vector-images-sports-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",13:30 (BİLARDO) WORLD SNOOKER CHAMPIONSHIP 2025 : O´SULLIVAN, RONNIE VS. CARTER, ALLISTER (EUROSPORT 1 SE)
-#EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
-#EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windtop1.newkso.ru/wind/premium231/mono.m3u8
-
-#EXTINF:-1 tvg-id="13:30 (DUVAR TENİSİ) DUSSOURRD - KANDRA - SQUASH GRASSHOPPER CUP ZURICH 2025 (SPORT EN FRANCE)" tvg-logo="https://w7.pngwing.com/pngs/101/889/png-transparent-chabad-jewish-centre-of-durham-region-partition-wall-adhesive-room-child-girl-playing-tennis-fashion-girl-orange-toddler-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",13:30 (DUVAR TENİSİ) DUSSOURRD - KANDRA - SQUASH GRASSHOPPER CUP ZURICH 2025 (SPORT EN FRANCE)
-#EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
-#EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfstop1.newkso.ru/nfs/premium16/mono.m3u8
-
-#EXTINF:-1 tvg-id="13:55 (FUTBOL) UNITED ARAB EMIRATES - UAE PRO LEAGUE : AL SHARJAH VS AJMAN (SHARJAH SPORTS)" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",13:55 (FUTBOL) UNITED ARAB EMIRATES - UAE PRO LEAGUE : AL SHARJAH VS AJMAN (SHARJAH SPORTS)
-#EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
-#EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfstop1.newkso.ru/nfs/premium1/mono.m3u8
-
 #EXTINF:-1 tvg-id="14:00 (CRICKET) INDIAN PREMIER LEAGUE : LUCKNOW SUPER GIANTS VS DELHI CAPITALS (WILLOW CRICKET)" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",14:00 (CRICKET) INDIAN PREMIER LEAGUE : LUCKNOW SUPER GIANTS VS DELHI CAPITALS (WILLOW CRICKET)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
@@ -174,25 +108,25 @@ https://windtop1.newkso.ru/wind/premium134/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfstop1.newkso.ru/nfs/premium15/mono.m3u8
 
-#EXTINF:-1 tvg-id="15:00 (VOLLEYBALL) BULGARIA SUPER LEAGUE WOMEN : LEVSKI VOLLEY VS. MARITSA 2022 (BNT 3 BULGARIA)" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",15:00 (VOLLEYBALL) BULGARIA SUPER LEAGUE WOMEN : LEVSKI VOLLEY VS. MARITSA 2022 (BNT 3 BULGARIA)
+#EXTINF:-1 tvg-id="15:00 (VOLEYBOL) BULGARIA SUPER LEAGUE WOMEN : LEVSKI VOLLEY VS. MARITSA 2022 (BNT 3 BULGARIA)" tvg-logo="https://w7.pngwing.com/pngs/283/393/png-transparent-volleyball-play-girl-volleyball-game-child-hand-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",15:00 (VOLEYBOL) BULGARIA SUPER LEAGUE WOMEN : LEVSKI VOLLEY VS. MARITSA 2022 (BNT 3 BULGARIA)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windtop1.newkso.ru/wind/premium478/mono.m3u8
 
-#EXTINF:-1 tvg-id="15:30 (BASKETBOL) HUNGARY NB I WOMEN : SOPRON BASKET VS. DVTK MISKOLC (M4 SPORT HUNGARY)" tvg-logo="https://w7.pngwing.com/pngs/724/979/png-transparent-basketball-player-playing-basketball-little-boy-child-hat-png-graphics-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",15:30 (BASKETBOL) HUNGARY NB I WOMEN : SOPRON BASKET VS. DVTK MISKOLC (M4 SPORT HUNGARY)
+#EXTINF:-1 tvg-id="15:30 (BASKETBOL) HUNGARY NB I WOMEN : SOPRON BASKET VS. DVTK MISKOLC (M4 SPORT HUNGARY)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",15:30 (BASKETBOL) HUNGARY NB I WOMEN : SOPRON BASKET VS. DVTK MISKOLC (M4 SPORT HUNGARY)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekotop1.newkso.ru/zeko/premium265/mono.m3u8
 
-#EXTINF:-1 tvg-id="15:30 (VOLLEYBALL) ORLEN LIGA WOMEN : BUDOWLANI LODZ VS. BKS BIELSKO-BIALA (POLSAT SPORT 1 POLAND)" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",15:30 (VOLLEYBALL) ORLEN LIGA WOMEN : BUDOWLANI LODZ VS. BKS BIELSKO-BIALA (POLSAT SPORT 1 POLAND)
+#EXTINF:-1 tvg-id="15:30 (VOLEYBOL) ORLEN LIGA WOMEN : BUDOWLANI LODZ VS. BKS BIELSKO-BIALA (POLSAT SPORT 1 POLAND)" tvg-logo="https://w7.pngwing.com/pngs/283/393/png-transparent-volleyball-play-girl-volleyball-game-child-hand-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",15:30 (VOLEYBOL) ORLEN LIGA WOMEN : BUDOWLANI LODZ VS. BKS BIELSKO-BIALA (POLSAT SPORT 1 POLAND)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windtop1.newkso.ru/wind/premium47/mono.m3u8
 
-#EXTINF:-1 tvg-id="15:40 (BASKETBOL) SUPER LEAGUE : HAPOEL M. JERUSALEM VS NES ZIONA (SPORT 5 STARS ISRAEL)" tvg-logo="https://w7.pngwing.com/pngs/724/979/png-transparent-basketball-player-playing-basketball-little-boy-child-hat-png-graphics-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",15:40 (BASKETBOL) SUPER LEAGUE : HAPOEL M. JERUSALEM VS NES ZIONA (SPORT 5 STARS ISRAEL)
+#EXTINF:-1 tvg-id="15:40 (BASKETBOL) SUPER LEAGUE : HAPOEL M. JERUSALEM VS NES ZIONA (SPORT 5 STARS ISRAEL)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",15:40 (BASKETBOL) SUPER LEAGUE : HAPOEL M. JERUSALEM VS NES ZIONA (SPORT 5 STARS ISRAEL)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -252,37 +186,37 @@ https://windtop1.newkso.ru/wind/premium465/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windtop1.newkso.ru/wind/premium453/mono.m3u8
 
-#EXTINF:-1 tvg-id="16:00 (BASKETBOL) ISRAEL NATIONAL LEAGUE : HAPOEL EILAT VS ELITZUR YAVNE (SPORT 5 LIVE ISRAEL)" tvg-logo="https://w7.pngwing.com/pngs/724/979/png-transparent-basketball-player-playing-basketball-little-boy-child-hat-png-graphics-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",16:00 (BASKETBOL) ISRAEL NATIONAL LEAGUE : HAPOEL EILAT VS ELITZUR YAVNE (SPORT 5 LIVE ISRAEL)
+#EXTINF:-1 tvg-id="16:00 (BASKETBOL) ISRAEL NATIONAL LEAGUE : HAPOEL EILAT VS ELITZUR YAVNE (SPORT 5 LIVE ISRAEL)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",16:00 (BASKETBOL) ISRAEL NATIONAL LEAGUE : HAPOEL EILAT VS ELITZUR YAVNE (SPORT 5 LIVE ISRAEL)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekotop1.newkso.ru/zeko/premium146/mono.m3u8
 
-#EXTINF:-1 tvg-id="16:00 (BASKETBOL) CZECH REPUBLIC ZBL : BK ZABINY BRNO VS. ZVVZ USK PRAHA (NOVA SPORT 1 CZECH HD)" tvg-logo="https://w7.pngwing.com/pngs/724/979/png-transparent-basketball-player-playing-basketball-little-boy-child-hat-png-graphics-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",16:00 (BASKETBOL) CZECH REPUBLIC ZBL : BK ZABINY BRNO VS. ZVVZ USK PRAHA (NOVA SPORT 1 CZECH HD)
+#EXTINF:-1 tvg-id="16:00 (BASKETBOL) CZECH REPUBLIC ZBL : BK ZABINY BRNO VS. ZVVZ USK PRAHA (NOVA SPORT 1 CZECH HD)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",16:00 (BASKETBOL) CZECH REPUBLIC ZBL : BK ZABINY BRNO VS. ZVVZ USK PRAHA (NOVA SPORT 1 CZECH HD)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfstop1.newkso.ru/nfs/premium14/mono.m3u8
 
-#EXTINF:-1 tvg-id="16:00 (BASKETBOL) ABA LEAGUE : ZADAR VS MORNAR BAR (ARENA SPORT 1 SERBIA)" tvg-logo="https://w7.pngwing.com/pngs/724/979/png-transparent-basketball-player-playing-basketball-little-boy-child-hat-png-graphics-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",16:00 (BASKETBOL) ABA LEAGUE : ZADAR VS MORNAR BAR (ARENA SPORT 1 SERBIA)
+#EXTINF:-1 tvg-id="16:00 (BASKETBOL) ABA LEAGUE : ZADAR VS MORNAR BAR (ARENA SPORT 1 SERBIA)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",16:00 (BASKETBOL) ABA LEAGUE : ZADAR VS MORNAR BAR (ARENA SPORT 1 SERBIA)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windtop1.newkso.ru/wind/premium429/mono.m3u8
 
-#EXTINF:-1 tvg-id="16:00 (BUZ HOKEYİ) KHL : AK BARS KAZAN VS DYNAMO MOSCOW (MATCH TV RUSSIA)" tvg-logo="https://w7.pngwing.com/pngs/479/327/png-transparent-ice-hockey-field-hockey-two-boys-playing-ice-hockey-child-sport-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",16:00 (BUZ HOKEYİ) KHL : AK BARS KAZAN VS DYNAMO MOSCOW (MATCH TV RUSSIA)
+#EXTINF:-1 tvg-id="16:00 (BUZ HOKEYİ) KHL : AK BARS KAZAN VS DYNAMO MOSCOW (MATCH TV RUSSIA)" tvg-logo="https://w7.pngwing.com/pngs/545/208/png-transparent-ice-hockey-pond-hockey-hockey-players-sport-video-player-competition-event-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",16:00 (BUZ HOKEYİ) KHL : AK BARS KAZAN VS DYNAMO MOSCOW (MATCH TV RUSSIA)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6top1.newkso.ru/ddy6/premium127/mono.m3u8
 
-#EXTINF:-1 tvg-id="16:00 (BUZ HOKEYİ) SLOVAKIA EXTRALIGA : HK NITRA VS. HC KOSICE (JOJ SPORT SLOVAKIA)" tvg-logo="https://w7.pngwing.com/pngs/479/327/png-transparent-ice-hockey-field-hockey-two-boys-playing-ice-hockey-child-sport-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",16:00 (BUZ HOKEYİ) SLOVAKIA EXTRALIGA : HK NITRA VS. HC KOSICE (JOJ SPORT SLOVAKIA)
+#EXTINF:-1 tvg-id="16:00 (BUZ HOKEYİ) SLOVAKIA EXTRALIGA : HK NITRA VS. HC KOSICE (JOJ SPORT SLOVAKIA)" tvg-logo="https://w7.pngwing.com/pngs/545/208/png-transparent-ice-hockey-pond-hockey-hockey-players-sport-video-player-competition-event-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",16:00 (BUZ HOKEYİ) SLOVAKIA EXTRALIGA : HK NITRA VS. HC KOSICE (JOJ SPORT SLOVAKIA)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfstop1.newkso.ru/nfs/premium20/mono.m3u8
 
-#EXTINF:-1 tvg-id="16:00 (VOLLEYBALL) SLOVENIAN LEAGUE: PLAYOFF - FINALE (G3) : VOLLEY LJUBLJANA VS KANAL (SPORT KLUB 5 CROATIA)" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",16:00 (VOLLEYBALL) SLOVENIAN LEAGUE: PLAYOFF - FINALE (G3) : VOLLEY LJUBLJANA VS KANAL (SPORT KLUB 5 CROATIA)
+#EXTINF:-1 tvg-id="16:00 (VOLEYBOL) SLOVENIAN LEAGUE: PLAYOFF - FINALE (G3) : VOLLEY LJUBLJANA VS KANAL (SPORT KLUB 5 CROATIA)" tvg-logo="https://w7.pngwing.com/pngs/283/393/png-transparent-volleyball-play-girl-volleyball-game-child-hand-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",16:00 (VOLEYBOL) SLOVENIAN LEAGUE: PLAYOFF - FINALE (G3) : VOLLEY LJUBLJANA VS KANAL (SPORT KLUB 5 CROATIA)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -396,19 +330,19 @@ https://nfstop1.newkso.ru/nfs/premium4/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfstop1.newkso.ru/nfs/premium5/mono.m3u8
 
-#EXTINF:-1 tvg-id="16:30 (BASKETBOL) RUSSIA UNITED LEAGUE : ZENIT ST. PETERSBURG VS PARMA PERMSKY KRAY (MATCH IGRA RUSSIA)" tvg-logo="https://w7.pngwing.com/pngs/724/979/png-transparent-basketball-player-playing-basketball-little-boy-child-hat-png-graphics-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",16:30 (BASKETBOL) RUSSIA UNITED LEAGUE : ZENIT ST. PETERSBURG VS PARMA PERMSKY KRAY (MATCH IGRA RUSSIA)
+#EXTINF:-1 tvg-id="16:30 (BASKETBOL) RUSSIA UNITED LEAGUE : ZENIT ST. PETERSBURG VS PARMA PERMSKY KRAY (MATCH IGRA RUSSIA)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",16:30 (BASKETBOL) RUSSIA UNITED LEAGUE : ZENIT ST. PETERSBURG VS PARMA PERMSKY KRAY (MATCH IGRA RUSSIA)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfstop1.newkso.ru/nfs/premium25/mono.m3u8
 
-#EXTINF:-1 tvg-id="16:45 (BASKETBOL) CZECH REPUBLIC NBL : BK OLOMOUCKO VS. BK OPAVA (CT SPORT CZECH HD)" tvg-logo="https://w7.pngwing.com/pngs/724/979/png-transparent-basketball-player-playing-basketball-little-boy-child-hat-png-graphics-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",16:45 (BASKETBOL) CZECH REPUBLIC NBL : BK OLOMOUCKO VS. BK OPAVA (CT SPORT CZECH HD)
+#EXTINF:-1 tvg-id="16:45 (BASKETBOL) CZECH REPUBLIC NBL : BK OLOMOUCKO VS. BK OPAVA (CT SPORT CZECH HD)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",16:45 (BASKETBOL) CZECH REPUBLIC NBL : BK OLOMOUCKO VS. BK OPAVA (CT SPORT CZECH HD)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfstop1.newkso.ru/nfs/premium15/mono.m3u8
 
-#EXTINF:-1 tvg-id="16:45 (BASKETBOL) LFB WOMEN : CHARNAY BOURGOGNE SUD W VS ANGERS W (SPORT EN FRANCE)" tvg-logo="https://w7.pngwing.com/pngs/724/979/png-transparent-basketball-player-playing-basketball-little-boy-child-hat-png-graphics-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",16:45 (BASKETBOL) LFB WOMEN : CHARNAY BOURGOGNE SUD W VS ANGERS W (SPORT EN FRANCE)
+#EXTINF:-1 tvg-id="16:45 (BASKETBOL) LFB WOMEN : CHARNAY BOURGOGNE SUD W VS ANGERS W (SPORT EN FRANCE)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",16:45 (BASKETBOL) LFB WOMEN : CHARNAY BOURGOGNE SUD W VS ANGERS W (SPORT EN FRANCE)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -618,7 +552,7 @@ https://dokko1top1.newkso.ru/dokko1/premium93/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekotop1.newkso.ru/zeko/premium90/mono.m3u8
 
-#EXTINF:-1 tvg-id="17:00 (BUZ HOKEYİ) HOCKEYALLSVENSKAN : AIK VS DJURGARDENS (TV4 HOCKEY)" tvg-logo="https://w7.pngwing.com/pngs/479/327/png-transparent-ice-hockey-field-hockey-two-boys-playing-ice-hockey-child-sport-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",17:00 (BUZ HOKEYİ) HOCKEYALLSVENSKAN : AIK VS DJURGARDENS (TV4 HOCKEY)
+#EXTINF:-1 tvg-id="17:00 (BUZ HOKEYİ) HOCKEYALLSVENSKAN : AIK VS DJURGARDENS (TV4 HOCKEY)" tvg-logo="https://w7.pngwing.com/pngs/545/208/png-transparent-ice-hockey-pond-hockey-hockey-players-sport-video-player-competition-event-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",17:00 (BUZ HOKEYİ) HOCKEYALLSVENSKAN : AIK VS DJURGARDENS (TV4 HOCKEY)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -666,49 +600,49 @@ https://zekotop1.newkso.ru/zeko/premium143/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekotop1.newkso.ru/zeko/premium144/mono.m3u8
 
-#EXTINF:-1 tvg-id="17:30 (VOLLEYBALL) ISRAEL PREMIER LEAGUE, WOMEN : HAPOEL KFAR SABA VS MACCABI ASHDOD VC (SPORT 5 PLUS ISRAEL)" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",17:30 (VOLLEYBALL) ISRAEL PREMIER LEAGUE, WOMEN : HAPOEL KFAR SABA VS MACCABI ASHDOD VC (SPORT 5 PLUS ISRAEL)
+#EXTINF:-1 tvg-id="17:30 (VOLEYBOL) ISRAEL PREMIER LEAGUE, WOMEN : HAPOEL KFAR SABA VS MACCABI ASHDOD VC (SPORT 5 PLUS ISRAEL)" tvg-logo="https://w7.pngwing.com/pngs/283/393/png-transparent-volleyball-play-girl-volleyball-game-child-hand-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",17:30 (VOLEYBOL) ISRAEL PREMIER LEAGUE, WOMEN : HAPOEL KFAR SABA VS MACCABI ASHDOD VC (SPORT 5 PLUS ISRAEL)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekotop1.newkso.ru/zeko/premium145/mono.m3u8
 
-#EXTINF:-1 tvg-id="17:45 (BASKETBOL) EUROLEAGUE : FENERBAHCE VS PARIS (MAGENTA SPORT 301)" tvg-logo="https://w7.pngwing.com/pngs/724/979/png-transparent-basketball-player-playing-basketball-little-boy-child-hat-png-graphics-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",17:45 (BASKETBOL) EUROLEAGUE : FENERBAHCE VS PARIS (MAGENTA SPORT 301)
+#EXTINF:-1 tvg-id="17:45 (BASKETBOL) EUROLEAGUE : FENERBAHCE VS PARIS (MAGENTA SPORT 301)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",17:45 (BASKETBOL) EUROLEAGUE : FENERBAHCE VS PARIS (MAGENTA SPORT 301)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfstop1.newkso.ru/nfs/premium17/mono.m3u8
 
-#EXTINF:-1 tvg-id="17:45 (BASKETBOL) EUROLEAGUE : FENERBAHCE VS PARIS (MOVISTAR DEPORTES 3 SPAIN)" tvg-logo="https://w7.pngwing.com/pngs/724/979/png-transparent-basketball-player-playing-basketball-little-boy-child-hat-png-graphics-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",17:45 (BASKETBOL) EUROLEAGUE : FENERBAHCE VS PARIS (MOVISTAR DEPORTES 3 SPAIN)
+#EXTINF:-1 tvg-id="17:45 (BASKETBOL) EUROLEAGUE : FENERBAHCE VS PARIS (MOVISTAR DEPORTES 3 SPAIN)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",17:45 (BASKETBOL) EUROLEAGUE : FENERBAHCE VS PARIS (MOVISTAR DEPORTES 3 SPAIN)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1top1.newkso.ru/dokko1/premium526/mono.m3u8
 
-#EXTINF:-1 tvg-id="17:45 (BASKETBOL) EUROLEAGUE : FENERBAHCE VS PARIS (ARENA 2 PREMIUM SERBIA)" tvg-logo="https://w7.pngwing.com/pngs/724/979/png-transparent-basketball-player-playing-basketball-little-boy-child-hat-png-graphics-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",17:45 (BASKETBOL) EUROLEAGUE : FENERBAHCE VS PARIS (ARENA 2 PREMIUM SERBIA)
+#EXTINF:-1 tvg-id="17:45 (BASKETBOL) EUROLEAGUE : FENERBAHCE VS PARIS (ARENA 2 PREMIUM SERBIA)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",17:45 (BASKETBOL) EUROLEAGUE : FENERBAHCE VS PARIS (ARENA 2 PREMIUM SERBIA)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6top1.newkso.ru/ddy6/premium135/mono.m3u8
 
-#EXTINF:-1 tvg-id="17:45 (BASKETBOL) EUROLEAGUE : FENERBAHCE VS PARIS (NOVA SPORTS 4 GREECE)" tvg-logo="https://w7.pngwing.com/pngs/724/979/png-transparent-basketball-player-playing-basketball-little-boy-child-hat-png-graphics-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",17:45 (BASKETBOL) EUROLEAGUE : FENERBAHCE VS PARIS (NOVA SPORTS 4 GREECE)
+#EXTINF:-1 tvg-id="17:45 (BASKETBOL) EUROLEAGUE : FENERBAHCE VS PARIS (NOVA SPORTS 4 GREECE)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",17:45 (BASKETBOL) EUROLEAGUE : FENERBAHCE VS PARIS (NOVA SPORTS 4 GREECE)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1top1.newkso.ru/dokko1/premium634/mono.m3u8
 
-#EXTINF:-1 tvg-id="17:45 (BASKETBOL) EUROLEAGUE : FENERBAHCE VS PARIS (MAX SPORT 3 BULGARIA)" tvg-logo="https://w7.pngwing.com/pngs/724/979/png-transparent-basketball-player-playing-basketball-little-boy-child-hat-png-graphics-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",17:45 (BASKETBOL) EUROLEAGUE : FENERBAHCE VS PARIS (MAX SPORT 3 BULGARIA)
+#EXTINF:-1 tvg-id="17:45 (BASKETBOL) EUROLEAGUE : FENERBAHCE VS PARIS (MAX SPORT 3 BULGARIA)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",17:45 (BASKETBOL) EUROLEAGUE : FENERBAHCE VS PARIS (MAX SPORT 3 BULGARIA)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6top1.newkso.ru/ddy6/premium474/mono.m3u8
 
-#EXTINF:-1 tvg-id="17:45 (BASKETBOL) EUROLEAGUE : FENERBAHCE VS PARIS (SPORT KLUB 1 CROATIA)" tvg-logo="https://w7.pngwing.com/pngs/724/979/png-transparent-basketball-player-playing-basketball-little-boy-child-hat-png-graphics-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",17:45 (BASKETBOL) EUROLEAGUE : FENERBAHCE VS PARIS (SPORT KLUB 1 CROATIA)
+#EXTINF:-1 tvg-id="17:45 (BASKETBOL) EUROLEAGUE : FENERBAHCE VS PARIS (SPORT KLUB 1 CROATIA)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",17:45 (BASKETBOL) EUROLEAGUE : FENERBAHCE VS PARIS (SPORT KLUB 1 CROATIA)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6top1.newkso.ru/ddy6/premium101/mono.m3u8
 
-#EXTINF:-1 tvg-id="17:45 (BASKETBOL) EUROLEAGUE : FENERBAHCE VS PARIS (SPORT 5 GOLD ISRAEL)" tvg-logo="https://w7.pngwing.com/pngs/724/979/png-transparent-basketball-player-playing-basketball-little-boy-child-hat-png-graphics-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",17:45 (BASKETBOL) EUROLEAGUE : FENERBAHCE VS PARIS (SPORT 5 GOLD ISRAEL)
+#EXTINF:-1 tvg-id="17:45 (BASKETBOL) EUROLEAGUE : FENERBAHCE VS PARIS (SPORT 5 GOLD ISRAEL)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",17:45 (BASKETBOL) EUROLEAGUE : FENERBAHCE VS PARIS (SPORT 5 GOLD ISRAEL)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -786,37 +720,37 @@ https://windtop1.newkso.ru/wind/premium235/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windtop1.newkso.ru/wind/premium231/mono.m3u8
 
-#EXTINF:-1 tvg-id="18:00 (BUZ HOKEYİ) SWITZERLAND NATIONAL LEAGU : ZSC LIONS ZURICH VS. HC LAUSANNE (SPORT 2 CZECH)" tvg-logo="https://w7.pngwing.com/pngs/479/327/png-transparent-ice-hockey-field-hockey-two-boys-playing-ice-hockey-child-sport-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",18:00 (BUZ HOKEYİ) SWITZERLAND NATIONAL LEAGU : ZSC LIONS ZURICH VS. HC LAUSANNE (SPORT 2 CZECH)
+#EXTINF:-1 tvg-id="18:00 (BUZ HOKEYİ) SWITZERLAND NATIONAL LEAGU : ZSC LIONS ZURICH VS. HC LAUSANNE (SPORT 2 CZECH)" tvg-logo="https://w7.pngwing.com/pngs/545/208/png-transparent-ice-hockey-pond-hockey-hockey-players-sport-video-player-competition-event-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",18:00 (BUZ HOKEYİ) SWITZERLAND NATIONAL LEAGU : ZSC LIONS ZURICH VS. HC LAUSANNE (SPORT 2 CZECH)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfstop1.newkso.ru/nfs/premium21/mono.m3u8
 
-#EXTINF:-1 tvg-id="18:00 (WATERPOLO) LEN CHAMPIONS LEAGUE QUARTERFINALS : CSM ORADEA VS. CN BARCELONETA (DIGI SPORT 3 ROMANIA)" tvg-logo="top1" group-title="GÜNLÜK DÜNYA SPORLARI",18:00 (WATERPOLO) LEN CHAMPIONS LEAGUE QUARTERFINALS : CSM ORADEA VS. CN BARCELONETA (DIGI SPORT 3 ROMANIA)
+#EXTINF:-1 tvg-id="18:00 (SU TOPU) LEN CHAMPIONS LEAGUE QUARTERFINALS : CSM ORADEA VS. CN BARCELONETA (DIGI SPORT 3 ROMANIA)" tvg-logo="https://w7.pngwing.com/pngs/445/686/png-transparent-water-polo-water-polo-sport-happy-birthday-vector-images-sticker-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",18:00 (SU TOPU) LEN CHAMPIONS LEAGUE QUARTERFINALS : CSM ORADEA VS. CN BARCELONETA (DIGI SPORT 3 ROMANIA)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://top1top1.newkso.ru/top1/premium402/mono.m3u8
 
-#EXTINF:-1 tvg-id="18:00 (WATERPOLO) LEN CHAMPIONS LEAGUE QUARTERFINALS : CSM ORADEA VS. CN BARCELONETA (ARENA SPORT 7 SERBIA)" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",18:00 (WATERPOLO) LEN CHAMPIONS LEAGUE QUARTERFINALS : CSM ORADEA VS. CN BARCELONETA (ARENA SPORT 7 SERBIA)
+#EXTINF:-1 tvg-id="18:00 (SU TOPU) LEN CHAMPIONS LEAGUE QUARTERFINALS : CSM ORADEA VS. CN BARCELONETA (ARENA SPORT 7 SERBIA)" tvg-logo="https://w7.pngwing.com/pngs/445/686/png-transparent-water-polo-water-polo-sport-happy-birthday-vector-images-sticker-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",18:00 (SU TOPU) LEN CHAMPIONS LEAGUE QUARTERFINALS : CSM ORADEA VS. CN BARCELONETA (ARENA SPORT 7 SERBIA)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfstop1.newkso.ru/nfs/premium26/mono.m3u8
 
-#EXTINF:-1 tvg-id="18:00 (WATERPOLO) LEN CHAMPIONS LEAGUE QUARTERFINALS : FERENCVAROSI VS SAVONA (ARENA SPORT 1 SERBIA)" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",18:00 (WATERPOLO) LEN CHAMPIONS LEAGUE QUARTERFINALS : FERENCVAROSI VS SAVONA (ARENA SPORT 1 SERBIA)
+#EXTINF:-1 tvg-id="18:00 (SU TOPU) LEN CHAMPIONS LEAGUE QUARTERFINALS : FERENCVAROSI VS SAVONA (ARENA SPORT 1 SERBIA)" tvg-logo="https://w7.pngwing.com/pngs/445/686/png-transparent-water-polo-water-polo-sport-happy-birthday-vector-images-sticker-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",18:00 (SU TOPU) LEN CHAMPIONS LEAGUE QUARTERFINALS : FERENCVAROSI VS SAVONA (ARENA SPORT 1 SERBIA)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windtop1.newkso.ru/wind/premium429/mono.m3u8
 
-#EXTINF:-1 tvg-id="18:05 (BASKETBOL) SUPER LEAGUE : MACCABI TEL AVIV VS IRONI KIRYAT ATA (SPORT 5 LIVE ISRAEL)" tvg-logo="https://w7.pngwing.com/pngs/724/979/png-transparent-basketball-player-playing-basketball-little-boy-child-hat-png-graphics-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",18:05 (BASKETBOL) SUPER LEAGUE : MACCABI TEL AVIV VS IRONI KIRYAT ATA (SPORT 5 LIVE ISRAEL)
+#EXTINF:-1 tvg-id="18:05 (BASKETBOL) SUPER LEAGUE : MACCABI TEL AVIV VS IRONI KIRYAT ATA (SPORT 5 LIVE ISRAEL)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",18:05 (BASKETBOL) SUPER LEAGUE : MACCABI TEL AVIV VS IRONI KIRYAT ATA (SPORT 5 LIVE ISRAEL)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekotop1.newkso.ru/zeko/premium146/mono.m3u8
 
-#EXTINF:-1 tvg-id="18:25 (BASKETBOL) PRIMERA FEB (T24/25): MOVISTAR ESTUDIANTES VS CANTABRIA (MOVISTAR DEPORTES 2 SPAIN)" tvg-logo="https://w7.pngwing.com/pngs/724/979/png-transparent-basketball-player-playing-basketball-little-boy-child-hat-png-graphics-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",18:25 (BASKETBOL) PRIMERA FEB (T24/25): MOVISTAR ESTUDIANTES VS CANTABRIA (MOVISTAR DEPORTES 2 SPAIN)
+#EXTINF:-1 tvg-id="18:25 (BASKETBOL) PRIMERA FEB (T24/25): MOVISTAR ESTUDIANTES VS CANTABRIA (MOVISTAR DEPORTES 2 SPAIN)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",18:25 (BASKETBOL) PRIMERA FEB (T24/25): MOVISTAR ESTUDIANTES VS CANTABRIA (MOVISTAR DEPORTES 2 SPAIN)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -852,79 +786,79 @@ https://nfstop1.newkso.ru/nfs/premium9/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfstop1.newkso.ru/nfs/premium10/mono.m3u8
 
-#EXTINF:-1 tvg-id="18:30 (BASKETBOL) EUROLEAGUE : PANATHINAIKOS BC VS. ANADOLU EFES SK (MAGENTA SPORT 302)" tvg-logo="https://w7.pngwing.com/pngs/724/979/png-transparent-basketball-player-playing-basketball-little-boy-child-hat-png-graphics-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",18:30 (BASKETBOL) EUROLEAGUE : PANATHINAIKOS BC VS. ANADOLU EFES SK (MAGENTA SPORT 302)
+#EXTINF:-1 tvg-id="18:30 (BASKETBOL) EUROLEAGUE : PANATHINAIKOS BC VS. ANADOLU EFES SK (MAGENTA SPORT 302)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",18:30 (BASKETBOL) EUROLEAGUE : PANATHINAIKOS BC VS. ANADOLU EFES SK (MAGENTA SPORT 302)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfstop1.newkso.ru/nfs/premium18/mono.m3u8
 
-#EXTINF:-1 tvg-id="18:30 (BASKETBOL) EUROLEAGUE : PANATHINAIKOS BC VS. ANADOLU EFES SK (MOVISTAR DEPORTES SPAIN)" tvg-logo="https://w7.pngwing.com/pngs/724/979/png-transparent-basketball-player-playing-basketball-little-boy-child-hat-png-graphics-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",18:30 (BASKETBOL) EUROLEAGUE : PANATHINAIKOS BC VS. ANADOLU EFES SK (MOVISTAR DEPORTES SPAIN)
+#EXTINF:-1 tvg-id="18:30 (BASKETBOL) EUROLEAGUE : PANATHINAIKOS BC VS. ANADOLU EFES SK (MOVISTAR DEPORTES SPAIN)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",18:30 (BASKETBOL) EUROLEAGUE : PANATHINAIKOS BC VS. ANADOLU EFES SK (MOVISTAR DEPORTES SPAIN)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekotop1.newkso.ru/zeko/premium436/mono.m3u8
 
-#EXTINF:-1 tvg-id="18:30 (BASKETBOL) EUROLEAGUE : PANATHINAIKOS BC VS. ANADOLU EFES SK (NOVA SPORTS PRIME GREECE)" tvg-logo="https://w7.pngwing.com/pngs/724/979/png-transparent-basketball-player-playing-basketball-little-boy-child-hat-png-graphics-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",18:30 (BASKETBOL) EUROLEAGUE : PANATHINAIKOS BC VS. ANADOLU EFES SK (NOVA SPORTS PRIME GREECE)
+#EXTINF:-1 tvg-id="18:30 (BASKETBOL) EUROLEAGUE : PANATHINAIKOS BC VS. ANADOLU EFES SK (NOVA SPORTS PRIME GREECE)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",18:30 (BASKETBOL) EUROLEAGUE : PANATHINAIKOS BC VS. ANADOLU EFES SK (NOVA SPORTS PRIME GREECE)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1top1.newkso.ru/dokko1/premium638/mono.m3u8
 
-#EXTINF:-1 tvg-id="18:30 (BASKETBOL) EUROLEAGUE : PANATHINAIKOS BC VS. ANADOLU EFES SK (SPORT TV3 PORTUGAL)" tvg-logo="https://w7.pngwing.com/pngs/724/979/png-transparent-basketball-player-playing-basketball-little-boy-child-hat-png-graphics-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",18:30 (BASKETBOL) EUROLEAGUE : PANATHINAIKOS BC VS. ANADOLU EFES SK (SPORT TV3 PORTUGAL)
+#EXTINF:-1 tvg-id="18:30 (BASKETBOL) EUROLEAGUE : PANATHINAIKOS BC VS. ANADOLU EFES SK (SPORT TV3 PORTUGAL)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",18:30 (BASKETBOL) EUROLEAGUE : PANATHINAIKOS BC VS. ANADOLU EFES SK (SPORT TV3 PORTUGAL)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6top1.newkso.ru/ddy6/premium454/mono.m3u8
 
-#EXTINF:-1 tvg-id="18:30 (BASKETBOL) EUROLEAGUE : PANATHINAIKOS BC VS. ANADOLU EFES SK (ARENA 3 PREMIUM SERBIA)" tvg-logo="https://w7.pngwing.com/pngs/724/979/png-transparent-basketball-player-playing-basketball-little-boy-child-hat-png-graphics-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",18:30 (BASKETBOL) EUROLEAGUE : PANATHINAIKOS BC VS. ANADOLU EFES SK (ARENA 3 PREMIUM SERBIA)
+#EXTINF:-1 tvg-id="18:30 (BASKETBOL) EUROLEAGUE : PANATHINAIKOS BC VS. ANADOLU EFES SK (ARENA 3 PREMIUM SERBIA)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",18:30 (BASKETBOL) EUROLEAGUE : PANATHINAIKOS BC VS. ANADOLU EFES SK (ARENA 3 PREMIUM SERBIA)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6top1.newkso.ru/ddy6/premium139/mono.m3u8
 
-#EXTINF:-1 tvg-id="18:30 (BASKETBOL) EUROLEAGUE : PANATHINAIKOS BC VS. ANADOLU EFES SK (MAX SPORT 2 BULGARIA)" tvg-logo="https://w7.pngwing.com/pngs/724/979/png-transparent-basketball-player-playing-basketball-little-boy-child-hat-png-graphics-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",18:30 (BASKETBOL) EUROLEAGUE : PANATHINAIKOS BC VS. ANADOLU EFES SK (MAX SPORT 2 BULGARIA)
+#EXTINF:-1 tvg-id="18:30 (BASKETBOL) EUROLEAGUE : PANATHINAIKOS BC VS. ANADOLU EFES SK (MAX SPORT 2 BULGARIA)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",18:30 (BASKETBOL) EUROLEAGUE : PANATHINAIKOS BC VS. ANADOLU EFES SK (MAX SPORT 2 BULGARIA)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windtop1.newkso.ru/wind/premium473/mono.m3u8
 
-#EXTINF:-1 tvg-id="18:30 (BASKETBOL) EUROLEAGUE : PANATHINAIKOS BC VS. ANADOLU EFES SK (SPORT KLUB 3 CROATIA)" tvg-logo="https://w7.pngwing.com/pngs/724/979/png-transparent-basketball-player-playing-basketball-little-boy-child-hat-png-graphics-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",18:30 (BASKETBOL) EUROLEAGUE : PANATHINAIKOS BC VS. ANADOLU EFES SK (SPORT KLUB 3 CROATIA)
+#EXTINF:-1 tvg-id="18:30 (BASKETBOL) EUROLEAGUE : PANATHINAIKOS BC VS. ANADOLU EFES SK (SPORT KLUB 3 CROATIA)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",18:30 (BASKETBOL) EUROLEAGUE : PANATHINAIKOS BC VS. ANADOLU EFES SK (SPORT KLUB 3 CROATIA)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfstop1.newkso.ru/nfs/premium103/mono.m3u8
 
-#EXTINF:-1 tvg-id="18:30 (BASKETBOL) EUROLEAGUE : PANATHINAIKOS BC VS. ANADOLU EFES SK (SPORT 5 STARS ISRAEL)" tvg-logo="https://w7.pngwing.com/pngs/724/979/png-transparent-basketball-player-playing-basketball-little-boy-child-hat-png-graphics-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",18:30 (BASKETBOL) EUROLEAGUE : PANATHINAIKOS BC VS. ANADOLU EFES SK (SPORT 5 STARS ISRAEL)
+#EXTINF:-1 tvg-id="18:30 (BASKETBOL) EUROLEAGUE : PANATHINAIKOS BC VS. ANADOLU EFES SK (SPORT 5 STARS ISRAEL)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",18:30 (BASKETBOL) EUROLEAGUE : PANATHINAIKOS BC VS. ANADOLU EFES SK (SPORT 5 STARS ISRAEL)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekotop1.newkso.ru/zeko/premium147/mono.m3u8
 
-#EXTINF:-1 tvg-id="18:30 (VOLLEYBALL) ORLEN LIGA WOMEN : KS RZESZOW VS. LKS LODZ (POLSAT SPORT 1 POLAND)" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",18:30 (VOLLEYBALL) ORLEN LIGA WOMEN : KS RZESZOW VS. LKS LODZ (POLSAT SPORT 1 POLAND)
+#EXTINF:-1 tvg-id="18:30 (VOLEYBOL) ORLEN LIGA WOMEN : KS RZESZOW VS. LKS LODZ (POLSAT SPORT 1 POLAND)" tvg-logo="https://w7.pngwing.com/pngs/283/393/png-transparent-volleyball-play-girl-volleyball-game-child-hand-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",18:30 (VOLEYBOL) ORLEN LIGA WOMEN : KS RZESZOW VS. LKS LODZ (POLSAT SPORT 1 POLAND)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windtop1.newkso.ru/wind/premium47/mono.m3u8
 
-#EXTINF:-1 tvg-id="18:30 (VOLLEYBALL) ORLEN LIGA WOMEN : KS RZESZOW VS. LKS LODZ (SPORT KLUB HD CROATIA)" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",18:30 (VOLLEYBALL) ORLEN LIGA WOMEN : KS RZESZOW VS. LKS LODZ (SPORT KLUB HD CROATIA)
+#EXTINF:-1 tvg-id="18:30 (VOLEYBOL) ORLEN LIGA WOMEN : KS RZESZOW VS. LKS LODZ (SPORT KLUB HD CROATIA)" tvg-logo="https://w7.pngwing.com/pngs/283/393/png-transparent-volleyball-play-girl-volleyball-game-child-hand-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",18:30 (VOLEYBOL) ORLEN LIGA WOMEN : KS RZESZOW VS. LKS LODZ (SPORT KLUB HD CROATIA)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windtop1.newkso.ru/wind/premium453/mono.m3u8
 
-#EXTINF:-1 tvg-id="18:30 (VOLLEYBALL) SERIE A1 WOMEN : VOLLEY CONEGLIANO VS. VOLLEY MONZA (ZONA DAZN ITALY)" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",18:30 (VOLLEYBALL) SERIE A1 WOMEN : VOLLEY CONEGLIANO VS. VOLLEY MONZA (ZONA DAZN ITALY)
+#EXTINF:-1 tvg-id="18:30 (VOLEYBOL) SERIE A1 WOMEN : VOLLEY CONEGLIANO VS. VOLLEY MONZA (ZONA DAZN ITALY)" tvg-logo="https://w7.pngwing.com/pngs/283/393/png-transparent-volleyball-play-girl-volleyball-game-child-hand-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",18:30 (VOLEYBOL) SERIE A1 WOMEN : VOLLEY CONEGLIANO VS. VOLLEY MONZA (ZONA DAZN ITALY)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfstop1.newkso.ru/nfs/premium877/mono.m3u8
 
-#EXTINF:-1 tvg-id="18:30 (VOLLEYBALL) SERIE A1 WOMEN : VOLLEY CONEGLIANO VS. VOLLEY MONZA (RAI SPORT 1 IT)" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA SPORLARI",18:30 (VOLLEYBALL) SERIE A1 WOMEN : VOLLEY CONEGLIANO VS. VOLLEY MONZA (RAI SPORT 1 IT)
+#EXTINF:-1 tvg-id="18:30 (VOLEYBOL) SERIE A1 WOMEN : VOLLEY CONEGLIANO VS. VOLLEY MONZA (RAI SPORT 1 IT)" tvg-logo="https://w7.pngwing.com/pngs/283/393/png-transparent-volleyball-play-girl-volleyball-game-child-hand-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",18:30 (VOLEYBOL) SERIE A1 WOMEN : VOLLEY CONEGLIANO VS. VOLLEY MONZA (RAI SPORT 1 IT)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6top1.newkso.ru/ddy6/premium882/mono.m3u8
 
-#EXTINF:-1 tvg-id="18:30 (VOLLEYBALL) SERIE A1 WOMEN : VOLLEY CONEGLIANO VS. VOLLEY MONZA (POLSAT SPORT 2 POLAND)" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",18:30 (VOLLEYBALL) SERIE A1 WOMEN : VOLLEY CONEGLIANO VS. VOLLEY MONZA (POLSAT SPORT 2 POLAND)
+#EXTINF:-1 tvg-id="18:30 (VOLEYBOL) SERIE A1 WOMEN : VOLLEY CONEGLIANO VS. VOLLEY MONZA (POLSAT SPORT 2 POLAND)" tvg-logo="https://w7.pngwing.com/pngs/283/393/png-transparent-volleyball-play-girl-volleyball-game-child-hand-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",18:30 (VOLEYBOL) SERIE A1 WOMEN : VOLLEY CONEGLIANO VS. VOLLEY MONZA (POLSAT SPORT 2 POLAND)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -1020,7 +954,7 @@ https://zekotop1.newkso.ru/zeko/premium145/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6top1.newkso.ru/ddy6/premium148/mono.m3u8
 
-#EXTINF:-1 tvg-id="18:45 (BASKETBOL) LFB WOMEN : BOURGES W VS TARBES GB W (SPORT EN FRANCE)" tvg-logo="https://w7.pngwing.com/pngs/724/979/png-transparent-basketball-player-playing-basketball-little-boy-child-hat-png-graphics-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",18:45 (BASKETBOL) LFB WOMEN : BOURGES W VS TARBES GB W (SPORT EN FRANCE)
+#EXTINF:-1 tvg-id="18:45 (BASKETBOL) LFB WOMEN : BOURGES W VS TARBES GB W (SPORT EN FRANCE)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",18:45 (BASKETBOL) LFB WOMEN : BOURGES W VS TARBES GB W (SPORT EN FRANCE)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -1488,7 +1422,7 @@ https://nfstop1.newkso.ru/nfs/premium104/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekotop1.newkso.ru/zeko/premium141/mono.m3u8
 
-#EXTINF:-1 tvg-id="21:00 (VOLLEYBALL) SUPERLIGA MASCULINA DE VÔLEI : CAMPINAS VS SUZANO (SPORTV2 BRAZIL)" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA SPORLARI",21:00 (VOLLEYBALL) SUPERLIGA MASCULINA DE VÔLEI : CAMPINAS VS SUZANO (SPORTV2 BRAZIL)
+#EXTINF:-1 tvg-id="21:00 (VOLEYBOL) SUPERLIGA MASCULINA DE VÔLEI : CAMPINAS VS SUZANO (SPORTV2 BRAZIL)" tvg-logo="https://w7.pngwing.com/pngs/283/393/png-transparent-volleyball-play-girl-volleyball-game-child-hand-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",21:00 (VOLEYBOL) SUPERLIGA MASCULINA DE VÔLEI : CAMPINAS VS SUZANO (SPORTV2 BRAZIL)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -1632,157 +1566,157 @@ https://zekotop1.newkso.ru/zeko/premium143/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windtop1.newkso.ru/wind/premium150/mono.m3u8
 
-#EXTINF:-1 tvg-id="22:00 (BEYZBOL) COLLEGE BASEBALL : WEST VIRGINIA VS PENN STATE (BTN USA)" tvg-logo="https://w7.pngwing.com/pngs/989/445/png-transparent-baseball-batting-graphy-baseball-boy-child-hand-boy-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:00 (BEYZBOL) COLLEGE BASEBALL : WEST VIRGINIA VS PENN STATE (BTN USA)
+#EXTINF:-1 tvg-id="22:00 (BEYZBOL) COLLEGE BASEBALL : WEST VIRGINIA VS PENN STATE (BTN USA)" tvg-logo="https://w7.pngwing.com/pngs/538/319/png-transparent-cricket-player-on-field-illustration-cricket-baseball-twenty20-batting-illustration-baseball-game-game-sport-video-game-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:00 (BEYZBOL) COLLEGE BASEBALL : WEST VIRGINIA VS PENN STATE (BTN USA)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windtop1.newkso.ru/wind/premium397/mono.m3u8
 
-#EXTINF:-1 tvg-id="22:00 (BEYZBOL) COLLEGE SOFTBALL : CLEMSON VS TENNESSEE (ESPNU USA)" tvg-logo="https://w7.pngwing.com/pngs/989/445/png-transparent-baseball-batting-graphy-baseball-boy-child-hand-boy-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:00 (BEYZBOL) COLLEGE SOFTBALL : CLEMSON VS TENNESSEE (ESPNU USA)
+#EXTINF:-1 tvg-id="22:00 (BEYZBOL) COLLEGE SOFTBALL : CLEMSON VS TENNESSEE (ESPNU USA)" tvg-logo="https://w7.pngwing.com/pngs/538/319/png-transparent-cricket-player-on-field-illustration-cricket-baseball-twenty20-batting-illustration-baseball-game-game-sport-video-game-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:00 (BEYZBOL) COLLEGE SOFTBALL : CLEMSON VS TENNESSEE (ESPNU USA)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekotop1.newkso.ru/zeko/premium316/mono.m3u8
 
-#EXTINF:-1 tvg-id="22:00 (BUZ HOKEYİ) NHL : NEW JERSEY DEVILS VS CAROLINA HURRICANES (HOME FEED)" tvg-logo="https://w7.pngwing.com/pngs/479/327/png-transparent-ice-hockey-field-hockey-two-boys-playing-ice-hockey-child-sport-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:00 (BUZ HOKEYİ) NHL : NEW JERSEY DEVILS VS CAROLINA HURRICANES (HOME FEED)
+#EXTINF:-1 tvg-id="22:00 (BUZ HOKEYİ) NHL : NEW JERSEY DEVILS VS CAROLINA HURRICANES (HOME FEED)" tvg-logo="https://w7.pngwing.com/pngs/545/208/png-transparent-ice-hockey-pond-hockey-hockey-players-sport-video-player-competition-event-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:00 (BUZ HOKEYİ) NHL : NEW JERSEY DEVILS VS CAROLINA HURRICANES (HOME FEED)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfstop1.newkso.ru/nfs/premium1/mono.m3u8
 
-#EXTINF:-1 tvg-id="22:00 (BUZ HOKEYİ) NHL : NEW JERSEY DEVILS VS CAROLINA HURRICANES (AWAY FEED)" tvg-logo="https://w7.pngwing.com/pngs/479/327/png-transparent-ice-hockey-field-hockey-two-boys-playing-ice-hockey-child-sport-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:00 (BUZ HOKEYİ) NHL : NEW JERSEY DEVILS VS CAROLINA HURRICANES (AWAY FEED)
+#EXTINF:-1 tvg-id="22:00 (BUZ HOKEYİ) NHL : NEW JERSEY DEVILS VS CAROLINA HURRICANES (AWAY FEED)" tvg-logo="https://w7.pngwing.com/pngs/545/208/png-transparent-ice-hockey-pond-hockey-hockey-players-sport-video-player-competition-event-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:00 (BUZ HOKEYİ) NHL : NEW JERSEY DEVILS VS CAROLINA HURRICANES (AWAY FEED)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfstop1.newkso.ru/nfs/premium2/mono.m3u8
 
-#EXTINF:-1 tvg-id="22:00 (BUZ HOKEYİ) NHL : NEW JERSEY DEVILS VS CAROLINA HURRICANES (MSG USA)" tvg-logo="https://w7.pngwing.com/pngs/479/327/png-transparent-ice-hockey-field-hockey-two-boys-playing-ice-hockey-child-sport-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:00 (BUZ HOKEYİ) NHL : NEW JERSEY DEVILS VS CAROLINA HURRICANES (MSG USA)
+#EXTINF:-1 tvg-id="22:00 (BUZ HOKEYİ) NHL : NEW JERSEY DEVILS VS CAROLINA HURRICANES (MSG USA)" tvg-logo="https://w7.pngwing.com/pngs/545/208/png-transparent-ice-hockey-pond-hockey-hockey-players-sport-video-player-competition-event-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:00 (BUZ HOKEYİ) NHL : NEW JERSEY DEVILS VS CAROLINA HURRICANES (MSG USA)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekotop1.newkso.ru/zeko/premium765/mono.m3u8
 
-#EXTINF:-1 tvg-id="22:00 (BUZ HOKEYİ) NHL : NEW JERSEY DEVILS VS CAROLINA HURRICANES (ESPN USA)" tvg-logo="https://w7.pngwing.com/pngs/479/327/png-transparent-ice-hockey-field-hockey-two-boys-playing-ice-hockey-child-sport-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:00 (BUZ HOKEYİ) NHL : NEW JERSEY DEVILS VS CAROLINA HURRICANES (ESPN USA)
+#EXTINF:-1 tvg-id="22:00 (BUZ HOKEYİ) NHL : NEW JERSEY DEVILS VS CAROLINA HURRICANES (ESPN USA)" tvg-logo="https://w7.pngwing.com/pngs/545/208/png-transparent-ice-hockey-pond-hockey-hockey-players-sport-video-player-competition-event-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:00 (BUZ HOKEYİ) NHL : NEW JERSEY DEVILS VS CAROLINA HURRICANES (ESPN USA)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekotop1.newkso.ru/zeko/premium44/mono.m3u8
 
-#EXTINF:-1 tvg-id="22:00 (BUZ HOKEYİ) NHL : NEW JERSEY DEVILS VS CAROLINA HURRICANES (SPORTSNET 360)" tvg-logo="https://w7.pngwing.com/pngs/479/327/png-transparent-ice-hockey-field-hockey-two-boys-playing-ice-hockey-child-sport-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:00 (BUZ HOKEYİ) NHL : NEW JERSEY DEVILS VS CAROLINA HURRICANES (SPORTSNET 360)
+#EXTINF:-1 tvg-id="22:00 (BUZ HOKEYİ) NHL : NEW JERSEY DEVILS VS CAROLINA HURRICANES (SPORTSNET 360)" tvg-logo="https://w7.pngwing.com/pngs/545/208/png-transparent-ice-hockey-pond-hockey-hockey-players-sport-video-player-competition-event-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:00 (BUZ HOKEYİ) NHL : NEW JERSEY DEVILS VS CAROLINA HURRICANES (SPORTSNET 360)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekotop1.newkso.ru/zeko/premium409/mono.m3u8
 
-#EXTINF:-1 tvg-id="22:00 (BUZ HOKEYİ) NHL : NEW JERSEY DEVILS VS CAROLINA HURRICANES (TVA SPORTS 2)" tvg-logo="https://w7.pngwing.com/pngs/479/327/png-transparent-ice-hockey-field-hockey-two-boys-playing-ice-hockey-child-sport-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:00 (BUZ HOKEYİ) NHL : NEW JERSEY DEVILS VS CAROLINA HURRICANES (TVA SPORTS 2)
+#EXTINF:-1 tvg-id="22:00 (BUZ HOKEYİ) NHL : NEW JERSEY DEVILS VS CAROLINA HURRICANES (TVA SPORTS 2)" tvg-logo="https://w7.pngwing.com/pngs/545/208/png-transparent-ice-hockey-pond-hockey-hockey-players-sport-video-player-competition-event-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:00 (BUZ HOKEYİ) NHL : NEW JERSEY DEVILS VS CAROLINA HURRICANES (TVA SPORTS 2)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1top1.newkso.ru/dokko1/premium834/mono.m3u8
 
-#EXTINF:-1 tvg-id="22:00 (BUZ HOKEYİ) NHL : NEW JERSEY DEVILS VS CAROLINA HURRICANES (FANDUEL SPORTS NETWORK SOUTH)" tvg-logo="https://w7.pngwing.com/pngs/479/327/png-transparent-ice-hockey-field-hockey-two-boys-playing-ice-hockey-child-sport-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:00 (BUZ HOKEYİ) NHL : NEW JERSEY DEVILS VS CAROLINA HURRICANES (FANDUEL SPORTS NETWORK SOUTH)
+#EXTINF:-1 tvg-id="22:00 (BUZ HOKEYİ) NHL : NEW JERSEY DEVILS VS CAROLINA HURRICANES (FANDUEL SPORTS NETWORK SOUTH)" tvg-logo="https://w7.pngwing.com/pngs/545/208/png-transparent-ice-hockey-pond-hockey-hockey-players-sport-video-player-competition-event-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:00 (BUZ HOKEYİ) NHL : NEW JERSEY DEVILS VS CAROLINA HURRICANES (FANDUEL SPORTS NETWORK SOUTH)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfstop1.newkso.ru/nfs/premium903/mono.m3u8
 
-#EXTINF:-1 tvg-id="22:00 (BUZ HOKEYİ) NHL : NEW JERSEY DEVILS VS CAROLINA HURRICANES (BEIN SPORTS 4 MAX FRANCE)" tvg-logo="https://w7.pngwing.com/pngs/479/327/png-transparent-ice-hockey-field-hockey-two-boys-playing-ice-hockey-child-sport-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:00 (BUZ HOKEYİ) NHL : NEW JERSEY DEVILS VS CAROLINA HURRICANES (BEIN SPORTS 4 MAX FRANCE)
+#EXTINF:-1 tvg-id="22:00 (BUZ HOKEYİ) NHL : NEW JERSEY DEVILS VS CAROLINA HURRICANES (BEIN SPORTS 4 MAX FRANCE)" tvg-logo="https://w7.pngwing.com/pngs/545/208/png-transparent-ice-hockey-pond-hockey-hockey-players-sport-video-player-competition-event-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:00 (BUZ HOKEYİ) NHL : NEW JERSEY DEVILS VS CAROLINA HURRICANES (BEIN SPORTS 4 MAX FRANCE)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6top1.newkso.ru/ddy6/premium494/mono.m3u8
 
-#EXTINF:-1 tvg-id="22:00 (BUZ HOKEYİ) NHL : NEW JERSEY DEVILS VS CAROLINA HURRICANES (SPORT 5 STARS ISRAEL)" tvg-logo="https://w7.pngwing.com/pngs/479/327/png-transparent-ice-hockey-field-hockey-two-boys-playing-ice-hockey-child-sport-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:00 (BUZ HOKEYİ) NHL : NEW JERSEY DEVILS VS CAROLINA HURRICANES (SPORT 5 STARS ISRAEL)
+#EXTINF:-1 tvg-id="22:00 (BUZ HOKEYİ) NHL : NEW JERSEY DEVILS VS CAROLINA HURRICANES (SPORT 5 STARS ISRAEL)" tvg-logo="https://w7.pngwing.com/pngs/545/208/png-transparent-ice-hockey-pond-hockey-hockey-players-sport-video-player-competition-event-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:00 (BUZ HOKEYİ) NHL : NEW JERSEY DEVILS VS CAROLINA HURRICANES (SPORT 5 STARS ISRAEL)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekotop1.newkso.ru/zeko/premium147/mono.m3u8
 
-#EXTINF:-1 tvg-id="22:10 (BEYZBOL) MLB : NEW YORK YANKEES VS CLEVELAND GUARDIANS (MLB LEAGUE PASS)" tvg-logo="https://w7.pngwing.com/pngs/989/445/png-transparent-baseball-batting-graphy-baseball-boy-child-hand-boy-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:10 (BEYZBOL) MLB : NEW YORK YANKEES VS CLEVELAND GUARDIANS (MLB LEAGUE PASS)
+#EXTINF:-1 tvg-id="22:10 (BEYZBOL) MLB : NEW YORK YANKEES VS CLEVELAND GUARDIANS (MLB LEAGUE PASS)" tvg-logo="https://w7.pngwing.com/pngs/538/319/png-transparent-cricket-player-on-field-illustration-cricket-baseball-twenty20-batting-illustration-baseball-game-game-sport-video-game-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:10 (BEYZBOL) MLB : NEW YORK YANKEES VS CLEVELAND GUARDIANS (MLB LEAGUE PASS)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfstop1.newkso.ru/nfs/premium15/mono.m3u8
 
-#EXTINF:-1 tvg-id="22:10 (BEYZBOL) MLB : NEW YORK YANKEES VS CLEVELAND GUARDIANS (YES USA)" tvg-logo="https://w7.pngwing.com/pngs/989/445/png-transparent-baseball-batting-graphy-baseball-boy-child-hand-boy-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:10 (BEYZBOL) MLB : NEW YORK YANKEES VS CLEVELAND GUARDIANS (YES USA)
+#EXTINF:-1 tvg-id="22:10 (BEYZBOL) MLB : NEW YORK YANKEES VS CLEVELAND GUARDIANS (YES USA)" tvg-logo="https://w7.pngwing.com/pngs/538/319/png-transparent-cricket-player-on-field-illustration-cricket-baseball-twenty20-batting-illustration-baseball-game-game-sport-video-game-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:10 (BEYZBOL) MLB : NEW YORK YANKEES VS CLEVELAND GUARDIANS (YES USA)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekotop1.newkso.ru/zeko/premium763/mono.m3u8
 
-#EXTINF:-1 tvg-id="22:40 (BEYZBOL) MLB : CINCINNATI REDS VS MIAMI MARLINS (MLB LEAGUE PASS)" tvg-logo="https://w7.pngwing.com/pngs/989/445/png-transparent-baseball-batting-graphy-baseball-boy-child-hand-boy-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:40 (BEYZBOL) MLB : CINCINNATI REDS VS MIAMI MARLINS (MLB LEAGUE PASS)
+#EXTINF:-1 tvg-id="22:40 (BEYZBOL) MLB : CINCINNATI REDS VS MIAMI MARLINS (MLB LEAGUE PASS)" tvg-logo="https://w7.pngwing.com/pngs/538/319/png-transparent-cricket-player-on-field-illustration-cricket-baseball-twenty20-batting-illustration-baseball-game-game-sport-video-game-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:40 (BEYZBOL) MLB : CINCINNATI REDS VS MIAMI MARLINS (MLB LEAGUE PASS)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfstop1.newkso.ru/nfs/premium16/mono.m3u8
 
-#EXTINF:-1 tvg-id="22:40 (BEYZBOL) MLB : CINCINNATI REDS VS MIAMI MARLINS (FANDUEL SPORTS NETWORK FLORIDA)" tvg-logo="https://w7.pngwing.com/pngs/989/445/png-transparent-baseball-batting-graphy-baseball-boy-child-hand-boy-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:40 (BEYZBOL) MLB : CINCINNATI REDS VS MIAMI MARLINS (FANDUEL SPORTS NETWORK FLORIDA)
+#EXTINF:-1 tvg-id="22:40 (BEYZBOL) MLB : CINCINNATI REDS VS MIAMI MARLINS (FANDUEL SPORTS NETWORK FLORIDA)" tvg-logo="https://w7.pngwing.com/pngs/538/319/png-transparent-cricket-player-on-field-illustration-cricket-baseball-twenty20-batting-illustration-baseball-game-game-sport-video-game-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:40 (BEYZBOL) MLB : CINCINNATI REDS VS MIAMI MARLINS (FANDUEL SPORTS NETWORK FLORIDA)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekotop1.newkso.ru/zeko/premium892/mono.m3u8
 
-#EXTINF:-1 tvg-id="22:40 (BEYZBOL) MLB : CINCINNATI REDS VS MIAMI MARLINS (FANDUEL SPORTS NETWORK INDIANA)" tvg-logo="https://w7.pngwing.com/pngs/989/445/png-transparent-baseball-batting-graphy-baseball-boy-child-hand-boy-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:40 (BEYZBOL) MLB : CINCINNATI REDS VS MIAMI MARLINS (FANDUEL SPORTS NETWORK INDIANA)
+#EXTINF:-1 tvg-id="22:40 (BEYZBOL) MLB : CINCINNATI REDS VS MIAMI MARLINS (FANDUEL SPORTS NETWORK INDIANA)" tvg-logo="https://w7.pngwing.com/pngs/538/319/png-transparent-cricket-player-on-field-illustration-cricket-baseball-twenty20-batting-illustration-baseball-game-game-sport-video-game-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:40 (BEYZBOL) MLB : CINCINNATI REDS VS MIAMI MARLINS (FANDUEL SPORTS NETWORK INDIANA)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekotop1.newkso.ru/zeko/premium894/mono.m3u8
 
-#EXTINF:-1 tvg-id="22:40 (BEYZBOL) MLB : CINCINNATI REDS VS MIAMI MARLINS (FANDUEL SPORTS NETWORK OHIO)" tvg-logo="https://w7.pngwing.com/pngs/989/445/png-transparent-baseball-batting-graphy-baseball-boy-child-hand-boy-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:40 (BEYZBOL) MLB : CINCINNATI REDS VS MIAMI MARLINS (FANDUEL SPORTS NETWORK OHIO)
+#EXTINF:-1 tvg-id="22:40 (BEYZBOL) MLB : CINCINNATI REDS VS MIAMI MARLINS (FANDUEL SPORTS NETWORK OHIO)" tvg-logo="https://w7.pngwing.com/pngs/538/319/png-transparent-cricket-player-on-field-illustration-cricket-baseball-twenty20-batting-illustration-baseball-game-game-sport-video-game-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:40 (BEYZBOL) MLB : CINCINNATI REDS VS MIAMI MARLINS (FANDUEL SPORTS NETWORK OHIO)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfstop1.newkso.ru/nfs/premium899/mono.m3u8
 
-#EXTINF:-1 tvg-id="22:40 (BEYZBOL) MLB : SAN DIEGO PADRES VS DETROIT TIGERS (MLB LEAGUE PASS)" tvg-logo="https://w7.pngwing.com/pngs/989/445/png-transparent-baseball-batting-graphy-baseball-boy-child-hand-boy-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:40 (BEYZBOL) MLB : SAN DIEGO PADRES VS DETROIT TIGERS (MLB LEAGUE PASS)
+#EXTINF:-1 tvg-id="22:40 (BEYZBOL) MLB : SAN DIEGO PADRES VS DETROIT TIGERS (MLB LEAGUE PASS)" tvg-logo="https://w7.pngwing.com/pngs/538/319/png-transparent-cricket-player-on-field-illustration-cricket-baseball-twenty20-batting-illustration-baseball-game-game-sport-video-game-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:40 (BEYZBOL) MLB : SAN DIEGO PADRES VS DETROIT TIGERS (MLB LEAGUE PASS)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfstop1.newkso.ru/nfs/premium17/mono.m3u8
 
-#EXTINF:-1 tvg-id="22:40 (BEYZBOL) MLB : SAN DIEGO PADRES VS DETROIT TIGERS (FANDUEL SPORTS NETWORK DETROIT)" tvg-logo="https://w7.pngwing.com/pngs/989/445/png-transparent-baseball-batting-graphy-baseball-boy-child-hand-boy-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:40 (BEYZBOL) MLB : SAN DIEGO PADRES VS DETROIT TIGERS (FANDUEL SPORTS NETWORK DETROIT)
+#EXTINF:-1 tvg-id="22:40 (BEYZBOL) MLB : SAN DIEGO PADRES VS DETROIT TIGERS (FANDUEL SPORTS NETWORK DETROIT)" tvg-logo="https://w7.pngwing.com/pngs/538/319/png-transparent-cricket-player-on-field-illustration-cricket-baseball-twenty20-batting-illustration-baseball-game-game-sport-video-game-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:40 (BEYZBOL) MLB : SAN DIEGO PADRES VS DETROIT TIGERS (FANDUEL SPORTS NETWORK DETROIT)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekotop1.newkso.ru/zeko/premium891/mono.m3u8
 
-#EXTINF:-1 tvg-id="22:45 (BEYZBOL) MLB : BALTIMORE ORIOLES VS WASHINGTON NATIONALS (MLB LEAGUE PASS)" tvg-logo="https://w7.pngwing.com/pngs/989/445/png-transparent-baseball-batting-graphy-baseball-boy-child-hand-boy-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:45 (BEYZBOL) MLB : BALTIMORE ORIOLES VS WASHINGTON NATIONALS (MLB LEAGUE PASS)
+#EXTINF:-1 tvg-id="22:45 (BEYZBOL) MLB : BALTIMORE ORIOLES VS WASHINGTON NATIONALS (MLB LEAGUE PASS)" tvg-logo="https://w7.pngwing.com/pngs/538/319/png-transparent-cricket-player-on-field-illustration-cricket-baseball-twenty20-batting-illustration-baseball-game-game-sport-video-game-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:45 (BEYZBOL) MLB : BALTIMORE ORIOLES VS WASHINGTON NATIONALS (MLB LEAGUE PASS)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfstop1.newkso.ru/nfs/premium18/mono.m3u8
 
-#EXTINF:-1 tvg-id="22:45 (BEYZBOL) MLB : BALTIMORE ORIOLES VS WASHINGTON NATIONALS (VODAFONE SPORT)" tvg-logo="https://w7.pngwing.com/pngs/989/445/png-transparent-baseball-batting-graphy-baseball-boy-child-hand-boy-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:45 (BEYZBOL) MLB : BALTIMORE ORIOLES VS WASHINGTON NATIONALS (VODAFONE SPORT)
+#EXTINF:-1 tvg-id="22:45 (BEYZBOL) MLB : BALTIMORE ORIOLES VS WASHINGTON NATIONALS (VODAFONE SPORT)" tvg-logo="https://w7.pngwing.com/pngs/538/319/png-transparent-cricket-player-on-field-illustration-cricket-baseball-twenty20-batting-illustration-baseball-game-game-sport-video-game-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:45 (BEYZBOL) MLB : BALTIMORE ORIOLES VS WASHINGTON NATIONALS (VODAFONE SPORT)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windtop1.newkso.ru/wind/premium260/mono.m3u8
 
-#EXTINF:-1 tvg-id="22:45 (BEYZBOL) MLB : BALTIMORE ORIOLES VS WASHINGTON NATIONALS (MASN USA)" tvg-logo="https://w7.pngwing.com/pngs/989/445/png-transparent-baseball-batting-graphy-baseball-boy-child-hand-boy-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:45 (BEYZBOL) MLB : BALTIMORE ORIOLES VS WASHINGTON NATIONALS (MASN USA)
+#EXTINF:-1 tvg-id="22:45 (BEYZBOL) MLB : BALTIMORE ORIOLES VS WASHINGTON NATIONALS (MASN USA)" tvg-logo="https://w7.pngwing.com/pngs/538/319/png-transparent-cricket-player-on-field-illustration-cricket-baseball-twenty20-batting-illustration-baseball-game-game-sport-video-game-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:45 (BEYZBOL) MLB : BALTIMORE ORIOLES VS WASHINGTON NATIONALS (MASN USA)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfstop1.newkso.ru/nfs/premium829/mono.m3u8
 
-#EXTINF:-1 tvg-id="22:45 (BEYZBOL) MLB : BALTIMORE ORIOLES VS WASHINGTON NATIONALS (BEIN SPORTS 5 MAX FRANCE)" tvg-logo="https://w7.pngwing.com/pngs/989/445/png-transparent-baseball-batting-graphy-baseball-boy-child-hand-boy-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:45 (BEYZBOL) MLB : BALTIMORE ORIOLES VS WASHINGTON NATIONALS (BEIN SPORTS 5 MAX FRANCE)
+#EXTINF:-1 tvg-id="22:45 (BEYZBOL) MLB : BALTIMORE ORIOLES VS WASHINGTON NATIONALS (BEIN SPORTS 5 MAX FRANCE)" tvg-logo="https://w7.pngwing.com/pngs/538/319/png-transparent-cricket-player-on-field-illustration-cricket-baseball-twenty20-batting-illustration-baseball-game-game-sport-video-game-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:45 (BEYZBOL) MLB : BALTIMORE ORIOLES VS WASHINGTON NATIONALS (BEIN SPORTS 5 MAX FRANCE)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6top1.newkso.ru/ddy6/premium495/mono.m3u8
 
-#EXTINF:-1 tvg-id="22:45 (BEYZBOL) MLB : SEATTLE MARINERS VS BOSTON RED SOX (MLB LEAGUE PASS)" tvg-logo="https://w7.pngwing.com/pngs/989/445/png-transparent-baseball-batting-graphy-baseball-boy-child-hand-boy-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:45 (BEYZBOL) MLB : SEATTLE MARINERS VS BOSTON RED SOX (MLB LEAGUE PASS)
+#EXTINF:-1 tvg-id="22:45 (BEYZBOL) MLB : SEATTLE MARINERS VS BOSTON RED SOX (MLB LEAGUE PASS)" tvg-logo="https://w7.pngwing.com/pngs/538/319/png-transparent-cricket-player-on-field-illustration-cricket-baseball-twenty20-batting-illustration-baseball-game-game-sport-video-game-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:45 (BEYZBOL) MLB : SEATTLE MARINERS VS BOSTON RED SOX (MLB LEAGUE PASS)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfstop1.newkso.ru/nfs/premium19/mono.m3u8
 
-#EXTINF:-1 tvg-id="22:45 (BEYZBOL) MLB : SEATTLE MARINERS VS BOSTON RED SOX (ROOT SPORTS NW USA)" tvg-logo="https://w7.pngwing.com/pngs/989/445/png-transparent-baseball-batting-graphy-baseball-boy-child-hand-boy-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:45 (BEYZBOL) MLB : SEATTLE MARINERS VS BOSTON RED SOX (ROOT SPORTS NW USA)
+#EXTINF:-1 tvg-id="22:45 (BEYZBOL) MLB : SEATTLE MARINERS VS BOSTON RED SOX (ROOT SPORTS NW USA)" tvg-logo="https://w7.pngwing.com/pngs/538/319/png-transparent-cricket-player-on-field-illustration-cricket-baseball-twenty20-batting-illustration-baseball-game-game-sport-video-game-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:45 (BEYZBOL) MLB : SEATTLE MARINERS VS BOSTON RED SOX (ROOT SPORTS NW USA)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1top1.newkso.ru/dokko1/premium920/mono.m3u8
 
-#EXTINF:-1 tvg-id="22:45 (BEYZBOL) MLB : SEATTLE MARINERS VS BOSTON RED SOX (NESN USA)" tvg-logo="https://w7.pngwing.com/pngs/989/445/png-transparent-baseball-batting-graphy-baseball-boy-child-hand-boy-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:45 (BEYZBOL) MLB : SEATTLE MARINERS VS BOSTON RED SOX (NESN USA)
+#EXTINF:-1 tvg-id="22:45 (BEYZBOL) MLB : SEATTLE MARINERS VS BOSTON RED SOX (NESN USA)" tvg-logo="https://w7.pngwing.com/pngs/538/319/png-transparent-cricket-player-on-field-illustration-cricket-baseball-twenty20-batting-illustration-baseball-game-game-sport-video-game-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:45 (BEYZBOL) MLB : SEATTLE MARINERS VS BOSTON RED SOX (NESN USA)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -1800,319 +1734,319 @@ https://zekotop1.newkso.ru/zeko/premium766/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekotop1.newkso.ru/zeko/premium848/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:00 (WWE) WWE NXT (CW USA)" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (WWE) WWE NXT (CW USA)
+#EXTINF:-1 tvg-id="23:00 (WWE) WWE NXT (CW USA)" tvg-logo="https://w7.pngwing.com/pngs/846/469/png-transparent-wwe-championship-logo-wwe-network-sports-entertainment-cm-punk-angle-text-triangle-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (WWE) WWE NXT (CW USA)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekotop1.newkso.ru/zeko/premium300/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:00 (WWE) WWE NXT (CW PIX 11 USA)" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (WWE) WWE NXT (CW PIX 11 USA)
+#EXTINF:-1 tvg-id="23:00 (WWE) WWE NXT (CW PIX 11 USA)" tvg-logo="https://w7.pngwing.com/pngs/846/469/png-transparent-wwe-championship-logo-wwe-network-sports-entertainment-cm-punk-angle-text-triangle-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (WWE) WWE NXT (CW PIX 11 USA)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfstop1.newkso.ru/nfs/premium280/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:00 (WWE) WWE NXT (SUPERSPORT VARIETY 3)" tvg-logo="ddy6" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (WWE) WWE NXT (SUPERSPORT VARIETY 3)
+#EXTINF:-1 tvg-id="23:00 (WWE) WWE NXT (SUPERSPORT VARIETY 3)" tvg-logo="https://w7.pngwing.com/pngs/846/469/png-transparent-wwe-championship-logo-wwe-network-sports-entertainment-cm-punk-angle-text-triangle-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (WWE) WWE NXT (SUPERSPORT VARIETY 3)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6top1.newkso.ru/ddy6/premium418/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:00 (WWE) WWE NXT (SUPERSPORT GRANDSTAND)" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (WWE) WWE NXT (SUPERSPORT GRANDSTAND)
+#EXTINF:-1 tvg-id="23:00 (WWE) WWE NXT (SUPERSPORT GRANDSTAND)" tvg-logo="https://w7.pngwing.com/pngs/846/469/png-transparent-wwe-championship-logo-wwe-network-sports-entertainment-cm-punk-angle-text-triangle-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (WWE) WWE NXT (SUPERSPORT GRANDSTAND)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekotop1.newkso.ru/zeko/premium412/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:00 (BASKETBOL) NBA : MILWAUKEE BUCKS VS INDIANA PACERS (HOME FEED)" tvg-logo="https://w7.pngwing.com/pngs/724/979/png-transparent-basketball-player-playing-basketball-little-boy-child-hat-png-graphics-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (BASKETBOL) NBA : MILWAUKEE BUCKS VS INDIANA PACERS (HOME FEED)
+#EXTINF:-1 tvg-id="23:00 (BASKETBOL) NBA : MILWAUKEE BUCKS VS INDIANA PACERS (HOME FEED)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (BASKETBOL) NBA : MILWAUKEE BUCKS VS INDIANA PACERS (HOME FEED)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfstop1.newkso.ru/nfs/premium9/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:00 (BASKETBOL) NBA : MILWAUKEE BUCKS VS INDIANA PACERS (AWAY FEED)" tvg-logo="https://w7.pngwing.com/pngs/724/979/png-transparent-basketball-player-playing-basketball-little-boy-child-hat-png-graphics-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (BASKETBOL) NBA : MILWAUKEE BUCKS VS INDIANA PACERS (AWAY FEED)
+#EXTINF:-1 tvg-id="23:00 (BASKETBOL) NBA : MILWAUKEE BUCKS VS INDIANA PACERS (AWAY FEED)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (BASKETBOL) NBA : MILWAUKEE BUCKS VS INDIANA PACERS (AWAY FEED)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfstop1.newkso.ru/nfs/premium10/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:00 (BASKETBOL) NBA : MILWAUKEE BUCKS VS INDIANA PACERS (NBA TV USA)" tvg-logo="https://w7.pngwing.com/pngs/724/979/png-transparent-basketball-player-playing-basketball-little-boy-child-hat-png-graphics-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (BASKETBOL) NBA : MILWAUKEE BUCKS VS INDIANA PACERS (NBA TV USA)
+#EXTINF:-1 tvg-id="23:00 (BASKETBOL) NBA : MILWAUKEE BUCKS VS INDIANA PACERS (NBA TV USA)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (BASKETBOL) NBA : MILWAUKEE BUCKS VS INDIANA PACERS (NBA TV USA)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekotop1.newkso.ru/zeko/premium404/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:00 (BASKETBOL) NBA : MILWAUKEE BUCKS VS INDIANA PACERS (FANDUEL SPORTS NETWORK INDIANA)" tvg-logo="https://w7.pngwing.com/pngs/724/979/png-transparent-basketball-player-playing-basketball-little-boy-child-hat-png-graphics-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (BASKETBOL) NBA : MILWAUKEE BUCKS VS INDIANA PACERS (FANDUEL SPORTS NETWORK INDIANA)
+#EXTINF:-1 tvg-id="23:00 (BASKETBOL) NBA : MILWAUKEE BUCKS VS INDIANA PACERS (FANDUEL SPORTS NETWORK INDIANA)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (BASKETBOL) NBA : MILWAUKEE BUCKS VS INDIANA PACERS (FANDUEL SPORTS NETWORK INDIANA)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekotop1.newkso.ru/zeko/premium894/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:00 (BASKETBOL) NBA : MILWAUKEE BUCKS VS INDIANA PACERS (FANDUEL SPORTS NETWORK WISCONSIN)" tvg-logo="https://w7.pngwing.com/pngs/724/979/png-transparent-basketball-player-playing-basketball-little-boy-child-hat-png-graphics-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (BASKETBOL) NBA : MILWAUKEE BUCKS VS INDIANA PACERS (FANDUEL SPORTS NETWORK WISCONSIN)
+#EXTINF:-1 tvg-id="23:00 (BASKETBOL) NBA : MILWAUKEE BUCKS VS INDIANA PACERS (FANDUEL SPORTS NETWORK WISCONSIN)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (BASKETBOL) NBA : MILWAUKEE BUCKS VS INDIANA PACERS (FANDUEL SPORTS NETWORK WISCONSIN)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfstop1.newkso.ru/nfs/premium907/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:00 (BASKETBOL) NBA : MILWAUKEE BUCKS VS INDIANA PACERS (MOVISTAR DEPORTES SPAIN)" tvg-logo="https://w7.pngwing.com/pngs/724/979/png-transparent-basketball-player-playing-basketball-little-boy-child-hat-png-graphics-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (BASKETBOL) NBA : MILWAUKEE BUCKS VS INDIANA PACERS (MOVISTAR DEPORTES SPAIN)
+#EXTINF:-1 tvg-id="23:00 (BASKETBOL) NBA : MILWAUKEE BUCKS VS INDIANA PACERS (MOVISTAR DEPORTES SPAIN)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (BASKETBOL) NBA : MILWAUKEE BUCKS VS INDIANA PACERS (MOVISTAR DEPORTES SPAIN)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekotop1.newkso.ru/zeko/premium436/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:00 (BASKETBOL) NBA : MILWAUKEE BUCKS VS INDIANA PACERS (BEIN SPORTS 1 FRANCE)" tvg-logo="https://w7.pngwing.com/pngs/724/979/png-transparent-basketball-player-playing-basketball-little-boy-child-hat-png-graphics-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (BASKETBOL) NBA : MILWAUKEE BUCKS VS INDIANA PACERS (BEIN SPORTS 1 FRANCE)
+#EXTINF:-1 tvg-id="23:00 (BASKETBOL) NBA : MILWAUKEE BUCKS VS INDIANA PACERS (BEIN SPORTS 1 FRANCE)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (BASKETBOL) NBA : MILWAUKEE BUCKS VS INDIANA PACERS (BEIN SPORTS 1 FRANCE)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekotop1.newkso.ru/zeko/premium116/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:00 (BASKETBOL) NBA : MILWAUKEE BUCKS VS INDIANA PACERS (CYTAVISION SPORTS 6 CYPRUS)" tvg-logo="https://w7.pngwing.com/pngs/724/979/png-transparent-basketball-player-playing-basketball-little-boy-child-hat-png-graphics-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (BASKETBOL) NBA : MILWAUKEE BUCKS VS INDIANA PACERS (CYTAVISION SPORTS 6 CYPRUS)
+#EXTINF:-1 tvg-id="23:00 (BASKETBOL) NBA : MILWAUKEE BUCKS VS INDIANA PACERS (CYTAVISION SPORTS 6 CYPRUS)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (BASKETBOL) NBA : MILWAUKEE BUCKS VS INDIANA PACERS (CYTAVISION SPORTS 6 CYPRUS)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windtop1.newkso.ru/wind/premium916/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:00 (BASKETBOL) NBA : MILWAUKEE BUCKS VS INDIANA PACERS (COSMOTE SPORT 7 GREECE)" tvg-logo="https://w7.pngwing.com/pngs/724/979/png-transparent-basketball-player-playing-basketball-little-boy-child-hat-png-graphics-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (BASKETBOL) NBA : MILWAUKEE BUCKS VS INDIANA PACERS (COSMOTE SPORT 7 GREECE)
+#EXTINF:-1 tvg-id="23:00 (BASKETBOL) NBA : MILWAUKEE BUCKS VS INDIANA PACERS (COSMOTE SPORT 7 GREECE)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (BASKETBOL) NBA : MILWAUKEE BUCKS VS INDIANA PACERS (COSMOTE SPORT 7 GREECE)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1top1.newkso.ru/dokko1/premium628/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:00 (BASKETBOL) NBA : MILWAUKEE BUCKS VS INDIANA PACERS (SPORT TV4 PORTUGAL)" tvg-logo="https://w7.pngwing.com/pngs/724/979/png-transparent-basketball-player-playing-basketball-little-boy-child-hat-png-graphics-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (BASKETBOL) NBA : MILWAUKEE BUCKS VS INDIANA PACERS (SPORT TV4 PORTUGAL)
+#EXTINF:-1 tvg-id="23:00 (BASKETBOL) NBA : MILWAUKEE BUCKS VS INDIANA PACERS (SPORT TV4 PORTUGAL)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (BASKETBOL) NBA : MILWAUKEE BUCKS VS INDIANA PACERS (SPORT TV4 PORTUGAL)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6top1.newkso.ru/ddy6/premium289/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:00 (BASKETBOL) NBA : MILWAUKEE BUCKS VS INDIANA PACERS (SPORT 5 LIVE ISRAEL)" tvg-logo="https://w7.pngwing.com/pngs/724/979/png-transparent-basketball-player-playing-basketball-little-boy-child-hat-png-graphics-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (BASKETBOL) NBA : MILWAUKEE BUCKS VS INDIANA PACERS (SPORT 5 LIVE ISRAEL)
+#EXTINF:-1 tvg-id="23:00 (BASKETBOL) NBA : MILWAUKEE BUCKS VS INDIANA PACERS (SPORT 5 LIVE ISRAEL)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (BASKETBOL) NBA : MILWAUKEE BUCKS VS INDIANA PACERS (SPORT 5 LIVE ISRAEL)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekotop1.newkso.ru/zeko/premium146/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:00 (RUGBY UNION) MAJOR LEAGUE RUGBY : NEW ENGLAND FREE JACKS VS LOS ANGELES (VIAPLAY SPORTS 2 UK)" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (RUGBY UNION) MAJOR LEAGUE RUGBY : NEW ENGLAND FREE JACKS VS LOS ANGELES (VIAPLAY SPORTS 2 UK)
+#EXTINF:-1 tvg-id="23:00 (RUGBI) MAJOR LEAGUE RUGBY : NEW ENGLAND FREE JACKS VS LOS ANGELES (VIAPLAY SPORTS 2 UK)" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (RUGBI) MAJOR LEAGUE RUGBY : NEW ENGLAND FREE JACKS VS LOS ANGELES (VIAPLAY SPORTS 2 UK)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windtop1.newkso.ru/wind/premium550/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:00 (RUGBY UNION) MAJOR LEAGUE RUGBY : NEW ENGLAND FREE JACKS VS LOS ANGELES (NBCS BOSTON)" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (RUGBY UNION) MAJOR LEAGUE RUGBY : NEW ENGLAND FREE JACKS VS LOS ANGELES (NBCS BOSTON)
+#EXTINF:-1 tvg-id="23:00 (RUGBI) MAJOR LEAGUE RUGBY : NEW ENGLAND FREE JACKS VS LOS ANGELES (NBCS BOSTON)" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (RUGBI) MAJOR LEAGUE RUGBY : NEW ENGLAND FREE JACKS VS LOS ANGELES (NBCS BOSTON)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windtop1.newkso.ru/wind/premium754/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:00 (RUGBY UNION) MAJOR LEAGUE RUGBY : NEW ENGLAND FREE JACKS VS LOS ANGELES (FANDUEL SPORTS NETWORK SOCAL)" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (RUGBY UNION) MAJOR LEAGUE RUGBY : NEW ENGLAND FREE JACKS VS LOS ANGELES (FANDUEL SPORTS NETWORK SOCAL)
+#EXTINF:-1 tvg-id="23:00 (RUGBI) MAJOR LEAGUE RUGBY : NEW ENGLAND FREE JACKS VS LOS ANGELES (FANDUEL SPORTS NETWORK SOCAL)" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (RUGBI) MAJOR LEAGUE RUGBY : NEW ENGLAND FREE JACKS VS LOS ANGELES (FANDUEL SPORTS NETWORK SOCAL)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfstop1.newkso.ru/nfs/premium902/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:10 (BEYZBOL) MLB : PHILADELPHIA PHILLIES VS NEW YORK (METS MLB LEAGUE PASS)" tvg-logo="https://w7.pngwing.com/pngs/989/445/png-transparent-baseball-batting-graphy-baseball-boy-child-hand-boy-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:10 (BEYZBOL) MLB : PHILADELPHIA PHILLIES VS NEW YORK (METS MLB LEAGUE PASS)
+#EXTINF:-1 tvg-id="23:10 (BEYZBOL) MLB : PHILADELPHIA PHILLIES VS NEW YORK (METS MLB LEAGUE PASS)" tvg-logo="https://w7.pngwing.com/pngs/538/319/png-transparent-cricket-player-on-field-illustration-cricket-baseball-twenty20-batting-illustration-baseball-game-game-sport-video-game-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:10 (BEYZBOL) MLB : PHILADELPHIA PHILLIES VS NEW YORK (METS MLB LEAGUE PASS)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfstop1.newkso.ru/nfs/premium20/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:10 (BEYZBOL) MLB : PHILADELPHIA PHILLIES VS NEW YORK (TNT SPORTS 1 UK)" tvg-logo="https://w7.pngwing.com/pngs/989/445/png-transparent-baseball-batting-graphy-baseball-boy-child-hand-boy-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:10 (BEYZBOL) MLB : PHILADELPHIA PHILLIES VS NEW YORK (TNT SPORTS 1 UK)
+#EXTINF:-1 tvg-id="23:10 (BEYZBOL) MLB : PHILADELPHIA PHILLIES VS NEW YORK (TNT SPORTS 1 UK)" tvg-logo="https://w7.pngwing.com/pngs/538/319/png-transparent-cricket-player-on-field-illustration-cricket-baseball-twenty20-batting-illustration-baseball-game-game-sport-video-game-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:10 (BEYZBOL) MLB : PHILADELPHIA PHILLIES VS NEW YORK (TNT SPORTS 1 UK)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfstop1.newkso.ru/nfs/premium31/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:10 (BEYZBOL) MLB : PHILADELPHIA PHILLIES VS NEW YORK (TBS USA)" tvg-logo="https://w7.pngwing.com/pngs/989/445/png-transparent-baseball-batting-graphy-baseball-boy-child-hand-boy-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:10 (BEYZBOL) MLB : PHILADELPHIA PHILLIES VS NEW YORK (TBS USA)
+#EXTINF:-1 tvg-id="23:10 (BEYZBOL) MLB : PHILADELPHIA PHILLIES VS NEW YORK (TBS USA)" tvg-logo="https://w7.pngwing.com/pngs/538/319/png-transparent-cricket-player-on-field-illustration-cricket-baseball-twenty20-batting-illustration-baseball-game-game-sport-video-game-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:10 (BEYZBOL) MLB : PHILADELPHIA PHILLIES VS NEW YORK (TBS USA)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekotop1.newkso.ru/zeko/premium336/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:10 (BEYZBOL) MLB : PHILADELPHIA PHILLIES VS NEW YORK (NBCS PHILADELPHIA USA)" tvg-logo="https://w7.pngwing.com/pngs/989/445/png-transparent-baseball-batting-graphy-baseball-boy-child-hand-boy-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:10 (BEYZBOL) MLB : PHILADELPHIA PHILLIES VS NEW YORK (NBCS PHILADELPHIA USA)
+#EXTINF:-1 tvg-id="23:10 (BEYZBOL) MLB : PHILADELPHIA PHILLIES VS NEW YORK (NBCS PHILADELPHIA USA)" tvg-logo="https://w7.pngwing.com/pngs/538/319/png-transparent-cricket-player-on-field-illustration-cricket-baseball-twenty20-batting-illustration-baseball-game-game-sport-video-game-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:10 (BEYZBOL) MLB : PHILADELPHIA PHILLIES VS NEW YORK (NBCS PHILADELPHIA USA)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekotop1.newkso.ru/zeko/premium777/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:10 (BEYZBOL) MLB : PHILADELPHIA PHILLIES VS NEW YORK (SPORTSNET NEW YORK USA)" tvg-logo="https://w7.pngwing.com/pngs/989/445/png-transparent-baseball-batting-graphy-baseball-boy-child-hand-boy-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:10 (BEYZBOL) MLB : PHILADELPHIA PHILLIES VS NEW YORK (SPORTSNET NEW YORK USA)
+#EXTINF:-1 tvg-id="23:10 (BEYZBOL) MLB : PHILADELPHIA PHILLIES VS NEW YORK (SPORTSNET NEW YORK USA)" tvg-logo="https://w7.pngwing.com/pngs/538/319/png-transparent-cricket-player-on-field-illustration-cricket-baseball-twenty20-batting-illustration-baseball-game-game-sport-video-game-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:10 (BEYZBOL) MLB : PHILADELPHIA PHILLIES VS NEW YORK (SPORTSNET NEW YORK USA)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekotop1.newkso.ru/zeko/premium759/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:15 (BEYZBOL) MLB : ST. LOUIS CARDINALS VS ATLANTA BRAVES (MLB LEAGUE PASS)" tvg-logo="https://w7.pngwing.com/pngs/989/445/png-transparent-baseball-batting-graphy-baseball-boy-child-hand-boy-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:15 (BEYZBOL) MLB : ST. LOUIS CARDINALS VS ATLANTA BRAVES (MLB LEAGUE PASS)
+#EXTINF:-1 tvg-id="23:15 (BEYZBOL) MLB : ST. LOUIS CARDINALS VS ATLANTA BRAVES (MLB LEAGUE PASS)" tvg-logo="https://w7.pngwing.com/pngs/538/319/png-transparent-cricket-player-on-field-illustration-cricket-baseball-twenty20-batting-illustration-baseball-game-game-sport-video-game-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:15 (BEYZBOL) MLB : ST. LOUIS CARDINALS VS ATLANTA BRAVES (MLB LEAGUE PASS)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfstop1.newkso.ru/nfs/premium21/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:15 (BEYZBOL) MLB : ST. LOUIS CARDINALS VS ATLANTA BRAVES (FANDUEL SPORTS NETWORK MIDWEST)" tvg-logo="https://w7.pngwing.com/pngs/989/445/png-transparent-baseball-batting-graphy-baseball-boy-child-hand-boy-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:15 (BEYZBOL) MLB : ST. LOUIS CARDINALS VS ATLANTA BRAVES (FANDUEL SPORTS NETWORK MIDWEST)
+#EXTINF:-1 tvg-id="23:15 (BEYZBOL) MLB : ST. LOUIS CARDINALS VS ATLANTA BRAVES (FANDUEL SPORTS NETWORK MIDWEST)" tvg-logo="https://w7.pngwing.com/pngs/538/319/png-transparent-cricket-player-on-field-illustration-cricket-baseball-twenty20-batting-illustration-baseball-game-game-sport-video-game-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:15 (BEYZBOL) MLB : ST. LOUIS CARDINALS VS ATLANTA BRAVES (FANDUEL SPORTS NETWORK MIDWEST)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekotop1.newkso.ru/zeko/premium896/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:15 (BEYZBOL) MLB : ST. LOUIS CARDINALS VS ATLANTA BRAVES (FANDUEL SPORTS NETWORK OKLAHOMA)" tvg-logo="https://w7.pngwing.com/pngs/989/445/png-transparent-baseball-batting-graphy-baseball-boy-child-hand-boy-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:15 (BEYZBOL) MLB : ST. LOUIS CARDINALS VS ATLANTA BRAVES (FANDUEL SPORTS NETWORK OKLAHOMA)
+#EXTINF:-1 tvg-id="23:15 (BEYZBOL) MLB : ST. LOUIS CARDINALS VS ATLANTA BRAVES (FANDUEL SPORTS NETWORK OKLAHOMA)" tvg-logo="https://w7.pngwing.com/pngs/538/319/png-transparent-cricket-player-on-field-illustration-cricket-baseball-twenty20-batting-illustration-baseball-game-game-sport-video-game-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:15 (BEYZBOL) MLB : ST. LOUIS CARDINALS VS ATLANTA BRAVES (FANDUEL SPORTS NETWORK OKLAHOMA)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekotop1.newkso.ru/zeko/premium900/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:15 (BEYZBOL) MLB : ST. LOUIS CARDINALS VS ATLANTA BRAVES (FANDUEL SPORTS NETWORK SOUTH)" tvg-logo="https://w7.pngwing.com/pngs/989/445/png-transparent-baseball-batting-graphy-baseball-boy-child-hand-boy-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:15 (BEYZBOL) MLB : ST. LOUIS CARDINALS VS ATLANTA BRAVES (FANDUEL SPORTS NETWORK SOUTH)
+#EXTINF:-1 tvg-id="23:15 (BEYZBOL) MLB : ST. LOUIS CARDINALS VS ATLANTA BRAVES (FANDUEL SPORTS NETWORK SOUTH)" tvg-logo="https://w7.pngwing.com/pngs/538/319/png-transparent-cricket-player-on-field-illustration-cricket-baseball-twenty20-batting-illustration-baseball-game-game-sport-video-game-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:15 (BEYZBOL) MLB : ST. LOUIS CARDINALS VS ATLANTA BRAVES (FANDUEL SPORTS NETWORK SOUTH)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfstop1.newkso.ru/nfs/premium903/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:15 (BEYZBOL) MLB : ST. LOUIS CARDINALS VS ATLANTA BRAVES (FANDUEL SPORTS NETWORK SOUTHEAST)" tvg-logo="https://w7.pngwing.com/pngs/989/445/png-transparent-baseball-batting-graphy-baseball-boy-child-hand-boy-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:15 (BEYZBOL) MLB : ST. LOUIS CARDINALS VS ATLANTA BRAVES (FANDUEL SPORTS NETWORK SOUTHEAST)
+#EXTINF:-1 tvg-id="23:15 (BEYZBOL) MLB : ST. LOUIS CARDINALS VS ATLANTA BRAVES (FANDUEL SPORTS NETWORK SOUTHEAST)" tvg-logo="https://w7.pngwing.com/pngs/538/319/png-transparent-cricket-player-on-field-illustration-cricket-baseball-twenty20-batting-illustration-baseball-game-game-sport-video-game-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:15 (BEYZBOL) MLB : ST. LOUIS CARDINALS VS ATLANTA BRAVES (FANDUEL SPORTS NETWORK SOUTHEAST)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekotop1.newkso.ru/zeko/premium904/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:30 (BASKETBOL) NBA : MEMPHIS GRIZZLIES VS OKLAHOMA CITY THUNDER (HOME FEED)" tvg-logo="https://w7.pngwing.com/pngs/724/979/png-transparent-basketball-player-playing-basketball-little-boy-child-hat-png-graphics-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:30 (BASKETBOL) NBA : MEMPHIS GRIZZLIES VS OKLAHOMA CITY THUNDER (HOME FEED)
+#EXTINF:-1 tvg-id="23:30 (BASKETBOL) NBA : MEMPHIS GRIZZLIES VS OKLAHOMA CITY THUNDER (HOME FEED)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:30 (BASKETBOL) NBA : MEMPHIS GRIZZLIES VS OKLAHOMA CITY THUNDER (HOME FEED)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfstop1.newkso.ru/nfs/premium11/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:30 (BASKETBOL) NBA : MEMPHIS GRIZZLIES VS OKLAHOMA CITY THUNDER (AWAY FEED)" tvg-logo="https://w7.pngwing.com/pngs/724/979/png-transparent-basketball-player-playing-basketball-little-boy-child-hat-png-graphics-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:30 (BASKETBOL) NBA : MEMPHIS GRIZZLIES VS OKLAHOMA CITY THUNDER (AWAY FEED)
+#EXTINF:-1 tvg-id="23:30 (BASKETBOL) NBA : MEMPHIS GRIZZLIES VS OKLAHOMA CITY THUNDER (AWAY FEED)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:30 (BASKETBOL) NBA : MEMPHIS GRIZZLIES VS OKLAHOMA CITY THUNDER (AWAY FEED)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfstop1.newkso.ru/nfs/premium12/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:30 (BASKETBOL) NBA : MEMPHIS GRIZZLIES VS OKLAHOMA CITY THUNDER (TNT USA)" tvg-logo="https://w7.pngwing.com/pngs/724/979/png-transparent-basketball-player-playing-basketball-little-boy-child-hat-png-graphics-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:30 (BASKETBOL) NBA : MEMPHIS GRIZZLIES VS OKLAHOMA CITY THUNDER (TNT USA)
+#EXTINF:-1 tvg-id="23:30 (BASKETBOL) NBA : MEMPHIS GRIZZLIES VS OKLAHOMA CITY THUNDER (TNT USA)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:30 (BASKETBOL) NBA : MEMPHIS GRIZZLIES VS OKLAHOMA CITY THUNDER (TNT USA)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekotop1.newkso.ru/zeko/premium338/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:30 (BASKETBOL) NBA : MEMPHIS GRIZZLIES VS OKLAHOMA CITY THUNDER (TRUTV USA)" tvg-logo="https://w7.pngwing.com/pngs/724/979/png-transparent-basketball-player-playing-basketball-little-boy-child-hat-png-graphics-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:30 (BASKETBOL) NBA : MEMPHIS GRIZZLIES VS OKLAHOMA CITY THUNDER (TRUTV USA)
+#EXTINF:-1 tvg-id="23:30 (BASKETBOL) NBA : MEMPHIS GRIZZLIES VS OKLAHOMA CITY THUNDER (TRUTV USA)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:30 (BASKETBOL) NBA : MEMPHIS GRIZZLIES VS OKLAHOMA CITY THUNDER (TRUTV USA)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1top1.newkso.ru/dokko1/premium341/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:30 (BASKETBOL) NBA : MEMPHIS GRIZZLIES VS OKLAHOMA CITY THUNDER (RDS CA)" tvg-logo="https://w7.pngwing.com/pngs/724/979/png-transparent-basketball-player-playing-basketball-little-boy-child-hat-png-graphics-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:30 (BASKETBOL) NBA : MEMPHIS GRIZZLIES VS OKLAHOMA CITY THUNDER (RDS CA)
+#EXTINF:-1 tvg-id="23:30 (BASKETBOL) NBA : MEMPHIS GRIZZLIES VS OKLAHOMA CITY THUNDER (RDS CA)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:30 (BASKETBOL) NBA : MEMPHIS GRIZZLIES VS OKLAHOMA CITY THUNDER (RDS CA)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1top1.newkso.ru/dokko1/premium839/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:30 (BASKETBOL) NBA : MEMPHIS GRIZZLIES VS OKLAHOMA CITY THUNDER (FANDUEL SPORTS NETWORK OKLAHOMA)" tvg-logo="https://w7.pngwing.com/pngs/724/979/png-transparent-basketball-player-playing-basketball-little-boy-child-hat-png-graphics-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:30 (BASKETBOL) NBA : MEMPHIS GRIZZLIES VS OKLAHOMA CITY THUNDER (FANDUEL SPORTS NETWORK OKLAHOMA)
+#EXTINF:-1 tvg-id="23:30 (BASKETBOL) NBA : MEMPHIS GRIZZLIES VS OKLAHOMA CITY THUNDER (FANDUEL SPORTS NETWORK OKLAHOMA)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:30 (BASKETBOL) NBA : MEMPHIS GRIZZLIES VS OKLAHOMA CITY THUNDER (FANDUEL SPORTS NETWORK OKLAHOMA)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekotop1.newkso.ru/zeko/premium900/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:30 (BASKETBOL) NBA : MEMPHIS GRIZZLIES VS OKLAHOMA CITY THUNDER (TSN3)" tvg-logo="https://w7.pngwing.com/pngs/724/979/png-transparent-basketball-player-playing-basketball-little-boy-child-hat-png-graphics-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:30 (BASKETBOL) NBA : MEMPHIS GRIZZLIES VS OKLAHOMA CITY THUNDER (TSN3)
+#EXTINF:-1 tvg-id="23:30 (BASKETBOL) NBA : MEMPHIS GRIZZLIES VS OKLAHOMA CITY THUNDER (TSN3)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:30 (BASKETBOL) NBA : MEMPHIS GRIZZLIES VS OKLAHOMA CITY THUNDER (TSN3)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekotop1.newkso.ru/zeko/premium113/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:30 (BASKETBOL) NBA : MEMPHIS GRIZZLIES VS OKLAHOMA CITY THUNDER (TSN1)" tvg-logo="https://w7.pngwing.com/pngs/724/979/png-transparent-basketball-player-playing-basketball-little-boy-child-hat-png-graphics-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:30 (BASKETBOL) NBA : MEMPHIS GRIZZLIES VS OKLAHOMA CITY THUNDER (TSN1)
+#EXTINF:-1 tvg-id="23:30 (BASKETBOL) NBA : MEMPHIS GRIZZLIES VS OKLAHOMA CITY THUNDER (TSN1)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:30 (BASKETBOL) NBA : MEMPHIS GRIZZLIES VS OKLAHOMA CITY THUNDER (TSN1)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekotop1.newkso.ru/zeko/premium111/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:30 (BASKETBOL) NBA : MEMPHIS GRIZZLIES VS OKLAHOMA CITY THUNDER (TSN5)" tvg-logo="https://w7.pngwing.com/pngs/724/979/png-transparent-basketball-player-playing-basketball-little-boy-child-hat-png-graphics-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:30 (BASKETBOL) NBA : MEMPHIS GRIZZLIES VS OKLAHOMA CITY THUNDER (TSN5)
+#EXTINF:-1 tvg-id="23:30 (BASKETBOL) NBA : MEMPHIS GRIZZLIES VS OKLAHOMA CITY THUNDER (TSN5)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:30 (BASKETBOL) NBA : MEMPHIS GRIZZLIES VS OKLAHOMA CITY THUNDER (TSN5)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekotop1.newkso.ru/zeko/premium115/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:30 (BUZ HOKEYİ) NHL : OTTAWA SENATORS VS TORONTO MAPLE LEAFS (HOME FEED)" tvg-logo="https://w7.pngwing.com/pngs/479/327/png-transparent-ice-hockey-field-hockey-two-boys-playing-ice-hockey-child-sport-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:30 (BUZ HOKEYİ) NHL : OTTAWA SENATORS VS TORONTO MAPLE LEAFS (HOME FEED)
+#EXTINF:-1 tvg-id="23:30 (BUZ HOKEYİ) NHL : OTTAWA SENATORS VS TORONTO MAPLE LEAFS (HOME FEED)" tvg-logo="https://w7.pngwing.com/pngs/545/208/png-transparent-ice-hockey-pond-hockey-hockey-players-sport-video-player-competition-event-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:30 (BUZ HOKEYİ) NHL : OTTAWA SENATORS VS TORONTO MAPLE LEAFS (HOME FEED)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfstop1.newkso.ru/nfs/premium3/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:30 (BUZ HOKEYİ) NHL : OTTAWA SENATORS VS TORONTO MAPLE LEAFS (AWAY FEED)" tvg-logo="https://w7.pngwing.com/pngs/479/327/png-transparent-ice-hockey-field-hockey-two-boys-playing-ice-hockey-child-sport-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:30 (BUZ HOKEYİ) NHL : OTTAWA SENATORS VS TORONTO MAPLE LEAFS (AWAY FEED)
+#EXTINF:-1 tvg-id="23:30 (BUZ HOKEYİ) NHL : OTTAWA SENATORS VS TORONTO MAPLE LEAFS (AWAY FEED)" tvg-logo="https://w7.pngwing.com/pngs/545/208/png-transparent-ice-hockey-pond-hockey-hockey-players-sport-video-player-competition-event-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:30 (BUZ HOKEYİ) NHL : OTTAWA SENATORS VS TORONTO MAPLE LEAFS (AWAY FEED)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfstop1.newkso.ru/nfs/premium4/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:30 (BUZ HOKEYİ) NHL : OTTAWA SENATORS VS TORONTO MAPLE LEAFS (ESPN2 USA)" tvg-logo="https://w7.pngwing.com/pngs/479/327/png-transparent-ice-hockey-field-hockey-two-boys-playing-ice-hockey-child-sport-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:30 (BUZ HOKEYİ) NHL : OTTAWA SENATORS VS TORONTO MAPLE LEAFS (ESPN2 USA)
+#EXTINF:-1 tvg-id="23:30 (BUZ HOKEYİ) NHL : OTTAWA SENATORS VS TORONTO MAPLE LEAFS (ESPN2 USA)" tvg-logo="https://w7.pngwing.com/pngs/545/208/png-transparent-ice-hockey-pond-hockey-hockey-players-sport-video-player-competition-event-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:30 (BUZ HOKEYİ) NHL : OTTAWA SENATORS VS TORONTO MAPLE LEAFS (ESPN2 USA)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windtop1.newkso.ru/wind/premium45/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:30 (BUZ HOKEYİ) NHL : OTTAWA SENATORS VS TORONTO MAPLE LEAFS (TVA SPORTS)" tvg-logo="https://w7.pngwing.com/pngs/479/327/png-transparent-ice-hockey-field-hockey-two-boys-playing-ice-hockey-child-sport-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:30 (BUZ HOKEYİ) NHL : OTTAWA SENATORS VS TORONTO MAPLE LEAFS (TVA SPORTS)
+#EXTINF:-1 tvg-id="23:30 (BUZ HOKEYİ) NHL : OTTAWA SENATORS VS TORONTO MAPLE LEAFS (TVA SPORTS)" tvg-logo="https://w7.pngwing.com/pngs/545/208/png-transparent-ice-hockey-pond-hockey-hockey-players-sport-video-player-competition-event-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:30 (BUZ HOKEYİ) NHL : OTTAWA SENATORS VS TORONTO MAPLE LEAFS (TVA SPORTS)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1top1.newkso.ru/dokko1/premium833/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:30 (BUZ HOKEYİ) NHL : OTTAWA SENATORS VS TORONTO MAPLE LEAFS (SPORTSNET ONTARIO)" tvg-logo="https://w7.pngwing.com/pngs/479/327/png-transparent-ice-hockey-field-hockey-two-boys-playing-ice-hockey-child-sport-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:30 (BUZ HOKEYİ) NHL : OTTAWA SENATORS VS TORONTO MAPLE LEAFS (SPORTSNET ONTARIO)
+#EXTINF:-1 tvg-id="23:30 (BUZ HOKEYİ) NHL : OTTAWA SENATORS VS TORONTO MAPLE LEAFS (SPORTSNET ONTARIO)" tvg-logo="https://w7.pngwing.com/pngs/545/208/png-transparent-ice-hockey-pond-hockey-hockey-players-sport-video-player-competition-event-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:30 (BUZ HOKEYİ) NHL : OTTAWA SENATORS VS TORONTO MAPLE LEAFS (SPORTSNET ONTARIO)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windtop1.newkso.ru/wind/premium406/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:30 (BUZ HOKEYİ) NHL : OTTAWA SENATORS VS TORONTO MAPLE LEAFS (SPORTSNET EAST)" tvg-logo="https://w7.pngwing.com/pngs/479/327/png-transparent-ice-hockey-field-hockey-two-boys-playing-ice-hockey-child-sport-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:30 (BUZ HOKEYİ) NHL : OTTAWA SENATORS VS TORONTO MAPLE LEAFS (SPORTSNET EAST)
+#EXTINF:-1 tvg-id="23:30 (BUZ HOKEYİ) NHL : OTTAWA SENATORS VS TORONTO MAPLE LEAFS (SPORTSNET EAST)" tvg-logo="https://w7.pngwing.com/pngs/545/208/png-transparent-ice-hockey-pond-hockey-hockey-players-sport-video-player-competition-event-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:30 (BUZ HOKEYİ) NHL : OTTAWA SENATORS VS TORONTO MAPLE LEAFS (SPORTSNET EAST)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windtop1.newkso.ru/wind/premium408/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:30 (BUZ HOKEYİ) NHL : OTTAWA SENATORS VS TORONTO MAPLE LEAFS (SPORTSNET WEST)" tvg-logo="https://w7.pngwing.com/pngs/479/327/png-transparent-ice-hockey-field-hockey-two-boys-playing-ice-hockey-child-sport-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:30 (BUZ HOKEYİ) NHL : OTTAWA SENATORS VS TORONTO MAPLE LEAFS (SPORTSNET WEST)
+#EXTINF:-1 tvg-id="23:30 (BUZ HOKEYİ) NHL : OTTAWA SENATORS VS TORONTO MAPLE LEAFS (SPORTSNET WEST)" tvg-logo="https://w7.pngwing.com/pngs/545/208/png-transparent-ice-hockey-pond-hockey-hockey-players-sport-video-player-competition-event-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:30 (BUZ HOKEYİ) NHL : OTTAWA SENATORS VS TORONTO MAPLE LEAFS (SPORTSNET WEST)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windtop1.newkso.ru/wind/premium407/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:30 (BUZ HOKEYİ) NHL : OTTAWA SENATORS VS TORONTO MAPLE LEAFS (BEIN SPORTS 6 MAX FRANCE)" tvg-logo="https://w7.pngwing.com/pngs/479/327/png-transparent-ice-hockey-field-hockey-two-boys-playing-ice-hockey-child-sport-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:30 (BUZ HOKEYİ) NHL : OTTAWA SENATORS VS TORONTO MAPLE LEAFS (BEIN SPORTS 6 MAX FRANCE)
+#EXTINF:-1 tvg-id="23:30 (BUZ HOKEYİ) NHL : OTTAWA SENATORS VS TORONTO MAPLE LEAFS (BEIN SPORTS 6 MAX FRANCE)" tvg-logo="https://w7.pngwing.com/pngs/545/208/png-transparent-ice-hockey-pond-hockey-hockey-players-sport-video-player-competition-event-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:30 (BUZ HOKEYİ) NHL : OTTAWA SENATORS VS TORONTO MAPLE LEAFS (BEIN SPORTS 6 MAX FRANCE)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6top1.newkso.ru/ddy6/premium496/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:30 (BUZ HOKEYİ) NHL : OTTAWA SENATORS VS TORONTO MAPLE LEAFS (V SPORT PREMIUM)" tvg-logo="https://w7.pngwing.com/pngs/479/327/png-transparent-ice-hockey-field-hockey-two-boys-playing-ice-hockey-child-sport-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:30 (BUZ HOKEYİ) NHL : OTTAWA SENATORS VS TORONTO MAPLE LEAFS (V SPORT PREMIUM)
+#EXTINF:-1 tvg-id="23:30 (BUZ HOKEYİ) NHL : OTTAWA SENATORS VS TORONTO MAPLE LEAFS (V SPORT PREMIUM)" tvg-logo="https://w7.pngwing.com/pngs/545/208/png-transparent-ice-hockey-pond-hockey-hockey-players-sport-video-player-competition-event-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:30 (BUZ HOKEYİ) NHL : OTTAWA SENATORS VS TORONTO MAPLE LEAFS (V SPORT PREMIUM)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfstop1.newkso.ru/nfs/premium30/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:40 (BEYZBOL) MLB : CHICAGO WHITE SOX VS MINNESOTA TWINS (MLB LEAGUE PASS)" tvg-logo="https://w7.pngwing.com/pngs/989/445/png-transparent-baseball-batting-graphy-baseball-boy-child-hand-boy-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:40 (BEYZBOL) MLB : CHICAGO WHITE SOX VS MINNESOTA TWINS (MLB LEAGUE PASS)
+#EXTINF:-1 tvg-id="23:40 (BEYZBOL) MLB : CHICAGO WHITE SOX VS MINNESOTA TWINS (MLB LEAGUE PASS)" tvg-logo="https://w7.pngwing.com/pngs/538/319/png-transparent-cricket-player-on-field-illustration-cricket-baseball-twenty20-batting-illustration-baseball-game-game-sport-video-game-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:40 (BEYZBOL) MLB : CHICAGO WHITE SOX VS MINNESOTA TWINS (MLB LEAGUE PASS)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfstop1.newkso.ru/nfs/premium22/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:40 (BEYZBOL) MLB : CHICAGO WHITE SOX VS MINNESOTA TWINS (CHICAGO SPORTS NETWORK)" tvg-logo="https://w7.pngwing.com/pngs/989/445/png-transparent-baseball-batting-graphy-baseball-boy-child-hand-boy-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:40 (BEYZBOL) MLB : CHICAGO WHITE SOX VS MINNESOTA TWINS (CHICAGO SPORTS NETWORK)
+#EXTINF:-1 tvg-id="23:40 (BEYZBOL) MLB : CHICAGO WHITE SOX VS MINNESOTA TWINS (CHICAGO SPORTS NETWORK)" tvg-logo="https://w7.pngwing.com/pngs/538/319/png-transparent-cricket-player-on-field-illustration-cricket-baseball-twenty20-batting-illustration-baseball-game-game-sport-video-game-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:40 (BEYZBOL) MLB : CHICAGO WHITE SOX VS MINNESOTA TWINS (CHICAGO SPORTS NETWORK)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windtop1.newkso.ru/wind/premium776/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:40 (BEYZBOL) MLB : COLORADO ROCKIES VS KANSAS CITY ROYALS (MLB LEAGUE PASS)" tvg-logo="https://w7.pngwing.com/pngs/989/445/png-transparent-baseball-batting-graphy-baseball-boy-child-hand-boy-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:40 (BEYZBOL) MLB : COLORADO ROCKIES VS KANSAS CITY ROYALS (MLB LEAGUE PASS)
+#EXTINF:-1 tvg-id="23:40 (BEYZBOL) MLB : COLORADO ROCKIES VS KANSAS CITY ROYALS (MLB LEAGUE PASS)" tvg-logo="https://w7.pngwing.com/pngs/538/319/png-transparent-cricket-player-on-field-illustration-cricket-baseball-twenty20-batting-illustration-baseball-game-game-sport-video-game-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:40 (BEYZBOL) MLB : COLORADO ROCKIES VS KANSAS CITY ROYALS (MLB LEAGUE PASS)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfstop1.newkso.ru/nfs/premium23/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:40 (BEYZBOL) MLB : COLORADO ROCKIES VS KANSAS CITY ROYALS (FANDUEL SPORTS NETWORK KANSAS CITY)" tvg-logo="https://w7.pngwing.com/pngs/989/445/png-transparent-baseball-batting-graphy-baseball-boy-child-hand-boy-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:40 (BEYZBOL) MLB : COLORADO ROCKIES VS KANSAS CITY ROYALS (FANDUEL SPORTS NETWORK KANSAS CITY)
+#EXTINF:-1 tvg-id="23:40 (BEYZBOL) MLB : COLORADO ROCKIES VS KANSAS CITY ROYALS (FANDUEL SPORTS NETWORK KANSAS CITY)" tvg-logo="https://w7.pngwing.com/pngs/538/319/png-transparent-cricket-player-on-field-illustration-cricket-baseball-twenty20-batting-illustration-baseball-game-game-sport-video-game-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:40 (BEYZBOL) MLB : COLORADO ROCKIES VS KANSAS CITY ROYALS (FANDUEL SPORTS NETWORK KANSAS CITY)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekotop1.newkso.ru/zeko/premium895/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:40 (BEYZBOL) MLB : LOS ANGELES DODGERS VS CHICAGO CUBS (MLB LEAGUE PASS)" tvg-logo="https://w7.pngwing.com/pngs/989/445/png-transparent-baseball-batting-graphy-baseball-boy-child-hand-boy-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:40 (BEYZBOL) MLB : LOS ANGELES DODGERS VS CHICAGO CUBS (MLB LEAGUE PASS)
+#EXTINF:-1 tvg-id="23:40 (BEYZBOL) MLB : LOS ANGELES DODGERS VS CHICAGO CUBS (MLB LEAGUE PASS)" tvg-logo="https://w7.pngwing.com/pngs/538/319/png-transparent-cricket-player-on-field-illustration-cricket-baseball-twenty20-batting-illustration-baseball-game-game-sport-video-game-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:40 (BEYZBOL) MLB : LOS ANGELES DODGERS VS CHICAGO CUBS (MLB LEAGUE PASS)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfstop1.newkso.ru/nfs/premium24/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:40 (BEYZBOL) MLB : LOS ANGELES DODGERS VS CHICAGO CUBS (MARQUEE SPORTS NETWORK)" tvg-logo="https://w7.pngwing.com/pngs/989/445/png-transparent-baseball-batting-graphy-baseball-boy-child-hand-boy-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:40 (BEYZBOL) MLB : LOS ANGELES DODGERS VS CHICAGO CUBS (MARQUEE SPORTS NETWORK)
+#EXTINF:-1 tvg-id="23:40 (BEYZBOL) MLB : LOS ANGELES DODGERS VS CHICAGO CUBS (MARQUEE SPORTS NETWORK)" tvg-logo="https://w7.pngwing.com/pngs/538/319/png-transparent-cricket-player-on-field-illustration-cricket-baseball-twenty20-batting-illustration-baseball-game-game-sport-video-game-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:40 (BEYZBOL) MLB : LOS ANGELES DODGERS VS CHICAGO CUBS (MARQUEE SPORTS NETWORK)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6top1.newkso.ru/ddy6/premium770/mono.m3u8
 
-#EXTINF:-1 tvg-id="23:40 (BEYZBOL) MLB : LOS ANGELES DODGERS VS CHICAGO CUBS (SPECTRUM SPORTSNET LA)" tvg-logo="https://w7.pngwing.com/pngs/989/445/png-transparent-baseball-batting-graphy-baseball-boy-child-hand-boy-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:40 (BEYZBOL) MLB : LOS ANGELES DODGERS VS CHICAGO CUBS (SPECTRUM SPORTSNET LA)
+#EXTINF:-1 tvg-id="23:40 (BEYZBOL) MLB : LOS ANGELES DODGERS VS CHICAGO CUBS (SPECTRUM SPORTSNET LA)" tvg-logo="https://w7.pngwing.com/pngs/538/319/png-transparent-cricket-player-on-field-illustration-cricket-baseball-twenty20-batting-illustration-baseball-game-game-sport-video-game-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:40 (BEYZBOL) MLB : LOS ANGELES DODGERS VS CHICAGO CUBS (SPECTRUM SPORTSNET LA)
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
