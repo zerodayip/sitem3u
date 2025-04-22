@@ -3,7 +3,7 @@ Channel_server= "nfs"
 Event= "00:00 (TV PROGRAMLARI) THE LAST OF US SEASON 2, EPISODE 2 (HBO2 USA)"
 
 Channel_Name= "371"
-Channel_server= "nfs"
+Channel_server= "null"
 Event= "00:00 (TV PROGRAMLARI) LOVE & HIP HOP: ATLANTA SEASON 12, EPISODE 30 (MTV USA)"
 
 Channel_Name= "313"
@@ -15,7 +15,7 @@ Channel_server= "wind"
 Event= "00:00 (TV PROGRAMLARI) FORENSIC FILES SEASON 13, EPISODE 48 (OXYGEN TRUE CRIME)"
 
 Channel_Name= "384"
-Channel_server= "zeko"
+Channel_server= "null"
 Event= "00:00 (TV PROGRAMLARI) CHOPPED SEASON 62, EPISODE 3 (THE FOOD NETWORK)"
 
 Channel_Name= "382"
@@ -63,7 +63,7 @@ Channel_server= "wind"
 Event= "00:00 (TV PROGRAMLARI) 1000-LB SISTERS SEASON 7 (TLC USA)"
 
 Channel_Name= "316"
-Channel_server= "zeko"
+Channel_server= "null"
 Event= "00:00 (BEYZBOL) COLLEGE BASEBALL : GEORGIA VS CLEMSON (ESPNU USA)"
 
 Channel_Name= "385"
@@ -83,7 +83,7 @@ Channel_server= "nfs"
 Event= "00:10 (BEYZBOL) MLB : TORONTO BLUE JAYS VS HOUSTON ASTROS (MLB LEAGUE PASS)"
 
 Channel_Name= "411"
-Channel_server= "zeko"
+Channel_server= "null"
 Event= "00:10 (BEYZBOL) MLB : TORONTO BLUE JAYS VS HOUSTON ASTROS (SPORTSNET ONE)"
 
 Channel_Name= "921"
@@ -199,7 +199,7 @@ Channel_server= "zeko"
 Event= "00:30 (BUZ HOKEYİ) NHL : FLORIDA PANTHERS VS TAMPA BAY LIGHTNING (SPORTSNET 360)"
 
 Channel_Name= "905"
-Channel_server= "zeko"
+Channel_server= "null"
 Event= "00:30 (BUZ HOKEYİ) NHL : FLORIDA PANTHERS VS TAMPA BAY LIGHTNING (FANDUEL SPORTS NETWORK SUN)"
 
 Channel_Name= "497"
@@ -235,7 +235,7 @@ Channel_server= "zeko"
 Event= "01:00 (TV PROGRAMLARI) RENOVATION ALOHA SEASON 2, EPISODE 10 (HGTV USA)"
 
 Channel_Name= "384"
-Channel_server= "zeko"
+Channel_server= "null"
 Event= "01:00 (TV PROGRAMLARI) HOUSE OF KNIVES SEASON 1, EPISODE 6 (THE FOOD NETWORK)"
 
 Channel_Name= "307"
@@ -243,7 +243,7 @@ Channel_server= "nfs"
 Event= "01:00 (TV PROGRAMLARI) THE VALLEY SEASON 2, EPISODE 2 (BRAVO USA)"
 
 Channel_Name= "371"
-Channel_server= "nfs"
+Channel_server= "null"
 Event= "01:00 (TV PROGRAMLARI) CAUGHT IN THE ACT: UNFAITHFUL SEASON 3, EPISODE 16 (MTV USA)"
 
 Channel_Name= "661"
@@ -251,7 +251,7 @@ Channel_server= "dokko1"
 Event= "01:00 (TV PROGRAMLARI) ROADKILL MAZDARATI 2.0! (MOTOR TREND)"
 
 Channel_Name= "659"
-Channel_server= "dokko1"
+Channel_server= "null"
 Event= "01:00 (TV PROGRAMLARI) DARK SIDE OF THE RING SEASON 4, EPISODE 3 (VICE TV USA)"
 
 Channel_Name= "322"
@@ -291,7 +291,7 @@ Channel_server= "wind"
 Event= "01:40 (BEYZBOL) MLB : TAMPA BAY RAYS VS ARIZONA DIAMONDBACKS (MLB NETWORK USA)"
 
 Channel_Name= "905"
-Channel_server= "zeko"
+Channel_server= "null"
 Event= "01:40 (BEYZBOL) MLB : TAMPA BAY RAYS VS ARIZONA DIAMONDBACKS (BALLY SPORTS SUN)"
 
 Channel_Name= "146"
@@ -327,7 +327,7 @@ Channel_server= "nfs"
 Event= "02:00 (TV PROGRAMLARI) FBI: MOST WANTED SEASON 6, EPISODE 19 (CBS USA)"
 
 Channel_Name= "659"
-Channel_server= "dokko1"
+Channel_server= "null"
 Event= "02:00 (TV PROGRAMLARI) DARK SIDE OF THE RING SEASON 6, EPISODE 5 (VICE TV USA)"
 
 Channel_Name= "337"
@@ -347,7 +347,7 @@ Channel_server= "zeko"
 Event= "02:00 (FUTBOL) COPA LIBERTADORES : BARCELONA VS UNIVERSITARIO (BEIN SPORTS EN ESPAÑOL)"
 
 Channel_Name= "475"
-Channel_server= "wind"
+Channel_server= "null"
 Event= "02:00 (FUTBOL) COPA LIBERTADORES : BARCELONA VS UNIVERSITARIO (MAX SPORT 4 BULGARIA)"
 
 Channel_Name= "789"
@@ -475,7 +475,7 @@ Channel_server= "dokko1"
 Event= "03:00 (BUZ HOKEYİ) NHL : MINNESOTA WILD VS VEGAS GOLDEN KNIGHTS (TVA SPORTS)"
 
 Channel_Name= "411"
-Channel_server= "zeko"
+Channel_server= "null"
 Event= "03:00 (BUZ HOKEYİ) NHL : MINNESOTA WILD VS VEGAS GOLDEN KNIGHTS (SPORTSNET ONE)"
 
 Channel_Name= "409"
@@ -555,7 +555,7 @@ Channel_server= "ddy6"
 Event= "09:00 (TENNIS) 2025 MUTUA MADRID OPEN TENNIS WTA FIRST ROUND (SPORT KLUB 2 CROATIA)"
 
 Channel_Name= "33"
-Channel_server= "nfs"
+Channel_server= "null"
 Event= "09:00 (BİLARDO) WORLD SNOOKER CHAMPIONSHIP 2025 : MURPHY, SHAUN VS. WELLS, DANIEL (TNT SPORT 3 UK)"
 
 Channel_Name= "357"
@@ -579,7 +579,7 @@ Channel_server= "wind"
 Event= "09:00 (BİLARDO) WORLD SNOOKER CHAMPIONSHIP 2025 : MURPHY, SHAUN VS. WELLS, DANIEL (EUROSPORT 1 DE)"
 
 Channel_Name= "231"
-Channel_server= "wind"
+Channel_server= "null"
 Event= "09:00 (BİLARDO) WORLD SNOOKER CHAMPIONSHIP 2025 : MURPHY, SHAUN VS. WELLS, DANIEL (EUROSPORT 1 SE)"
 
 Channel_Name= "1501"
@@ -643,7 +643,7 @@ Channel_server= "null"
 Event= "13:30 (TENNIS WTA - MADRID) WTA - MADRID : SUN L. VS GRACHEVA V. (TENNIS STREAM 2)"
 
 Channel_Name= "33"
-Channel_server= "nfs"
+Channel_server= "null"
 Event= "13:30 (BİLARDO) WORLD SNOOKER CHAMPIONSHIP 2025 : O´SULLIVAN, RONNIE VS. CARTER, ALLISTER (TNT SPORT 3 UK)"
 
 Channel_Name= "357"
@@ -671,7 +671,7 @@ Channel_server= "wind"
 Event= "13:30 (BİLARDO) WORLD SNOOKER CHAMPIONSHIP 2025 : O´SULLIVAN, RONNIE VS. CARTER, ALLISTER (EUROSPORT 1 DE)"
 
 Channel_Name= "231"
-Channel_server= "wind"
+Channel_server= "null"
 Event= "13:30 (BİLARDO) WORLD SNOOKER CHAMPIONSHIP 2025 : O´SULLIVAN, RONNIE VS. CARTER, ALLISTER (EUROSPORT 1 SE)"
 
 Channel_Name= "16"
@@ -739,7 +739,7 @@ Channel_server= "zeko"
 Event= "15:00 (TV PROGRAMLARI) THE JENNIFER HUDSON SHOW SEASON 3, EPISODE 159 (FOXNY USA)"
 
 Channel_Name= "659"
-Channel_server= "dokko1"
+Channel_server= "null"
 Event= "15:00 (TV PROGRAMLARI) WORLD CHASE TAG WCT6 - WORLD CHAMPIONSHIP - 7 EPISODE 12 (VICE TV USA)"
 
 Channel_Name= "328"
@@ -791,7 +791,7 @@ Channel_server= "dokko1"
 Event= "16:00 (FUTBOL) CYPRUS - FIRST DIVISION : PAPHOS VS APOLLON (COSMOTE SPORT 2 GREECE)"
 
 Channel_Name= "911"
-Channel_server= "wind"
+Channel_server= "null"
 Event= "16:00 (FUTBOL) CYPRUS - FIRST DIVISION : AEK LARNACA VS OMONIA NICOSIA (CYTAVISION SPORTS 1 CYPRUS)"
 
 Channel_Name= "23"
@@ -815,7 +815,7 @@ Channel_server= "wind"
 Event= "16:00 (FUTBOL) BULGARIA - BULGARIAN CUP : CSKA SOFIA VS CHERNO MORE (DIEMA SPORT BULGARIA)"
 
 Channel_Name= "453"
-Channel_server= "wind"
+Channel_server= "null"
 Event= "16:00 (FUTBOL) BULGARIA - BULGARIAN CUP : CSKA SOFIA VS CHERNO MORE (SPORT KLUB HD CROATIA)"
 
 Channel_Name= "146"
@@ -827,7 +827,7 @@ Channel_server= "nfs"
 Event= "16:00 (BASKETBOL) CZECH REPUBLIC ZBL : BK ZABINY BRNO VS. ZVVZ USK PRAHA (NOVA SPORT 1 CZECH HD)"
 
 Channel_Name= "429"
-Channel_server= "wind"
+Channel_server= "null"
 Event= "16:00 (BASKETBOL) ABA LEAGUE : ZADAR VS MORNAR BAR (ARENA SPORT 1 SERBIA)"
 
 Channel_Name= "127"
@@ -859,7 +859,7 @@ Channel_server= "dokko1"
 Event= "16:05 (FUTBOL) SAUDI ARABIA - PRO LEAGUE : DAMAC VS AL NASSR (SPORTDIGITAL FUSSBALL DE)"
 
 Channel_Name= "50"
-Channel_server= "wind"
+Channel_server= "null"
 Event= "16:05 (FUTBOL) SAUDI ARABIA - PRO LEAGUE : DAMAC VS AL NASSR (POLSAT SPORT 2 POLAND)"
 
 Channel_Name= "464"
@@ -867,7 +867,7 @@ Channel_server= "wind"
 Event= "16:05 (FUTBOL) SAUDI ARABIA - PRO LEAGUE : DAMAC VS AL NASSR (CANAL+ SPORT360 FRANCE)"
 
 Channel_Name= "584"
-Channel_server= "wiki"
+Channel_server= "null"
 Event= "16:05 (FUTBOL) SAUDI ARABIA - PRO LEAGUE : DAMAC VS AL NASSR (PRIMA SPORT 2 ROMANIA)"
 
 Channel_Name= "486"
@@ -903,7 +903,7 @@ Channel_server= "ddy6"
 Event= "16:30 (FUTBOL) DENMARK - 1ST DIVISION : ESBJERG VS FREDERICIA (TV3 SPORT DENMARK)"
 
 Channel_Name= "559"
-Channel_server= "ddy6"
+Channel_server= "null"
 Event= "16:30 (FUTBOL) AUSTRIA - FOOTBALL BUNDESLIGA : SIMULCAST (SKY SPORT AUSTRIA 1)"
 
 Channel_Name= "4"
@@ -1043,7 +1043,7 @@ Channel_server= "zeko"
 Event= "17:00 (FUTBOL) SPAIN - LA LIGA : VALENCIA VS ESPANYOL (TV4 SPORTKANALEN)"
 
 Channel_Name= "475"
-Channel_server= "wind"
+Channel_server= "null"
 Event= "17:00 (FUTBOL) SPAIN - LA LIGA : VALENCIA VS ESPANYOL (MAX SPORT 4 BULGARIA)"
 
 Channel_Name= "150"
@@ -1115,7 +1115,7 @@ Channel_server= "dokko1"
 Event= "17:45 (BASKETBOL) EUROLEAGUE : FENERBAHCE VS PARIS (NOVA SPORTS 4 GREECE)"
 
 Channel_Name= "474"
-Channel_server= "ddy6"
+Channel_server= "null"
 Event= "17:45 (BASKETBOL) EUROLEAGUE : FENERBAHCE VS PARIS (MAX SPORT 3 BULGARIA)"
 
 Channel_Name= "101"
@@ -1143,7 +1143,7 @@ Channel_server= "zeko"
 Event= "18:00 (FUTBOL) HUNGARY - MAGYAR KUPA : PAKS VS ZALAEGERSZEGI (M4 SPORT HUNGARY)"
 
 Channel_Name= "33"
-Channel_server= "nfs"
+Channel_server= "null"
 Event= "18:00 (BİLARDO) WORLD SNOOKER CHAMPIONSHIP 2025 : TRUMP, JUDD VS. YUELONG, ZHOU (TNT SPORT 3 UK)"
 
 Channel_Name= "359"
@@ -1171,7 +1171,7 @@ Channel_server= "wind"
 Event= "18:00 (BİLARDO) WORLD SNOOKER CHAMPIONSHIP 2025 : TRUMP, JUDD VS. YUELONG, ZHOU (EUROSPORT 1 DE)"
 
 Channel_Name= "231"
-Channel_server= "wind"
+Channel_server= "null"
 Event= "18:00 (BİLARDO) WORLD SNOOKER CHAMPIONSHIP 2025 : TRUMP, JUDD VS. YUELONG, ZHOU (EUROSPORT 1 SE)"
 
 Channel_Name= "21"
@@ -1187,7 +1187,7 @@ Channel_server= "nfs"
 Event= "18:00 (SU TOPU) LEN CHAMPIONS LEAGUE QUARTERFINALS : CSM ORADEA VS. CN BARCELONETA (ARENA SPORT 7 SERBIA)"
 
 Channel_Name= "429"
-Channel_server= "wind"
+Channel_server= "null"
 Event= "18:00 (SU TOPU) LEN CHAMPIONS LEAGUE QUARTERFINALS : FERENCVAROSI VS SAVONA (ARENA SPORT 1 SERBIA)"
 
 Channel_Name= "146"
@@ -1255,7 +1255,7 @@ Channel_server= "wind"
 Event= "18:30 (VOLEYBOL) ORLEN LIGA WOMEN : KS RZESZOW VS. LKS LODZ (POLSAT SPORT 1 POLAND)"
 
 Channel_Name= "453"
-Channel_server= "wind"
+Channel_server= "null"
 Event= "18:30 (VOLEYBOL) ORLEN LIGA WOMEN : KS RZESZOW VS. LKS LODZ (SPORT KLUB HD CROATIA)"
 
 Channel_Name= "877"
@@ -1267,7 +1267,7 @@ Channel_server= "ddy6"
 Event= "18:30 (VOLEYBOL) SERIE A1 WOMEN : VOLLEY CONEGLIANO VS. VOLLEY MONZA (RAI SPORT 1 IT)"
 
 Channel_Name= "50"
-Channel_server= "wind"
+Channel_server= "null"
 Event= "18:30 (VOLEYBOL) SERIE A1 WOMEN : VOLLEY CONEGLIANO VS. VOLLEY MONZA (POLSAT SPORT 2 POLAND)"
 
 Channel_Name= "59"
@@ -1431,7 +1431,7 @@ Channel_server= "wind"
 Event= "19:00 (FUTBOL) ENGLAND - PREMIER LEAGUE : MANCHESTER CITY VS ASTON VILLA (CYTAVISION SPORTS 3 CYPRUS)"
 
 Channel_Name= "584"
-Channel_server= "wiki"
+Channel_server= "null"
 Event= "19:00 (FUTBOL) ENGLAND - PREMIER LEAGUE : MANCHESTER CITY VS ASTON VILLA (PRIMA SPORT 2 ROMANIA)"
 
 Channel_Name= "401"
@@ -1591,7 +1591,7 @@ Channel_server= "zeko"
 Event= "19:30 (FUTBOL) SPAIN - LA LIGA : BARCELONA VS MALLORCA (ARENA SPORT 2 CROATIA)"
 
 Channel_Name= "429"
-Channel_server= "wind"
+Channel_server= "null"
 Event= "19:30 (FUTBOL) SPAIN - LA LIGA : BARCELONA VS MALLORCA (ARENA SPORT 1 SERBIA)"
 
 Channel_Name= "810"
@@ -1603,7 +1603,7 @@ Channel_server= "nfs"
 Event= "19:30 (FUTBOL) SPAIN - LA LIGA : BARCELONA VS MALLORCA (TV4 FOTBALL)"
 
 Channel_Name= "475"
-Channel_server= "wind"
+Channel_server= "null"
 Event= "19:30 (FUTBOL) SPAIN - LA LIGA : BARCELONA VS MALLORCA (MAX SPORT 4 BULGARIA)"
 
 Channel_Name= "150"
@@ -1627,7 +1627,7 @@ Channel_server= "wind"
 Event= "19:45 (FUTBOL) TAÇA DE PORTUGAL : RIO AVE VS SPORTING CP (SPORT TV1 PORTUGAL)"
 
 Channel_Name= "719"
-Channel_server= "ddy6"
+Channel_server= "null"
 Event= "19:45 (FUTBOL) TAÇA DE PORTUGAL : RIO AVE VS SPORTING CP (RTP 1 PORTUGAL)"
 
 Channel_Name= "788"
@@ -1683,7 +1683,7 @@ Channel_server= "nfs"
 Event= "22:00 (FUTBOL) COPA LIBERTADORES : LDU QUITO VS FLAMENGO (ESPN2 MEXICO)"
 
 Channel_Name= "429"
-Channel_server= "wind"
+Channel_server= "null"
 Event= "22:00 (FUTBOL) COPA LIBERTADORES : LDU QUITO VS FLAMENGO (ARENA SPORT 1 SERBIA)"
 
 Channel_Name= "434"
@@ -1691,7 +1691,7 @@ Channel_server= "ddy6"
 Event= "22:00 (FUTBOL) COPA LIBERTADORES : LDU QUITO VS FLAMENGO (ARENA SPORT 3 CROATIA)"
 
 Channel_Name= "475"
-Channel_server= "wind"
+Channel_server= "null"
 Event= "22:00 (FUTBOL) COPA LIBERTADORES : LDU QUITO VS FLAMENGO (MAX SPORT 4 BULGARIA)"
 
 Channel_Name= "81"
@@ -1743,7 +1743,7 @@ Channel_server= "wind"
 Event= "22:00 (BEYZBOL) COLLEGE BASEBALL : WEST VIRGINIA VS PENN STATE (BTN USA)"
 
 Channel_Name= "316"
-Channel_server= "zeko"
+Channel_server= "null"
 Event= "22:00 (BEYZBOL) COLLEGE SOFTBALL : CLEMSON VS TENNESSEE (ESPNU USA)"
 
 Channel_Name= "1"
