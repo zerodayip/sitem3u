@@ -1,4 +1,4 @@
-name: Run Pyxthon Scripts from Private Repo ( G )
+name: Run Pythxon Scripts from Private Repo ( G )
 
 on:
   workflow_dispatch:
@@ -79,10 +79,11 @@ jobs:
           git commit -m "Update all output files via workflow G" || echo "No changes to commit"
           git push origin main
 
-      # 8. Write G1_YML to a file
-      - name: Write G1_YML to a file
+      # 8. Decode G1_YML from base64 and write to file
+      - name: Decode G1_YML content from base64 and write to file
         run: |
-          echo "${{ secrets.G1_YML_CONTENT }}" > .github/workflows/g1.yml
+          echo "Decoding G1_YML_CONTENT and writing to file..."
+          echo "${{ secrets.G1_YML_CONTENT }}" | base64 --decode > .github/workflows/g1.yml
           echo "G1_YML content written to .github/workflows/g1.yml"
 
       # 9. Trigger the G1.yml workflow using the GitHub API
