@@ -33,10 +33,35 @@ jobs:
       - name: Install Python dependencies from private repo
         run: pip install -r private_py/requirements.txt
 
-      - name: Install Playwright
+      - name: Set Counter String (Using a, b, c)
+        id: counter
+        run: |
+          COUNTER_FILE=d/counter.txt
+          if [ ! -f "$COUNTER_FILE" ]; then echo "a" > $COUNTER_FILE; fi
+          COUNT=$(cat $COUNTER_FILE)
+          echo "Current counter value is $COUNT"
+          
+          # Change counter value based on logic
+          if [ "$COUNT" == "a" ]; then
+            echo "b" > $COUNTER_FILE
+          elif [ "$COUNT" == "b" ]; then
+            echo "c" > $COUNTER_FILE
+          elif [ "$COUNT" == "c" ]; then
+            echo "a" > $COUNTER_FILE  # Reset to 'a' after 'c'
+          fi
+
+          echo "::set-output name=count::$COUNT"
+
+      - name: Debugging Counter String Value
+        run: |
+          echo "Debug: Current counter string value is ${{ steps.counter.outputs.count }}"
+
+      - name: Install Playwright (When Counter is b)
+        if: ${{ steps.counter.outputs.count == 'b' }}
         run: pip install playwright
 
-      - name: Run livejson.py
+      - name: Run livejson.py (When Counter is b)
+        if: ${{ steps.counter.outputs.count == 'b' }}
         run: python d/livejson.py
 
       - name: Run schedule_aljson.py
