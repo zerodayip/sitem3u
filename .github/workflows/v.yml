@@ -56,20 +56,18 @@ jobs:
         run: |
           git add -A  # Bu komut, tüm değişiklikleri sahneye alır
 
+      - name: Commit changes if any
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git commit -m "Update output files via workflow V" || echo "No changes to commit"
+
       - name: Pull latest changes from remote before pushing
         run: |
           git pull origin main --rebase  # Uzak depodaki değişiklikleri çek ve rebase yap
 
       - name: Commit and Push Changes
         run: |
-          # Git bilgilerini yapılandır
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-
-          # Değişiklikleri commit et
-          git commit -m "Update all output files and playlist.m3u via workflow V" || echo "No changes to commit"
-
-          # Değişiklikleri push et
           git push origin main
 
   merge-m3u-playlists:
@@ -111,8 +109,5 @@ jobs:
 
       - name: Commit and Push Changes
         run: |
-          # Stage the playlist.m3u file for commit
           git add .
-
-          # Check if there are any changes to commit
           git diff --cached --quiet || (git commit -m "Update playlist.m3u via GitHub Actions" && git push)
