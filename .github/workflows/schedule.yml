@@ -2,7 +2,7 @@ name: Extract Schedule Data ( D.mp )
 
 on:
   schedule:
-    - cron: '45 00 * * *' 
+    - cron: '45 05 * * *' 
   workflow_dispatch: 
 
 jobs:
