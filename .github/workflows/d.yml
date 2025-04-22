@@ -3,7 +3,7 @@ name: Run Python Scripts from Private Repo ( D )
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */1 * * *'
+    - cron: '5 */1 * * *'
 
 concurrency:
   group: golvar-d
