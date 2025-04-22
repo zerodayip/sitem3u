@@ -1,4 +1,4 @@
-name: Run Pyxxxxthon Scripts from Private Repo ( G )
+name: Run Pyxthon Scripts from Private Repo ( G )
 
 on:
   workflow_dispatch:
@@ -14,6 +14,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # 1. Checkout Public Repository
       - name: Checkout Public Repository (veriler)
         uses: actions/checkout@v2
         with:
@@ -21,19 +22,23 @@ jobs:
           fetch-depth: 0
           ref: main
 
+      # 2. Set up Python
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
           python-version: '3.x'
 
+      # 3. Clone Private Repository (Py)
       - name: Clone Private Repository (Py)
         run: |
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/MDuymazz/Py.git private_py
 
-      - name: Install Python dependencies from private repo
+      # 4. Install Python dependencies from private repo
+      - name: Install Python dependencies
         run: |
           pip install -r private_py/requirements.txt
 
+      # 5. Run Python Scripts from Private Repository
       - name: Run ana_domain.py
         run: python private_py/golvar/ana_domain.py
 
@@ -61,11 +66,12 @@ jobs:
       - name: Run txt_to_m3u.py
         run: python private_py/golvar/txt_to_m3u.py
 
-      # Tüm değişiklikleri sahneye al
+      # 6. Add all changes
       - name: Add all changes
         run: |
           git add -A
 
+      # 7. Commit and Push Changes
       - name: Commit and Push Changes
         run: |
           git config user.name "GitHub Actions"
@@ -73,10 +79,17 @@ jobs:
           git commit -m "Update all output files via workflow G" || echo "No changes to commit"
           git push origin main
 
-      # G1_YML_URL içeriğini indir ve bir dosyaya kaydet
-      - name: Download G1_YML_URL content...
+      # 8. Write G1_YML to a file
+      - name: Write G1_YML to a file
         run: |
-          echo "Downloading G1_YML_URL content..."
-          curl -L -o .github/workflows/g1.yml "${{ secrets.G1_YML_URL }}" || exit 1
+          echo "${{ secrets.G1_YML_CONTENT }}" > .github/workflows/g1.yml
+          echo "G1_YML content written to .github/workflows/g1.yml"
 
-      # G1_YML_URL içeriği indirildikten sonra burada tetikleme yapılabilir (şu an yapılmayacak)
+      # 9. Trigger the G1.yml workflow using the GitHub API
+      - name: Trigger G1.yml workflow
+        run: |
+          echo "Triggering G1.yml workflow"
+          curl -X POST \
+          -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
+          --data '{"ref":"main"}' \
+          https://api.github.com/repos/${{ github.repository }}/actions/workflows/g1.yml/dispatches
