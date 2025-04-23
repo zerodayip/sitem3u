@@ -2,16 +2,18 @@ name: Merge M3U Playlists and Push ( G )
 
 on:
   workflow_run:
-    workflows: ["Run Python Scripts from Private Repo ( G )"]  # İlk workflow'un adı
+    workflows: ["Run Python Scripts from Private Repo ( G )"]
     types:
       - completed
+
+  workflow_dispatch:  # Elle çalıştırma desteği
 
 jobs:
   merge-m3u-playlists:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
+      - name: Checkout General Repository (sitem3u)
         uses: actions/checkout@v2
 
       - name: Set up Python
@@ -23,23 +25,23 @@ jobs:
         run: |
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/MDuymazz/Py.git private_py
 
-      - name: Install Python dependencies
+      - name: Copy M3U Files to Py/m3u8 Directory (Overwrite If Exists)
         run: |
-          pip install requests 
+          mkdir -p private_py/m3u8
+          for file in G/*.m3u; do
+            [ -e "$file" ] || continue
+            cp -f "$file" private_py/m3u8/
+          done
 
-      - name: Merge M3U Playlists
+      - name: Commit and Push to Private Repo
         run: |
-          python private_py/birlestir.py  # Python scriptini çalıştırır
-
-      - name: Configure Git for Commit
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-
-      - name: Commit and Push Changes
-        run: |
-          # Stage the playlist.m3u file for commit
+          cd private_py
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
           git add .
+          git diff --cached --quiet || (git commit -m "Update M3U files in m3u8 folder" && git push)
 
-          # Check if there are any changes to commit
-          git diff --cached --quiet || (git commit -m "Update playlist.m3u and clean up files" && git push)
+      - name: Clean Up G Folder Except ana_link.txt
+        run: |
+          shopt -s extglob
+          rm -f G/!('ana_link.txt')
