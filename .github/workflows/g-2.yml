@@ -1,0 +1,33 @@
+name: Clean g Folder (Except ana_link.txt)
+
+on:
+  workflow_dispatch:  # Manuel çalıştırma
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout General Repo (sitem3u)
+        uses: actions/checkout@v2
+
+      - name: Set up Git
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+
+      - name: Clean Up g Folder Except ana_link.txt
+        run: |
+          echo "Silme işlemi başlıyor..."
+          for file in g/*; do
+            if [ "$(basename "$file")" != "ana_link.txt" ]; then
+              echo "Siliniyor: $file"
+              rm -f "$file"
+            fi
+          done
+
+      - name: Commit & Push Changes to General Repo (sitem3u)
+        run: |
+          git add g/*
+          git diff --cached --quiet && echo "No changes to commit" || git commit -m "Clean up g folder (removed non-ana_link.txt files)"
+          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/MDuymazz/sitem3u.git HEAD:main
