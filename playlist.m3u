@@ -334,17 +334,7 @@ https://vavoo.to/play/2512340558/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2512340558/index.m3u8
 
-#EXTINF:-1 tvg-name="CANLI (01:00) LDU QUITO – FLAMENGO (S SPORT 2)" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",CANLI (01:00) LDU QUITO – FLAMENGO (S SPORT 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5102/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
-
-#EXTINF:-1 tvg-name="BUGÜN 02:00 INDIANA PACERS – MILWAUKEE BUCKS (NBA TV)" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",BUGÜN 02:00 INDIANA PACERS – MILWAUKEE BUCKS (NBA TV)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5121/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
-
-#EXTINF:-1 tvg-name="BUGÜN 05:00 LA LAKERS – MINNESOTA TW (S SPORT)" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",BUGÜN 05:00 LA LAKERS – MINNESOTA TW (S SPORT)
+#EXTINF:-1 tvg-name="CANLI (05:00) LA LAKERS – MINNESOTA TW (S SPORT)" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",CANLI (05:00) LA LAKERS – MINNESOTA TW (S SPORT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5101/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
@@ -374,25 +364,25 @@ https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.work
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5131/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 
-#EXTINF:-1 tvg-name="BUGÜN 19:30 AEK ATHENS – JSF NANTERRE (TIVIBU SPOR 1)" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",BUGÜN 19:30 AEK ATHENS – JSF NANTERRE (TIVIBU SPOR 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5082/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
-
 #EXTINF:-1 tvg-name="BUGÜN 19:30 PARMA – JUVENTUS (S SPORT 2)" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",BUGÜN 19:30 PARMA – JUVENTUS (S SPORT 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5102/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 
-#EXTINF:-1 tvg-name="BUGÜN 20:00 ATHLETIC BILBAO – LAS PALMAS (TIVIBU SPOR 2)" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",BUGÜN 20:00 ATHLETIC BILBAO – LAS PALMAS (TIVIBU SPOR 2)
+#EXTINF:-1 tvg-name="BUGÜN 19:30 AEK ATHENS – JSF NANTERRE (TIVIBU SPOR 1)" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",BUGÜN 19:30 AEK ATHENS – JSF NANTERRE (TIVIBU SPOR 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5083/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5082/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 
 #EXTINF:-1 tvg-name="BUGÜN 20:00 MONACO – BARCELONA (S SPORT)" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",BUGÜN 20:00 MONACO – BARCELONA (S SPORT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5101/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+
+#EXTINF:-1 tvg-name="BUGÜN 20:00 ATHLETIC BILBAO – LAS PALMAS (TIVIBU SPOR 2)" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",BUGÜN 20:00 ATHLETIC BILBAO – LAS PALMAS (TIVIBU SPOR 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5083/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 
 #EXTINF:-1 tvg-name="BUGÜN 21:30 OLYMPIAKOS – REAL MADRID (S SPORT 2)" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2",BUGÜN 21:30 OLYMPIAKOS – REAL MADRID (S SPORT 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
