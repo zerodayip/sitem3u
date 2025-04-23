@@ -1,41 +1,45 @@
-name: Merge M3U Playlists and Push ( g )
+name: Merge M3U Playlists and Push ( G )
 
-on:
+#on:
   workflow_run:
-    workflows: ["Run Python Scripts from Private Repo ( G )"]
+    workflows: ["Run Python Scripts from Private Repo ( G )"]  # İlk workflow'un adı
     types:
       - completed
 
-  workflow_dispatch:  # Manuel çalıştırma
-
 jobs:
-  sync-to-private-repo:
+  merge-m3u-playlists:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout General Repo (sitem3u)
+      - name: Checkout Repository
         uses: actions/checkout@v2
 
-      - name: Set up Git
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Clone Private Repository (Py)
+        run: |
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/MDuymazz/Py.git private_py
+
+      - name: Install Python dependencies
+        run: |
+          pip install requests 
+
+      - name: Merge M3U Playlists
+        run: |
+          python private_py/birlestir.py  # Python scriptini çalıştırır
+
+      - name: Configure Git for Commit
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
 
-      - name: Checkout Private Repo (Py) using GH_TOKEN
-        uses: actions/checkout@v3
-        with:
-          repository: MDuymazz/Py
-          token: ${{ secrets.GH_TOKEN }}
-          path: py  # Klon dizini
-
-      - name: Copy M3U Files from General Repo to Py Repo
+      - name: Commit and Push Changes
         run: |
-          mkdir -p py/m3u8
-          cp -f g/*.m3u py/m3u8/
-
-      - name: Commit & Push to Py Repo
-        working-directory: py
-        run: |
+          # Stage the playlist.m3u file for commit
           git add .
-          git diff --cached --quiet && echo "No changes to commit" || git commit -m "Sync M3U files from sitem3u"
-          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/MDuymazz/Py.git HEAD:main
+
+          # Check if there are any changes to commit
+          git diff --cached --quiet || (git commit -m "Update playlist.m3u and clean up files" && git push)
