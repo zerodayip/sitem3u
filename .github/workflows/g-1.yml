@@ -9,39 +9,38 @@ on:
   workflow_dispatch:  # Elle çalıştırma desteği
 
 jobs:
-  merge-m3u-playlists:
+  sync-to-private-repo:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout General Repository (sitem3u)
+      - name: Checkout General Repo (sitem3u)
         uses: actions/checkout@v2
 
-      - name: Set up Python
-        uses: actions/setup-python@v2
+      - name: Set up Git
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+
+      - name: Checkout Private Repo (Py) using GH_TOKEN
+        uses: actions/checkout@v3
         with:
-          python-version: '3.x'
+          repository: MDuymazz/Py  # Gizli Py repo
+          token: ${{ secrets.GH_TOKEN }}  # GH_TOKEN ile erişim
+          path: py  # `Py` repo'su `py` dizinine klonlanacak
 
-      - name: Clone Private Repository (Py)
+      - name: Copy M3U Files to Py Repo
         run: |
-          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/MDuymazz/Py.git private_py
+          mkdir -p py/m3u8  # Py repo'sunda m3u8 klasörü oluşturuluyor
+          cp -f G/*.m3u py/m3u8/  # `.m3u` dosyalarını Py repo'suna kopyalıyoruz
 
-      - name: Copy M3U Files to Py/m3u8 Directory (Overwrite If Exists)
+      - name: Commit & Push to Py Repo
+        working-directory: py  # `py` dizininde git işlemleri yapılacak
         run: |
-          mkdir -p private_py/m3u8
-          for file in G/*.m3u; do
-            [ -e "$file" ] || continue
-            cp -f "$file" private_py/m3u8/
-          done
-
-      - name: Commit and Push to Private Repo
-        run: |
-          cd private_py
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git add .
-          git diff --cached --quiet || (git commit -m "Update M3U files in m3u8 folder" && git push)
+          git add .  # Dosyalar staging area'ya ekleniyor
+          git diff --cached --quiet && echo "No changes to commit" || git commit -m "Sync M3U files from sitem3u"
+          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/MDuymazz/Py.git HEAD:main  # `GH_TOKEN` kullanarak push işlemi
 
       - name: Clean Up G Folder Except ana_link.txt
         run: |
           shopt -s extglob
-          rm -f G/!('ana_link.txt')
+          rm -f G/!('ana_link.txt')  # `G` klasöründe sadece ana_link.txt dosyasını bırakıp diğerlerini siliyoruz
