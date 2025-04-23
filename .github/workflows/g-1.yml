@@ -6,7 +6,7 @@ on:
     types:
       - completed
 
-  workflow_dispatch:  # Manuel çalıştırma
+  workflow_dispatch:
 
 jobs:
   sync-to-private-repo:
@@ -26,7 +26,7 @@ jobs:
         with:
           repository: MDuymazz/Py
           token: ${{ secrets.GH_TOKEN }}
-          path: py  # Klon dizini
+          path: py
 
       - name: Copy M3U Files from General Repo to Py Repo
         run: |
@@ -40,7 +40,17 @@ jobs:
           git diff --cached --quiet && echo "No changes to commit" || git commit -m "Sync M3U files from sitem3u"
           git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/MDuymazz/Py.git HEAD:main
 
+      - name: DEBUG - List all files in g/
+        run: |
+          echo "Tüm dosyaları listeliyoruz:"
+          find g/ -type f -exec ls -l {} \;
+
       - name: Clean Up g Folder Except ana_link.txt
         run: |
-          echo "Cleaning up g folder (except ana_link.txt)..."
-          find g/ -type f ! -name 'ana_link.txt' -print0 | xargs -0 rm -f
+          echo "Silme işlemi başlıyor..."
+          for file in g/*; do
+            if [ "$(basename "$file")" != "ana_link.txt" ]; then
+              echo "Siliniyor: $file"
+              rm -f "$file"
+            fi
+          done
