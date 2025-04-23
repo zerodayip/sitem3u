@@ -6,24 +6,24 @@ on:
     types:
       - completed
 
-  workflow_dispatch:  # Manuel tetikleme de istenirse aktif
+  workflow_dispatch:
 
 jobs:
-  clean-g-folder:
+  clean-d-folder:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v2
 
-      - name: Clean g Folder Except ana_link.txt
+      - name: Clean d Folder Except Certain Files
         run: |
-          find d/* ! -name 'schedule.json' ! -name 'logo.txt! ! -name 'livejson.py' -exec rm -f {} \;
+          find d -type f ! -name 'schedule.json' ! -name 'logo.txt' ! -name 'livejson.py' -exec rm -f {} +
 
       - name: Commit and Push Changes
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add .
-          git commit -m "Clean g folder (remove all files except ana_link.txt)" || echo "No changes to commit"
+          git commit -m "Clean d folder (remove all files except schedule.json, logo.txt, and livejson.py)" || echo "No changes to commit"
           git push origin main
