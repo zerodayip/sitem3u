@@ -478,6 +478,10 @@ Channel_Name= "306"
 Channel_server= "zeko"
 Event= "01:00 (TV PROGRAMLARI) ALL THE QUEEN'S MEN SEASON 3, EPISODE 6 (BET USA)"
 
+Channel_Name= "127"
+Channel_server= "ddy6"
+Event= "01:25 (BUZ HOKEYİ) HOCKEY. FONBET KHL CHAMPIONSHIP. 1/4 FINALS (MATCH TV RUSSIA)"
+
 Channel_Name= "767"
 Channel_server= "zeko"
 Event= "01:30 (TV PROGRAMLARI) THE AMAZING RACE SEASON 37, EPISODE 8 (CBSNY USA)"
@@ -1070,6 +1074,22 @@ Channel_Name= "231"
 Channel_server= "wind"
 Event= "09:00 (BİLARDO) WORLD SNOOKER CHAMPIONSHIP 2025 : MURPHY, SHAUN VS. WELLS, DANIEL (EUROSPORT 1 SE)"
 
+Channel_Name= "1510"
+Channel_server= "null"
+Event= "09:00 (TENNIS ATP - MADRID) ATP - MADRID : CINA F. VS WONG C. (TENNIS STREAM 10)"
+
+Channel_Name= "1508"
+Channel_server= "null"
+Event= "09:00 (TENNIS ATP - MADRID) ATP - MADRID : MPETSHI PERRICARD G. VS NAVONE M. (TENNIS STREAM 8)"
+
+Channel_Name= "1504"
+Channel_server= "null"
+Event= "09:00 (TENNIS WTA - MADRID) WTA - MADRID : JOINT M. VS MARTINEZ CIREZ C. (TENNIS STREAM 4)"
+
+Channel_Name= "1505"
+Channel_server= "null"
+Event= "09:00 (TENNIS WTA - MADRID) WTA - MADRID : PARRY D. VS BEGU I. (TENNIS STREAM 5)"
+
 Channel_Name= "40"
 Channel_server= "ddy6"
 Event= "09:00 (TENNIS) 2025 MUTUA MADRID OPEN TENNIS WTA FIRST ROUND (TENNIS CHANNEL)"
@@ -1182,6 +1202,22 @@ Channel_Name= "1502"
 Channel_server= "null"
 Event= "10:30 (TENNIS WTA - MADRID) WTA - MADRID : ZARAZUA R. VS BOUZKOVA M. (TENNIS STREAM 2)"
 
+Channel_Name= "1511"
+Channel_server= "null"
+Event= "10:30 (TENNIS ATP - MADRID) ATP - MADRID : SAFIULLIN R. VS RINDERKNECH A. (TENNIS STREAM 11)"
+
+Channel_Name= "1510"
+Channel_server= "null"
+Event= "10:30 (TENNIS ATP - MADRID) ATP - MADRID : BONZI B. VS CILIC M. (TENNIS STREAM 10)"
+
+Channel_Name= "1506"
+Channel_server= "null"
+Event= "10:30 (TENNIS WTA - MADRID) WTA - MADRID : SASNOVICH A. VS LI A. (TENNIS STREAM 6)"
+
+Channel_Name= "1503"
+Channel_server= "null"
+Event= "10:30 (TENNIS WTA - MADRID) WTA - MADRID : SEVASTOVA A. VS PAVLYUCHENKOVA A. (TENNIS STREAM 3)"
+
 Channel_Name= "32"
 Channel_server= "nfs"
 Event= "10:30 (BİSİKLET YARIŞI) TOUR OF THE ALPS | STAGE 3 MEN | STERZING – INNICHEN (145.5KM) (TNT SPORTS 2 UK)"
@@ -1241,6 +1277,22 @@ Event= "12:00 (TENNIS WTA - MADRID) WTA - MADRID : CIRSTEA S. VS BAPTISTE H. (TE
 Channel_Name= "654"
 Channel_server= "ddy6"
 Event= "12:00 (TV PROGRAMLARI) SUPER ANIMALS SEASON 2, EPISODE 3 (MY9TV USA)"
+
+Channel_Name= "1507"
+Channel_server= "null"
+Event= "12:00 (TENNIS ATP - MADRID) ATP - MADRID : BORGES N. VS CARRENO-BUSTA P. (TENNIS STREAM 7)"
+
+Channel_Name= "1511"
+Channel_server= "null"
+Event= "12:00 (TENNIS ATP - MADRID) ATP - MADRID : O'CONNELL C. VS UGO CARABELLI C. (TENNIS STREAM 11)"
+
+Channel_Name= "1501"
+Channel_server= "null"
+Event= "12:00 (TENNIS WTA - MADRID) WTA - MADRID : VOLYNETS K. VS KVITOVA P. (TENNIS STREAM 1)"
+
+Channel_Name= "1504"
+Channel_server= "null"
+Event= "12:00 (TENNIS WTA - MADRID) WTA - MADRID : CARLE M. L. VS SRAMKOVA R. (TENNIS STREAM 4)"
 
 Channel_Name= "654"
 Channel_server= "ddy6"
@@ -1313,6 +1365,22 @@ Event= "13:30 (BİLARDO) WORLD SNOOKER CHAMPIONSHIP 2025 : O´SULLIVAN, RONNIE V
 Channel_Name= "16"
 Channel_server= "nfs"
 Event= "13:30 (DUVAR TENİSİ) DUSSOURRD - KANDRA - SQUASH GRASSHOPPER CUP ZURICH 2025 (SPORT EN FRANCE)"
+
+Channel_Name= "1507"
+Channel_server= "null"
+Event= "13:30 (TENNIS ATP - MADRID) ATP - MADRID : BAUTISTA-AGUT R. VS MUNAR J. (TENNIS STREAM 7)"
+
+Channel_Name= "1510"
+Channel_server= "null"
+Event= "13:30 (TENNIS ATP - MADRID) ATP - MADRID : LAJOVIC D. VS QUINN E. (TENNIS STREAM 10)"
+
+Channel_Name= "1505"
+Channel_server= "null"
+Event= "13:30 (TENNIS WTA - MADRID) WTA - MADRID : PARKS A. VS JIMENEZ KASINTSEVA V. (TENNIS STREAM 5)"
+
+Channel_Name= "1506"
+Channel_server= "null"
+Event= "13:30 (TENNIS WTA - MADRID) WTA - MADRID : PERA B. VS FETT J. (TENNIS STREAM 6)"
 
 Channel_Name= "33"
 Channel_server= "nfs"
@@ -1565,6 +1633,102 @@ Event= "15:00 (FUTBOL) GREECE - SUPER LEAGUE : LAMIA VS VOLOS NFC (CYTAVISION SP
 Channel_Name= "623"
 Channel_server= "dokko1"
 Event= "15:00 (FUTBOL) GREECE - SUPER LEAGUE : LAMIA VS VOLOS NFC (COSMOTE SPORT 2 GREECE)"
+
+Channel_Name= "1511"
+Channel_server= "null"
+Event= "15:00 (TENNIS ATP - MADRID) ATP - MADRID : MOUTET C. VS MAYOT H. (TENNIS STREAM 11)"
+
+Channel_Name= "1510"
+Channel_server= "null"
+Event= "15:00 (TENNIS ATP - MADRID) ATP - MADRID : FOGNINI F. VS DJERE L. (TENNIS STREAM 10)"
+
+Channel_Name= "1509"
+Channel_server= "null"
+Event= "15:00 (TENNIS ATP - MADRID) ATP - MADRID : MICHELSEN A. VS BUBLIK A. (TENNIS STREAM 9)"
+
+Channel_Name= "1511"
+Channel_server= "null"
+Event= "15:00 (TENNIS ATP - MADRID) ATP - MADRID : OFNER S. VS GASTON H. (TENNIS STREAM 11)"
+
+Channel_Name= "1508"
+Channel_server= "null"
+Event= "15:00 (TENNIS ATP - MADRID) ATP - MADRID : COMESANA F. VS MARTINEZ P. (TENNIS STREAM 8)"
+
+Channel_Name= "1510"
+Channel_server= "null"
+Event= "15:00 (TENNIS ATP - MADRID) ATP - MADRID : CERUNDOLO J. M. VS KOVACEVIC A. (TENNIS STREAM 10)"
+
+Channel_Name= "1509"
+Channel_server= "null"
+Event= "15:00 (TENNIS ATP - MADRID) ATP - MADRID : MAROZSAN F. VS COBOLLI F. (TENNIS STREAM 9)"
+
+Channel_Name= "1507"
+Channel_server= "null"
+Event= "15:00 (TENNIS ATP - MADRID) ATP - MADRID : MONFILS G. VS GOJO B. (TENNIS STREAM 7)"
+
+Channel_Name= "1503"
+Channel_server= "null"
+Event= "15:00 (TENNIS WTA - MADRID) WTA - MADRID : WANG XIN. VS SAKKARI M. (TENNIS STREAM 3)"
+
+Channel_Name= "1502"
+Channel_server= "null"
+Event= "15:00 (TENNIS WTA - MADRID) WTA - MADRID : BENCIC B. VS SONMEZ Z. (TENNIS STREAM 2)"
+
+Channel_Name= "1505"
+Channel_server= "null"
+Event= "15:00 (TENNIS WTA - MADRID) WTA - MADRID : BLINKOVA A. VS UDVARDY P. (TENNIS STREAM 5)"
+
+Channel_Name= "1503"
+Channel_server= "null"
+Event= "15:00 (TENNIS WTA - MADRID) WTA - MADRID : KRUEGER A. VS POTAPOVA A. (TENNIS STREAM 3)"
+
+Channel_Name= "1504"
+Channel_server= "null"
+Event= "15:00 (TENNIS WTA - MADRID) WTA - MADRID : STARODUBTSEVA Y. VS FRUHVIRTOVA L. (TENNIS STREAM 4)"
+
+Channel_Name= "1506"
+Channel_server= "null"
+Event= "15:00 (TENNIS WTA - MADRID) WTA - MADRID : TOMLJANOVIC A. VS MASAROVA R. (TENNIS STREAM 6)"
+
+Channel_Name= "1502"
+Channel_server= "null"
+Event= "15:00 (TENNIS WTA - MADRID) WTA - MADRID : LAMENS S. VS RADUCANU E. (TENNIS STREAM 2)"
+
+Channel_Name= "1515"
+Channel_server= "null"
+Event= "15:00 (TENNIS WTA - MADRID) WTA - MADRID : LAMENS S. VS RADUCANU E. (TENNIS STREAM 15)"
+
+Channel_Name= "1504"
+Channel_server= "null"
+Event= "15:00 (TENNIS WTA - MADRID) WTA - MADRID : JONES F. VS YASTREMSKA D. (TENNIS STREAM 4)"
+
+Channel_Name= "1505"
+Channel_server= "null"
+Event= "15:00 (TENNIS WTA - MADRID) WTA - MADRID : KUDERMETOVA V. VS KUDERMETOVA P. (TENNIS STREAM 5)"
+
+Channel_Name= "1506"
+Channel_server= "null"
+Event= "15:00 (TENNIS WTA - MADRID) WTA - MADRID : UCHIJIMA M. VS MONTGOMERY R. (TENNIS STREAM 6)"
+
+Channel_Name= "1501"
+Channel_server= "null"
+Event= "15:00 (TENNIS WTA - MADRID) WTA - MADRID : AZARENKA V. VS DANILOVIC O. (TENNIS STREAM 1)"
+
+Channel_Name= "1504"
+Channel_server= "null"
+Event= "15:00 (TENNIS WTA - MADRID) WTA - MADRID : CRISTIAN J. VS KARTAL S. (TENNIS STREAM 4)"
+
+Channel_Name= "1515"
+Channel_server= "null"
+Event= "15:00 (TENNIS WTA - MADRID) WTA - MADRID : CRISTIAN J. VS KARTAL S. (TENNIS STREAM 15)"
+
+Channel_Name= "1505"
+Channel_server= "null"
+Event= "15:00 (TENNIS WTA - MADRID) WTA - MADRID : LYS E. VS KOSTOVIC T. (TENNIS STREAM 5)"
+
+Channel_Name= "1502"
+Channel_server= "null"
+Event= "15:00 (TENNIS WTA - MADRID) WTA - MADRID : KESSLER M. VS ANDREESCU B. (TENNIS STREAM 2)"
 
 Channel_Name= "25"
 Channel_server= "nfs"
@@ -3717,10 +3881,6 @@ Event= "21:00 (LAKROS) WOMEN'S COLLEGE LACROSSE : VIRGINIA VS BOSTON COLLEGE (AC
 Channel_Name= "79"
 Channel_server= "ddy6"
 Event= "21:00 (WATER SPORTS) MARIA LENK SWIMMING TROPHY FINALS (SPORTV2 BRAZIL)"
-
-Channel_Name= "127"
-Channel_server= "ddy6"
-Event= "21:18 (BUZ HOKEYİ) HOCKEY. FONBET KHL CHAMPIONSHIP. 1/4 FINALS (MATCH TV RUSSIA)"
 
 Channel_Name= "745"
 Channel_server= "zeko"
