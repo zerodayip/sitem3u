@@ -6,43 +6,13 @@ on:
     types:
       - completed
 
-  workflow_dispatch:
-
 jobs:
-  merge-and-sync:
+  merge-m3u-playlists:
     runs-on: ubuntu-latest
 
     steps:
-      # === İlk olarak: v klasöründeki .m3u dosyalarını Py reposuna kopyala ve push et ===
-
-      - name: Checkout General Repo (sitem3u)
+      - name: Checkout Repository
         uses: actions/checkout@v2
-
-      - name: Set up Git
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-
-      - name: Checkout Private Repo (Py) using GH_TOKEN
-        uses: actions/checkout@v3
-        with:
-          repository: MDuymazz/Py
-          token: ${{ secrets.GH_TOKEN }}
-          path: py
-
-      - name: Copy M3U Files from General Repo to Py Repo
-        run: |
-          mkdir -p py/m3u8
-          cp -f v/*.m3u py/m3u8/
-
-      - name: Commit & Push to Py Repo
-        working-directory: py
-        run: |
-          git add .
-          git diff --cached --quiet && echo "No changes to commit" || git commit -m "Sync M3U files from sitem3u"
-          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/MDuymazz/Py.git HEAD:main
-
-      # === Ardından: Python scriptini çalıştır ve güncellenen playlist.m3u dosyasını ana repoya push et ===
 
       - name: Set up Python
         uses: actions/setup-python@v2
