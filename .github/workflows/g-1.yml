@@ -31,7 +31,7 @@ jobs:
       - name: Copy M3U Files from General Repo to Py Repo
         run: |
           mkdir -p Py/m3u8  # Py repo'sunda m3u8 klasörü oluşturuluyor
-          cp -f g/*.m3u py/m3u8/  # `sitem3u` reposundan `.m3u` dosyalarını kopyalıyoruz
+          cp -f g/*.m3u Py/m3u8/  # `sitem3u` reposundan `.m3u` dosyalarını kopyalıyoruz
 
       - name: Commit & Push to Py Repo
         working-directory: Py  # `py` dizininde git işlemleri yapılacak
