@@ -43,4 +43,4 @@ jobs:
       - name: Clean Up g Folder Except ana_link.txt
         run: |
           echo "Cleaning up g folder (except ana_link.txt)..."
-          find g/ -type f ! -name 'ana_link.txt' -print -exec rm -f {} +
+          find g/ -type f ! -name 'ana_link.txt' -print0 | xargs -0 rm -f
