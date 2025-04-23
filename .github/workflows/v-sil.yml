@@ -2,7 +2,7 @@ name: Delete Folder ( V )
 
 on:
   workflow_run:
-    workflows: ["Merge M3U Playlists and Push ( D )"]
+    workflows: ["Merge M3U Playlists and Push ( V )"]
     types:
       - completed
 
