@@ -1,4 +1,4 @@
-name: Merge M3U Playlists and Push ( G )
+name: Merge M3U Playlists and Push ( g )
 
 on:
   workflow_run:
@@ -6,7 +6,7 @@ on:
     types:
       - completed
 
-  workflow_dispatch:  # Elle çalıştırma desteği
+  workflow_dispatch:  # Manuel çalıştırma
 
 jobs:
   sync-to-private-repo:
@@ -24,23 +24,22 @@ jobs:
       - name: Checkout Private Repo (Py) using GH_TOKEN
         uses: actions/checkout@v3
         with:
-          repository: MDuymazz/Py  # Gizli Py repo
-          token: ${{ secrets.GH_TOKEN }}  # GH_TOKEN ile erişim
-          path: Py  # `Py` repo'su `py` dizinine klonlanacak
+          repository: MDuymazz/Py
+          token: ${{ secrets.GH_TOKEN }}
+          path: py  # Klon dizini
 
       - name: Copy M3U Files from General Repo to Py Repo
         run: |
-          mkdir -p Py/m3u8  # Py repo'sunda m3u8 klasörü oluşturuluyor
-          cp -f g/*.m3u Py/m3u8/  # `sitem3u` reposundan `.m3u` dosyalarını kopyalıyoruz
+          mkdir -p py/m3u8
+          cp -f g/*.m3u py/m3u8/
 
       - name: Commit & Push to Py Repo
-        working-directory: Py  # `py` dizininde git işlemleri yapılacak
+        working-directory: py
         run: |
-          git add .  # Dosyalar staging area'ya ekleniyor
+          git add .
           git diff --cached --quiet && echo "No changes to commit" || git commit -m "Sync M3U files from sitem3u"
-          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/MDuymazz/Py.git HEAD:main  # `GH_TOKEN` kullanarak push işlemi
+          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/MDuymazz/Py.git HEAD:main
 
-      - name: Clean Up G Folder Except ana_link.txt
+      - name: Clean Up g Folder Except ana_link.txt
         run: |
-          shopt -s extglob
-          rm -f g/!('ana_link.txt')  # `G` klasöründe sadece ana_link.txt dosyasını bırakıp diğerlerini siliyoruz
+          find g/ -type f ! -name 'ana_link.txt' -exec rm -f {} +
