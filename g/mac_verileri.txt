@@ -1,8 +1,8 @@
-MatchType: "Basketbol"
-Text: "BUGÜN 12:30 OOSTENDE – GALATASARAY (S SPORT)"
-
 MatchType: "Futbol"
-Text: "BUGÜN 13:00 FENERBAHÇE – ANKARAGÜCÜ (FB TV)"
+Text: "CANLI (13:00) FENERBAHÇE – ANKARAGÜCÜ (FB TV)"
+
+MatchType: "Basketbol"
+Text: "CANLI (12:30) OOSTENDE – GALATASARAY (S SPORT)"
 
 MatchType: "Tenis"
 Text: "BUGÜN 14:00 B.BENCIC – ZEYNEP SÖNMEZ (BEIN SPORTS MAX 1)"
@@ -22,11 +22,11 @@ Text: "BUGÜN 19:30 PARMA – JUVENTUS (S SPORT 2)"
 MatchType: "Basketbol"
 Text: "BUGÜN 19:30 AEK ATHENS – JSF NANTERRE (TIVIBU SPOR 1)"
 
-MatchType: "Basketbol"
-Text: "BUGÜN 20:00 MONACO – BARCELONA (S SPORT)"
-
 MatchType: "Futbol"
 Text: "BUGÜN 20:00 ATHLETIC BILBAO – LAS PALMAS (TIVIBU SPOR 2)"
+
+MatchType: "Basketbol"
+Text: "BUGÜN 20:00 MONACO – BARCELONA (S SPORT)"
 
 MatchType: "Basketbol"
 Text: "BUGÜN 21:30 OLYMPIAKOS – REAL MADRID (S SPORT 2)"
