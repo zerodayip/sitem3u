@@ -6,7 +6,7 @@ on:
     types:
       - completed
 
-  workflow_dispatch:
+  workflow_dispatch:  # Manuel çalıştırma
 
 jobs:
   sync-to-private-repo:
@@ -26,7 +26,7 @@ jobs:
         with:
           repository: MDuymazz/Py
           token: ${{ secrets.GH_TOKEN }}
-          path: py
+          path: py  # Klon dizini
 
       - name: Copy M3U Files from General Repo to Py Repo
         run: |
@@ -54,3 +54,9 @@ jobs:
               rm -f "$file"
             fi
           done
+
+      - name: Commit & Push Changes to General Repo (sitem3u)
+        run: |
+          git add g/*
+          git diff --cached --quiet && echo "No changes to commit" || git commit -m "Clean up g folder (removed non-ana_link.txt files)"
+          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/MDuymazz/sitem3u.git HEAD:main
