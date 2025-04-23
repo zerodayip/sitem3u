@@ -1,1 +1,29 @@
+name: Delete Folder ( D )
 
+on:
+  workflow_run:
+    workflows: ["Merge M3U Playlists and Push ( D )"]
+    types:
+      - completed
+
+  workflow_dispatch:  # Manuel tetikleme de istenirse aktif
+
+jobs:
+  clean-g-folder:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Clean g Folder Except ana_link.txt
+        run: |
+          find d/* ! -name 'schedule.json' ! -name 'logo.txt! ! -name 'livejson.py' -exec rm -f {} \;
+
+      - name: Commit and Push Changes
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add .
+          git commit -m "Clean g folder (remove all files except ana_link.txt)" || echo "No changes to commit"
+          git push origin main
