@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="06:31 (BUZ HOKEYİ) HOCKEY. FONBET KHL CHAMPIONSHIP. 1/4 FINALS (MATCH TV RUSSIA)" tvg-logo="https://w7.pngwing.com/pngs/545/208/png-transparent-ice-hockey-pond-hockey-hockey-players-sport-video-player-competition-event-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",06:31 (BUZ HOKEYİ) HOCKEY. FONBET KHL CHAMPIONSHIP. 1/4 FINALS (MATCH TV RUSSIA)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6top1.newkso.ru/ddy6/premium127/mono.m3u8
-
 #EXTINF:-1 tvg-id="07:00 (DÖVÜŞ SPORLARI) JUDO: EUROPEAN CHAMPIONSHIPS EUROPEAN CHAMPIONSHIPS. DAY 1. QUALIFYING. (RMC SPORT 1 FRANCE)" tvg-logo="https://w7.pngwing.com/pngs/944/882/png-transparent-two-men-doing-martial-arts-kickboxing-mixed-martial-arts-muay-thai-fight-miscellaneous-boxing-glove-arm-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",07:00 (DÖVÜŞ SPORLARI) JUDO: EUROPEAN CHAMPIONSHIPS EUROPEAN CHAMPIONSHIPS. DAY 1. QUALIFYING. (RMC SPORT 1 FRANCE)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz
