@@ -4,18 +4,21 @@ on:
   workflow_dispatch:  # Manuel çalıştırma
 
 jobs:
-  cleanup:
+  clean-g-folder:
     runs-on: ubuntu-latest
 
     steps:
+      # Genel repoyu checkout et
       - name: Checkout General Repo (sitem3u)
         uses: actions/checkout@v2
 
+      # Git ayarlarını yap
       - name: Set up Git
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
 
+      # g klasöründeki dosyaları sil
       - name: Clean Up g Folder Except ana_link.txt
         run: |
           echo "Silme işlemi başlıyor..."
@@ -26,8 +29,10 @@ jobs:
             fi
           done
 
-      - name: Commit & Push Changes to General Repo (sitem3u)
+      # Silinen dosyaların commit edilip push edilmesi
+      - name: Commit and Push Changes
         run: |
-          git add g/*
-          git diff --cached --quiet && echo "No changes to commit" || git commit -m "Clean up g folder (removed non-ana_link.txt files)"
-          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/MDuymazz/sitem3u.git HEAD:main
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git commit -m "Update all output files and via workflow D" || echo "No changes to commit"
+          git push origin main
