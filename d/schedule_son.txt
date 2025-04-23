@@ -478,10 +478,6 @@ Channel_Name= "306"
 Channel_server= "zeko"
 Event= "01:00 (TV PROGRAMLARI) ALL THE QUEEN'S MEN SEASON 3, EPISODE 6 (BET USA)"
 
-Channel_Name= "127"
-Channel_server= "ddy6"
-Event= "01:25 (BUZ HOKEYİ) HOCKEY. FONBET KHL CHAMPIONSHIP. 1/4 FINALS (MATCH TV RUSSIA)"
-
 Channel_Name= "767"
 Channel_server= "zeko"
 Event= "01:30 (TV PROGRAMLARI) THE AMAZING RACE SEASON 37, EPISODE 8 (CBSNY USA)"
@@ -989,6 +985,10 @@ Event= "03:00 (TV PROGRAMLARI) MYSTERIES OF THE ABANDONED: HIDDEN AMERICA SEASON
 Channel_Name= "643"
 Channel_server= "dokko1"
 Event= "03:00 (FUTBOL) MEXICANO FEMENINO PRIMERA DIVISIÓN : JUÁREZ VS. AMÉRICA (FOX DEPORTES)"
+
+Channel_Name= "127"
+Channel_server= "ddy6"
+Event= "03:27 (BUZ HOKEYİ) HOCKEY. FONBET KHL CHAMPIONSHIP. 1/4 FINALS (MATCH TV RUSSIA)"
 
 Channel_Name= "119"
 Channel_server= "zeko"
@@ -2152,11 +2152,11 @@ Event= "16:30 (HENTBOL) BAMBUSA KVINDELIGAEN : HERNING-IKAST HAANDBOLD VS. SOEND
 
 Channel_Name= "163"
 Channel_server= "wind"
-Event= "16:30 (BUZ HOKEYİ) KHL : (KHL TV)"
+Event= "16:30 (BUZ HOKEYİ) KHL : LOKOMOTIV YAROSLAVL VS AVANGARD OMSK (KHL TV)"
 
 Channel_Name= "127"
 Channel_server= "ddy6"
-Event= "16:30 (BUZ HOKEYİ) KHL : (MATCH TV RUSSIA)"
+Event= "16:30 (BUZ HOKEYİ) KHL : LOKOMOTIV YAROSLAVL VS AVANGARD OMSK (MATCH TV RUSSIA)"
 
 Channel_Name= "15"
 Channel_server= "nfs"

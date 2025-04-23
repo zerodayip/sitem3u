@@ -358,9 +358,6 @@ Channel_server= "zeko"
 Channel_Name= "306"
 Channel_server= "zeko"
 
-Channel_Name= "127"
-Channel_server= "ddy6"
-
 Channel_Name= "767"
 Channel_server= "zeko"
 
@@ -741,6 +738,9 @@ Channel_server= "zeko"
 
 Channel_Name= "643"
 Channel_server= "dokko1"
+
+Channel_Name= "127"
+Channel_server= "ddy6"
 
 Channel_Name= "119"
 Channel_server= "zeko"
