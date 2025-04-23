@@ -26,15 +26,15 @@ jobs:
         with:
           repository: MDuymazz/Py  # Gizli Py repo
           token: ${{ secrets.GH_TOKEN }}  # GH_TOKEN ile erişim
-          path: py  # `Py` repo'su `py` dizinine klonlanacak
+          path: Py  # `Py` repo'su `py` dizinine klonlanacak
 
-      - name: Copy M3U Files to Py Repo
+      - name: Copy M3U Files from General Repo to Py Repo
         run: |
-          mkdir -p py/m3u8  # Py repo'sunda m3u8 klasörü oluşturuluyor
-          cp -f G/*.m3u py/m3u8/  # `.m3u` dosyalarını Py repo'suna kopyalıyoruz
+          mkdir -p Py/m3u8  # Py repo'sunda m3u8 klasörü oluşturuluyor
+          cp -f g/*.m3u py/m3u8/  # `sitem3u` reposundan `.m3u` dosyalarını kopyalıyoruz
 
       - name: Commit & Push to Py Repo
-        working-directory: py  # `py` dizininde git işlemleri yapılacak
+        working-directory: Py  # `py` dizininde git işlemleri yapılacak
         run: |
           git add .  # Dosyalar staging area'ya ekleniyor
           git diff --cached --quiet && echo "No changes to commit" || git commit -m "Sync M3U files from sitem3u"
@@ -43,4 +43,4 @@ jobs:
       - name: Clean Up G Folder Except ana_link.txt
         run: |
           shopt -s extglob
-          rm -f G/!('ana_link.txt')  # `G` klasöründe sadece ana_link.txt dosyasını bırakıp diğerlerini siliyoruz
+          rm -f g/!('ana_link.txt')  # `G` klasöründe sadece ana_link.txt dosyasını bırakıp diğerlerini siliyoruz
