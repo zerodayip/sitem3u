@@ -1,13 +1,5 @@
-MatchType: "Futbol"
-Text: "CANLI (01:00) LDU QUITO – FLAMENGO (S SPORT 2)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5102/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
-
 MatchType: "Basketbol"
-Text: "BUGÜN 02:00 INDIANA PACERS – MILWAUKEE BUCKS (NBA TV)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5121/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
-
-MatchType: "Basketbol"
-Text: "BUGÜN 05:00 LA LAKERS – MINNESOTA TW (S SPORT)"
+Text: "CANLI (05:00) LA LAKERS – MINNESOTA TW (S SPORT)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5101/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 
 MatchType: "Basketbol"
@@ -30,21 +22,21 @@ MatchType: "Futbol"
 Text: "BUGÜN 19:00 SABAH BAKÜ – NEFTÇI BAKÜ (CBC SPORT)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5131/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 
-MatchType: "Basketbol"
-Text: "BUGÜN 19:30 AEK ATHENS – JSF NANTERRE (TIVIBU SPOR 1)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5082/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
-
 MatchType: "Futbol"
 Text: "BUGÜN 19:30 PARMA – JUVENTUS (S SPORT 2)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5102/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 
-MatchType: "Futbol"
-Text: "BUGÜN 20:00 ATHLETIC BILBAO – LAS PALMAS (TIVIBU SPOR 2)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5083/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+MatchType: "Basketbol"
+Text: "BUGÜN 19:30 AEK ATHENS – JSF NANTERRE (TIVIBU SPOR 1)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5082/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 
 MatchType: "Basketbol"
 Text: "BUGÜN 20:00 MONACO – BARCELONA (S SPORT)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5101/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+
+MatchType: "Futbol"
+Text: "BUGÜN 20:00 ATHLETIC BILBAO – LAS PALMAS (TIVIBU SPOR 2)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-922da5a56d.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5083/a.strmrdr-cf-worker-922da5a56d.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 
 MatchType: "Basketbol"
 Text: "BUGÜN 21:30 OLYMPIAKOS – REAL MADRID (S SPORT 2)"

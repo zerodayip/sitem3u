@@ -1,11 +1,5 @@
-MatchType: "Futbol"
-Text: "CANLI (01:00) LDU QUITO – FLAMENGO (S SPORT 2)"
-
 MatchType: "Basketbol"
-Text: "BUGÜN 02:00 INDIANA PACERS – MILWAUKEE BUCKS (NBA TV)"
-
-MatchType: "Basketbol"
-Text: "BUGÜN 05:00 LA LAKERS – MINNESOTA TW (S SPORT)"
+Text: "CANLI (05:00) LA LAKERS – MINNESOTA TW (S SPORT)"
 
 MatchType: "Basketbol"
 Text: "BUGÜN 12:30 OOSTENDE – GALATASARAY (S SPORT)"
@@ -22,17 +16,17 @@ Text: "BUGÜN 16:00 KARABAĞ – ARAZ (CBC SPORT)"
 MatchType: "Futbol"
 Text: "BUGÜN 19:00 SABAH BAKÜ – NEFTÇI BAKÜ (CBC SPORT)"
 
-MatchType: "Basketbol"
-Text: "BUGÜN 19:30 AEK ATHENS – JSF NANTERRE (TIVIBU SPOR 1)"
-
 MatchType: "Futbol"
 Text: "BUGÜN 19:30 PARMA – JUVENTUS (S SPORT 2)"
 
-MatchType: "Futbol"
-Text: "BUGÜN 20:00 ATHLETIC BILBAO – LAS PALMAS (TIVIBU SPOR 2)"
+MatchType: "Basketbol"
+Text: "BUGÜN 19:30 AEK ATHENS – JSF NANTERRE (TIVIBU SPOR 1)"
 
 MatchType: "Basketbol"
 Text: "BUGÜN 20:00 MONACO – BARCELONA (S SPORT)"
+
+MatchType: "Futbol"
+Text: "BUGÜN 20:00 ATHLETIC BILBAO – LAS PALMAS (TIVIBU SPOR 2)"
 
 MatchType: "Basketbol"
 Text: "BUGÜN 21:30 OLYMPIAKOS – REAL MADRID (S SPORT 2)"
