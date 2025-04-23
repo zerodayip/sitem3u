@@ -1,7 +1,4 @@
 MatchType: "Basketbol"
-Text: "CANLI (05:00) LA LAKERS – MINNESOTA TW (S SPORT)"
-
-MatchType: "Basketbol"
 Text: "BUGÜN 12:30 OOSTENDE – GALATASARAY (S SPORT)"
 
 MatchType: "Futbol"
