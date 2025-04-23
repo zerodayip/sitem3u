@@ -39,24 +39,3 @@ jobs:
           git add .
           git diff --cached --quiet && echo "No changes to commit" || git commit -m "Sync M3U files from sitem3u"
           git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/MDuymazz/Py.git HEAD:main
-
-      - name: DEBUG - List all files in g/
-        run: |
-          echo "Tüm dosyaları listeliyoruz:"
-          find g/ -type f -exec ls -l {} \;
-
-      - name: Clean Up g Folder Except ana_link.txt
-        run: |
-          echo "Silme işlemi başlıyor..."
-          for file in g/*; do
-            if [ "$(basename "$file")" != "ana_link.txt" ]; then
-              echo "Siliniyor: $file"
-              rm -f "$file"
-            fi
-          done
-
-      - name: Commit & Push Changes to General Repo (sitem3u)
-        run: |
-          git add g/*
-          git diff --cached --quiet && echo "No changes to commit" || git commit -m "Clean up g folder (removed non-ana_link.txt files)"
-          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/MDuymazz/sitem3u.git HEAD:main
