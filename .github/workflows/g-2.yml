@@ -12,27 +12,14 @@ jobs:
       - name: Checkout General Repo (sitem3u)
         uses: actions/checkout@v2
 
-      # Git ayarlarını yap
-      - name: Set up Git
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-
       # g klasöründeki dosyaları sil
       - name: Clean Up g Folder Except ana_link.txt
         run: |
-          echo "Silme işlemi başlıyor..."
-          for file in g/*; do
-            if [ "$(basename "$file")" != "ana_link.txt" ]; then
-              echo "Siliniyor: $file"
-              rm -f "$file"
-            fi
-          done
-
-      # Silinen dosyaların commit edilip push edilmesi
+          git rm -rf g/*  # g klasöründeki tüm dosyaları siler
+          git reset g/ana_link.txt  # ana_link.txt dosyasını silmeyi engeller
+          
+      # Silme işlemi sonrası commit ve push
       - name: Commit and Push Changes
         run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git commit -m "Update all output files and via workflow D" || echo "No changes to commit"
+          git commit -m "Clean g folder (remove all files except ana_link.txt)"
           git push origin main
