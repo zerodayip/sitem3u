@@ -1,18 +1,10 @@
 MatchType: "Tenis"
-Text: "CANLI (15:30) A.EALA – I.SWIATEK (BEIN SPORTS MAX 1)"
+Text: "CANLI (18:00) M.KEYS – L.BRONZETTI (BEIN SPORTS MAX 1)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-86665ae4b9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5067/a.strmrdr-cf-worker-86665ae4b9.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 
 MatchType: "Basketbol"
-Text: "CANLI (15:00) GALATASARAY – TELEKOM BONN (S SPORT)"
+Text: "CANLI (17:30) TOFAŞ – NYMBURK (S SPORT)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-86665ae4b9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5101/a.strmrdr-cf-worker-86665ae4b9.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
-
-MatchType: "Basketbol"
-Text: "BUGÜN 17:30 TOFAŞ – NYMBURK (S SPORT)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-86665ae4b9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5101/a.strmrdr-cf-worker-86665ae4b9.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
-
-MatchType: "Tenis"
-Text: "BUGÜN 18:00 M.KEYS – L.BRONZETTI (BEIN SPORTS MAX 1)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-86665ae4b9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5067/a.strmrdr-cf-worker-86665ae4b9.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 
 MatchType: "Tenis"
 Text: "BUGÜN 20:00 D.YASTREMSKA – C.GAUFF (BEIN SPORTS MAX 1)"
@@ -63,16 +55,16 @@ Text: "YARIN 18:00 TURAN – SHAMAKHI (CBC SPORT)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-86665ae4b9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5131/a.strmrdr-cf-worker-86665ae4b9.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 
 MatchType: "Futbol"
+Text: "YARIN 19:30 GREUTHER FÜRTH – ULM (TIVIBU SPOR 3)"
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-86665ae4b9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5084/a.strmrdr-cf-worker-86665ae4b9.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+
+MatchType: "Futbol"
 Text: "YARIN 19:30 AL HILAL – GWANGJU (SPOR SMART)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-86665ae4b9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5091/a.strmrdr-cf-worker-86665ae4b9.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 
 MatchType: "Futbol"
 Text: "YARIN 19:30 HERTHA BERLIN – MAGDEBURG (TIVIBU SPOR 2)"
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-86665ae4b9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5083/a.strmrdr-cf-worker-86665ae4b9.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
-
-MatchType: "Futbol"
-Text: "YARIN 19:30 GREUTHER FÜRTH – ULM (TIVIBU SPOR 3)"
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-86665ae4b9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5084/a.strmrdr-cf-worker-86665ae4b9.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 
 MatchType: "Futbol"
 Text: "YARIN 20:00 BEŞIKTAŞ – HATAYSPOR (BEIN SPORTS 1)"

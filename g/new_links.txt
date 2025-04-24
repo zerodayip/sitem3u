@@ -1,7 +1,5 @@
 https://a.strmrdr-cf-worker-86665ae4b9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5067/a.strmrdr-cf-worker-86665ae4b9.workers.dev/chunklist_hd.m3u8
 https://a.strmrdr-cf-worker-86665ae4b9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5101/a.strmrdr-cf-worker-86665ae4b9.workers.dev/chunklist_hd.m3u8
-https://a.strmrdr-cf-worker-86665ae4b9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5101/a.strmrdr-cf-worker-86665ae4b9.workers.dev/chunklist_hd.m3u8
-https://a.strmrdr-cf-worker-86665ae4b9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5067/a.strmrdr-cf-worker-86665ae4b9.workers.dev/chunklist_hd.m3u8
 https://a.strmrdr-cf-worker-86665ae4b9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5067/a.strmrdr-cf-worker-86665ae4b9.workers.dev/chunklist_hd.m3u8
 https://a.strmrdr-cf-worker-86665ae4b9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5082/a.strmrdr-cf-worker-86665ae4b9.workers.dev/chunklist_hd.m3u8
 https://a.strmrdr-cf-worker-86665ae4b9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5001/a.strmrdr-cf-worker-86665ae4b9.workers.dev/chunklist_hd.m3u8
@@ -14,9 +12,9 @@ https://a.strmrdr-cf-worker-86665ae4b9.workers.dev/bc2b05d321cb80050c5d035a9daeb
 https://a.strmrdr-cf-worker-86665ae4b9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5121/a.strmrdr-cf-worker-86665ae4b9.workers.dev/chunklist_hd.m3u8
 https://a.strmrdr-cf-worker-86665ae4b9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5032/a.strmrdr-cf-worker-86665ae4b9.workers.dev/chunklist_hd.m3u8
 https://a.strmrdr-cf-worker-86665ae4b9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5131/a.strmrdr-cf-worker-86665ae4b9.workers.dev/chunklist_hd.m3u8
+https://a.strmrdr-cf-worker-86665ae4b9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5084/a.strmrdr-cf-worker-86665ae4b9.workers.dev/chunklist_hd.m3u8
 https://a.strmrdr-cf-worker-86665ae4b9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5091/a.strmrdr-cf-worker-86665ae4b9.workers.dev/chunklist_hd.m3u8
 https://a.strmrdr-cf-worker-86665ae4b9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5083/a.strmrdr-cf-worker-86665ae4b9.workers.dev/chunklist_hd.m3u8
-https://a.strmrdr-cf-worker-86665ae4b9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5084/a.strmrdr-cf-worker-86665ae4b9.workers.dev/chunklist_hd.m3u8
 https://a.strmrdr-cf-worker-86665ae4b9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5062/a.strmrdr-cf-worker-86665ae4b9.workers.dev/chunklist_hd.m3u8
 https://a.strmrdr-cf-worker-86665ae4b9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5101/a.strmrdr-cf-worker-86665ae4b9.workers.dev/chunklist_hd.m3u8
 https://a.strmrdr-cf-worker-86665ae4b9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5082/a.strmrdr-cf-worker-86665ae4b9.workers.dev/chunklist_hd.m3u8

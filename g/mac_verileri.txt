@@ -1,14 +1,8 @@
 MatchType: "Tenis"
-Text: "CANLI (15:30) A.EALA – I.SWIATEK (BEIN SPORTS MAX 1)"
+Text: "CANLI (18:00) M.KEYS – L.BRONZETTI (BEIN SPORTS MAX 1)"
 
 MatchType: "Basketbol"
-Text: "CANLI (15:00) GALATASARAY – TELEKOM BONN (S SPORT)"
-
-MatchType: "Basketbol"
-Text: "BUGÜN 17:30 TOFAŞ – NYMBURK (S SPORT)"
-
-MatchType: "Tenis"
-Text: "BUGÜN 18:00 M.KEYS – L.BRONZETTI (BEIN SPORTS MAX 1)"
+Text: "CANLI (17:30) TOFAŞ – NYMBURK (S SPORT)"
 
 MatchType: "Tenis"
 Text: "BUGÜN 20:00 D.YASTREMSKA – C.GAUFF (BEIN SPORTS MAX 1)"
@@ -47,13 +41,13 @@ MatchType: "Futbol"
 Text: "YARIN 18:00 TURAN – SHAMAKHI (CBC SPORT)"
 
 MatchType: "Futbol"
+Text: "YARIN 19:30 GREUTHER FÜRTH – ULM (TIVIBU SPOR 3)"
+
+MatchType: "Futbol"
 Text: "YARIN 19:30 AL HILAL – GWANGJU (SPOR SMART)"
 
 MatchType: "Futbol"
 Text: "YARIN 19:30 HERTHA BERLIN – MAGDEBURG (TIVIBU SPOR 2)"
-
-MatchType: "Futbol"
-Text: "YARIN 19:30 GREUTHER FÜRTH – ULM (TIVIBU SPOR 3)"
 
 MatchType: "Futbol"
 Text: "YARIN 20:00 BEŞIKTAŞ – HATAYSPOR (BEIN SPORTS 1)"
