@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="BASKETBOL"  tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2 (MAÇ SAATİ)",BUGÜN 15:00 GALATASARAY – TELEKOM BONN (S SPORT)
+#EXTINF:-1 tvg-name="TENIS"  tvg-logo="https://w7.pngwing.com/pngs/639/775/png-transparent-green-tennis-ball-tennis-ball-cricket-the-us-open-tennis-tennis-ball-sport-sporting-goods-grass-thumbnail.png" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2 (MAÇ SAATİ)",CANLI (15:30) A.EALA – I.SWIATEK (BEIN SPORTS MAX 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-86665ae4b9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5067/a.strmrdr-cf-worker-86665ae4b9.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+#EXTINF:-1 tvg-name="BASKETBOL"  tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2 (MAÇ SAATİ)",CANLI (15:00) GALATASARAY – TELEKOM BONN (S SPORT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-86665ae4b9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5101/a.strmrdr-cf-worker-86665ae4b9.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
@@ -7,6 +11,14 @@ https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-86665ae4b9.work
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-86665ae4b9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5101/a.strmrdr-cf-worker-86665ae4b9.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+#EXTINF:-1 tvg-name="TENIS"  tvg-logo="https://w7.pngwing.com/pngs/639/775/png-transparent-green-tennis-ball-tennis-ball-cricket-the-us-open-tennis-tennis-ball-sport-sporting-goods-grass-thumbnail.png" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2 (MAÇ SAATİ)",BUGÜN 18:00 M.KEYS – L.BRONZETTI (BEIN SPORTS MAX 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-86665ae4b9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5067/a.strmrdr-cf-worker-86665ae4b9.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+#EXTINF:-1 tvg-name="TENIS"  tvg-logo="https://w7.pngwing.com/pngs/639/775/png-transparent-green-tennis-ball-tennis-ball-cricket-the-us-open-tennis-tennis-ball-sport-sporting-goods-grass-thumbnail.png" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2 (MAÇ SAATİ)",BUGÜN 20:00 D.YASTREMSKA – C.GAUFF (BEIN SPORTS MAX 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-86665ae4b9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5067/a.strmrdr-cf-worker-86665ae4b9.workers.dev/chunklist_hd.m3u8&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="FUTBOL"  tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2 (MAÇ SAATİ)",BUGÜN 20:00 OSASUNA – SEVILLA (TIVIBU SPOR 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/

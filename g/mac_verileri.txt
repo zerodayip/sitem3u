@@ -1,8 +1,17 @@
+MatchType: "Tenis"
+Text: "CANLI (15:30) A.EALA – I.SWIATEK (BEIN SPORTS MAX 1)"
+
 MatchType: "Basketbol"
-Text: "BUGÜN 15:00 GALATASARAY – TELEKOM BONN (S SPORT)"
+Text: "CANLI (15:00) GALATASARAY – TELEKOM BONN (S SPORT)"
 
 MatchType: "Basketbol"
 Text: "BUGÜN 17:30 TOFAŞ – NYMBURK (S SPORT)"
+
+MatchType: "Tenis"
+Text: "BUGÜN 18:00 M.KEYS – L.BRONZETTI (BEIN SPORTS MAX 1)"
+
+MatchType: "Tenis"
+Text: "BUGÜN 20:00 D.YASTREMSKA – C.GAUFF (BEIN SPORTS MAX 1)"
 
 MatchType: "Futbol"
 Text: "BUGÜN 20:00 OSASUNA – SEVILLA (TIVIBU SPOR 1)"
