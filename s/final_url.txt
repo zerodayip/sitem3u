@@ -1,10 +1,18 @@
 Grup = "Futbol"
-Kanal_Adı = "19:30 - Greuther Fürth - Ulm"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports3/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
+Kanal_Adı = "20:00 - Beşiktaş - Hatayspor HD1"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports1s/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
+
+Grup = "Futbol"
+Kanal_Adı = "20:00 - Beşiktaş - Hatayspor (Çoklu Kalite)"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports1m/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "Futbol"
 Kanal_Adı = "19:30 - Hertha Berlin - Magdeburg"
 Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports2/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
+
+Grup = "Futbol"
+Kanal_Adı = "19:30 - Greuther Fürth - Ulm"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports3/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "Futbol"
 Kanal_Adı = "20:00 - Beşiktaş - Hatayspor"
@@ -31,10 +39,6 @@ Kanal_Adı = "21:30 - Olympiakos - Real Madrid"
 Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukssport2/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "Tenis"
-Kanal_Adı = "16:00 - A.Potapova - Q.Zheng"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
-
-Grup = "Tenis"
 Kanal_Adı = "20:00 - J.Pegula - E.Lys"
 Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
@@ -43,12 +47,20 @@ Kanal_Adı = "22:30 - E.Rybakina - B.Andreescu"
 Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "Çoklu Ekran"
-Kanal_Adı = "19:30 - Greuther Fürth - Ulm"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports3/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
+Kanal_Adı = "20:00 - Beşiktaş - Hatayspor HD1"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports1s/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
+
+Grup = "Çoklu Ekran"
+Kanal_Adı = "20:00 - Beşiktaş - Hatayspor (Çoklu Kalite)"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports1m/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "Çoklu Ekran"
 Kanal_Adı = "19:30 - Hertha Berlin - Magdeburg"
 Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports2/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
+
+Grup = "Çoklu Ekran"
+Kanal_Adı = "19:30 - Greuther Fürth - Ulm"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports3/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "Çoklu Ekran"
 Kanal_Adı = "20:00 - Beşiktaş - Hatayspor"
