@@ -1,3 +1,6 @@
+Channel_Name= "109"
+Channel_server= "ddy6"
+
 Channel_Name= "331"
 Channel_server= "wind"
 
@@ -169,6 +172,9 @@ Channel_server= "nfs"
 Channel_Name= "899"
 Channel_server= "nfs"
 
+Channel_Name= "151"
+Channel_server= "ddy6"
+
 Channel_Name= "293"
 Channel_server= "zeko"
 
@@ -267,6 +273,9 @@ Channel_server= "nfs"
 
 Channel_Name= "905"
 Channel_server= "zeko"
+
+Channel_Name= "152"
+Channel_server= "ddy6"
 
 Channel_Name= "382"
 Channel_server= "zeko"
@@ -374,7 +383,7 @@ Channel_Name= "590"
 Channel_server= "dokko1"
 
 Channel_Name= "607"
-Channel_server= "null"
+Channel_server= "dokko1"
 
 Channel_Name= "200"
 Channel_server= "nfs"
@@ -695,7 +704,7 @@ Channel_Name= "462"
 Channel_server= "ddy6"
 
 Channel_Name= "607"
-Channel_server= "null"
+Channel_server= "dokko1"
 
 Channel_Name= "200"
 Channel_server= "nfs"
@@ -812,7 +821,7 @@ Channel_Name= "402"
 Channel_server= "top1"
 
 Channel_Name= "607"
-Channel_server= "null"
+Channel_server= "dokko1"
 
 Channel_Name= "200"
 Channel_server= "nfs"
@@ -1214,7 +1223,7 @@ Channel_Name= "1505"
 Channel_server= "null"
 
 Channel_Name= "607"
-Channel_server= "null"
+Channel_server= "dokko1"
 
 Channel_Name= "200"
 Channel_server= "nfs"
@@ -1472,7 +1481,7 @@ Channel_Name= "1502"
 Channel_server= "null"
 
 Channel_Name= "607"
-Channel_server= "null"
+Channel_server= "dokko1"
 
 Channel_Name= "200"
 Channel_server= "nfs"
@@ -1787,7 +1796,7 @@ Channel_Name= "71"
 Channel_server= "wind"
 
 Channel_Name= "607"
-Channel_server= "null"
+Channel_server= "dokko1"
 
 Channel_Name= "200"
 Channel_server= "nfs"
@@ -2122,6 +2131,9 @@ Channel_server= "zeko"
 Channel_Name= "38"
 Channel_server= "zeko"
 
+Channel_Name= "69"
+Channel_server= "ddy6"
+
 Channel_Name= "755"
 Channel_server= "wind"
 
@@ -2164,6 +2176,12 @@ Channel_server= "zeko"
 Channel_Name= "762"
 Channel_server= "nfs"
 
+Channel_Name= "76"
+Channel_server= "wind"
+
+Channel_Name= "77"
+Channel_server= "nfs"
+
 Channel_Name= "16"
 Channel_server= "nfs"
 
@@ -2187,6 +2205,9 @@ Channel_server= "nfs"
 
 Channel_Name= "146"
 Channel_server= "zeko"
+
+Channel_Name= "86"
+Channel_server= "dokko1"
 
 Channel_Name= "654"
 Channel_server= "ddy6"
@@ -2325,6 +2346,18 @@ Channel_server= "wind"
 
 Channel_Name= "19"
 Channel_server= "nfs"
+
+Channel_Name= "105"
+Channel_server= "ddy6"
+
+Channel_Name= "106"
+Channel_server= "ddy6"
+
+Channel_Name= "107"
+Channel_server= "ddy6"
+
+Channel_Name= "108"
+Channel_server= "ddy6"
 
 Channel_Name= "397"
 Channel_server= "wind"

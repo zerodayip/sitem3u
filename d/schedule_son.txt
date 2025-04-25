@@ -1,3 +1,7 @@
+Channel_Name= "109"
+Channel_server= "ddy6"
+Event= "00:00 (PPV EVENTS) THE KINGS OF THE CANVAS II: BATTLE IN THE BORO (TRILLER TV)"
+
 Channel_Name= "331"
 Channel_server= "wind"
 Event= "00:00 (TV PROGRAMLARI) THE NEVER EVER METS SEASON 2, EPISODE 4 (OWN USA)"
@@ -226,6 +230,10 @@ Channel_Name= "899"
 Channel_server= "nfs"
 Event= "00:40 (BEYZBOL) MLB : CINCINNATI REDS VS COLORADO ROCKIES (FANDUEL SPORTS NETWORK OHIO)"
 
+Channel_Name= "151"
+Channel_server= "ddy6"
+Event= "01:00 (PPV EVENTS) LA FRIDAY NIGHT FIGHTS SERIES : ERIC TUDOR VS. KEVIN JOHNSON (DAZN PPV)"
+
 Channel_Name= "293"
 Channel_server= "zeko"
 Event= "01:00 (TV PROGRAMLARI) ON PATROL: LIVE SEASON 3, EPISODE 73 (REELZ USA)"
@@ -357,6 +365,10 @@ Event= "01:40 (BEYZBOL) MLB : TAMPA BAY RAYS VS SAN DIEGO PADRES (MLB LEAGUE PAS
 Channel_Name= "905"
 Channel_server= "zeko"
 Event= "01:40 (BEYZBOL) MLB : TAMPA BAY RAYS VS SAN DIEGO PADRES (BALLY SPORTS SUN)"
+
+Channel_Name= "152"
+Channel_server= "ddy6"
+Event= "02:00 (PPV EVENTS) TUFF N UFF 143 (UFC FIGHT PASS)"
 
 Channel_Name= "382"
 Channel_server= "zeko"
@@ -499,7 +511,7 @@ Channel_server= "dokko1"
 Event= "06:00 (RUGBI) NATIONAL RUGBY LEAGUE : SYDNEY ROOSTERS VS ST.GEORGE ILLAWARRA (SKY SPORT 3 NZ)"
 
 Channel_Name= "607"
-Channel_server= "null"
+Channel_server= "dokko1"
 Event= "06:03 (MOTORSPORT) WRC RALLY CANARY ISLANDS RALLY: STAGE 1 (RALLY TV)"
 
 Channel_Name= "200"
@@ -927,7 +939,7 @@ Channel_server= "ddy6"
 Event= "09:35 (RUGBI) SUPER RUGBY : REDS VS BLUES (SKY SPORT ARENA IT)"
 
 Channel_Name= "607"
-Channel_server= "null"
+Channel_server= "dokko1"
 Event= "09:45 (MOTORSPORT) WRC RALLY ISLAS CANARIAS | SPECIAL STAGE 2 | DAY 2 (RALLY TV)"
 
 Channel_Name= "200"
@@ -1083,7 +1095,7 @@ Channel_server= "top1"
 Event= "11:10 (MOTORSPORT) MOTO3 : SPANISH GRAND PRIX (DIGI SPORT 3 ROMANIA)"
 
 Channel_Name= "607"
-Channel_server= "null"
+Channel_server= "dokko1"
 Event= "11:15 (MOTORSPORT) WRC RALLY ISLAS CANARIAS | SPECIAL STAGE 3 | DAY 2 (RALLY TV)"
 
 Channel_Name= "200"
@@ -1619,7 +1631,7 @@ Channel_server= "null"
 Event= "15:00 (TENNIS WTA - MADRID) WTA - MADRID : HSIEH S-W./OSTAPENKO J. VS MIHALIKOVA T./NICHOLLS O. (TENNIS STREAM 5)"
 
 Channel_Name= "607"
-Channel_server= "null"
+Channel_server= "dokko1"
 Event= "15:00 (MOTORSPORT) WRC RALLY ISLAS CANARIAS | SPECIAL STAGE 4 | DAY 2 (RALLY TV)"
 
 Channel_Name= "200"
@@ -1963,7 +1975,7 @@ Channel_server= "null"
 Event= "17:00 (TENNIS WTA - MADRID) WTA - MADRID : PEGULA J. VS LYS E. (TENNIS STREAM 2)"
 
 Channel_Name= "607"
-Channel_server= "null"
+Channel_server= "dokko1"
 Event= "17:00 (MOTORSPORT) WRC RALLY ISLAS CANARIAS | SPECIAL STAGE 5 | DAY (RALLY TV)"
 
 Channel_Name= "200"
@@ -2383,7 +2395,7 @@ Channel_server= "wind"
 Event= "18:30 (MOTORSPORT) SPEEDWAY: PGE EKSTRALIGA : STELMET FALUBAZ ZIELONA GÓRA - BAYERSYSTEM GKM GRUDZIĄDZ (ELEVEN SPORTS 1 POLAND)"
 
 Channel_Name= "607"
-Channel_server= "null"
+Channel_server= "dokko1"
 Event= "18:30 (MOTORSPORT) WRC RALLY ISLAS CANARIAS | SPECIAL STAGE 6 | DAY 2 (RALLY TV)"
 
 Channel_Name= "200"
@@ -2830,6 +2842,10 @@ Channel_Name= "38"
 Channel_server= "zeko"
 Event= "21:30 (GOLF) PGA TOUR ZURICH CLASSIC OF NEW ORLEANS (SKY SPORTS MAIN EVENT)"
 
+Channel_Name= "69"
+Channel_server= "ddy6"
+Event= "22:00 (PPV EVENTS) USAC KOKOMO GRAND PRIX (EVENT PPV)"
+
 Channel_Name= "755"
 Channel_server= "wind"
 Event= "22:00 (TV PROGRAMLARI) FANDUEL RACING LIVE (NBCS CALIFORNIA)"
@@ -2886,6 +2902,14 @@ Channel_Name= "762"
 Channel_server= "nfs"
 Event= "22:00 (BEYZBOL) MINOR LEAGUE BASEBALL : SYRACUSE METS VS WORCESTER RED SOX (NESN USA)"
 
+Channel_Name= "76"
+Channel_server= "wind"
+Event= "22:15 (PPV EVENTS) 2025 LUCAS OIL LATE MODEL DIRT SERIES AT GEORGETOWN SPEEDWAY (FLORACING)"
+
+Channel_Name= "77"
+Channel_server= "nfs"
+Event= "22:30 (PPV EVENTS) 2025 THUNDER ON THE THRUWAY AT UTICA-ROME SPEEDWAY (FLORACING)"
+
 Channel_Name= "16"
 Channel_server= "nfs"
 Event= "22:40 (BEYZBOL) MLB : BALTIMORE ORIOLES VS DETROIT TIGERS (MLB LEAGUE PASS)"
@@ -2917,6 +2941,10 @@ Event= "22:45 (BEYZBOL) MLB : NEW YORK METS VS WASHINGTON NATIONALS (NESN USA)"
 Channel_Name= "146"
 Channel_server= "zeko"
 Event= "22:45 (BEYZBOL) MLB : NEW YORK METS VS WASHINGTON NATIONALS (SPORT 5 LIVE ISRAEL)"
+
+Channel_Name= "86"
+Channel_server= "dokko1"
+Event= "23:00 (PPV EVENTS) WILLIAMS GROVE SPRINTS (EVENT PPV)"
 
 Channel_Name= "654"
 Channel_server= "ddy6"
@@ -3101,6 +3129,22 @@ Event= "23:05 (BEYZBOL) MLB : TORONTO BLUE JAYS VS NEW YORK YANKEES (MLB NETWORK
 Channel_Name= "19"
 Channel_server= "nfs"
 Event= "23:10 (BEYZBOL) MLB : BOSTON RED SOX VS CLEVELAND GUARDIANS (MLB LEAGUE PASS)"
+
+Channel_Name= "105"
+Channel_server= "ddy6"
+Event= "23:15 (PPV EVENTS) WORLD OF OUTLAWS LATE MODELS (EVENT PPV)"
+
+Channel_Name= "106"
+Channel_server= "ddy6"
+Event= "23:15 (PPV EVENTS) WORLD OF OUTLAWS SPRINT CARS (EVENT PPV)"
+
+Channel_Name= "107"
+Channel_server= "ddy6"
+Event= "23:30 (PPV EVENTS) IMCA WEEKLY RACING MARSHALLTOWN (EVENT PPV)"
+
+Channel_Name= "108"
+Channel_server= "ddy6"
+Event= "23:30 (PPV EVENTS) MARS LATE MODELS BROWNSTOWN (EVENT PPV)"
 
 Channel_Name= "397"
 Channel_server= "wind"
