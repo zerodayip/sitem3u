@@ -46,8 +46,8 @@ jobs:
       - name: Run mac_verileri.py
         run: python private_py/selcuk/mac_verileri.py
 
-     # - name: Run encode.py
-     #   run: python private_py/selcuk/encode.py
+      - name: Run encode.py
+        run: python private_py/selcuk/encode.py
 
       - name: Run m3u.py
         run: python private_py/selcuk/m3u.py
