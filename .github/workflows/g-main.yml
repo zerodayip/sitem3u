@@ -52,8 +52,8 @@ jobs:
       - name: Run link_hazırlama.py
         run: python private_py/golvar/link_hazırlama.py
 
-      - name: Run encode.py
-        run: python private_py/golvar/encode.py
+     # - name: Run encode.py
+     #   run: python private_py/golvar/encode.py
 
       - name: Run verileri_birlestir.py
         run: python private_py/golvar/verileri_birlestir.py
