@@ -1694,6 +1694,26 @@ Channel_Name= "128"
 Channel_server= "nfs"
 Event= "09:00 (FUTBOL) POLAND EKSTRALIGA WOMEN : GORNIK LECZNA VS. GKS KATOWICE (TVP SPORT POLAND HD)"
 
+Channel_Name= "1511"
+Channel_server= "null"
+Event= "09:00 (TENNIS ATP - MADRID) ATP - MADRID : BAEZ S. VS DZUMHUR D. (TENNIS STREAM 11)"
+
+Channel_Name= "1508"
+Channel_server= "null"
+Event= "09:00 (TENNIS ATP - MADRID) ATP - MADRID : ETCHEVERRY T. M. VS MUSETTI L. (TENNIS STREAM 8)"
+
+Channel_Name= "1510"
+Channel_server= "null"
+Event= "09:00 (TENNIS ATP - MADRID) ATP - MADRID : NISHIKORI K. VS SHAPOVALOV D. (TENNIS STREAM 10)"
+
+Channel_Name= "1501"
+Channel_server= "null"
+Event= "09:00 (TENNIS WTA - MADRID) WTA - MADRID : ANDREEVA M. VS FRECH M. (TENNIS STREAM 1)"
+
+Channel_Name= "1503"
+Channel_server= "null"
+Event= "09:00 (TENNIS WTA - MADRID) WTA - MADRID : SHNAIDER D. VS SEVASTOVA A. (TENNIS STREAM 3)"
+
 Channel_Name= "40"
 Channel_server= "ddy6"
 Event= "09:00 (TENİS) 2025 MUTUA MADRID OPEN TENNIS WTA DAY-5 (TENNIS CHANNEL)"
@@ -2010,6 +2030,22 @@ Channel_Name= "1501"
 Channel_server= "null"
 Event= "10:30 (TENNIS WTA - MADRID) WTA - MADRID : SABALENKA A. VS BLINKOVA A. (TENNIS STREAM 1)"
 
+Channel_Name= "1511"
+Channel_server= "null"
+Event= "10:30 (TENNIS ATP - MADRID) ATP - MADRID : DIALLO G. VS MAJCHRZAK K. (TENNIS STREAM 11)"
+
+Channel_Name= "1507"
+Channel_server= "null"
+Event= "10:30 (TENNIS ATP - MADRID) ATP - MADRID : DE MINAUR A. VS SONEGO L. (TENNIS STREAM 7)"
+
+Channel_Name= "1510"
+Channel_server= "null"
+Event= "10:30 (TENNIS ATP - MADRID) ATP - MADRID : LEHECKA J. VS NORRIE C. (TENNIS STREAM 10)"
+
+Channel_Name= "1503"
+Channel_server= "null"
+Event= "10:30 (TENNIS WTA - MADRID) WTA - MADRID : SAMSONOVA L. VS STARODUBTSEVA Y. (TENNIS STREAM 3)"
+
 Channel_Name= "32"
 Channel_server= "nfs"
 Event= "10:45 (MOTORSPORT) MOTO3 : SPANISH GRAND PRIX QUALIFYING (TNT SPORTS 2 UK)"
@@ -2157,6 +2193,10 @@ Event= "11:00 (FUTBOL) GERMANY - BUNDESLIGA 2 : JAHN REGENSBURG VS EINTRACHT BRA
 Channel_Name= "809"
 Channel_server= "ddy6"
 Event= "11:00 (FUTBOL) DENMARK - 1ST DIVISION : OB VS HVIDOVRE (TV3 SPORT DENMARK)"
+
+Channel_Name= "1502"
+Channel_server= "null"
+Event= "11:00 (TENNIS WTA - MADRID) WTA - MADRID : KEYS M. VS KALINSKAYA A. (TENNIS STREAM 2)"
 
 Channel_Name= "607"
 Channel_server= "dokko1"
@@ -3038,6 +3078,18 @@ Channel_Name= "55"
 Channel_server= "ddy6"
 Event= "12:00 (FUTBOL) MONTENEGRIN FIRST LEAGUE : FK ARSENAL TIVAT VS FK SUTJESKA NIKŠIĆ (ARENA SPORT 9 SERBIA)"
 
+Channel_Name= "1511"
+Channel_server= "null"
+Event= "12:00 (TENNIS ATP - MADRID) ATP - MADRID : FEARNLEY J. VS MACHAC T. (TENNIS STREAM 11)"
+
+Channel_Name= "1509"
+Channel_server= "null"
+Event= "12:00 (TENNIS ATP - MADRID) ATP - MADRID : TSITSIPAS S. VS STRUFF J-L. (TENNIS STREAM 9)"
+
+Channel_Name= "1504"
+Channel_server= "null"
+Event= "12:00 (TENNIS WTA - MADRID) WTA - MADRID : HADDAD MAIA B. VS BENCIC B. (TENNIS STREAM 4)"
+
 Channel_Name= "162"
 Channel_server= "wind"
 Event= "12:00 (MMA) RWS MUAY THAI - RAJADAMNERN WORLD SERIES (DAZN PPV)"
@@ -3085,6 +3137,10 @@ Event= "12:30 (AT YARIŞI) LIVE RACING FROM SANDOWN PARK (ITV 1 UK)"
 Channel_Name= "21"
 Channel_server= "nfs"
 Event= "12:30 (FUTBOL) AUSTRIA - 2. LIGA : FLORIDSDORFER AC VS AMSTETTEN (ORF SPORT PLUS)"
+
+Channel_Name= "1502"
+Channel_server= "null"
+Event= "12:30 (TENNIS WTA - MADRID) WTA - MADRID : LI A. VS GAUFF C. (TENNIS STREAM 2)"
 
 Channel_Name= "110"
 Channel_server= "ddy6"
@@ -3513,6 +3569,22 @@ Event= "13:30 (FUTBOL) RUSSIA - PREMIER LEAGUE : ROSTOV VS LOKOMOTIV MOSKVA (MAT
 Channel_Name= "580"
 Channel_server= "wind"
 Event= "13:30 (FUTBOL) RUSSIA - PREMIER LEAGUE : ROSTOV VS LOKOMOTIV MOSKVA (ARENA SPORT 4 CROATIA)"
+
+Channel_Name= "1509"
+Channel_server= "null"
+Event= "13:30 (TENNIS ATP - MADRID) ATP - MADRID : DIMITROV G. VS JARRY N. (TENNIS STREAM 9)"
+
+Channel_Name= "1510"
+Channel_server= "null"
+Event= "13:30 (TENNIS ATP - MADRID) ATP - MADRID : GIRON M. VS BERRETTINI M. (TENNIS STREAM 10)"
+
+Channel_Name= "1507"
+Channel_server= "null"
+Event= "13:30 (TENNIS ATP - MADRID) ATP - MADRID : ARNALDI M. VS DJOKOVIC N. (TENNIS STREAM 7)"
+
+Channel_Name= "1511"
+Channel_server= "null"
+Event= "13:30 (TENNIS ATP - MADRID) ATP - MADRID : MULLER A. VS HUMBERT U. (TENNIS STREAM 11)"
 
 Channel_Name= "33"
 Channel_server= "nfs"
@@ -4425,6 +4497,14 @@ Event= "15:00 (FUTBOL) AUSTRIA - FOOTBALL BUNDESLIGA : LASK LINZ VS AUSTRIA KLAG
 Channel_Name= "17"
 Channel_server= "nfs"
 Event= "15:00 (FUTBOL) AUSTRIA - FOOTBALL BUNDESLIGA : RHEINDORF ALTACH VS WSG TIROL (SKY SPORT AUSTRIA 3)"
+
+Channel_Name= "1510"
+Channel_server= "null"
+Event= "15:00 (TENNIS ATP - MADRID) ATP - MADRID : KHACHANOV K. VS OPELKA R. (TENNIS STREAM 10)"
+
+Channel_Name= "1509"
+Channel_server= "null"
+Event= "15:00 (TENNIS ATP - MADRID) ATP - MADRID : TIAFOE F. VS DARDERI L. (TENNIS STREAM 9)"
 
 Channel_Name= "607"
 Channel_server= "dokko1"
@@ -5486,6 +5566,14 @@ Channel_Name= "571"
 Channel_server= "dokko1"
 Event= "17:00 (FUTBOL) CZECH REPUBLIC - 1. LIGA : SIGMA OLOMOUC VS SLAVIA PRAHA (SPORTDIGITAL FUSSBALL DE)"
 
+Channel_Name= "1515"
+Channel_server= "null"
+Event= "17:00 (TENNIS ATP - MADRID) ATP - MADRID : DRAPER J. VS GRIEKSPOOR T. (TENNIS STREAM 15)"
+
+Channel_Name= "1508"
+Channel_server= "null"
+Event= "17:00 (TENNIS ATP - MADRID) ATP - MADRID : DRAPER J. VS GRIEKSPOOR T. (TENNIS STREAM 8)"
+
 Channel_Name= "174"
 Channel_server= "ddy6"
 Event= "17:00 (MMA) KSW 105 - FIRST FIGHTS (KSW PPV)"
@@ -5937,6 +6025,10 @@ Event= "18:00 (FUTBOL) FRANCE - LIGUE 2 : PAU VS METZ (BEIN SPORTS 2 FRANCE)"
 Channel_Name= "391"
 Channel_server= "nfs"
 Event= "18:00 (FUTBOL) URUGUAY - PRIMERA DIVISION : RIVER PLATE VS DANUBIO (VTV+ URUGUAY)"
+
+Channel_Name= "1501"
+Channel_server= "null"
+Event= "18:00 (TENNIS WTA - MADRID) WTA - MADRID : NOSKOVA L. VS SWIATEK I. (TENNIS STREAM 1)"
 
 Channel_Name= "107"
 Channel_server= "ddy6"
@@ -6929,6 +7021,14 @@ Event= "19:30 (FUTBOL) AFC CHAMPIONS LEAGUE ELITE : YOKOHAMA F. MARINOS VS AL NA
 Channel_Name= "140"
 Channel_server= "zeko"
 Event= "19:30 (FUTBOL) AFC CHAMPIONS LEAGUE ELITE : YOKOHAMA F. MARINOS VS AL NASSR (SPORT 1 ISRAEL)"
+
+Channel_Name= "1507"
+Channel_server= "null"
+Event= "19:30 (TENNIS ATP - MADRID) ATP - MADRID : FONSECA J. VS PAUL T. (TENNIS STREAM 7)"
+
+Channel_Name= "1502"
+Channel_server= "null"
+Event= "19:30 (TENNIS WTA - MADRID) WTA - MADRID : VEKIC D. VS NAVARRO E. (TENNIS STREAM 2)"
 
 Channel_Name= "300"
 Channel_server= "zeko"
