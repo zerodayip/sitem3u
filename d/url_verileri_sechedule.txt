@@ -1498,6 +1498,9 @@ Channel_server= "wind"
 Channel_Name= "702"
 Channel_server= "zeko"
 
+Channel_Name= "156"
+Channel_server= "dokko1"
+
 Channel_Name= "119"
 Channel_server= "zeko"
 

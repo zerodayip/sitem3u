@@ -1998,6 +1998,10 @@ Channel_Name= "702"
 Channel_server= "zeko"
 Event= "17:00 (MOTORSPORT) WRC RALLY ISLAS CANARIAS | SPECIAL STAGE 5 | DAY (TV4 MOTOR)"
 
+Channel_Name= "156"
+Channel_server= "dokko1"
+Event= "17:00 (MMA) HEXAGONE MMA 27 (PPV FEED)"
+
 Channel_Name= "119"
 Channel_server= "zeko"
 Event= "17:00 (MMA) HEXAGONE MMA 27 (RMC SPORT 1 FRANCE)"
