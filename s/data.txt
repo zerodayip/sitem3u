@@ -11,16 +11,20 @@ Kanal_Adı = "15:00 - Salzburg - Trabzonspor"
 Url = "https://due.cc33a7f67fb1af12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcuktrtspor/playlist.m3u8"
 
 Grup = "Futbol"
-Kanal_Adı = "19:30 - Hertha Berlin - Magdeburg"
-Url = "https://due.cc33a7f67fb1af12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukbeinsports2/playlist.m3u8"
-
-Grup = "Futbol"
 Kanal_Adı = "19:30 - Greuther Fürth - Ulm"
 Url = "https://due.cc33a7f67fb1af12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukbeinsports3/playlist.m3u8"
 
 Grup = "Futbol"
+Kanal_Adı = "19:30 - Hertha Berlin - Magdeburg"
+Url = "https://due.cc33a7f67fb1af12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukbeinsports2/playlist.m3u8"
+
+Grup = "Futbol"
 Kanal_Adı = "20:00 - Beşiktaş - Hatayspor"
 Url = "https://due.cc33a7f67fb1af12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukbeinsports1/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "21:30 - Stuttgart - Heidenheim"
+Url = "https://due.cc33a7f67fb1af12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukbeinsports3/playlist.m3u8"
 
 Grup = "Futbol"
 Kanal_Adı = "21:45 - PSG - Nice"
@@ -67,16 +71,20 @@ Kanal_Adı = "15:00 - Salzburg - Trabzonspor"
 Url = "https://due.cc33a7f67fb1af12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcuktrtspor/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
-Kanal_Adı = "19:30 - Hertha Berlin - Magdeburg"
-Url = "https://due.cc33a7f67fb1af12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukbeinsports2/playlist.m3u8"
-
-Grup = "Çoklu Ekran"
 Kanal_Adı = "19:30 - Greuther Fürth - Ulm"
 Url = "https://due.cc33a7f67fb1af12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukbeinsports3/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
+Kanal_Adı = "19:30 - Hertha Berlin - Magdeburg"
+Url = "https://due.cc33a7f67fb1af12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukbeinsports2/playlist.m3u8"
+
+Grup = "Çoklu Ekran"
 Kanal_Adı = "20:00 - Beşiktaş - Hatayspor"
 Url = "https://due.cc33a7f67fb1af12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukbeinsports1/playlist.m3u8"
+
+Grup = "Çoklu Ekran"
+Kanal_Adı = "21:30 - Stuttgart - Heidenheim"
+Url = "https://due.cc33a7f67fb1af12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukbeinsports3/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
 Kanal_Adı = "21:45 - PSG - Nice"
