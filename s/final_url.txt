@@ -1,312 +1,292 @@
 Grup = "Futbol"
-Kanal_Adı = "20:00 - Beşiktaş - Hatayspor HD1"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsports1s/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
-
-Grup = "Futbol"
-Kanal_Adı = "20:00 - Beşiktaş - Hatayspor (Çoklu Kalite)"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsports1m/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
-
-Grup = "Futbol"
-Kanal_Adı = "15:00 - Salzburg - Trabzonspor"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcuktrtspor/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Kanal_Adı = "19:30 - Greuther Fürth - Ulm"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports3/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "Futbol"
 Kanal_Adı = "19:30 - Hertha Berlin - Magdeburg"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsports2/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports2/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "Futbol"
-Kanal_Adı = "19:30 - Greuther Fürth - Ulm"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsports3/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Kanal_Adı = "20:00 - Beşiktaş - Hatayspor"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports1/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "Futbol"
 Kanal_Adı = "21:30 - Stuttgart - Heidenheim"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsports3/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports3/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "Futbol"
 Kanal_Adı = "21:45 - PSG - Nice"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsports2/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
-
-Grup = "Basketbol"
-Kanal_Adı = "15:00 - Manisa BB - Nymburk"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukssport/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports2/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "Basketbol"
 Kanal_Adı = "17:30 - Petkimspor - Telekom Bonn"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukssport/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukssport/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "Basketbol"
 Kanal_Adı = "20:00 - Monaco - Barcelona"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukssport/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukssport/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "Basketbol"
 Kanal_Adı = "21:30 - Olympiakos - Real Madrid"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukssport2/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukssport2/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "Tenis"
 Kanal_Adı = "16:00 - A.Potapova - Q.Zheng"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "Tenis"
 Kanal_Adı = "20:00 - J.Pegula - E.Lys"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "Tenis"
 Kanal_Adı = "22:30 - E.Rybakina - B.Andreescu"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
-
-Grup = "Çoklu Ekran"
-Kanal_Adı = "20:00 - Beşiktaş - Hatayspor HD1"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsports1s/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
-
-Grup = "Çoklu Ekran"
-Kanal_Adı = "20:00 - Beşiktaş - Hatayspor (Çoklu Kalite)"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsports1m/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
-
-Grup = "Çoklu Ekran"
-Kanal_Adı = "15:00 - Salzburg - Trabzonspor"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcuktrtspor/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
-
-Grup = "Çoklu Ekran"
-Kanal_Adı = "19:30 - Hertha Berlin - Magdeburg"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsports2/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "Çoklu Ekran"
 Kanal_Adı = "19:30 - Greuther Fürth - Ulm"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsports3/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports3/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
+
+Grup = "Çoklu Ekran"
+Kanal_Adı = "19:30 - Hertha Berlin - Magdeburg"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports2/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
+
+Grup = "Çoklu Ekran"
+Kanal_Adı = "20:00 - Beşiktaş - Hatayspor"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports1/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "Çoklu Ekran"
 Kanal_Adı = "21:30 - Stuttgart - Heidenheim"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsports3/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports3/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "Çoklu Ekran"
 Kanal_Adı = "21:45 - PSG - Nice"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsports2/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports2/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - Bein Sports 1"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsports1/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports1/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - Bein Sports 2"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsports2/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports2/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - Bein Sports 3"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsports3/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports3/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - Bein Sports 4"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsports4/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports4/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - Bein Sports 5"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsports5/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports5/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - Bein Sports Haber"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsportshaber/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsportshaber/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - Bein Sports Max 1"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - Bein Sports Max 2"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - S Sport"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukssport/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukssport/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - S Sport 2"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukssport2/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukssport2/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - Sky Sports F1"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcuksf1/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuksf1/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - Smart Spor"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcuksmartspor/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuksmartspor/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - Smart Spor 2"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcuksmartspor2/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuksmartspor2/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - Tivibu Spor 1"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcuktivibuspor1/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktivibuspor1/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - Tivibu Spor 2"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcuktivibuspor2/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktivibuspor2/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - Tivibu Spor 3"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcuktivibuspor3/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktivibuspor3/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - Tivibu Spor 4"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcuktivibuspor4/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktivibuspor4/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - S Sport Plus 1"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/ssportplus1/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/ssportplus1/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - S Sport Plus 2"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/ssportplus2/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/ssportplus2/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - S Sport Plus 3"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/ssportplus3/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/ssportplus3/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - S Sport Plus 4"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/ssportplus4/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/ssportplus4/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - S Sport Plus 5"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/ssportplus5/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/ssportplus5/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - S Sport Plus 6"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/ssportplus6/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/ssportplus6/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - A Spor"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukaspor/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukaspor/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - TRT Spor"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcuktrtspor/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktrtspor/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - TRT Spor 2"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcuktrtspor2/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktrtspor2/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - TRT Avaz"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcuktrtavaz/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktrtavaz/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - TRT 1"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcuktrt1/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktrt1/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - NBA TV"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcuknbatv/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuknbatv/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - Eurosport 1"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukeurosport1/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukeurosport1/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - Eurosport 2"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukeurosport2/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukeurosport2/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - beIN IZ HD"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/12/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/12/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - National Geographic HD"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/56/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/56/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - Nat Geo Wild HD"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/55/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/55/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - Discovery Channel HD"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/32/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/32/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - Discovery Science HD"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/33/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/33/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - DMAX HD"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/3/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/3/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - BBC Earth HD"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/6/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/6/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - History HD"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/40/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/40/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - Viasat History HD"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/64/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/64/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - ID HD"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/41/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/41/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - beIN SERIES SCI-FI HD"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/22/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/22/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - beIN SERIES COMEDY HD"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/20/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/20/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - beIN SERIES DRAMA HD"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/21/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/21/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - beIN SERIES VICE HD"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/23/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/23/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - beIN Office HD1"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/7/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/7/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - beIN Office HD2"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/8/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/8/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - beIN Office HD3"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/9/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/9/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - beIN Movies Action"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/13/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/13/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - beIN Movies Action 2"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/14/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/14/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - beIN Movies Family"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/15/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/15/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - beIN Movies Premiere"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/16/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/16/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - beIN Movies Premiere 2"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/17/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/17/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - beIN Movies Star"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/18/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/18/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - beIN Movies Turk"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/19/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/19/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - Movie Smart Turk"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/44/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/44/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - Movie Smart Classic"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/46/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/46/playlist.m3u8&referer=https://www.selcuksportshd1773.xyz/&origin=https://www.selcuksportshd1773.xyz/"
 
