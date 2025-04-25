@@ -37,29 +37,20 @@ jobs:
       - name: Run ana_domain.py
         run: python private_py/selcuk/ana_domain.py
 
+      - name: Run baseurl.py
+        run: python private_py/selcuk/baseurl.py
+
+      - name: Run datahtml.py
+        run: python private_py/selcuk/datahtml.py
+
       - name: Run mac_verileri.py
-        run: python private_py/golvar/mac_verileri.py
-
-      - name: Run link_alma.py
-        run: python private_py/golvar/link_alma.py
-
-      - name: Run m3u_link.py
-        run: python private_py/golvar/m3u_link.py
-
-      - name: Run kod_alma.py
-        run: python private_py/golvar/kod_alma.py
-
-      - name: Run link_hazırlama.py
-        run: python private_py/golvar/link_hazırlama.py
+        run: python private_py/selcuk/mac_verileri.py
 
      # - name: Run encode.py
-     #   run: python private_py/golvar/encode.py
+     #   run: python private_py/selcuk/encode.py
 
-      - name: Run verileri_birlestir.py
-        run: python private_py/golvar/verileri_birlestir.py
-
-      - name: Run txt_to_m3u.py
-        run: python private_py/golvar/txt_to_m3u.py
+      - name: Run m3u.py
+        run: python private_py/selcukm3u.py
 
       # Tüm değişiklikleri sahneye al
       - name: Add all changes
