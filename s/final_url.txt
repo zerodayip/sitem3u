@@ -11,16 +11,12 @@ Kanal_Adı = "15:00 - Salzburg - Trabzonspor"
 Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcuktrtspor/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
 
 Grup = "Futbol"
-Kanal_Adı = "19:30 - Greuther Fürth - Ulm"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsports3/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
-
-Grup = "Futbol"
 Kanal_Adı = "19:30 - Hertha Berlin - Magdeburg"
 Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsports2/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
 
 Grup = "Futbol"
-Kanal_Adı = "20:00 - Beşiktaş - Hatayspor"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsports1/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Kanal_Adı = "19:30 - Greuther Fürth - Ulm"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsports3/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
 
 Grup = "Futbol"
 Kanal_Adı = "21:30 - Stuttgart - Heidenheim"
@@ -71,16 +67,12 @@ Kanal_Adı = "15:00 - Salzburg - Trabzonspor"
 Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcuktrtspor/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
 
 Grup = "Çoklu Ekran"
-Kanal_Adı = "19:30 - Greuther Fürth - Ulm"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsports3/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
-
-Grup = "Çoklu Ekran"
 Kanal_Adı = "19:30 - Hertha Berlin - Magdeburg"
 Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsports2/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
 
 Grup = "Çoklu Ekran"
-Kanal_Adı = "20:00 - Beşiktaş - Hatayspor"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsports1/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
+Kanal_Adı = "19:30 - Greuther Fürth - Ulm"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsports3/playlist.m3u8&referer=https://www.selcuksportshd1772.xyz/&origin=https://www.selcuksportshd1772.xyz/"
 
 Grup = "Çoklu Ekran"
 Kanal_Adı = "21:30 - Stuttgart - Heidenheim"
