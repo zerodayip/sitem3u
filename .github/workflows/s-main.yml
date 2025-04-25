@@ -50,7 +50,7 @@ jobs:
      #   run: python private_py/selcuk/encode.py
 
       - name: Run m3u.py
-        run: python private_py/selcukm3u.py
+        run: python private_py/selcuk/m3u.py
 
       # Tüm değişiklikleri sahneye al
       - name: Add all changes
