@@ -3718,6 +3718,10 @@
                 "event": "Hexagone MMA 27",
                 "channels": [
                     {
+                        "channel_name": "PPV Feed",
+                        "channel_id": "156"
+                    },
+                    {
                         "channel_name": "RMC Sport 1 France",
                         "channel_id": "119"
                     }
