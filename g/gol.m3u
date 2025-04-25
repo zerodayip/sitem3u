@@ -1,25 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="FUTBOL"  tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2 (MAÇ SAATİ)",CANLI (15:00) SALZBURG – TRABZONSPOR (TRT SPOR)
+#EXTINF:-1 tvg-name="FUTBOL"  tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2 (MAÇ SAATİ)",CANLI (18:00) TURAN – SHAMAKHI (CBC SPORT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
 https://playerpro.live/proxy.php?url=https://L%C4%B0NK&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
-#EXTINF:-1 tvg-name="BASKETBOL"  tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2 (MAÇ SAATİ)",CANLI (15:00) MANISA BB – NYMBURK (S SPORT)
+#EXTINF:-1 tvg-name="BASKETBOL"  tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2 (MAÇ SAATİ)",CANLI (17:30) PETKIMSPOR – TELEKOM BONN (S SPORT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
 https://playerpro.live/proxy.php?url=https://L%C4%B0NK&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
-#EXTINF:-1 tvg-name="TENIS"  tvg-logo="https://w7.pngwing.com/pngs/639/775/png-transparent-green-tennis-ball-tennis-ball-cricket-the-us-open-tennis-tennis-ball-sport-sporting-goods-grass-thumbnail.png" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2 (MAÇ SAATİ)",CANLI (13:30) A.SABALENKA – A.BLINKOVA (BEIN SPORTS MAX 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://L%C4%B0NK&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
-#EXTINF:-1 tvg-name="TENIS"  tvg-logo="https://w7.pngwing.com/pngs/639/775/png-transparent-green-tennis-ball-tennis-ball-cricket-the-us-open-tennis-tennis-ball-sport-sporting-goods-grass-thumbnail.png" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2 (MAÇ SAATİ)",BUGÜN 16:00 A.POTAPOVA – Q.ZHENG (BEIN SPORTS MAX 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://L%C4%B0NK&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
-#EXTINF:-1 tvg-name="BASKETBOL"  tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2 (MAÇ SAATİ)",BUGÜN 17:30 PETKIMSPOR – TELEKOM BONN (S SPORT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://L%C4%B0NK&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
-#EXTINF:-1 tvg-name="FUTBOL"  tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2 (MAÇ SAATİ)",BUGÜN 18:00 TURAN – SHAMAKHI (CBC SPORT)
+#EXTINF:-1 tvg-name="FUTBOL"  tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2 (MAÇ SAATİ)",BUGÜN 19:30 GREUTHER FÜRTH – ULM (TIVIBU SPOR 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
 https://playerpro.live/proxy.php?url=https://L%C4%B0NK&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
@@ -27,7 +15,7 @@ https://playerpro.live/proxy.php?url=https://L%C4%B0NK&referer=https://golvar236
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
 https://playerpro.live/proxy.php?url=https://L%C4%B0NK&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
-#EXTINF:-1 tvg-name="FUTBOL"  tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2 (MAÇ SAATİ)",BUGÜN 19:30 GREUTHER FÜRTH – ULM (TIVIBU SPOR 3)
+#EXTINF:-1 tvg-name="FUTBOL"  tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2 (MAÇ SAATİ)",BUGÜN 19:30 AL HILAL – GWANGJU (SPOR SMART 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
 https://playerpro.live/proxy.php?url=https://L%C4%B0NK&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
@@ -36,10 +24,6 @@ https://playerpro.live/proxy.php?url=https://L%C4%B0NK&referer=https://golvar236
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
 https://playerpro.live/proxy.php?url=https://L%C4%B0NK&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="FUTBOL"  tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2 (MAÇ SAATİ)",BUGÜN 19:30 HERTHA BERLIN – MAGDEBURG (TIVIBU SPOR 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://L%C4%B0NK&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
-#EXTINF:-1 tvg-name="FUTBOL"  tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2 (MAÇ SAATİ)",BUGÜN 19:30 AL HILAL – GWANGJU (SPOR SMART 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
 https://playerpro.live/proxy.php?url=https://L%C4%B0NK&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
@@ -79,27 +63,11 @@ https://playerpro.live/proxy.php?url=https://L%C4%B0NK&referer=https://golvar236
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
 https://playerpro.live/proxy.php?url=https://L%C4%B0NK&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
-#EXTINF:-1 tvg-name="FUTBOL"  tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2 (MAÇ SAATİ)",YARIN 14:30 CHELSEA – EVERTON (BEIN SPORTS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://L%C4%B0NK&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
-#EXTINF:-1 tvg-name="FUTBOL"  tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2 (MAÇ SAATİ)",YARIN 14:30 PREUSSEN MÜNSTER – DARMSTADT 98 (BEIN SPORTS MAX 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://L%C4%B0NK&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="FUTBOL"  tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2 (MAÇ SAATİ)",YARIN 14:30 PREUSSEN MÜNSTER – DARMSTADT 98 (TIVIBU SPOR 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
 https://playerpro.live/proxy.php?url=https://L%C4%B0NK&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
-#EXTINF:-1 tvg-name="FUTBOL"  tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2 (MAÇ SAATİ)",YARIN 14:30 PADERBORN – ELVERSBERG (BEIN SPORTS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://L%C4%B0NK&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
-#EXTINF:-1 tvg-name="FUTBOL"  tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2 (MAÇ SAATİ)",YARIN 14:30 PADERBORN – ELVERSBERG (TIVIBU SPOR 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://L%C4%B0NK&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
-#EXTINF:-1 tvg-name="FUTBOL"  tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2 (MAÇ SAATİ)",YARIN 14:30 JAHN REGENSBURG – BRAUNSCHWEIG (TIVIBU SPOR 3)
+#EXTINF:-1 tvg-name="FUTBOL"  tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2 (MAÇ SAATİ)",YARIN 14:30 QPR – BURNLEY (TV85)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
 https://playerpro.live/proxy.php?url=https://L%C4%B0NK&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
@@ -107,7 +75,23 @@ https://playerpro.live/proxy.php?url=https://L%C4%B0NK&referer=https://golvar236
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
 https://playerpro.live/proxy.php?url=https://L%C4%B0NK&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
-#EXTINF:-1 tvg-name="FUTBOL"  tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2 (MAÇ SAATİ)",YARIN 14:30 QPR – BURNLEY (TV85)
+#EXTINF:-1 tvg-name="FUTBOL"  tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2 (MAÇ SAATİ)",YARIN 14:30 JAHN REGENSBURG – BRAUNSCHWEIG (TIVIBU SPOR 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://L%C4%B0NK&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+#EXTINF:-1 tvg-name="FUTBOL"  tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2 (MAÇ SAATİ)",YARIN 14:30 PADERBORN – ELVERSBERG (TIVIBU SPOR 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://L%C4%B0NK&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+#EXTINF:-1 tvg-name="FUTBOL"  tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2 (MAÇ SAATİ)",YARIN 14:30 PADERBORN – ELVERSBERG (BEIN SPORTS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://L%C4%B0NK&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+#EXTINF:-1 tvg-name="FUTBOL"  tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2 (MAÇ SAATİ)",YARIN 14:30 PREUSSEN MÜNSTER – DARMSTADT 98 (BEIN SPORTS MAX 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://L%C4%B0NK&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+#EXTINF:-1 tvg-name="FUTBOL"  tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2 (MAÇ SAATİ)",YARIN 14:30 CHELSEA – EVERTON (BEIN SPORTS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
 https://playerpro.live/proxy.php?url=https://L%C4%B0NK&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
@@ -123,15 +107,15 @@ https://playerpro.live/proxy.php?url=https://L%C4%B0NK&referer=https://golvar236
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
 https://playerpro.live/proxy.php?url=https://L%C4%B0NK&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
-#EXTINF:-1 tvg-name="FUTBOL"  tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2 (MAÇ SAATİ)",YARIN 16:30 BAYERN MÜNIH – MAINZ (TIVIBU SPOR 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://golvar2363.sbs/
-https://playerpro.live/proxy.php?url=https://L%C4%B0NK&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="FUTBOL"  tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2 (MAÇ SAATİ)",YARIN 16:30 WOLFSBURG – FREIBURG (TIVIBU SPOR 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
 https://playerpro.live/proxy.php?url=https://L%C4%B0NK&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
 #EXTINF:-1 tvg-name="FUTBOL"  tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2 (MAÇ SAATİ)",YARIN 16:30 BAYER LEVERKUSEN – AUGSBURG (BEIN SPORTS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://golvar2363.sbs/
+https://playerpro.live/proxy.php?url=https://L%C4%B0NK&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
+#EXTINF:-1 tvg-name="FUTBOL"  tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2 (MAÇ SAATİ)",YARIN 16:30 HOFFENHEIM – B.DORTMUND (TIVIBU SPOR 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
 https://playerpro.live/proxy.php?url=https://L%C4%B0NK&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
@@ -143,7 +127,7 @@ https://playerpro.live/proxy.php?url=https://L%C4%B0NK&referer=https://golvar236
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
 https://playerpro.live/proxy.php?url=https://L%C4%B0NK&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
-#EXTINF:-1 tvg-name="FUTBOL"  tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2 (MAÇ SAATİ)",YARIN 16:30 HOFFENHEIM – B.DORTMUND (TIVIBU SPOR 3)
+#EXTINF:-1 tvg-name="FUTBOL"  tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" tvg-language="Turkish" tvg-country="TR" group-title="GÜNLÜK SPOR AKIŞI 2 (MAÇ SAATİ)",YARIN 16:30 BAYERN MÜNIH – MAINZ (TIVIBU SPOR 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://golvar2363.sbs/
 https://playerpro.live/proxy.php?url=https://L%C4%B0NK&referer=https://golvar2363.sbs/&origin=https://golvar2363.sbs/
