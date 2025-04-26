@@ -2195,71 +2195,71 @@ Channel_server= "nfs"
 Event= "14:00 (FUTBOL) ENGLAND - CHAMPIONSHIP : SHEFFIELD WEDNESDAY VS PORTSMOUTH (SKY SPORTS+)"
 
 Channel_Name= "192"
-Channel_server= "null"
+Channel_server= "nfs"
 Event= "14:00 (FUTBOL) ENGLAND - LEAGUE ONE : BARNSLEY VS SHREWSBURY TOWN (SKY SPORTS+)"
 
 Channel_Name= "193"
-Channel_server= "null"
+Channel_server= "nfs"
 Event= "14:00 (FUTBOL) ENGLAND - LEAGUE ONE : BURTON ALBION VS CAMBRIDGE UNITED (SKY SPORTS+)"
 
 Channel_Name= "194"
-Channel_server= "null"
+Channel_server= "nfs"
 Event= "14:00 (FUTBOL) ENGLAND - LEAGUE ONE : CRAWLEY TOWN VS NORTHAMPTON TOWN (SKY SPORTS+)"
 
 Channel_Name= "195"
-Channel_server= "null"
+Channel_server= "nfs"
 Event= "14:00 (FUTBOL) ENGLAND - LEAGUE ONE : EXETER CITY VS HUDDERSFIELD TOWN (SKY SPORTS+)"
 
 Channel_Name= "196"
-Channel_server= "null"
+Channel_server= "nfs"
 Event= "14:00 (FUTBOL) ENGLAND - LEAGUE ONE : PETERBOROUGH UNITED VS BOLTON WANDERERS (SKY SPORTS+)"
 
 Channel_Name= "197"
-Channel_server= "null"
+Channel_server= "nfs"
 Event= "14:00 (FUTBOL) ENGLAND - LEAGUE ONE : STOCKPORT COUNTY VS LINCOLN CITY (SKY SPORTS+)"
 
 Channel_Name= "198"
-Channel_server= "null"
+Channel_server= "nfs"
 Event= "14:00 (FUTBOL) ENGLAND - LEAGUE ONE : WIGAN ATHLETIC VS BLACKPOOL (SKY SPORTS+)"
 
 Channel_Name= "199"
-Channel_server= "null"
+Channel_server= "nfs"
 Event= "14:00 (FUTBOL) ENGLAND - LEAGUE TWO : BARROW VS BROMLEY (SKY SPORTS+)"
 
 Channel_Name= "201"
-Channel_server= "null"
+Channel_server= "ddy6"
 Event= "14:00 (FUTBOL) ENGLAND - LEAGUE TWO : CHELTENHAM TOWN VS CARLISLE UNITED (SKY SPORTS+)"
 
 Channel_Name= "202"
-Channel_server= "null"
+Channel_server= "ddy6"
 Event= "14:00 (FUTBOL) ENGLAND - LEAGUE TWO : CHESTERFIELD VS MORECAMBE (SKY SPORTS+)"
 
 Channel_Name= "203"
-Channel_server= "null"
+Channel_server= "ddy6"
 Event= "14:00 (FUTBOL) ENGLAND - LEAGUE TWO : FLEETWOOD TOWN VS NEWPORT COUNTY (SKY SPORTS+)"
 
 Channel_Name= "204"
-Channel_server= "null"
+Channel_server= "ddy6"
 Event= "14:00 (FUTBOL) ENGLAND - LEAGUE TWO : GILLINGHAM VS SWINDON TOWN (SKY SPORTS+)"
 
 Channel_Name= "205"
-Channel_server= "null"
+Channel_server= "ddy6"
 Event= "14:00 (FUTBOL) ENGLAND - LEAGUE TWO : MILTON KEYNES DONS VS GRIMSBY TOWN (SKY SPORTS+)"
 
 Channel_Name= "206"
-Channel_server= "null"
+Channel_server= "ddy6"
 Event= "14:00 (FUTBOL) ENGLAND - LEAGUE TWO : SALFORD CITY VS COLCHESTER UNITED (SKY SPORTS+)"
 
 Channel_Name= "207"
-Channel_server= "null"
+Channel_server= "ddy6"
 Event= "14:00 (FUTBOL) ENGLAND - LEAGUE TWO : TRANMERE ROVERS VS CREWE ALEXANDRA (SKY SPORTS+)"
 
 Channel_Name= "208"
-Channel_server= "null"
+Channel_server= "nfs"
 Event= "14:00 (FUTBOL) ENGLAND - LEAGUE TWO : WALSALL VS ACCRINGTON STANLEY (SKY SPORTS+)"
 
 Channel_Name= "209"
-Channel_server= "null"
+Channel_server= "ddy6"
 Event= "14:00 (FUTBOL) SCOTTISH PREMIERSHIP : ABERDEEN VS HIBERNIAN (SPFL FEED)"
 
 Channel_Name= "210"
@@ -2267,15 +2267,15 @@ Channel_server= "ddy6"
 Event= "14:00 (FUTBOL) SCOTTISH PREMIERSHIP : ST. MIRREN VS RANGERS (SPFL FEED)"
 
 Channel_Name= "211"
-Channel_server= "null"
+Channel_server= "ddy6"
 Event= "14:00 (FUTBOL) SCOTTISH PREMIERSHIP : HEARTS VS DUNDEE (SPFL FEED)"
 
 Channel_Name= "212"
-Channel_server= "null"
+Channel_server= "ddy6"
 Event= "14:00 (FUTBOL) SCOTTISH PREMIERSHIP : KILMARNOCK VS ROSS COUNTY (SPFL FEED)"
 
 Channel_Name= "213"
-Channel_server= "null"
+Channel_server= "zeko"
 Event= "14:00 (FUTBOL) SCOTTISH PREMIERSHIP : MOTHERWELL VS ST. JOHNSTONE (SPFL FEED)"
 
 Channel_Name= "733"
