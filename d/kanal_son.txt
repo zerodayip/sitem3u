@@ -695,7 +695,7 @@ Channel_server= "dokko1"
 Event= "Dubai Sports 3 UAE"
 
 Channel_Name= "607"
-Channel_server= "null"
+Channel_server= "dokko1"
 Event= "Dubai Racing 1 UAE"
 
 Channel_Name= "608"
@@ -3595,7 +3595,7 @@ Channel_server= "dokko1"
 Event= "Dubai Sports 3 UAE"
 
 Channel_Name= "607"
-Channel_server= "null"
+Channel_server= "dokko1"
 Event= "Dubai Racing 1 UAE"
 
 Channel_Name= "608"
@@ -4623,7 +4623,7 @@ Channel_server= "dokko1"
 Event= "RDS 2 CA"
 
 Channel_Name= "607"
-Channel_server= "null"
+Channel_server= "dokko1"
 Event= "Rally Tv"
 
 Channel_Name= "841"

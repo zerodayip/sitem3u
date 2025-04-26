@@ -521,7 +521,7 @@ Channel_Name= "606"
 Channel_server= "dokko1"
 
 Channel_Name= "607"
-Channel_server= "null"
+Channel_server= "dokko1"
 
 Channel_Name= "608"
 Channel_server= "dokko1"
@@ -2696,7 +2696,7 @@ Channel_Name= "606"
 Channel_server= "dokko1"
 
 Channel_Name= "607"
-Channel_server= "null"
+Channel_server= "dokko1"
 
 Channel_Name= "608"
 Channel_server= "dokko1"
@@ -3467,7 +3467,7 @@ Channel_Name= "840"
 Channel_server= "dokko1"
 
 Channel_Name= "607"
-Channel_server= "null"
+Channel_server= "dokko1"
 
 Channel_Name= "841"
 Channel_server= "dokko1"
