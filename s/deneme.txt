@@ -1,1 +1,240 @@
+Grup = "Futbol"
+Kanal_Adı = "Beşiktaş - Hatayspor HD1"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports1m/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "Beşiktaş - Hatayspor (Çoklu Kalite)"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktivibuspor3/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "Jahn Regensburg - Braunschweig"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports4/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "Paderborn - Elversberg"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "Preussen Münster - Darmstadt 98"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktv85/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "QPR - Burnley"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports3/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "Chelsea - Everton"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktrtspor/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "Dundee United - Celtic"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports1/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "Bayern Münih - Mainz"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktivibuspor4/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "Wolfsburg - Freiburg"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports2/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "Newcastle - Ipswich Town"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "Wrexham - Charlton Athletic"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuksmartspor/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "Estrela - Porto"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktivibuspor1/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "Barcelona - Real Madrid"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukssport/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "Minnesota TW - LA Lakers"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports5/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "Bahçeşehir Klj - Türk Telekom"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukssport2/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "Büyükçekmece - Darüşşafaka"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports1s/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "Bein Sports 5"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsportshaber/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "S Sport 2"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuksf1/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "Smart Spor"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuksmartspor2/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "Tivibu Spor 1"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktivibuspor2/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "Tivibu Spor 4"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/ssportplus1/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "S Sport Plus 1"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/ssportplus2/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "S Sport Plus 2"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/ssportplus3/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "S Sport Plus 3"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/ssportplus4/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "S Sport Plus 4"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/ssportplus5/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "S Sport Plus 5"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/ssportplus6/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "S Sport Plus 6"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukaspor/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "TRT Spor"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktrtspor2/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "TRT Spor 2"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktrtavaz/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "TRT Avaz"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktrt1/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "TRT 1"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuknbatv/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "NBA TV"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukeurosport1/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "Eurosport 1"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukeurosport2/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "Eurosport 2"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/12/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "beIN IZ HD"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/56/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "National Geographic HD"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/55/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "Nat Geo Wild HD"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/32/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "Discovery Channel HD"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/33/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "Discovery Science HD"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/3/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "DMAX HD"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/6/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "BBC Earth HD"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/40/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "History HD"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/64/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "Viasat History HD"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/41/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "ID HD"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/22/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "beIN SERIES SCI-FI HD"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/20/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "beIN SERIES COMEDY HD"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/21/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "beIN SERIES DRAMA HD"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/23/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "beIN SERIES VICE HD"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/7/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "beIN Office HD1"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/8/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "beIN Office HD2"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/9/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "beIN Office HD3"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/13/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "beIN Movies Action"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/14/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "beIN Movies Action 2"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/15/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "beIN Movies Family"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/16/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "beIN Movies Premiere"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/17/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "beIN Movies Premiere 2"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/18/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "beIN Movies Star"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/19/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "beIN Movies Turk"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/44/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "Movie Smart Turk"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/46/playlist.m3u8"
 
