@@ -1,3 +1,6 @@
+Channel_Name= "178"
+Channel_server= "wind"
+
 Channel_Name= "324"
 Channel_server= "wind"
 
@@ -3442,6 +3445,12 @@ Channel_server= "dokko1"
 Channel_Name= "12"
 Channel_server= "nfs"
 
+Channel_Name= "175"
+Channel_server= "wind"
+
+Channel_Name= "175"
+Channel_server= "wind"
+
 Channel_Name= "923"
 Channel_server= "nfs"
 
@@ -3567,6 +3576,12 @@ Channel_server= "ddy6"
 
 Channel_Name= "146"
 Channel_server= "zeko"
+
+Channel_Name= "176"
+Channel_server= "wind"
+
+Channel_Name= "177"
+Channel_server= "wind"
 
 Channel_Name= "742"
 Channel_server= "nfs"
