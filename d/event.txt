@@ -1,29 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="04:35 (RUGBI) SUPER RUGBY : MOANA PASIFIKA VS FIJIAN DRUA (SUPERSPORT RUGBY)" tvg-logo="https://w7.pngwing.com/pngs/75/71/png-transparent-euclidean-rugby-football-rugby-ball-rugby-sport-happy-birthday-vector-images-sports-equipment-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",04:35 (RUGBI) SUPER RUGBY : MOANA PASIFIKA VS FIJIAN DRUA (SUPERSPORT RUGBY)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekotop1.newkso.ru/zeko/premium421/mono.m3u8
-
-#EXTINF:-1 tvg-id="04:35 (RUGBI) SUPER RUGBY : MOANA PASIFIKA VS FIJIAN DRUA (SKY SPORT 1 NZ)" tvg-logo="https://w7.pngwing.com/pngs/75/71/png-transparent-euclidean-rugby-football-rugby-ball-rugby-sport-happy-birthday-vector-images-sports-equipment-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",04:35 (RUGBI) SUPER RUGBY : MOANA PASIFIKA VS FIJIAN DRUA (SKY SPORT 1 NZ)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1top1.newkso.ru/dokko1/premium588/mono.m3u8
-
-#EXTINF:-1 tvg-id="04:35 (RUGBI) SUPER RUGBY : MOANA PASIFIKA VS FIJIAN DRUA (SKY SPORTS ACTION UK)" tvg-logo="https://w7.pngwing.com/pngs/75/71/png-transparent-euclidean-rugby-football-rugby-ball-rugby-sport-happy-birthday-vector-images-sports-equipment-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",04:35 (RUGBI) SUPER RUGBY : MOANA PASIFIKA VS FIJIAN DRUA (SKY SPORTS ACTION UK)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfstop1.newkso.ru/nfs/premium37/mono.m3u8
-
-#EXTINF:-1 tvg-id="04:35 (RUGBI) SUPER RUGBY : MOANA PASIFIKA VS FIJIAN DRUA (SUPERSPORT GRANDSTAND)" tvg-logo="https://w7.pngwing.com/pngs/75/71/png-transparent-euclidean-rugby-football-rugby-ball-rugby-sport-happy-birthday-vector-images-sports-equipment-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",04:35 (RUGBI) SUPER RUGBY : MOANA PASIFIKA VS FIJIAN DRUA (SUPERSPORT GRANDSTAND)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekotop1.newkso.ru/zeko/premium412/mono.m3u8
-
 #EXTINF:-1 tvg-id="05:00 (FUTBOL) AUSTRALIA - A-LEAGUE : BRISBANE ROAR VS WELLINGTON PHOENIX (TNT SPORTS 3 UK)" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",05:00 (FUTBOL) AUSTRALIA - A-LEAGUE : BRISBANE ROAR VS WELLINGTON PHOENIX (TNT SPORTS 3 UK)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz
