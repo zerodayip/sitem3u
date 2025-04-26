@@ -40,11 +40,11 @@ jobs:
       - name: Run baseurl.py
         run: python private_py/selcuk/baseurl.py
 
-      - name: Run datahtml.py
-        run: python private_py/selcuk/datahtml.py
+#      - name: Run datahtml.py
+#        run: python private_py/selcuk/datahtml.py
 
-      - name: Run mac_verileri.py
-        run: python private_py/selcuk/mac_verileri.py
+#      - name: Run mac_verileri.py
+#        run: python private_py/selcuk/mac_verileri.py
 
       - name: Run encode.py
         run: python private_py/selcuk/encode.py
