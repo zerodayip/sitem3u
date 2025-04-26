@@ -3265,9 +3265,6 @@ Channel_server= "nfs"
 Channel_Name= "437"
 Channel_server= "zeko"
 
-Channel_Name= "550"
-Channel_server= "wind"
-
 Channel_Name= "645"
 Channel_server= "dokko1"
 

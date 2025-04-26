@@ -4354,10 +4354,6 @@ Channel_Name= "437"
 Channel_server= "zeko"
 Event= "20:00 (FUTBOL) COPA DEL REY : BARCELONA VS REAL MADRID (MOVISTAR PLUS+)"
 
-Channel_Name= "550"
-Channel_server= "wind"
-Event= "20:00 (FUTBOL) COPA DEL REY : BARCELONA VS REAL MADRID (VIAPLAY SPORTS 2 UK)"
-
 Channel_Name= "645"
 Channel_server= "dokko1"
 Event= "20:00 (FUTBOL) COPA DEL REY : BARCELONA VS REAL MADRID (L'EQUIPE FRANCE)"
