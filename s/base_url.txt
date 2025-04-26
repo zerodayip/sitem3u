@@ -11,32 +11,32 @@ Kanal_Adı = "16:00 SIVASSPOR - ANTALYASPOR"
 Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports1/playlist.m3u8"
 
 Grup = "ICON-SOCCER-BALL"
-Kanal_Adı = "16:30 BAYERN MÜNIH - MAINZ"
-Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports4/playlist.m3u8"
+Kanal_Adı = "16:30 WOLFSBURG - FREIBURG"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktivibuspor4/playlist.m3u8"
 
 Grup = "ICON-SOCCER-BALL"
-Kanal_Adı = "16:30 BAYERN MÜNIH - MAINZ"
-Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports4/playlist.m3u8"
+Kanal_Adı = "16:30 WOLFSBURG - FREIBURG"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktivibuspor4/playlist.m3u8"
 
 Grup = "ICON-SOCCER-BALL"
 Kanal_Adı = "16:30 BAYER LEVERKUSEN - AUGSBURG"
 Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports2/playlist.m3u8"
 
 Grup = "ICON-SOCCER-BALL"
-Kanal_Adı = "16:30 WOLFSBURG - FREIBURG"
-Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktivibuspor4/playlist.m3u8"
+Kanal_Adı = "16:30 BAYERN MÜNIH - MAINZ"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports4/playlist.m3u8"
 
 Grup = "ICON-SOCCER-BALL"
 Kanal_Adı = "16:30 HOFFENHEIM - B.DORTMUND"
 Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktivibuspor3/playlist.m3u8"
 
 Grup = "ICON-SOCCER-BALL"
-Kanal_Adı = "16:30 WOLFSBURG - FREIBURG"
-Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktivibuspor4/playlist.m3u8"
-
-Grup = "ICON-SOCCER-BALL"
 Kanal_Adı = "16:30 BAYER LEVERKUSEN - AUGSBURG"
 Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports2/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "16:30 BAYERN MÜNIH - MAINZ"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports4/playlist.m3u8"
 
 Grup = "ICON-SOCCER-BALL"
 Kanal_Adı = "16:30 HOFFENHEIM - B.DORTMUND"
@@ -79,12 +79,12 @@ Kanal_Adı = "17:30 OOSTENDE - LUDWIGSBURG"
 Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukssport2/playlist.m3u8"
 
 Grup = "ICON-BASKETBALL"
-Kanal_Adı = "18:00 ZARAGOZA - GRAN CANARIA"
-Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuksmartspor/playlist.m3u8"
-
-Grup = "ICON-BASKETBALL"
 Kanal_Adı = "18:00 BEŞIKTAŞ FIBABANKA - MANISA BB"
 Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports5/playlist.m3u8"
+
+Grup = "ICON-BASKETBALL"
+Kanal_Adı = "18:00 ZARAGOZA - GRAN CANARIA"
+Url = "https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuksmartspor/playlist.m3u8"
 
 Grup = "ICON-SOCCER-BALL"
 Kanal_Adı = "19:00 GAZIANTEP FK - FENERBAHÇE"
