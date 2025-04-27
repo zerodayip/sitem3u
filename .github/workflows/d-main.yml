@@ -2,7 +2,7 @@ name: Run Python Scripts from Private Repo ( D )
 
 on:
   schedule:
-    - cron: '15 */1 * * *'
+    - cron: '0 */1 * * *'
   workflow_dispatch:
 
 jobs:
