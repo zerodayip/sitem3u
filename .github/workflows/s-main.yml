@@ -2,8 +2,10 @@ name: Run Python Scripts from Private Repo ( S )
 
 on:
   workflow_dispatch:          # Manuel tetikleme için
-  schedule:
-    - cron: '0 */1 * * *'
+  workflow_run:
+    workflows: ["Run Python Scripts from Private Repo ( D )"]
+    types:
+      - completed
 
 concurrency:
   group: s main
