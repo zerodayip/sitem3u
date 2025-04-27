@@ -14,12 +14,7 @@ https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukssport/playlist.m3
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
 https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukssport/playlist.m3u8
 
-#EXTINF:-1 tvg-name="14:30 HANNOVER 96 - KÖLN" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",14:30 HANNOVER 96 - KÖLN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
-https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktivibuspor4/playlist.m3u8
-
-#EXTINF:-1 tvg-name="14:30 HANNOVER 96 - KÖLN" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",14:30 HANNOVER 96 - KÖLN
+#EXTINF:-1 tvg-name="14:30 KAISERSLAUTERN - SCHALKE 04" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",14:30 KAISERSLAUTERN - SCHALKE 04
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
 https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktivibuspor4/playlist.m3u8
@@ -29,12 +24,7 @@ https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktivibuspor4/playli
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
 https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktivibuspor4/playlist.m3u8
 
-#EXTINF:-1 tvg-name="14:30 HAMBURG - KARLSRUHE" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",14:30 HAMBURG - KARLSRUHE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
-https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktivibuspor3/playlist.m3u8
-
-#EXTINF:-1 tvg-name="14:30 KAISERSLAUTERN - SCHALKE 04" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",14:30 KAISERSLAUTERN - SCHALKE 04
+#EXTINF:-1 tvg-name="14:30 HANNOVER 96 - KÖLN" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",14:30 HANNOVER 96 - KÖLN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
 https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktivibuspor4/playlist.m3u8
@@ -43,6 +33,16 @@ https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktivibuspor4/playli
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
 https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktivibuspor3/playlist.m3u8
+
+#EXTINF:-1 tvg-name="14:30 HAMBURG - KARLSRUHE" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",14:30 HAMBURG - KARLSRUHE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
+https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktivibuspor3/playlist.m3u8
+
+#EXTINF:-1 tvg-name="14:30 HANNOVER 96 - KÖLN" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",14:30 HANNOVER 96 - KÖLN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
+https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktivibuspor4/playlist.m3u8
 
 #EXTINF:-1 tvg-name="15:30 TOFAŞ - MERSIN SPOR" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",15:30 TOFAŞ - MERSIN SPOR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -64,102 +64,7 @@ https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktv85/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
 https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktrtspor/playlist.m3u8
 
-#EXTINF:-1 tvg-name="16:00 KOCAELISPOR - BOLUSPOR" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",16:00 KOCAELISPOR - BOLUSPOR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
-https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktrtspor/playlist.m3u8
-
-#EXTINF:-1 tvg-name="16:00 FATIH KARAGÜMRÜK - KEÇIÖRENGÜCÜ" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",16:00 FATIH KARAGÜMRÜK - KEÇIÖRENGÜCÜ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
-https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktrtspor/playlist.m3u8
-
-#EXTINF:-1 tvg-name="16:00 ÜMRANIYESPOR - AMEDSPOR" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",16:00 ÜMRANIYESPOR - AMEDSPOR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
-https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktrtspor/playlist.m3u8
-
-#EXTINF:-1 tvg-name="16:00 İSTANBULSPOR - PENDIKSPOR" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",16:00 İSTANBULSPOR - PENDIKSPOR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
-https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktrtspor/playlist.m3u8
-
-#EXTINF:-1 tvg-name="16:00 KOCAELISPOR - BOLUSPOR" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",16:00 KOCAELISPOR - BOLUSPOR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
-https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktrtspor/playlist.m3u8
-
-#EXTINF:-1 tvg-name="16:00 SAKARYASPOR - ERZURUMSPOR" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",16:00 SAKARYASPOR - ERZURUMSPOR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
-https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktrtspor/playlist.m3u8
-
-#EXTINF:-1 tvg-name="16:00 KONYASPOR - ADANA DEMIRSPOR" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",16:00 KONYASPOR - ADANA DEMIRSPOR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
-https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports2/playlist.m3u8
-
-#EXTINF:-1 tvg-name="16:00 ŞANLIURFASPOR - MANISA FK" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",16:00 ŞANLIURFASPOR - MANISA FK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
-https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktrtspor/playlist.m3u8
-
-#EXTINF:-1 tvg-name="16:00 Y.MALATYASPOR - IĞDIRSPOR" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",16:00 Y.MALATYASPOR - IĞDIRSPOR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
-https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktrtspor/playlist.m3u8
-
-#EXTINF:-1 tvg-name="16:00 SAKARYASPOR - ERZURUMSPOR" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",16:00 SAKARYASPOR - ERZURUMSPOR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
-https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktrtspor/playlist.m3u8
-
-#EXTINF:-1 tvg-name="16:00 İSTANBULSPOR - PENDIKSPOR" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",16:00 İSTANBULSPOR - PENDIKSPOR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
-https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktrtspor/playlist.m3u8
-
-#EXTINF:-1 tvg-name="16:00 ŞANLIURFASPOR - MANISA FK" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",16:00 ŞANLIURFASPOR - MANISA FK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
-https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktrtspor/playlist.m3u8
-
-#EXTINF:-1 tvg-name="16:00 INTER - ROMA" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",16:00 INTER - ROMA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
-https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukssport2/playlist.m3u8
-
-#EXTINF:-1 tvg-name="16:00 BANDIRMASPOR - ESENLER EROKSPOR" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",16:00 BANDIRMASPOR - ESENLER EROKSPOR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
-https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktrtspor/playlist.m3u8
-
-#EXTINF:-1 tvg-name="16:00 INTER - ROMA" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",16:00 INTER - ROMA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
-https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukssport2/playlist.m3u8
-
 #EXTINF:-1 tvg-name="16:00 ANKARAGÜCÜ - ÇORUM FK" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",16:00 ANKARAGÜCÜ - ÇORUM FK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
-https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktrtspor/playlist.m3u8
-
-#EXTINF:-1 tvg-name="16:00 FATIH KARAGÜMRÜK - KEÇIÖRENGÜCÜ" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",16:00 FATIH KARAGÜMRÜK - KEÇIÖRENGÜCÜ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
-https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktrtspor/playlist.m3u8
-
-#EXTINF:-1 tvg-name="16:00 ÜMRANIYESPOR - AMEDSPOR" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",16:00 ÜMRANIYESPOR - AMEDSPOR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
-https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktrtspor/playlist.m3u8
-
-#EXTINF:-1 tvg-name="16:00 ANKARAGÜCÜ - ÇORUM FK" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",16:00 ANKARAGÜCÜ - ÇORUM FK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
-https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktrtspor/playlist.m3u8
-
-#EXTINF:-1 tvg-name="16:00 BANDIRMASPOR - ESENLER EROKSPOR" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",16:00 BANDIRMASPOR - ESENLER EROKSPOR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
 https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktrtspor/playlist.m3u8
@@ -174,10 +79,105 @@ https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktrtspor/playlist.m
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
 https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports2/playlist.m3u8
 
-#EXTINF:-1 tvg-name="16:00 Y.MALATYASPOR - IĞDIRSPOR" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",16:00 Y.MALATYASPOR - IĞDIRSPOR
+#EXTINF:-1 tvg-name="16:00 İSTANBULSPOR - PENDIKSPOR" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",16:00 İSTANBULSPOR - PENDIKSPOR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
 https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktrtspor/playlist.m3u8
+
+#EXTINF:-1 tvg-name="16:00 ANKARAGÜCÜ - ÇORUM FK" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",16:00 ANKARAGÜCÜ - ÇORUM FK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
+https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktrtspor/playlist.m3u8
+
+#EXTINF:-1 tvg-name="16:00 KOCAELISPOR - BOLUSPOR" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",16:00 KOCAELISPOR - BOLUSPOR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
+https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktrtspor/playlist.m3u8
+
+#EXTINF:-1 tvg-name="16:00 ŞANLIURFASPOR - MANISA FK" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",16:00 ŞANLIURFASPOR - MANISA FK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
+https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktrtspor/playlist.m3u8
+
+#EXTINF:-1 tvg-name="16:00 ADANASPOR - GENÇLERBIRLIĞI" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",16:00 ADANASPOR - GENÇLERBIRLIĞI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
+https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktrtspor/playlist.m3u8
+
+#EXTINF:-1 tvg-name="16:00 INTER - ROMA" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",16:00 INTER - ROMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
+https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukssport2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="16:00 KOCAELISPOR - BOLUSPOR" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",16:00 KOCAELISPOR - BOLUSPOR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
+https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktrtspor/playlist.m3u8
+
+#EXTINF:-1 tvg-name="16:00 İSTANBULSPOR - PENDIKSPOR" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",16:00 İSTANBULSPOR - PENDIKSPOR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
+https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktrtspor/playlist.m3u8
+
+#EXTINF:-1 tvg-name="16:00 ŞANLIURFASPOR - MANISA FK" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",16:00 ŞANLIURFASPOR - MANISA FK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
+https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktrtspor/playlist.m3u8
+
+#EXTINF:-1 tvg-name="16:00 FATIH KARAGÜMRÜK - KEÇIÖRENGÜCÜ" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",16:00 FATIH KARAGÜMRÜK - KEÇIÖRENGÜCÜ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
+https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktrtspor/playlist.m3u8
+
+#EXTINF:-1 tvg-name="16:00 TRABZONSPOR - ALANYASPOR" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",16:00 TRABZONSPOR - ALANYASPOR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
+https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="16:00 FATIH KARAGÜMRÜK - KEÇIÖRENGÜCÜ" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",16:00 FATIH KARAGÜMRÜK - KEÇIÖRENGÜCÜ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
+https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktrtspor/playlist.m3u8
+
+#EXTINF:-1 tvg-name="16:00 SAKARYASPOR - ERZURUMSPOR" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",16:00 SAKARYASPOR - ERZURUMSPOR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
+https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktrtspor/playlist.m3u8
+
+#EXTINF:-1 tvg-name="16:00 ÜMRANIYESPOR - AMEDSPOR" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",16:00 ÜMRANIYESPOR - AMEDSPOR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
+https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktrtspor/playlist.m3u8
+
+#EXTINF:-1 tvg-name="16:00 KONYASPOR - ADANA DEMIRSPOR" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",16:00 KONYASPOR - ADANA DEMIRSPOR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
+https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="16:00 SAKARYASPOR - ERZURUMSPOR" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",16:00 SAKARYASPOR - ERZURUMSPOR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
+https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktrtspor/playlist.m3u8
+
+#EXTINF:-1 tvg-name="16:00 TRABZONSPOR - ALANYASPOR" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",16:00 TRABZONSPOR - ALANYASPOR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
+https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="16:00 ÜMRANIYESPOR - AMEDSPOR" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",16:00 ÜMRANIYESPOR - AMEDSPOR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
+https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktrtspor/playlist.m3u8
+
+#EXTINF:-1 tvg-name="16:00 ADANASPOR - GENÇLERBIRLIĞI" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",16:00 ADANASPOR - GENÇLERBIRLIĞI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
+https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktrtspor/playlist.m3u8
+
+#EXTINF:-1 tvg-name="16:00 INTER - ROMA" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",16:00 INTER - ROMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
+https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukssport2/playlist.m3u8
 
 #EXTINF:-1 tvg-name="16:30 BOCHUM - UNION BERLIN" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",16:30 BOCHUM - UNION BERLIN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -208,17 +208,17 @@ https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukssport/playlist.m3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
 https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukssport/playlist.m3u8
-
-#EXTINF:-1 tvg-name="18:00 YALOVASPOR - BURSASPOR" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",18:00 YALOVASPOR - BURSASPOR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
-https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports5/playlist.m3u8
 
 #EXTINF:-1 tvg-name="18:00 BILBAO BASKET - MURCIA" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",18:00 BILBAO BASKET - MURCIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
 https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuksmartspor/playlist.m3u8
 
+#EXTINF:-1 tvg-name="18:00 YALOVASPOR - BURSASPOR" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",18:00 YALOVASPOR - BURSASPOR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
+https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports5/playlist.m3u8
+
 #EXTINF:-1 tvg-name="18:30 WERDER BREMEN - ST.PAULI" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",18:30 WERDER BREMEN - ST.PAULI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
@@ -254,41 +254,41 @@ https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlis
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
 https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports2/playlist.m3u8
 
-#EXTINF:-1 tvg-name="19:00 EYÜPSPOR - GALATASARAY" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",19:00 EYÜPSPOR - GALATASARAY
+#EXTINF:-1 tvg-name="19:00 JUVENTUS - MONZA" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",19:00 JUVENTUS - MONZA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
-https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports1/playlist.m3u8
+https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukssport2/playlist.m3u8
 
 #EXTINF:-1 tvg-name="19:00 GAZIANTEP - FENERBAHÇE (ÇOKLU KALITE)" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",19:00 GAZIANTEP - FENERBAHÇE (ÇOKLU KALITE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
 https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/master.m3u8
 
-#EXTINF:-1 tvg-name="19:00 JUVENTUS - MONZA" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",19:00 JUVENTUS - MONZA
+#EXTINF:-1 tvg-name="19:00 GAZIANTEP - FENERBAHÇE (ÇOKLU KALITE)" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",19:00 GAZIANTEP - FENERBAHÇE (ÇOKLU KALITE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
-https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukssport2/playlist.m3u8
+https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/master.m3u8
+
+#EXTINF:-1 tvg-name="19:00 EYÜPSPOR - GALATASARAY" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",19:00 EYÜPSPOR - GALATASARAY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
+https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="19:00 GAZIANTEP - FENERBAHÇE HD1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",19:00 GAZIANTEP - FENERBAHÇE HD1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
 https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8
 
-#EXTINF:-1 tvg-name="19:00 GAZIANTEP - FENERBAHÇE (ÇOKLU KALITE)" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",19:00 GAZIANTEP - FENERBAHÇE (ÇOKLU KALITE)
+#EXTINF:-1 tvg-name="19:00 JUVENTUS - MONZA" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",19:00 JUVENTUS - MONZA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
-https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/master.m3u8
+https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukssport2/playlist.m3u8
 
 #EXTINF:-1 tvg-name="19:00 EYÜPSPOR - GALATASARAY" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",19:00 EYÜPSPOR - GALATASARAY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
 https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="19:00 JUVENTUS - MONZA" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",19:00 JUVENTUS - MONZA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
-https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukssport2/playlist.m3u8
-
 #EXTINF:-1 tvg-name="19:30 ST.GILLOISE - CLUB BRUGGE" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",19:30 ST.GILLOISE - CLUB BRUGGE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
@@ -308,56 +308,56 @@ https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktrtspor/playlist.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
 https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktrtspor/playlist.m3u8
-
-#EXTINF:-1 tvg-name="20:30 OOSTENDE - LIETUVOS RYTAS" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",20:30 OOSTENDE - LIETUVOS RYTAS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
-https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukssport/playlist.m3u8
 
 #EXTINF:-1 tvg-name="20:30 GALATASARAY - PETKIMSPOR" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",20:30 GALATASARAY - PETKIMSPOR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
 https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports5/playlist.m3u8
 
-#EXTINF:-1 tvg-name="21:30 RIVER PLATE - BOCA JUNIORS" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",21:30 RIVER PLATE - BOCA JUNIORS
+#EXTINF:-1 tvg-name="20:30 OOSTENDE - LIETUVOS RYTAS" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",20:30 OOSTENDE - LIETUVOS RYTAS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
-https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuksmartspor/playlist.m3u8
+https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukssport/playlist.m3u8
 
 #EXTINF:-1 tvg-name="21:30 RIVER PLATE - BOCA JUNIORS" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",21:30 RIVER PLATE - BOCA JUNIORS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
 https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuksmartspor/playlist.m3u8
 
-#EXTINF:-1 tvg-name="21:45 NAPOLI - TORINO" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",21:45 NAPOLI - TORINO
+#EXTINF:-1 tvg-name="21:30 RIVER PLATE - BOCA JUNIORS" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",21:30 RIVER PLATE - BOCA JUNIORS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
-https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukssport2/playlist.m3u8
-
-#EXTINF:-1 tvg-name="21:45 ATALANTA - LECCE" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",21:45 ATALANTA - LECCE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
-https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktivibuspor2/playlist.m3u8
+https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuksmartspor/playlist.m3u8
 
 #EXTINF:-1 tvg-name="21:45 MARSILYA - BREST" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",21:45 MARSILYA - BREST
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
 https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports4/playlist.m3u8
 
+#EXTINF:-1 tvg-name="21:45 ATALANTA - LECCE" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",21:45 ATALANTA - LECCE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
+https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktivibuspor2/playlist.m3u8
+
 #EXTINF:-1 tvg-name="21:45 NAPOLI - TORINO" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",21:45 NAPOLI - TORINO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
 https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukssport2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="21:45 MARSILYA - BREST" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",21:45 MARSILYA - BREST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
+https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports4/playlist.m3u8
 
 #EXTINF:-1 tvg-name="21:45 ATALANTA - LECCE" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",21:45 ATALANTA - LECCE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
 https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktivibuspor2/playlist.m3u8
 
-#EXTINF:-1 tvg-name="21:45 MARSILYA - BREST" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",21:45 MARSILYA - BREST
+#EXTINF:-1 tvg-name="21:45 NAPOLI - TORINO" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",21:45 NAPOLI - TORINO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1776.xyz/
-https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports4/playlist.m3u8
+https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukssport2/playlist.m3u8
 
 #EXTINF:-1 tvg-name="22:30 MINNESOTA TW - LA LAKERS" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",22:30 MINNESOTA TW - LA LAKERS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
