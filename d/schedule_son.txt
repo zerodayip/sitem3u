@@ -1558,6 +1558,22 @@ Channel_Name= "558"
 Channel_server= "ddy6"
 Event= "09:00 (FUTBOL) U19 DFB NACHWUCHSLIGA : FC SCHALKE 04 U19 VS FORTUNA DÜSSELDORF U19 (SKY SPORT BUNDESLIGA 1)"
 
+Channel_Name= "1509"
+Channel_server= "null"
+Event= "09:00 (TENNIS ATP - MADRID) ATP - MADRID : NAKASHIMA B. VS COBOLLI F. (TENNIS STREAM 9)"
+
+Channel_Name= "1508"
+Channel_server= "null"
+Event= "09:00 (TENNIS ATP - MADRID) ATP - MADRID : BUBLIK A. VS RUBLEV A. (TENNIS STREAM 8)"
+
+Channel_Name= "1501"
+Channel_server= "null"
+Event= "09:00 (TENNIS WTA - MADRID) WTA - MADRID : SABALENKA A. VS MERTENS E. (TENNIS STREAM 1)"
+
+Channel_Name= "1504"
+Channel_server= "null"
+Event= "09:00 (TENNIS WTA - MADRID) WTA - MADRID : KUDERMETOVA V. VS KOSTYUK M. (TENNIS STREAM 4)"
+
 Channel_Name= "40"
 Channel_server= "ddy6"
 Event= "09:00 (TENİS) 2025 MUTUA MADRID OPEN TENNIS WTA EARLY ROUND COVERAGE, DAY 6 (TENNIS CHANNEL)"
@@ -2130,6 +2146,10 @@ Channel_Name= "756"
 Channel_server= "ddy6"
 Event= "10:30 (FUTBOL) ITALY SERIE A (WOMEN) : NAPOLI VS SAMPDORIA (FOX SOCCER PLUS)"
 
+Channel_Name= "1503"
+Channel_server= "null"
+Event= "10:30 (TENNIS WTA - MADRID) WTA - MADRID : KENIN S. VS POTAPOVA A. (TENNIS STREAM 3)"
+
 Channel_Name= "436"
 Channel_server= "zeko"
 Event= "10:30 (BASKETBOL) ACB : BASQUET GIRONA VS. REAL MADRID (MOVISTAR DEPORTES SPAIN)"
@@ -2421,6 +2441,14 @@ Event= "11:00 (FUTBOL) RUSSIA - PREMIER LEAGUE : KRYLYA SOVETOV VS ORENBURG (ARE
 Channel_Name= "260"
 Channel_server= "wind"
 Event= "11:00 (FUTBOL) SWEDEN - DAMALLSVENSKAN : KRISTIANSTAD VS PITEÅ (VODAFONE SPORT)"
+
+Channel_Name= "1507"
+Channel_server= "null"
+Event= "11:00 (TENNIS ATP - MADRID) ATP - MADRID : ZVEREV A. VS DAVIDOVICH FOKINA A. (TENNIS STREAM 7)"
+
+Channel_Name= "1502"
+Channel_server= "null"
+Event= "11:00 (TENNIS WTA - MADRID) WTA - MADRID : SAKKARI M. VS PAOLINI J. (TENNIS STREAM 2)"
 
 Channel_Name= "75"
 Channel_server= "wind"
@@ -3086,6 +3114,10 @@ Channel_Name= "426"
 Channel_server= "ddy6"
 Event= "12:00 (FUTBOL) FRAUEN-BUNDESLIGA : BAYERN MÜNCHEN VS FREIBURG (DAZN1 DE)"
 
+Channel_Name= "1503"
+Channel_server= "null"
+Event= "12:00 (TENNIS WTA - MADRID) WTA - MADRID : MASAROVA R. V STEARNS P. (TENNIS STREAM 3)"
+
 Channel_Name= "32"
 Channel_server= "nfs"
 Event= "12:00 (MOTORSPORT) MOTOGP : SPANISH GRAND PRIX RACE (TNT SPORTS 2 UK)"
@@ -3313,6 +3345,10 @@ Event= "12:30 (FUTBOL) POLAND - I LIGA : RUCH CHORZÓW VS STAL RZESZÓW (TVP SPO
 Channel_Name= "453"
 Channel_server= "wind"
 Event= "12:30 (FUTBOL) NORWAY - ELITESERIEN : ROSENBORG VS MOLDE (SPORTKLUB HD CROATIA)"
+
+Channel_Name= "1502"
+Channel_server= "null"
+Event= "12:30 (TENNIS WTA - MADRID) WTA - MADRID : PEGULA J. VS UCHIJIMA M. (TENNIS STREAM 2)"
 
 Channel_Name= "27"
 Channel_server= "nfs"
@@ -3810,6 +3846,10 @@ Channel_Name= "889"
 Channel_server= "wind"
 Event= "13:00 (FUTBOL) TURKEY - 1. LIG : ANKARAGÜCÜ VS ÇORUM BELEDIYESPOR (TRT SPOR TURKEY)"
 
+Channel_Name= "1507"
+Channel_server= "null"
+Event= "13:00 (TENNIS ATP - MADRID) ATP - MADRID : MEDVEDEV D. VS CERUNDOLO J. M. (TENNIS STREAM 7)"
+
 Channel_Name= "365"
 Channel_server= "zeko"
 Event= "13:00 (GAA) GAA CLUB CHAMPIONSHIP - WATERFORD VS CLARE (RTE 2)"
@@ -4173,6 +4213,10 @@ Event= "13:30 (FUTBOL) SOUTH AFRICA - DSTV PREMIERSHIP : TS GALAXY VS SEKHUKHUNE
 Channel_Name= "24"
 Channel_server= "nfs"
 Event= "13:30 (FUTBOL) SWITZERLAND - SCHWEIZER CUP : BASEL VS LAUSANNE SPORT (SRF ZWEI)"
+
+Channel_Name= "1509"
+Channel_server= "null"
+Event= "13:30 (TENNIS ATP - MADRID) ATP - MADRID : FRITZ T. VS BONZI B. (TENNIS STREAM 9)"
 
 Channel_Name= "199"
 Channel_server= "nfs"
@@ -4838,6 +4882,10 @@ Channel_Name= "583"
 Channel_server= "wiki"
 Event= "14:00 (HENTBOL) CHAMPIONS LEAGUE WOMEN : TEAM ESBJERG VS. CSM BUCURESTI (PRIMA SPORT 1 ROMANIA)"
 
+Channel_Name= "154"
+Channel_server= "ddy6"
+Event= "14:00 (BUZ HOKEYİ) RUSSIA MHL PLAYOFFS : SPARTAK MOSCOW U20 VS CHAIKA NIZHNY NOVGOROD U20 (KHL TV)"
+
 Channel_Name= "451"
 Channel_server= "wind"
 Event= "14:00 (BUZ HOKEYİ) IIHF DIVISION 1A : UKRAINE VS GREAT BRITAIN (VIAPLAY SPORTS 1 UK)"
@@ -4845,10 +4893,6 @@ Event= "14:00 (BUZ HOKEYİ) IIHF DIVISION 1A : UKRAINE VS GREAT BRITAIN (VIAPLAY
 Channel_Name= "50"
 Channel_server= "wind"
 Event= "14:00 (BUZ HOKEYİ) IIHF DIVISION 1A : UKRAINE VS GREAT BRITAIN (POLSAT SPORT 2 POLAND)"
-
-Channel_Name= "154"
-Channel_server= "ddy6"
-Event= "14:00 (BUZ HOKEYİ) RUSSIA MHL PLAYOFFS : SPARTAK MOSCOW U20 VS CHAIKA NIZHNY NOVGOROD U20 (KHL TV)"
 
 Channel_Name= "756"
 Channel_server= "ddy6"
@@ -5353,6 +5397,10 @@ Event= "15:00 (FUTBOL) AFRICA U-20 CUP OF NATIONS : ZAMBIA U20 VS SIERRA LEONE U
 Channel_Name= "13"
 Channel_server= "nfs"
 Event= "15:00 (FUTBOL) NORWAY - ELITESERIEN : SARPSBORG 08 VS STRØMSGODSET (TV2 SPORT NORWAY)"
+
+Channel_Name= "1509"
+Channel_server= "null"
+Event= "15:00 (TENNIS ATP - MADRID) ATP - MADRID : CERUNDOLO F. VS COMESANA F. (TENNIS STREAM 9)"
 
 Channel_Name= "75"
 Channel_server= "wind"
@@ -6890,6 +6938,10 @@ Channel_Name= "101"
 Channel_server= "ddy6"
 Event= "17:00 (FUTBOL) GREECE - SUPER LEAGUE : PAOK VS PANATHINAIKOS (SPORT KLUB 1 CROATIA)"
 
+Channel_Name= "1508"
+Channel_server= "null"
+Event= "17:00 (TENNIS ATP - MADRID) ATP - MADRID : SHELTON B. VS MENSIK J. (TENNIS STREAM 8)"
+
 Channel_Name= "451"
 Channel_server= "wind"
 Event= "17:00 (MOTORSPORT) NASCAR SPRINT CUP SERIES - TALLADEGA SUPERSPEEDWAY (VIAPLAY SPORTS 1 UK)"
@@ -7453,6 +7505,10 @@ Event= "18:00 (FUTBOL) AFRICA U-20 CUP OF NATIONS : EGYPT U20 VS SOUTH AFRICA U2
 Channel_Name= "66"
 Channel_server= "wind"
 Event= "18:00 (FUTBOL) LIGA MX FEMENIL : PUMAS UNAM VS GUADALAJARA (TUDN USA)"
+
+Channel_Name= "1501"
+Channel_server= "null"
+Event= "18:00 (TENNIS WTA - MADRID) WTA - MADRID : RYBAKINA E. VS SVITOLINA E. (TENNIS STREAM 1)"
 
 Channel_Name= "397"
 Channel_server= "wind"
@@ -8369,6 +8425,14 @@ Event= "19:30 (FUTBOL) PORTUGAL - PRIMEIRA LIGA : BOAVISTA VS SPORTING CP (SPORT
 Channel_Name= "140"
 Channel_server= "zeko"
 Event= "19:30 (FUTBOL) PORTUGAL - PRIMEIRA LIGA : BOAVISTA VS SPORTING CP (SPORT 1 ISRAEL)"
+
+Channel_Name= "1507"
+Channel_server= "null"
+Event= "19:30 (TENNIS ATP - MADRID) ATP - MADRID : KORDA S. VS RUUD C. (TENNIS STREAM 7)"
+
+Channel_Name= "1502"
+Channel_server= "null"
+Event= "19:30 (TENNIS WTA - MADRID) WTA - MADRID : ALEXANDROVA E. VS KASATKINA D. (TENNIS STREAM 2)"
 
 Channel_Name= "69"
 Channel_server= "ddy6"
