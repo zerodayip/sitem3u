@@ -1,0 +1,3 @@
+ICON-FOOTBALL=https://example.com/football_logo.png
+ICON-BASKETBALL=https://example.com/basketball_logo.png
+ICON-VOLLEYBALL=https://example.com/volleyball_logo.png
