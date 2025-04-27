@@ -1,35 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="05:00 (FUTBOL) AUSTRALIA - A-LEAGUE : BRISBANE ROAR VS WELLINGTON PHOENIX (TNT SPORTS 3 UK)" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",05:00 (FUTBOL) AUSTRALIA - A-LEAGUE : BRISBANE ROAR VS WELLINGTON PHOENIX (TNT SPORTS 3 UK)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfstop1.newkso.ru/nfs/premium33/mono.m3u8
-
-#EXTINF:-1 tvg-id="05:00 (FUTBOL) AUSTRALIA - A-LEAGUE : BRISBANE ROAR VS WELLINGTON PHOENIX (SKY SPORT 3 NZ)" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",05:00 (FUTBOL) AUSTRALIA - A-LEAGUE : BRISBANE ROAR VS WELLINGTON PHOENIX (SKY SPORT 3 NZ)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1top1.newkso.ru/dokko1/premium590/mono.m3u8
-
-#EXTINF:-1 tvg-id="05:20 (AUSSIE RULES) AFL : CARLTON BLUES VS GEELONG CATS (FOX SPORTS 2 USA)" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",05:20 (AUSSIE RULES) AFL : CARLTON BLUES VS GEELONG CATS (FOX SPORTS 2 USA)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekotop1.newkso.ru/zeko/premium758/mono.m3u8
-
-#EXTINF:-1 tvg-id="05:20 (AUSSIE RULES) AFL : CARLTON BLUES VS GEELONG CATS (TNT SPORTS 4 UK)" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",05:20 (AUSSIE RULES) AFL : CARLTON BLUES VS GEELONG CATS (TNT SPORTS 4 UK)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfstop1.newkso.ru/nfs/premium34/mono.m3u8
-
-#EXTINF:-1 tvg-id="05:30 (BASKETBOL) NBL : NELSON GIANTS VS OTAGO NUGGETS (SKY SPORT 3 NZ)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",05:30 (BASKETBOL) NBL : NELSON GIANTS VS OTAGO NUGGETS (SKY SPORT 3 NZ)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1top1.newkso.ru/dokko1/premium590/mono.m3u8
-
 #EXTINF:-1 tvg-id="06:00 (MOTORSPORT) WRC RALLY ISLAS CANARIAS STAGE 7 (RALLY TV)" tvg-logo="dokko1" group-title="GÜNLÜK DÜNYA SPORLARI",06:00 (MOTORSPORT) WRC RALLY ISLAS CANARIAS STAGE 7 (RALLY TV)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz
