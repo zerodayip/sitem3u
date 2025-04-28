@@ -1,4 +1,4 @@
-name: Merge ( V- D - S )
+name: Merge
 
 on:
   workflow_run:
