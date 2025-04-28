@@ -2,22 +2,25 @@ name: Run Python Scripts from Private Repo ( D )
 
 on:
   schedule:
-    - cron: '0 */1 * * *'
-  workflow_dispatch:
+    - cron: '0 */1 * * *'  # Workflow her saat başı çalışacak
+  workflow_dispatch:  # Manuel tetikleme
 
 jobs:
   extract-schedule-data:
     runs-on: ubuntu-latest
 
     steps:
+      # Ana repoyu çekiyoruz
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      # Python kurulumunu yapıyoruz
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.10'
+          python-version: '3.10'  # Python 3.10 versiyonu
 
+      # Bağımlılıkları yüklüyoruz
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
@@ -27,16 +30,16 @@ jobs:
           pip install lxml
           playwright install
 
+      # Veriyi çıkaran Python betiğini çalıştırıyoruz
       - name: Run extraction script
         run: python d/livejson.py
 
+      # Commit ve push işlemi
       - name: Commit and push if changes
         run: |
           git config --global user.name 'GitHub Actions Bot'
           git config --global user.email 'actions@github.com'
-          # Add both HTML and JSON files
-          git add -A
-          # Ignore screenshot files
+          git add -A  # Tüm değişiklikleri ekliyoruz
           git status
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update schedule data [skip ci]" && git push)
 
@@ -45,6 +48,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # Public repo'yu çekiyoruz
       - name: Checkout Public Repository (veriler)
         uses: actions/checkout@v2
         with:
@@ -52,18 +56,16 @@ jobs:
           fetch-depth: 0
           ref: main
 
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: '3.x'
-
+      # Private repo'yu GH_TOKEN ile klonluyoruz
       - name: Clone Private Repository (Py)
         run: |
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/MDuymazz/Py.git private_py
 
+      # Private repo bağımlılıklarını yüklüyoruz
       - name: Install Python dependencies from private repo
         run: pip install -r private_py/requirements.txt
 
+      # Python betiklerini çalıştırıyoruz
       - name: Run schedule_aljson.py
         run: python private_py/daddyliveevent/schedule_aljson.py
 
@@ -79,12 +81,30 @@ jobs:
       - name: Run convertm3u.py
         run: python private_py/daddyliveevent/convertm3u.py
 
-      - name: Add all changes
-        run: git add -A
-
-      - name: Commit and Push Changes
+      # Tüm dosyaları commit ediyoruz
+      - name: Commit All Changes
         run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git commit -m "Update output and counter via workflow D" || echo "No changes to commit"
-          git push origin main
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add -A  # Tüm dosyaları stage ediyoruz
+          git commit -m "Update files" || echo "No changes to commit"  # Eğer değişiklik varsa commit ediyoruz
+
+      # Sadece .m3u dosyalarını Py repo'suna push ediyoruz
+      - name: Push .m3u Files to Private Repo (Py)
+        run: |
+          git push origin main  # Tüm dosyaları push ediyoruz
+
+      # .m3u dosyalarını Py repo'suna push ediyoruz
+      - name: Commit and Push .m3u Files to Py Repo
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+
+          # .m3u dosyalarını push ediyoruz
+          git add *.m3u  # Sadece .m3u dosyalarını ekle
+
+          # Değişiklikleri commit ediyoruz
+          git commit -m "Update .m3u files" || echo "No changes to commit"  # Commit mesajı
+
+          # .m3u dosyalarını Py repo'suna push ediyoruz
+          git push origin main  # Push işlemi
