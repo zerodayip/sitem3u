@@ -25,28 +25,28 @@ jobs:
 
     - name: Delete all files except data.html in the 'v' directory, ana_link.txt, and logo.txt, and delete sil.txt
       run: |
-        echo "Deleting files in './v' directory except data.html"
-        # v klasöründeki dosyaları listele
+        echo "Current working directory: $(pwd)"
+        echo "Listing files in './v' directory before deletion:"
         ls -alh ./v
-        
-        # data.html hariç tüm dosyaları sil
-        for file in ./v/*; do
-          if [[ "$file" != "./v/data.html" ]]; then
-            echo "Deleting file: $file"
-            rm -f "$file"
+
+        # Mutlak yolu kullanarak dosya silme işlemini yapalım
+        for file in $(ls ./v); do
+          if [[ "$file" != "data.html" ]]; then
+            echo "Deleting file: ./v/$file"
+            rm -f "./v/$file"
           fi
         done
 
-        # s klasöründeki ana_link.txt ve logo.txt hariç tüm dosyaları sil
+        # Aynı işlemi './s' klasörü için de yapalım
         echo "Deleting files in './s' directory except ana_link.txt and logo.txt"
-        for file in ./s/*; do
-          if [[ "$file" != "./s/ana_link.txt" && "$file" != "./s/logo.txt" ]]; then
-            echo "Deleting file: $file"
-            rm -f "$file"
+        for file in $(ls ./s); do
+          if [[ "$file" != "ana_link.txt" && "$file" != "logo.txt" ]]; then
+            echo "Deleting file: ./s/$file"
+            rm -f "./s/$file"
           fi
         done
 
-        # Ana dizindeki sil.txt dosyasını sil
+        # Silme işleminden önce 'sil.txt' dosyasını da silelim
         echo "Deleting sil.txt in the root directory"
         rm -f ./sil.txt
 
