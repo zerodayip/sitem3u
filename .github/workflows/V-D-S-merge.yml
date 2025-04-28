@@ -6,6 +6,8 @@ on:
     types:
       - completed
 
+  workflow_dispatch:
+
 jobs:
   merge-m3u-playlists:
     runs-on: ubuntu-latest
