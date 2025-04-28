@@ -1,6 +1,6 @@
 name: Merge
 
-on:
+#on:
   workflow_dispatch:
   workflow_run:
     workflows: ["Run Python Scripts from Private Repo ( S )"]
