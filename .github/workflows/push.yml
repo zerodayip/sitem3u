@@ -44,13 +44,12 @@ jobs:
 
   sync-root-folder:
     runs-on: ubuntu-latest
-    needs: merge-m3u-playlists
-
+    needs: merge-m3u-playlists  # sync-root-folder job'ı merge-m3u-playlists job'ı tamamlandıktan sonra çalışacak
     steps:
       - name: Wait 30 seconds before starting the sync process
         run: |
           echo "Waiting for 30 seconds before starting..."
-          sleep 30
+          sleep 30  # 30 saniye bekle
 
       - name: Checkout Public Repository (sitem3u)
         uses: actions/checkout@v4
@@ -65,8 +64,8 @@ jobs:
 
       - name: Copy m3u files from root folder to m3u8 folder in Private Py Repo
         run: |
-          mkdir -p private_py/m3u8
-          cp *.m3u private_py/m3u8/
+          mkdir -p private_py/m3u8  # m3u8 klasörü oluştur
+          cp *.m3u private_py/m3u8/  # Ana dizindeki tüm .m3u dosyalarını m3u8 içine kopyala
 
       - name: Commit and Push to Private Py Repo
         run: |
@@ -79,37 +78,29 @@ jobs:
 
   cleanup-files:
     runs-on: ubuntu-latest
-    needs: sync-root-folder
-
+    needs: sync-root-folder  # cleanup-files job'ı sync-root-folder job'ı tamamlandıktan sonra çalışacak
     steps:
-      - name: Wait 30 seconds before starting cleanup
-        run: |
-          echo "Waiting for 30 seconds before starting cleanup..."
-          sleep 30
-
       - name: Checkout Repository
         uses: actions/checkout@v2
 
-      - name: Delete specific files and clean folders
+      - name: Pull latest changes from the repository
         run: |
-          echo "Deleting playlist.m3u..."
-          rm -f playlist.m3u
+          git pull --rebase origin main  # Uzak depodaki en son değişiklikleri çek
 
-          echo "Cleaning v folder (except data.html)..."
-          find v ! -name 'data.html' -type f -delete
-
-          echo "Cleaning d folder (except livejson.py, logo.txt, schedule.json)..."
-          find d ! -name 'livejson.py' ! -name 'logo.txt' ! -name 'schedule.json' -type f -delete
-
-          echo "Cleaning g folder (except ana_link.txt, logo.txt)..."
-          find g ! -name 'ana_link.txt' ! -name 'logo.txt' -type f -delete
-
-          echo "Cleaning s folder (except ana_link.txt, logo.txt)..."
-          find s ! -name 'ana_link.txt' ! -name 'logo.txt' -type f -delete
+      - name: Delete specific files (but not playlist.m3u)
+        run: |
+          rm -f v/data.html  # Silinmeyecek dosya: v/data.html
+          rm -f d/livejson.py d/logo.txt d/schedule.json  # Silinmeyecek dosyalar: d/livejson.py, d/logo.txt, d/schedule.json
+          rm -f g/ana_link.txt g/logo.txt  # Silinmeyecek dosyalar: g/ana_link.txt, g/logo.txt
+          rm -f s/ana_link.txt s/logo.txt  # Silinmeyecek dosyalar: s/ana_link.txt, s/logo.txt
+          rm -f playlist.m3u  # Ana dizindeki playlist.m3u dosyasını sil
+          # Diğer silmek istediğin dosyalar
+          rm -f d/event.m3u d/event.txt d/kanal.m3u d/kanal_son.txt d/kanal_verileri.txt d/origin.txt d/schedule.txt d/schedule_son.txt d/temp_schedule.txt d/url_verileri_kanal.txt d/url_verileri_sechedule.txt g/final_url.txt g/m3u_link.txt g/m3u_link_al\304\261nd\304\261.txt g/mac_verileri.txt g/new_links.txt g/son_m3u.txt g/t\303\274m_link.txt s/base_url.txt s/data.txt s/deneme.txt s/final_url.txt s/s.m3u v/all_countries_channels.txt v/new_m3u.m3u v/programlar.m3u v/programlar.txt v/vavoo.m3u v/veri.txt
 
       - name: Commit and Push Cleanup Changes
         run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
           git add .
-          git diff --cached --quiet || (git commit -m "Cleanup files after playlist merge [auto]" && git push)
+          git commit -m "Cleanup files after playlist merge [auto]" || echo "No changes to commit"
+          git push origin main
