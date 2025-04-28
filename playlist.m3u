@@ -519,10 +519,10 @@ https://nfstop1.newkso.ru/nfs/premium103/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfstop1.newkso.ru/nfs/premium27/mono.m3u8
 
-#EXTINF:-1 tvg-name="19:00 TRABZONSPOR - BARCELONA" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",19:00 TRABZONSPOR - BARCELONA
+#EXTINF:-1 tvg-name="19:00 EYÜPSPOR - GALATASARAY HD1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",19:00 EYÜPSPOR - GALATASARAY HD1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1779.xyz/
-https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktrtspor/playlist.m3u8
+https://due.f5a49ddf7125579f.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8
 
 #EXTINF:-1 tvg-name="19:00 EYÜPSPOR - GALATASARAY HD1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",19:00 EYÜPSPOR - GALATASARAY HD1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -549,6 +549,11 @@ https://due.f5a49ddf7125579f.click/itis/8c1437d28413db5112720e3ce0579154/master.
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1779.xyz/
 https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktrtspor/playlist.m3u8
 
+#EXTINF:-1 tvg-name="19:00 TRABZONSPOR - BARCELONA" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",19:00 TRABZONSPOR - BARCELONA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1779.xyz/
+https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcuktrtspor/playlist.m3u8
+
 #EXTINF:-1 tvg-name="19:30 UDINESE - BOLOGNA" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",19:30 UDINESE - BOLOGNA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1779.xyz/
@@ -588,24 +593,6 @@ https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukssport2/playlist.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1779.xyz/
 https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukssport2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="08:20 (AUSSIE RULES) AFL : CARLTON BLUES VS GEELONG CATS (FOX SPORTS 2 USA)" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",08:20 (AUSSIE RULES) AFL : CARLTON BLUES VS GEELONG CATS (FOX SPORTS 2 USA)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekotop1.newkso.ru/zeko/premium758/mono.m3u8
-
-#EXTINF:-1 tvg-id="08:20 (AUSSIE RULES) AFL : CARLTON BLUES VS GEELONG CATS (TNT SPORTS 4 UK)" tvg-logo="nfs" group-title="GÜNLÜK DÜNYA SPORLARI",08:20 (AUSSIE RULES) AFL : CARLTON BLUES VS GEELONG CATS (TNT SPORTS 4 UK)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfstop1.newkso.ru/nfs/premium34/mono.m3u8
-
-#EXTINF:-1 tvg-id="08:30 (BASKETBOL) NBL : NELSON GIANTS VS OTAGO NUGGETS (SKY SPORT 3 NZ)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",08:30 (BASKETBOL) NBL : NELSON GIANTS VS OTAGO NUGGETS (SKY SPORT 3 NZ)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1top1.newkso.ru/dokko1/premium590/mono.m3u8
 
 #EXTINF:-1 tvg-id="09:05 (RUGBI) NATIONAL RUGBY LEAGUE : WESTS TIGERS VS CRONULLA SHARKS (SKY SPORT 2 NZ)" tvg-logo="https://w7.pngwing.com/pngs/75/71/png-transparent-euclidean-rugby-football-rugby-ball-rugby-sport-happy-birthday-vector-images-sports-equipment-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",09:05 (RUGBI) NATIONAL RUGBY LEAGUE : WESTS TIGERS VS CRONULLA SHARKS (SKY SPORT 2 NZ)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
@@ -8637,15 +8624,15 @@ https://vavoo.to/play/4117227962/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/194469526/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="4K TR: S SPORT 2" tvg-logo="" group-title="SPOR YAYINLARI", 4K TR: S SPORT 2
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/936908274/index.m3u8
-
 #EXTINF:-1 tvg-id="None" tvg-name="4K TR: S SPORT" tvg-logo="" group-title="SPOR YAYINLARI", 4K TR: S SPORT
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2123273598/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="4K TR: S SPORT 2" tvg-logo="" group-title="SPOR YAYINLARI", 4K TR: S SPORT 2
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/936908274/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="4K TR: SPOR SMART" tvg-logo="" group-title="SPOR YAYINLARI", 4K TR: SPOR SMART
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -8705,22 +8692,22 @@ https://vavoo.to/play/300113394/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 1" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 1
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2233066433/index.m3u8
+https://vavoo.to/play/3840475653/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 1" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 1
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3840475653/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 1 HD" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 1 HD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/662179620/index.m3u8
+https://vavoo.to/play/2233066433/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 1 [LIVE DURING EVENTS ONLY]" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 1 [LIVE DURING EVENTS ONLY]
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3428984703/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 1 HD" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 1 HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/662179620/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 1 HD" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 1 HD
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -8752,11 +8739,6 @@ https://vavoo.to/play/1447241506/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2509466191/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 2 UHD" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 2 UHD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3694662475/index.m3u8
-
 #EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 2 SD" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 2 SD
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -8766,6 +8748,11 @@ https://vavoo.to/play/3236362911/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2851539143/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 2 UHD" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 2 UHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3694662475/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 3" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 3
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -8777,15 +8764,15 @@ https://vavoo.to/play/1797459602/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2834514943/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 3 UHD" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 3 UHD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3410167560/index.m3u8
-
 #EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 3 HD" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 3 HD
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1700595801/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 3 UHD" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 3 UHD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3410167560/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 3 SD" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS 3 SD
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -8877,11 +8864,6 @@ https://vavoo.to/play/1197336000/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1646632825/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS MAX 1" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS MAX 1
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1221587067/index.m3u8
-
 #EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS MAX 2 FHD" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS MAX 2 FHD
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -8891,6 +8873,11 @@ https://vavoo.to/play/3407936242/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/4071474743/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS MAX 1" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS MAX 1
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1221587067/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS MAX 2" tvg-logo="" group-title="SPOR YAYINLARI", BEIN SPORTS MAX 2
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -9017,6 +9004,11 @@ https://vavoo.to/play/3377046146/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1159078202/index.m3u8
 
+#EXTINF:-1 tvg-id="None" tvg-name="EXXEN TV SPOR 1 720P" tvg-logo="" group-title="SPOR YAYINLARI", EXXEN TV SPOR 1 720P
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3333902867/index.m3u8
+
 #EXTINF:-1 tvg-id="None" tvg-name="EXXEN TV SPOR 1 FEED" tvg-logo="" group-title="SPOR YAYINLARI", EXXEN TV SPOR 1 FEED
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -9041,11 +9033,6 @@ https://vavoo.to/play/2162609211/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/4196835163/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="EXXEN TV SPOR 1 720P" tvg-logo="" group-title="SPOR YAYINLARI", EXXEN TV SPOR 1 720P
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3333902867/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="EXXEN TV SPOR 5" tvg-logo="" group-title="SPOR YAYINLARI", EXXEN TV SPOR 5
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -9467,15 +9454,15 @@ https://vavoo.to/play/1078355325/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/786973656/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="DISCOVERY CHANNEL" tvg-logo="" group-title="BELGESEL YAYINLARI", DISCOVERY CHANNEL
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3079995901/index.m3u8
-
 #EXTINF:-1 tvg-id="None" tvg-name="DISCOVERY CHANNEL HD+" tvg-logo="" group-title="BELGESEL YAYINLARI", DISCOVERY CHANNEL HD+
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/695705778/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="DISCOVERY CHANNEL" tvg-logo="" group-title="BELGESEL YAYINLARI", DISCOVERY CHANNEL
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3079995901/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="DISCOVERY ID" tvg-logo="" group-title="BELGESEL YAYINLARI", DISCOVERY ID
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -9520,12 +9507,12 @@ https://vavoo.to/play/1372455233/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="" group-title="BELGESEL YAYINLARI", NAT GEO WILD
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1999823186/index.m3u8
+https://vavoo.to/play/3320654968/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="" group-title="BELGESEL YAYINLARI", NAT GEO WILD
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3320654968/index.m3u8
+https://vavoo.to/play/1999823186/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD HD" tvg-logo="" group-title="BELGESEL YAYINLARI", NAT GEO WILD HD
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -9635,12 +9622,12 @@ https://vavoo.to/play/2244069093/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="BEIN MOVIES STARS" tvg-logo="" group-title="SİNEMA YAYINLARI", BEIN MOVIES STARS
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1963748784/index.m3u8
+https://vavoo.to/play/2500913164/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="BEIN MOVIES STARS" tvg-logo="" group-title="SİNEMA YAYINLARI", BEIN MOVIES STARS
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2500913164/index.m3u8
+https://vavoo.to/play/1963748784/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="BEIN MOVIES TURK" tvg-logo="" group-title="SİNEMA YAYINLARI", BEIN MOVIES TURK
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -11015,12 +11002,12 @@ https://vavoo.to/play/599757405/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 00:35 - 01:25 YETENEKLI DR. POL
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1999823186/index.m3u8
+https://vavoo.to/play/3320654968/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 00:35 - 01:25 YETENEKLI DR. POL
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3320654968/index.m3u8
+https://vavoo.to/play/1999823186/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="TARIH TV" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/logo/202209/20220906/58/20220906140825519dgx_op_0_XL.png" group-title="BUGÜNÜN BELGESELLERİ", 00:50 - 01:20 KARADENIZ ARKEOLOJISI
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -11050,12 +11037,12 @@ https://vavoo.to/play/3856957052/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 01:25 - 02:10 YETENEKLI DR. POL
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1999823186/index.m3u8
+https://vavoo.to/play/3320654968/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 01:25 - 02:10 YETENEKLI DR. POL
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3320654968/index.m3u8
+https://vavoo.to/play/1999823186/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="TRT BELGESEL" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20181214/001300/001300000008479328/bbdbae05-4a68-4c50-9804-f9676b84fc52.png" group-title="BUGÜNÜN BELGESELLERİ", 01:50 - 02:25 YOK OLMADAN KEŞFET
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -11085,12 +11072,12 @@ https://vavoo.to/play/1098241076/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 02:10 - 02:55 YIRTICILARIN GERI DÖNÜŞÜ
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1999823186/index.m3u8
+https://vavoo.to/play/3320654968/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 02:10 - 02:55 YIRTICILARIN GERI DÖNÜŞÜ
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3320654968/index.m3u8
+https://vavoo.to/play/1999823186/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="TARIH TV" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/logo/202209/20220906/58/20220906140825519dgx_op_0_XL.png" group-title="BUGÜNÜN BELGESELLERİ", 02:15 - 03:15 1956 - YENI BIR DÜNYANIN DOĞUŞU
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -11135,12 +11122,12 @@ https://vavoo.to/play/599757405/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 02:55 - 03:40 VAHŞI KRALLIK
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1999823186/index.m3u8
+https://vavoo.to/play/3320654968/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 02:55 - 03:40 VAHŞI KRALLIK
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3320654968/index.m3u8
+https://vavoo.to/play/1999823186/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="TARIH TV" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/logo/202209/20220906/58/20220906140825519dgx_op_0_XL.png" group-title="BUGÜNÜN BELGESELLERİ", 03:15 - 03:45 ARALOV: BIR SOVYET DIPLOMATIN MILLI MÜCADELE ANILARI
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -11175,12 +11162,12 @@ https://vavoo.to/play/1098241076/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 03:40 - 04:30 VAHŞI KRALLIK
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1999823186/index.m3u8
+https://vavoo.to/play/3320654968/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 03:40 - 04:30 VAHŞI KRALLIK
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3320654968/index.m3u8
+https://vavoo.to/play/1999823186/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="TRT BELGESEL" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20181214/001300/001300000008479328/bbdbae05-4a68-4c50-9804-f9676b84fc52.png" group-title="BUGÜNÜN BELGESELLERİ", 03:55 - 04:25 BENIM SAKIN DÜNYAM
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -11215,12 +11202,12 @@ https://vavoo.to/play/1098241076/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 04:30 - 05:15 VAHŞI KRALLIK
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1999823186/index.m3u8
+https://vavoo.to/play/3320654968/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 04:30 - 05:15 VAHŞI KRALLIK
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3320654968/index.m3u8
+https://vavoo.to/play/1999823186/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="TRT BELGESEL" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20181214/001300/001300000008479328/bbdbae05-4a68-4c50-9804-f9676b84fc52.png" group-title="BUGÜNÜN BELGESELLERİ", 05:00 - 05:30 YIYECEĞIN SERÜVENI
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -11255,12 +11242,12 @@ https://vavoo.to/play/3856957052/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 05:15 - 06:00 VAHŞI KRALLIK
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1999823186/index.m3u8
+https://vavoo.to/play/3320654968/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 05:15 - 06:00 VAHŞI KRALLIK
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3320654968/index.m3u8
+https://vavoo.to/play/1999823186/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="TRT BELGESEL" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20181214/001300/001300000008479328/bbdbae05-4a68-4c50-9804-f9676b84fc52.png" group-title="BUGÜNÜN BELGESELLERİ", 05:30 - 06:05 GÜMRÜK 24 SAAT
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -11295,12 +11282,12 @@ https://vavoo.to/play/3856957052/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 06:00 - 06:45 ÖLÜMCÜL İÇGÜDÜLER
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1999823186/index.m3u8
+https://vavoo.to/play/3320654968/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 06:00 - 06:45 ÖLÜMCÜL İÇGÜDÜLER
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3320654968/index.m3u8
+https://vavoo.to/play/1999823186/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="TRT BELGESEL" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20181214/001300/001300000008479328/bbdbae05-4a68-4c50-9804-f9676b84fc52.png" group-title="BUGÜNÜN BELGESELLERİ", 06:05 - 06:55 İLKBAHAR ÖYKÜLERI
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -11335,12 +11322,12 @@ https://vavoo.to/play/3856957052/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 06:45 - 07:30 AFRIKA'NIN VAHŞI KRALLIĞI
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1999823186/index.m3u8
+https://vavoo.to/play/3320654968/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 06:45 - 07:30 AFRIKA'NIN VAHŞI KRALLIĞI
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3320654968/index.m3u8
+https://vavoo.to/play/1999823186/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="TRT BELGESEL" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20181214/001300/001300000008479328/bbdbae05-4a68-4c50-9804-f9676b84fc52.png" group-title="BUGÜNÜN BELGESELLERİ", 07:00 - 07:55 ANADOLU'DA YAŞAM
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -11355,12 +11342,12 @@ https://vavoo.to/play/599757405/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 07:30 - 07:55 CANAVAR TIMSAHLAR
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1999823186/index.m3u8
+https://vavoo.to/play/3320654968/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 07:30 - 07:55 CANAVAR TIMSAHLAR
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3320654968/index.m3u8
+https://vavoo.to/play/1999823186/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="VIASAT EXPLORE" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/logo/202201/20220125/14/20220125092718511tdx_op_0_XL.png" group-title="BUGÜNÜN BELGESELLERİ", 07:35 - 08:30 ALTIN ARAYANLAR
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -11395,12 +11382,12 @@ https://vavoo.to/play/599757405/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 07:55 - 08:45 DÖVÜŞ KULÜBÜ
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1999823186/index.m3u8
+https://vavoo.to/play/3320654968/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 07:55 - 08:45 DÖVÜŞ KULÜBÜ
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3320654968/index.m3u8
+https://vavoo.to/play/1999823186/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="TRT BELGESEL" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20181214/001300/001300000008479328/bbdbae05-4a68-4c50-9804-f9676b84fc52.png" group-title="BUGÜNÜN BELGESELLERİ", 08:25 - 09:00 GEÇMIŞIN GÖLGESINDE
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -11435,12 +11422,12 @@ https://vavoo.to/play/3856957052/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 08:45 - 09:30 DÖVÜŞ KULÜBÜ
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1999823186/index.m3u8
+https://vavoo.to/play/3320654968/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 08:45 - 09:30 DÖVÜŞ KULÜBÜ
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3320654968/index.m3u8
+https://vavoo.to/play/1999823186/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="TRT BELGESEL" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20181214/001300/001300000008479328/bbdbae05-4a68-4c50-9804-f9676b84fc52.png" group-title="BUGÜNÜN BELGESELLERİ", 09:00 - 09:55 BÜYÜK PASIFIK
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -11470,12 +11457,12 @@ https://vavoo.to/play/1098241076/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 09:30 - 10:20 DÖVÜŞ KULÜBÜ
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1999823186/index.m3u8
+https://vavoo.to/play/3320654968/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 09:30 - 10:20 DÖVÜŞ KULÜBÜ
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3320654968/index.m3u8
+https://vavoo.to/play/1999823186/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="TRT BELGESEL" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20181214/001300/001300000008479328/bbdbae05-4a68-4c50-9804-f9676b84fc52.png" group-title="BUGÜNÜN BELGESELLERİ", 09:55 - 11:00 ŞEHIRDEN UZAKTA
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -11490,12 +11477,12 @@ https://vavoo.to/play/599757405/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 10:20 - 11:10 DÖVÜŞ KULÜBÜ
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1999823186/index.m3u8
+https://vavoo.to/play/3320654968/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 10:20 - 11:10 DÖVÜŞ KULÜBÜ
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3320654968/index.m3u8
+https://vavoo.to/play/1999823186/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="VIASAT EXPLORE" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/logo/202201/20220125/14/20220125092718511tdx_op_0_XL.png" group-title="BUGÜNÜN BELGESELLERİ", 10:25 - 11:20 ALTIN ARAYANLAR
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -11515,12 +11502,12 @@ https://vavoo.to/play/1098241076/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 11:10 - 12:00 DÖVÜŞ KULÜBÜ
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1999823186/index.m3u8
+https://vavoo.to/play/3320654968/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 11:10 - 12:00 DÖVÜŞ KULÜBÜ
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3320654968/index.m3u8
+https://vavoo.to/play/1999823186/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="VIASAT EXPLORE" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/logo/202201/20220125/14/20220125092718511tdx_op_0_XL.png" group-title="BUGÜNÜN BELGESELLERİ", 11:20 - 12:20 ALTIN ARAYANLAR
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -11555,12 +11542,12 @@ https://vavoo.to/play/3856957052/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 12:00 - 12:50 DÖVÜŞ KULÜBÜ
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1999823186/index.m3u8
+https://vavoo.to/play/3320654968/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 12:00 - 12:50 DÖVÜŞ KULÜBÜ
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3320654968/index.m3u8
+https://vavoo.to/play/1999823186/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="VIASAT EXPLORE" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/logo/202201/20220125/14/20220125092718511tdx_op_0_XL.png" group-title="BUGÜNÜN BELGESELLERİ", 12:20 - 13:20 AVUSTRALYALI CEVHER AVCILARI
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -11590,12 +11577,12 @@ https://vavoo.to/play/599757405/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 12:50 - 13:40 DÖVÜŞ KULÜBÜ
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1999823186/index.m3u8
+https://vavoo.to/play/3320654968/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 12:50 - 13:40 DÖVÜŞ KULÜBÜ
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3320654968/index.m3u8
+https://vavoo.to/play/1999823186/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="TARIH TV" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/logo/202209/20220906/58/20220906140825519dgx_op_0_XL.png" group-title="BUGÜNÜN BELGESELLERİ", 13:00 - 14:00 AZTEKLERIN KAYIP PIRAMITLERI
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -11630,12 +11617,12 @@ https://vavoo.to/play/1098241076/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 13:40 - 14:30 DÖVÜŞ KULÜBÜ
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1999823186/index.m3u8
+https://vavoo.to/play/3320654968/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 13:40 - 14:30 DÖVÜŞ KULÜBÜ
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3320654968/index.m3u8
+https://vavoo.to/play/1999823186/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="TARIH TV" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/logo/202209/20220906/58/20220906140825519dgx_op_0_XL.png" group-title="BUGÜNÜN BELGESELLERİ", 14:00 - 14:30 ANADOLU KALELERI
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -11675,12 +11662,12 @@ https://vavoo.to/play/3856957052/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 14:30 - 15:20 DÖVÜŞ KULÜBÜ
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1999823186/index.m3u8
+https://vavoo.to/play/3320654968/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 14:30 - 15:20 DÖVÜŞ KULÜBÜ
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3320654968/index.m3u8
+https://vavoo.to/play/1999823186/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="TRT BELGESEL" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20181214/001300/001300000008479328/bbdbae05-4a68-4c50-9804-f9676b84fc52.png" group-title="BUGÜNÜN BELGESELLERİ", 14:55 - 15:25 YIYECEĞIN SERÜVENI
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -11710,12 +11697,12 @@ https://vavoo.to/play/1098241076/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 15:20 - 16:15 DÖVÜŞ KULÜBÜ
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1999823186/index.m3u8
+https://vavoo.to/play/3320654968/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 15:20 - 16:15 DÖVÜŞ KULÜBÜ
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3320654968/index.m3u8
+https://vavoo.to/play/1999823186/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="TRT BELGESEL" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20181214/001300/001300000008479328/bbdbae05-4a68-4c50-9804-f9676b84fc52.png" group-title="BUGÜNÜN BELGESELLERİ", 15:25 - 16:00 BENIM SAKIN DÜNYAM
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -11760,12 +11747,12 @@ https://vavoo.to/play/1098241076/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 16:15 - 17:10 DÖVÜŞ KULÜBÜ
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1999823186/index.m3u8
+https://vavoo.to/play/3320654968/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 16:15 - 17:10 DÖVÜŞ KULÜBÜ
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3320654968/index.m3u8
+https://vavoo.to/play/1999823186/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="TRT BELGESEL" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20181214/001300/001300000008479328/bbdbae05-4a68-4c50-9804-f9676b84fc52.png" group-title="BUGÜNÜN BELGESELLERİ", 17:00 - 17:35 FORMA BALKAN GÖNÜL SAHALARI
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -11800,12 +11787,12 @@ https://vavoo.to/play/1098241076/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 17:10 - 18:05 DÖVÜŞ KULÜBÜ
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1999823186/index.m3u8
+https://vavoo.to/play/3320654968/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 17:10 - 18:05 DÖVÜŞ KULÜBÜ
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3320654968/index.m3u8
+https://vavoo.to/play/1999823186/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="TRT BELGESEL" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20181214/001300/001300000008479328/bbdbae05-4a68-4c50-9804-f9676b84fc52.png" group-title="BUGÜNÜN BELGESELLERİ", 17:35 - 18:10 ESKIDEN BERI
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -11835,12 +11822,12 @@ https://vavoo.to/play/1098241076/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 18:05 - 19:00 AFRIKA'NIN AVCILARI
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1999823186/index.m3u8
+https://vavoo.to/play/3320654968/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 18:05 - 19:00 AFRIKA'NIN AVCILARI
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3320654968/index.m3u8
+https://vavoo.to/play/1999823186/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="TRT BELGESEL" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20181214/001300/001300000008479328/bbdbae05-4a68-4c50-9804-f9676b84fc52.png" group-title="BUGÜNÜN BELGESELLERİ", 18:10 - 18:35 AÇIK ATEŞ
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -11875,12 +11862,12 @@ https://vavoo.to/play/599757405/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 19:00 - 20:00 AFRIKA'NIN AVCILARI
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1999823186/index.m3u8
+https://vavoo.to/play/3320654968/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 19:00 - 20:00 AFRIKA'NIN AVCILARI
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3320654968/index.m3u8
+https://vavoo.to/play/1999823186/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="VIASAT EXPLORE" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/logo/202201/20220125/14/20220125092718511tdx_op_0_XL.png" group-title="BUGÜNÜN BELGESELLERİ", 19:10 - 20:00 DONDURUCU AV
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -11930,12 +11917,12 @@ https://vavoo.to/play/1098241076/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 20:00 - 21:00 VETERINER DOSTLAR
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1999823186/index.m3u8
+https://vavoo.to/play/3320654968/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 20:00 - 21:00 VETERINER DOSTLAR
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3320654968/index.m3u8
+https://vavoo.to/play/1999823186/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="TRT BELGESEL" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20181214/001300/001300000008479328/bbdbae05-4a68-4c50-9804-f9676b84fc52.png" group-title="BUGÜNÜN BELGESELLERİ", 20:40 - 21:35 YEDI DÜNYA BIR GEZEGEN
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -11970,12 +11957,12 @@ https://vavoo.to/play/1098241076/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 21:00 - 22:00 VETERINER DOSTLAR
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1999823186/index.m3u8
+https://vavoo.to/play/3320654968/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 21:00 - 22:00 VETERINER DOSTLAR
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3320654968/index.m3u8
+https://vavoo.to/play/1999823186/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="TRT BELGESEL" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20181214/001300/001300000008479328/bbdbae05-4a68-4c50-9804-f9676b84fc52.png" group-title="BUGÜNÜN BELGESELLERİ", 21:35 - 22:10 MODERN ZAMAN İŞLERI
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -12010,12 +11997,12 @@ https://vavoo.to/play/1098241076/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 22:00 - 22:50 DÖVÜŞ KULÜBÜ
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1999823186/index.m3u8
+https://vavoo.to/play/3320654968/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 22:00 - 22:50 DÖVÜŞ KULÜBÜ
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3320654968/index.m3u8
+https://vavoo.to/play/1999823186/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="TRT BELGESEL" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20181214/001300/001300000008479328/bbdbae05-4a68-4c50-9804-f9676b84fc52.png" group-title="BUGÜNÜN BELGESELLERİ", 22:10 - 22:40 YIYECEĞIN SERÜVENI
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -12030,12 +12017,12 @@ https://vavoo.to/play/599757405/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 22:50 - 23:45 VETERINER DOSTLAR
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1999823186/index.m3u8
+https://vavoo.to/play/3320654968/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 22:50 - 23:45 VETERINER DOSTLAR
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3320654968/index.m3u8
+https://vavoo.to/play/1999823186/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="VIASAT EXPLORE" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/logo/202201/20220125/14/20220125092718511tdx_op_0_XL.png" group-title="BUGÜNÜN BELGESELLERİ", 22:55 - 00:00 AVUSTRALYALI CEVHER AVCILARI
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -12070,12 +12057,12 @@ https://vavoo.to/play/599757405/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 23:45 - 00:35 YETENEKLI DR. POL
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1999823186/index.m3u8
+https://vavoo.to/play/3320654968/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" group-title="BUGÜNÜN BELGESELLERİ", 23:45 - 00:35 YETENEKLI DR. POL
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3320654968/index.m3u8
+https://vavoo.to/play/1999823186/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="NTV" tvg-logo="https://ankottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160628/001300/001300000008479163/0fba7796-32d8-401e-a6e4-b975f081c725.png" group-title="BUGÜNÜN HABER PROGRAMLARI", 00:00 - 00:55 HABER BÜLTENI
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -13175,12 +13162,12 @@ https://vavoo.to/play/3822901239/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="360" tvg-logo="" group-title="TURKEY", 360
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/865410951/index.m3u8
+https://vavoo.to/play/1651455199/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="360" tvg-logo="" group-title="TURKEY", 360
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1651455199/index.m3u8
+https://vavoo.to/play/865410951/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="360 PLUS" tvg-logo="" group-title="TURKEY", 360 PLUS
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -15305,12 +15292,12 @@ https://vavoo.to/play/1290434890/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="EURO STAR" tvg-logo="" group-title="TURKEY", EURO STAR
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1827094680/index.m3u8
+https://vavoo.to/play/3814521935/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="EURO STAR" tvg-logo="" group-title="TURKEY", EURO STAR
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3814521935/index.m3u8
+https://vavoo.to/play/1827094680/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="EUROSTAR" tvg-logo="" group-title="TURKEY", EUROSTAR
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -16030,12 +16017,12 @@ https://vavoo.to/play/1781656098/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="KANAL D HD" tvg-logo="" group-title="TURKEY", KANAL D HD
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1130441933/index.m3u8
+https://vavoo.to/play/1371306270/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="KANAL D HD" tvg-logo="" group-title="TURKEY", KANAL D HD
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1371306270/index.m3u8
+https://vavoo.to/play/1130441933/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="KANAL D HEVC" tvg-logo="" group-title="TURKEY", KANAL D HEVC
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -17840,12 +17827,12 @@ https://vavoo.to/play/691149597/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="TRT COCUK" tvg-logo="" group-title="TURKEY", TRT COCUK
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/792228122/index.m3u8
+https://vavoo.to/play/685794830/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="TRT COCUK" tvg-logo="" group-title="TURKEY", TRT COCUK
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/685794830/index.m3u8
+https://vavoo.to/play/792228122/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="TRT COCUK RAW" tvg-logo="" group-title="TURKEY", TRT COCUK RAW
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -18005,12 +17992,12 @@ https://vavoo.to/play/163520723/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="TV 100" tvg-logo="" group-title="TURKEY", TV 100
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3769488982/index.m3u8
+https://vavoo.to/play/1685299472/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="TV 100" tvg-logo="" group-title="TURKEY", TV 100
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1685299472/index.m3u8
+https://vavoo.to/play/3769488982/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="TV 100 HEVC" tvg-logo="" group-title="TURKEY", TV 100 HEVC
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -18065,12 +18052,12 @@ https://vavoo.to/play/2602281851/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="TV 8" tvg-logo="" group-title="TURKEY", TV 8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2196709234/index.m3u8
+https://vavoo.to/play/4292306921/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="TV 8" tvg-logo="" group-title="TURKEY", TV 8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/4292306921/index.m3u8
+https://vavoo.to/play/2196709234/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="TV 8 HD" tvg-logo="" group-title="TURKEY", TV 8 HD
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
