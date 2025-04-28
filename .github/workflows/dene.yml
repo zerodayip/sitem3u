@@ -8,42 +8,28 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout the code
+    - name: Checkout the source repository
       uses: actions/checkout@v3
-
-    - name: Upload m3u file as an artifact
-      uses: actions/upload-artifact@v3
       with:
-        name: m3u-file
-        path: d/dosya.m3u  # Yüklemek istediğiniz m3u dosyasının yolu
+        repository: 'source_user/source_repo'  # Kaynak repo adı
+        token: ${{ secrets.GH_TOKEN }}  # Kaynak repo için token
 
-    - name: Download artifact to another job (optional)
-      uses: actions/download-artifact@v3
-      with:
-        name: m3u-file
-
-    - name: Set up Git
+    - name: Set up Git for private repository
       run: |
         git config --global user.name "GitHub Actions"
         git config --global user.email "actions@github.com"
     
-    - name: Read m3u file and upload to private repo
+    - name: Copy m3u file to private repo
       run: |
-        # Artifact'tan m3u dosyasını indir
-        cat d/dosya.m3u
+        # Hedef repo'ya erişmek için hedef repository'i checkout ediyoruz
+        git clone https://github.com/MDuymazz/Py.git
+        cd Py
+        
+        # Kaynak repo'dan dosyayı kopyalıyoruz
+        cp ../d/dosya.m3u ./d/dosya.m3u
+        
+        # Değişiklikleri commit edip push ediyoruz
+        git add d/dosya.m3u
+        git commit -m "Add m3u file from source repo"
+        git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/MDuymazz/Py.git
 
-        # m3u dosyasını okuma
-        m3u_content=$(cat d/dosya.m3u)
-
-        # Base64 formatına dönüştürme
-        encoded_content=$(echo -n "$m3u_content" | base64)
-
-        # API isteği göndermek için curl kullanıyoruz
-        curl -X PUT \
-          -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
-          -d '{
-                "message": "m3u dosyası yüklendi",
-                "content": "'"$encoded_content"'",
-                "branch": "main"
-              }' \
-          https://api.github.com/repos/MDuymazz/Py/contents/d/dosya.m3u
