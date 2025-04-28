@@ -14,11 +14,17 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
 
+    - name: Ensure all files are writable (chmod +w)
+      run: |
+        echo "Ensuring all files are writable"
+        chmod -R +w ./v
+
     - name: Delete all files except data.html in 'v' directory
       run: |
-        # v klasöründe data.html haricindeki tüm dosyaları sil
+        echo "Deleting files in 'v' directory except data.html"
         for file in ./v/*; do
           if [ "$file" != "./v/data.html" ]; then
+            echo "Deleting $file"
             rm -f "$file"
           fi
         done
