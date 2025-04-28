@@ -4,57 +4,23 @@ on:
   push:
     paths:
       - sil.txt  # Sadece `sil.txt` dosyası değiştiğinde çalışacak
+  workflow_dispatch:  # Manuel olarak da tetiklenebilir
 
 jobs:
-  delete-files:
+  cleanup:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
+    - name: Checkout repository
+      uses: actions/checkout@v2
 
-      - name: Wait for 45 seconds before proceeding
-        run: |
-          echo "Waiting for 45 seconds before starting..."
-          sleep 45  # 45 saniye bekle
+    - name: Delete all files except data.html, ana_link.txt, and logo.txt, and delete sil.txt
+      run: |
+        # .v klasöründeki data.html hariç tüm dosyaları sil
+        find . -type f -path './v/*' ! -name 'data.html' -exec rm -f {} \;
+        
+        # s klasöründeki ana_link.txt ve logo.txt hariç tüm dosyaları sil
+        find . -type f -path './s/*' ! -name 'ana_link.txt' ! -name 'logo.txt' -exec rm -f {} \;
 
-      - name: Delete files, excluding specified ones
-        run: |
-          echo "Deleting files, keeping exclusions..."
-
-          # Silinmemesi gereken dosyalar
-          protected_files=(
-            "v/data.html"
-            "d/livejson.py"
-            "d/logo.txt"
-            "d/schedule.json"
-            "g/ana_link.txt"
-            "g/logo.txt"
-            "s/ana_link.txt"
-            "s/logo.txt"
-            "playlist.m3u"
-          )
-
-          # Tüm dosyaları sil
-          for file in $(find . -type f); do
-            # Dosya silinmesi gerekenlerden mi?
-            if [[ ! " ${protected_files[@]} " =~ " ${file} " ]]; then
-              echo "Deleting $file"
-              rm -f "$file"  # Silme işlemi
-            else
-              echo "Skipping $file"
-            fi
-          done
-
-      - name: Commit changes if files were deleted
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git add .
-          
-          # Eğer dosya değişikliği olduysa commit et
-          git diff --quiet && git diff --staged --quiet || git commit -m "Cleanup files after push or manual trigger [auto]" 
-
-      - name: Push changes to repository
-        run: |
-          git push origin main
+        # Ana dizindeki sil.txt dosyasını sil
+        rm -f ./sil.txt
