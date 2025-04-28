@@ -23,9 +23,9 @@ jobs:
         echo "Listing files in the 's' directory:"
         ls -alh ./s
 
-    - name: Delete all files except data.html, ana_link.txt, and logo.txt, and delete sil.txt
+    - name: Delete all files except data.html in the 'v' directory, ana_link.txt, and logo.txt, and delete sil.txt
       run: |
-        # .v klasöründeki data.html hariç tüm dosyaları sil
+        # v klasöründeki data.html hariç tüm dosyaları sil
         echo "Deleting files in './v' directory except data.html"
         find ./v -type f ! -name 'data.html' -exec rm -f {} \;
 
