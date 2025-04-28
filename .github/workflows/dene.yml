@@ -1,39 +1,37 @@
-name: Copy m3u file from public to private repo
+name: Sync m3u Files from Public to Py Repo
 
 on:
-  workflow_dispatch:  # Manuel tetikleme
+  workflow_dispatch:  # Manuel olarak tetiklemek için
 
 jobs:
-  copy_m3u_file:
+  sync-m3u:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout the public repository (sitem3u)
-      uses: actions/checkout@v3
+    - name: Checkout Public repo
+      uses: actions/checkout@v2
       with:
-        repository: 'MDuymazz/sitem3u'  # Public repo adı: sitem3u
-        token: ${{ secrets.GH_TOKEN }}  # Public repo'ya token gerekmez, ancak işlem için kullanabiliriz
+        repository: 'MDuymazz/sitem3u'  # Public repo'nun GitHub adresi
+        token: ${{ secrets.GITHUB_TOKEN }}
 
-    - name: Set up Git for private repository (Py)
-      run: |
-        git config --global user.name "GitHub Actions"
-        git config --global user.email "actions@github.com"
-    
-    - name: Clone the private repository (Py) and checkout the main branch
-      run: |
-        # Gizli repo'yu klonlarken token'ı kullanarak kimlik doğrulaması yapıyoruz
-        git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/MDuymazz/Py.git  # Gizli repo URL'si
-        cd Py
-        git checkout main  # Gizli repo'nun default branch'ına checkout yapıyoruz
+    - name: Checkout Py repo
+      uses: actions/checkout@v2
+      with:
+        repository: 'MDuymazz/Py'  # Py repo'nun GitHub adresi
+        token: ${{ secrets.GITHUB_TOKEN }}
+        path: Py_repo  # Py repo'su yerel dizin olarak 'Py_repo' olarak checkout edilecek
 
-    - name: Copy m3u file from sitem3u to Py repo
+    - name: Copy m3u files from Public to Py repo
       run: |
-        # Public repo'dan m3u dosyasını alıyoruz ve gizli repo'ya kopyalıyoruz
-        cp ../sitem3u/d/event.m3u ./d/event.m3u
-        
-        # Değişiklikleri git'e ekliyoruz ve commit ediyoruz
-        git add d/event.m3u
-        git commit -m "Update event.m3u with data from public repo"
-        
-        # Gizli repo'ya push ediyoruz
-        git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/MDuymazz/Py.git
+        cp -r sitem3u/d/*.m3u Py_repo/d/  # Public repo'dan m3u dosyalarını Py repo'suna kopyala
+
+    - name: Commit and Push changes to Py repo
+      run: |
+        cd Py_repo
+        git config --global user.name "MDuymazz"  # GitHub kullanıcı adınız
+        git config --global user.email "youremail@example.com"  # GitHub email adresinizi buraya girin
+        git add .
+        git commit -m "Sync m3u files from Public repo"
+        git push origin main
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
