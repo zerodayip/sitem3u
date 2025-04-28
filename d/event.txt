@@ -1,17 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="10:00 (CİMNASTİK) WORLD ARTISTIC GYMNASTICS CUP: EGYPT (SPORT 5 GOLD ISRAEL)" tvg-logo="https://w7.pngwing.com/pngs/547/280/png-transparent-artistic-gymnastics-horizontal-bar-usa-gymnastics-sport-gymnastics-angle-hand-sport-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",10:00 (CİMNASTİK) WORLD ARTISTIC GYMNASTICS CUP: EGYPT (SPORT 5 GOLD ISRAEL)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6top1.newkso.ru/ddy6/premium148/mono.m3u8
-
-#EXTINF:-1 tvg-id="10:30 (BUZ HOKEYİ) IIHF DIVISION 1A : ITALY VS UKRAINE (POLSAT SPORT 1 POLAND)" tvg-logo="https://w7.pngwing.com/pngs/545/208/png-transparent-ice-hockey-pond-hockey-hockey-players-sport-video-player-competition-event-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",10:30 (BUZ HOKEYİ) IIHF DIVISION 1A : ITALY VS UKRAINE (POLSAT SPORT 1 POLAND)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windtop1.newkso.ru/wind/premium47/mono.m3u8
-
 #EXTINF:-1 tvg-id="11:30 (BİSİKLET YARIŞI) TOUR OF TURKEY | STAGE 2 MEN | KEMER – KALKAN (167.4KM) (TNT SPORTS 1 UK)" tvg-logo="https://w7.pngwing.com/pngs/592/95/png-transparent-wall-decal-sticker-cycling-sport-cyclist-child-sport-bicycle-frame-thumbnail.png" group-title="SPOR YAYINLARI 2 ( MAÇ SAATİ )",11:30 (BİSİKLET YARIŞI) TOUR OF TURKEY | STAGE 2 MEN | KEMER – KALKAN (167.4KM) (TNT SPORTS 1 UK)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz
