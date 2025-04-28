@@ -1,0 +1,48 @@
+name: Push .m3u Files to Private Repo
+
+on:
+  schedule:
+    - cron: '0 */1 * * *'  # Workflow her saat başı çalışacak
+  workflow_dispatch:  # Manuel tetikleme
+
+jobs:
+  push-m3u-to-private-repo:
+    runs-on: ubuntu-latest
+
+    steps:
+      # GitHub Action'ı ile .m3u dosyalarını doğrudan push etmek
+      - name: Checkout repository (for action)
+        uses: actions/checkout@v2
+
+      # .m3u dosyalarını ayıklıyoruz
+      - name: Prepare .m3u Files
+        run: |
+          # .m3u dosyasının yolu
+          M3U_FILE_PATH="d/event.m3u"
+          
+          # .m3u dosyasının varlığını kontrol et
+          if [ -f "$M3U_FILE_PATH" ]; then
+            echo "Found .m3u file, proceeding with push."
+          else
+            echo ".m3u file not found, exiting."
+            exit 1
+          fi
+
+      # .m3u dosyasını git ile Py repo'suna push etmek
+      - name: Push .m3u file to private repository
+        run: |
+          # .m3u dosyasını gizli repo'ya push etmek için gerekli işlemler
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          
+          # .m3u dosyasını içeren repoyu direkt push ediyoruz
+          git remote add private-repo https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/MDuymazz/Py.git
+          
+          # .m3u dosyasını git'e ekliyoruz
+          git add d/event.m3u  # Belirli dosyayı ekliyoruz (event.m3u)
+
+          # Değişiklikleri commit ediyoruz
+          git commit -m "Update .m3u file" || echo "No changes to commit"  # Commit mesajı
+
+          # Değişiklikleri Py repo'suna push ediyoruz
+          git push private-repo main  # Sadece .m3u dosyasını gizli repo'ya push ediyoruz
