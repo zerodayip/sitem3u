@@ -35,11 +35,8 @@ jobs:
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
 
-          # Repo URL'yi kontrol et ve doğru URL ile bağlantıyı ekle
-          REPO_URL=https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/MDuymazz/Py.git
-          
-          # Uzak repository bağlantısını ekliyoruz
-          git remote add private-repo $REPO_URL
+          # Uzak repository bağlantısını doğru şekilde ayarlıyoruz
+          git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/MDuymazz/Py.git
 
           # .m3u dosyasını ekliyoruz
           git add d/event.m3u  # .m3u dosyasını stage ediyoruz
@@ -48,4 +45,4 @@ jobs:
           git commit -m "Update .m3u file" || echo "No changes to commit"  # Eğer dosyada değişiklik yoksa commit etme
 
           # Değişiklikleri Py repo'suna push ediyoruz
-          git push private-repo main  # .m3u dosyasını push ediyoruz
+          git push origin main  # .m3u dosyasını push ediyoruz
