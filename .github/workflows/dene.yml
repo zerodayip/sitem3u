@@ -1,0 +1,35 @@
+name: Upload m3u file to private repo
+
+on:
+  workflow_dispatch:  # Bu satır manuel olarak tetiklemeyi sağlar
+
+jobs:
+  upload_m3u:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout the code
+      uses: actions/checkout@v3
+
+    - name: Set up Git
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+    
+    - name: Read m3u file and upload to private repo
+      run: |
+        # m3u dosyasını okuma
+        m3u_content=$(cat d/dosya.m3u)
+
+        # Base64 formatına dönüştürme
+        encoded_content=$(echo -n "$m3u_content" | base64)
+
+        # API isteği göndermek için curl kullanıyoruz
+        curl -X PUT \
+          -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
+          -d '{
+                "message": "m3u dosyası yüklendi",
+                "content": "'"$encoded_content"'",
+                "branch": "main"
+              }' \
+          https://api.github.com/repos/MDuymazz/Py/contents/d/dosya.m3u
