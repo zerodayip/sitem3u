@@ -1,4 +1,4 @@
-name: Delete Files Except data.html
+name: Delete Files
 
 on:
   push:
@@ -19,9 +19,27 @@ jobs:
           git config --global user.email "your-email@example.com"  # GitHub e-posta adresinizi buraya yazın
           git config --global user.name "Your Name"  # GitHub kullanıcı adınızı buraya yazın
 
-      - name: Delete all files except data.html
+      - name: Delete all files except data.html in 'v' folder
         run: |
           # 'v' klasöründeki tüm dosyaları sil, data.html hariç
           find v -type f ! -name 'data.html' -exec git rm {} \;
-          git commit -m "Delete all files except data.html"
+
+      - name: Delete all files except logo.txt and ana_link.txt in 's' folder
+        run: |
+          # 's' klasöründeki tüm dosyaları sil, logo.txt ve ana_link.txt hariç
+          find s -type f ! -name 'logo.txt' ! -name 'ana_link.txt' -exec git rm {} \;
+
+      - name: Delete all files except logo.txt and ana_link.txt in 'g' folder
+        run: |
+          # 'g' klasöründeki tüm dosyaları sil, logo.txt ve ana_link.txt hariç
+          find g -type f ! -name 'logo.txt' ! -name 'ana_link.txt' -exec git rm {} \;
+
+      - name: Delete all files except logo.txt, livejson.py, and schedule.json in 'd' folder
+        run: |
+          # 'd' klasöründeki tüm dosyaları sil, logo.txt, livejson.py, schedule.json hariç
+          find d -type f ! -name 'logo.txt' ! -name 'livejson.py' ! -name 'schedule.json' -exec git rm {} \;
+
+      - name: Commit and push the changes
+        run: |
+          git commit -m "Delete files"
           git push origin main  # Ya da hangi branşta çalıştırmak istiyorsanız
