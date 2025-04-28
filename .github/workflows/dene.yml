@@ -21,8 +21,8 @@ jobs:
     
     - name: Clone the private repository (Py) and checkout the main branch
       run: |
-        # Gizli repo'yu klonluyoruz
-        git clone https://github.com/MDuymazz/Py.git  # Gizli repo URL'si: Py
+        # Gizli repo'yu klonlarken token'ı kullanarak kimlik doğrulaması yapıyoruz
+        git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/MDuymazz/Py.git  # Gizli repo URL'si
         cd Py
         git checkout main  # Gizli repo'nun default branch'ına checkout yapıyoruz
 
