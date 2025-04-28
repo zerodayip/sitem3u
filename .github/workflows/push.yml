@@ -86,12 +86,9 @@ jobs:
           git commit --amend --no-edit || git commit -m "Sync root m3u files into m3u8 folder [auto]"
           git push origin main --force  # Force push ile commit'i yap
           
-      - name: Create sil.txt (Trigger file)
+      - name: Create or Update sil.txt (Trigger file)
         run: |
-          echo "This is a trigger file" > sil.txt  # sil.txt dosyasını oluştur
-
-      - name: Commit and Push sil.txt
-        run: |
-          git add sil.txt
-          git commit -m "Create sil.txt to trigger next step"
-          git push origin main
+          echo "This is a trigger file $(date)" > sil.txt  # sil.txt dosyasının içeriğini her seferinde değiştir
+          git add sil.txt  # Dosyayı git'e ekle
+          git commit -m "Update sil.txt to trigger next step"  # Commit yap
+          git push origin main  # Push işlemini gerçekleştir
