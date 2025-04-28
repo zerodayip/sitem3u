@@ -3,7 +3,7 @@ name: Delete Files After Push (Manual or Workflow Trigger)
 on:
   push:
     paths:
-      - sil.txt  # Sadece `sil.txt` dosyası değiştiğinde çalışacak
+      - sil.txt  # Sadece sil.txt dosyası değiştiğinde çalışacak
   workflow_dispatch:  # Manuel olarak da tetiklenebilir
 
 jobs:
@@ -14,52 +14,6 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
 
-    - name: List files in the repository (for debugging)
+    - name: Delete all files except data.html in 'v' directory
       run: |
-        echo "Listing files in the root directory before deletion:"
-        ls -alh
-        echo "Listing files in the 'v' directory before deletion:"
-        ls -alh ./v
-        echo "Listing files in the 's' directory before deletion:"
-        ls -alh ./s
-
-    - name: Delete all files except data.html in the 'v' directory, ana_link.txt, and logo.txt, and delete sil.txt
-      run: |
-        # Çalışma dizinini kontrol et
-        echo "Current working directory: $(pwd)"
-        
-        echo "Listing files in './v' directory before deletion:"
-        ls -alh ./v
-
-        # v klasöründeki dosyaları bul ve sil
-        echo "Deleting files in './v' directory except data.html"
         find ./v -type f ! -name 'data.html' -exec rm -f {} \;
-
-        # Dosyaların silinip silinmediğini kontrol et
-        echo "Listing files in './v' directory after deletion:"
-        ls -alh ./v
-
-        # s klasöründeki dosyaları bul ve sil
-        echo "Deleting files in './s' directory except ana_link.txt and logo.txt"
-        find ./s -type f ! -name 'ana_link.txt' ! -name 'logo.txt' -exec rm -f {} \;
-
-        # Dosyaların silinip silinmediğini kontrol et
-        echo "Listing files in './s' directory after deletion:"
-        ls -alh ./s
-
-        # Ana dizindeki sil.txt dosyasını sil
-        echo "Deleting sil.txt in the root directory"
-        rm -f ./sil.txt
-
-        # Silinip silinmediğini kontrol et
-        echo "Listing files in the root directory after deletion:"
-        ls -alh
-
-    - name: List files after deletion (for debugging)
-      run: |
-        echo "Listing files in the root directory after deletion:"
-        ls -alh
-        echo "Listing files in the 'v' directory after deletion:"
-        ls -alh ./v
-        echo "Listing files in the 's' directory after deletion:"
-        ls -alh ./s
