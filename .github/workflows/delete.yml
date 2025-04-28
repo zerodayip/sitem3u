@@ -14,13 +14,34 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
 
+    - name: List files in the repository (for debugging)
+      run: |
+        echo "Listing files in the root directory:"
+        ls -alh
+        echo "Listing files in the 'v' directory:"
+        ls -alh ./v
+        echo "Listing files in the 's' directory:"
+        ls -alh ./s
+
     - name: Delete all files except data.html, ana_link.txt, and logo.txt, and delete sil.txt
       run: |
         # .v klasöründeki data.html hariç tüm dosyaları sil
-        find . -type f -path './v/*' ! -name 'data.html' -exec rm -f {} \;
-        
+        echo "Deleting files in './v' directory except data.html"
+        find ./v -type f ! -name 'data.html' -exec rm -f {} \;
+
         # s klasöründeki ana_link.txt ve logo.txt hariç tüm dosyaları sil
-        find . -type f -path './s/*' ! -name 'ana_link.txt' ! -name 'logo.txt' -exec rm -f {} \;
+        echo "Deleting files in './s' directory except ana_link.txt and logo.txt"
+        find ./s -type f ! -name 'ana_link.txt' ! -name 'logo.txt' -exec rm -f {} \;
 
         # Ana dizindeki sil.txt dosyasını sil
+        echo "Deleting sil.txt in the root directory"
         rm -f ./sil.txt
+
+    - name: List files after deletion (for debugging)
+      run: |
+        echo "Listing files in the root directory after deletion:"
+        ls -alh
+        echo "Listing files in the 'v' directory after deletion:"
+        ls -alh ./v
+        echo "Listing files in the 's' directory after deletion:"
+        ls -alh ./s
