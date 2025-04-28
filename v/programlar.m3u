@@ -530,6 +530,11 @@ https://vavoo.to/play/699305923/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2484805699/index.m3u8
 
+#EXTINF:-1 tvg-id="None" tvg-name="SINEMA AILE 1" tvg-logo="https://izmottvsc30.tvplus.com.tr:33207/CPS/images/universal/film/logo/202001/20200127/20200127164535159uuh_op_0_XL.png" group-title="BUGÜNÜN FİLMLERİ", 20:00 - 21:45 KRAL VE BEN
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/4245508443/index.m3u8
+
 #EXTINF:-1 tvg-id="None" tvg-name="TRT 2" tvg-logo="https://izmottvsc30.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190221/001300/XTV100001019/73220b58-a545-4242-8904-a14f3c04a661.png" group-title="BUGÜNÜN FİLMLERİ", 21:30 - 23:15 BIR SON DUYGUSU
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/

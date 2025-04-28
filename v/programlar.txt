@@ -361,6 +361,11 @@ SAAT= 20:00 - 22:00
 KANAL= SINEMA YERLI 1
 LOGO URL= https://izmottvsc30.tvplus.com.tr:33207/CPS/images/universal/film/logo/202002/20200203/20200203234951578bkz_op_0_XL.png
 
+MAÇ ADI= KRAL VE BEN
+SAAT= 20:00 - 21:45
+KANAL= SINEMA AILE 1
+LOGO URL= https://izmottvsc30.tvplus.com.tr:33207/CPS/images/universal/film/logo/202001/20200127/20200127164535159uuh_op_0_XL.png
+
 MAÇ ADI= BIR SON DUYGUSU
 SAAT= 21:30 - 23:15
 KANAL= TRT 2
