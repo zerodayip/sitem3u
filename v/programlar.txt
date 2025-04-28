@@ -42,157 +42,157 @@ TUR= BUGÜNÜN DİZİLERİ
 MAÇ ADI= ARKA SOKAKLAR
 SAAT= 00:15 - 02:45
 KANAL= KANAL D
-LOGO URL= https://izmottvsc20.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478844/12a565d3-1ed5-4494-ab59-5240b24a8229.png
+LOGO URL= https://gbzeottvsc34.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478844/12a565d3-1ed5-4494-ab59-5240b24a8229.png
 
 MAÇ ADI= KIZILCIK ŞERBETI
 SAAT= 00:15 - 02:30
 KANAL= SHOW TV
-LOGO URL= https://izmottvsc20.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478870/27965d46-2678-4234-8c8e-b8af4facfbe3.png
+LOGO URL= https://gbzeottvsc34.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478870/27965d46-2678-4234-8c8e-b8af4facfbe3.png
 
 MAÇ ADI= KURULUŞ OSMAN
 SAAT= 00:20 - 03:00
 KANAL= ATV
-LOGO URL= https://izmottvsc20.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526498/c05a58b7-8d29-4b7b-8a66-dadc322d4c0a.png
+LOGO URL= https://gbzeottvsc34.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526498/c05a58b7-8d29-4b7b-8a66-dadc322d4c0a.png
 
 MAÇ ADI= GÖNÜL DAĞI
 SAAT= 01:30 - 03:50
 KANAL= TRT 1
-LOGO URL= https://izmottvsc20.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526522/11e29c3e-0da1-4ed7-9e61-52cafff46497.png
+LOGO URL= https://gbzeottvsc34.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526522/11e29c3e-0da1-4ed7-9e61-52cafff46497.png
 
 MAÇ ADI= SEFIRIN KIZI
 SAAT= 02:00 - 04:00
 KANAL= STAR TV
-LOGO URL= https://izmottvsc20.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008478854/48fb4dca-51a1-4a47-b9a4-5d01f5979b75.png
+LOGO URL= https://gbzeottvsc34.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008478854/48fb4dca-51a1-4a47-b9a4-5d01f5979b75.png
 
 MAÇ ADI= ŞAHANE HAYATIM
 SAAT= 02:15 - 03:45
 KANAL= NOW TV HD
-LOGO URL= https://izmottvsc20.tvplus.com.tr:33207/CPS/images/universal/film/logo/202502/20250213/80/1009529751935eb9b42e_op_0_XL.png
+LOGO URL= https://gbzeottvsc34.tvplus.com.tr:33207/CPS/images/universal/film/logo/202502/20250213/80/1009529751935eb9b42e_op_0_XL.png
 
 MAÇ ADI= BAHAR
 SAAT= 02:30 - 04:30
 KANAL= SHOW TV
-LOGO URL= https://izmottvsc20.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478870/27965d46-2678-4234-8c8e-b8af4facfbe3.png
+LOGO URL= https://gbzeottvsc34.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478870/27965d46-2678-4234-8c8e-b8af4facfbe3.png
 
 MAÇ ADI= YARGI
 SAAT= 02:45 - 04:30
 KANAL= KANAL D
-LOGO URL= https://izmottvsc20.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478844/12a565d3-1ed5-4494-ab59-5240b24a8229.png
+LOGO URL= https://gbzeottvsc34.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478844/12a565d3-1ed5-4494-ab59-5240b24a8229.png
 
 MAÇ ADI= CAN BORCU
 SAAT= 03:00 - 05:50
 KANAL= ATV
-LOGO URL= https://izmottvsc20.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526498/c05a58b7-8d29-4b7b-8a66-dadc322d4c0a.png
+LOGO URL= https://gbzeottvsc34.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526498/c05a58b7-8d29-4b7b-8a66-dadc322d4c0a.png
 
 MAÇ ADI= HER YERDE SEN
 SAAT= 03:45 - 06:00
 KANAL= NOW TV HD
-LOGO URL= https://izmottvsc20.tvplus.com.tr:33207/CPS/images/universal/film/logo/202502/20250213/80/1009529751935eb9b42e_op_0_XL.png
+LOGO URL= https://gbzeottvsc34.tvplus.com.tr:33207/CPS/images/universal/film/logo/202502/20250213/80/1009529751935eb9b42e_op_0_XL.png
 
 MAÇ ADI= BENI BÖYLE SEV
 SAAT= 03:50 - 05:55
 KANAL= TRT 1
-LOGO URL= https://izmottvsc20.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526522/11e29c3e-0da1-4ed7-9e61-52cafff46497.png
+LOGO URL= https://gbzeottvsc34.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526522/11e29c3e-0da1-4ed7-9e61-52cafff46497.png
 
 MAÇ ADI= DEHA
 SAAT= 04:30 - 08:00
 KANAL= SHOW TV
-LOGO URL= https://izmottvsc20.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478870/27965d46-2678-4234-8c8e-b8af4facfbe3.png
+LOGO URL= https://gbzeottvsc34.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478870/27965d46-2678-4234-8c8e-b8af4facfbe3.png
 
 MAÇ ADI= POYRAZ KARAYEL
 SAAT= 05:00 - 07:00
 KANAL= KANAL D
-LOGO URL= https://izmottvsc20.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478844/12a565d3-1ed5-4494-ab59-5240b24a8229.png
+LOGO URL= https://gbzeottvsc34.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478844/12a565d3-1ed5-4494-ab59-5240b24a8229.png
 
 MAÇ ADI= KIRALIK AŞK
 SAAT= 05:00 - 07:00
 KANAL= STAR TV
-LOGO URL= https://izmottvsc20.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008478854/48fb4dca-51a1-4a47-b9a4-5d01f5979b75.png
+LOGO URL= https://gbzeottvsc34.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008478854/48fb4dca-51a1-4a47-b9a4-5d01f5979b75.png
 
 MAÇ ADI= HERCAI
 SAAT= 05:50 - 08:00
 KANAL= ATV
-LOGO URL= https://izmottvsc20.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526498/c05a58b7-8d29-4b7b-8a66-dadc322d4c0a.png
+LOGO URL= https://gbzeottvsc34.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526498/c05a58b7-8d29-4b7b-8a66-dadc322d4c0a.png
 
 MAÇ ADI= KEFARET
 SAAT= 06:00 - 07:30
 KANAL= NOW TV HD
-LOGO URL= https://izmottvsc20.tvplus.com.tr:33207/CPS/images/universal/film/logo/202502/20250213/80/1009529751935eb9b42e_op_0_XL.png
+LOGO URL= https://gbzeottvsc34.tvplus.com.tr:33207/CPS/images/universal/film/logo/202502/20250213/80/1009529751935eb9b42e_op_0_XL.png
 
 MAÇ ADI= VUSLAT
 SAAT= 06:45 - 10:30
 KANAL= TRT 1
-LOGO URL= https://izmottvsc20.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526522/11e29c3e-0da1-4ed7-9e61-52cafff46497.png
+LOGO URL= https://gbzeottvsc34.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526522/11e29c3e-0da1-4ed7-9e61-52cafff46497.png
 
 MAÇ ADI= KAVAK YELLERI
 SAAT= 07:00 - 09:00
 KANAL= KANAL D
-LOGO URL= https://izmottvsc20.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478844/12a565d3-1ed5-4494-ab59-5240b24a8229.png
+LOGO URL= https://gbzeottvsc34.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478844/12a565d3-1ed5-4494-ab59-5240b24a8229.png
 
 MAÇ ADI= DEHA
 SAAT= 10:00 - 12:30
 KANAL= SHOW TV
-LOGO URL= https://izmottvsc20.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478870/27965d46-2678-4234-8c8e-b8af4facfbe3.png
+LOGO URL= https://gbzeottvsc34.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478870/27965d46-2678-4234-8c8e-b8af4facfbe3.png
 
 MAÇ ADI= YAPRAK DÖKÜMÜ
 SAAT= 11:00 - 13:00
 KANAL= KANAL D
-LOGO URL= https://izmottvsc20.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478844/12a565d3-1ed5-4494-ab59-5240b24a8229.png
+LOGO URL= https://gbzeottvsc34.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478844/12a565d3-1ed5-4494-ab59-5240b24a8229.png
 
 MAÇ ADI= LEYLA: HAYAT, AŞK, ADALET...
 SAAT= 12:30 - 13:30
 KANAL= NOW TV HD
-LOGO URL= https://izmottvsc20.tvplus.com.tr:33207/CPS/images/universal/film/logo/202502/20250213/80/1009529751935eb9b42e_op_0_XL.png
+LOGO URL= https://gbzeottvsc34.tvplus.com.tr:33207/CPS/images/universal/film/logo/202502/20250213/80/1009529751935eb9b42e_op_0_XL.png
 
 MAÇ ADI= SEKSENLER
 SAAT= 13:15 - 14:35
 KANAL= TRT 1
-LOGO URL= https://izmottvsc20.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526522/11e29c3e-0da1-4ed7-9e61-52cafff46497.png
+LOGO URL= https://gbzeottvsc34.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526522/11e29c3e-0da1-4ed7-9e61-52cafff46497.png
 
 MAÇ ADI= TEŞKILAT
 SAAT= 14:35 - 17:40
 KANAL= TRT 1
-LOGO URL= https://izmottvsc20.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526522/11e29c3e-0da1-4ed7-9e61-52cafff46497.png
+LOGO URL= https://gbzeottvsc34.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526522/11e29c3e-0da1-4ed7-9e61-52cafff46497.png
 
 MAÇ ADI= KARAGÜL
 SAAT= 16:30 - 19:00
 KANAL= NOW TV HD
-LOGO URL= https://izmottvsc20.tvplus.com.tr:33207/CPS/images/universal/film/logo/202502/20250213/80/1009529751935eb9b42e_op_0_XL.png
+LOGO URL= https://gbzeottvsc34.tvplus.com.tr:33207/CPS/images/universal/film/logo/202502/20250213/80/1009529751935eb9b42e_op_0_XL.png
 
 MAÇ ADI= ARKA SOKAKLAR
 SAAT= 16:45 - 19:00
 KANAL= KANAL D
-LOGO URL= https://izmottvsc20.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478844/12a565d3-1ed5-4494-ab59-5240b24a8229.png
+LOGO URL= https://gbzeottvsc34.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478844/12a565d3-1ed5-4494-ab59-5240b24a8229.png
 
 MAÇ ADI= KIRALIK AŞK
 SAAT= 17:00 - 19:00
 KANAL= STAR TV
-LOGO URL= https://izmottvsc20.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008478854/48fb4dca-51a1-4a47-b9a4-5d01f5979b75.png
+LOGO URL= https://gbzeottvsc34.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008478854/48fb4dca-51a1-4a47-b9a4-5d01f5979b75.png
 
 MAÇ ADI= KUDÜS FATIHI SELAHADDIN EYYUBI
 SAAT= 20:00 - 00:15
 KANAL= TRT 1
-LOGO URL= https://izmottvsc20.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526522/11e29c3e-0da1-4ed7-9e61-52cafff46497.png
+LOGO URL= https://gbzeottvsc34.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526522/11e29c3e-0da1-4ed7-9e61-52cafff46497.png
 
 MAÇ ADI= UZAK ŞEHIR
 SAAT= 20:00 - 00:15
 KANAL= KANAL D
-LOGO URL= https://izmottvsc20.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478844/12a565d3-1ed5-4494-ab59-5240b24a8229.png
+LOGO URL= https://gbzeottvsc34.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478844/12a565d3-1ed5-4494-ab59-5240b24a8229.png
 
 MAÇ ADI= KIZIL GONCALAR
 SAAT= 20:00 - 00:00
 KANAL= NOW TV HD
-LOGO URL= https://izmottvsc20.tvplus.com.tr:33207/CPS/images/universal/film/logo/202502/20250213/80/1009529751935eb9b42e_op_0_XL.png
+LOGO URL= https://gbzeottvsc34.tvplus.com.tr:33207/CPS/images/universal/film/logo/202502/20250213/80/1009529751935eb9b42e_op_0_XL.png
 
 MAÇ ADI= BIR GECE MASALI
 SAAT= 21:50 - 00:50
 KANAL= ATV
-LOGO URL= https://izmottvsc20.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526498/c05a58b7-8d29-4b7b-8a66-dadc322d4c0a.png
+LOGO URL= https://gbzeottvsc34.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526498/c05a58b7-8d29-4b7b-8a66-dadc322d4c0a.png
 
 MAÇ ADI= BAHAR
 SAAT= 23:45 - 02:15
 KANAL= SHOW TV
-LOGO URL= https://izmottvsc20.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478870/27965d46-2678-4234-8c8e-b8af4facfbe3.png
+LOGO URL= https://gbzeottvsc34.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478870/27965d46-2678-4234-8c8e-b8af4facfbe3.png
 
 
 TUR= BUGÜNÜN FİLMLERİ
