@@ -29,7 +29,7 @@ jobs:
 
       - name: Clone Private Repository (Py)
         run: |
-          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/MDuymazz/Py.git private_py
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/Py.git private_py
 
       - name: Install Python dependencies from private repo
         run: |
