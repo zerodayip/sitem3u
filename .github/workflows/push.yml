@@ -68,18 +68,24 @@ jobs:
           mkdir -p private_py/m3u8  # m3u8 klasörü oluştur
           cp *.m3u private_py/m3u8/  # Ana dizindeki tüm .m3u dosyalarını m3u8 içine kopyala
 
+      - name: Check if .m3u files are copied
+        run: |
+          echo "Files in m3u8 folder:"
+          ls private_py/m3u8  # Kopyalanan dosyaların burada olduğunu kontrol et
+
       - name: Configure Git for Commit (Again)
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
 
-      - name: Commit and Push to Private Py Repo
+      - name: Commit and Push to Private Py Repo (Even if no changes)
         run: |
           cd private_py
           git add m3u8/*.m3u
-          git commit -m "Sync root m3u files into m3u8 folder [auto]" || echo "No changes to commit"
-          git push origin main
-
+          # Commit'i değişiklikler olsa da olmasa da her zaman yap
+          git commit --amend --no-edit || git commit -m "Sync root m3u files into m3u8 folder [auto]"
+          git push origin main --force  # Force push ile commit'i yap
+          
       - name: Create sil.txt (Trigger file)
         run: |
           echo "This is a trigger file" > sil.txt  # sil.txt dosyasını oluştur
