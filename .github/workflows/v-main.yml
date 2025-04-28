@@ -5,10 +5,6 @@ on:
     - cron: '0 */1 * * *'  # Her saat başında çalışacak şekilde
   workflow_dispatch:  # Manuel tetikleme için
 
-concurrency:
-  group: golvar-v
-  cancel-in-progress: true
-
 jobs:
   run-python-scripts:
     runs-on: ubuntu-latest
