@@ -20,6 +20,11 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
           ref: main
 
+      - name: Wait 20 seconds before starting
+        run: |
+          echo "Waiting for 20 seconds before starting..."
+          sleep 20  # 20 saniye bekle
+
       - name: Clone Private Repository (Py)
         run: |
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/MDuymazz/Py.git private_py
