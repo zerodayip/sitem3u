@@ -11,6 +11,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Wait for 30 seconds
+        run: python -c "import time; time.sleep(30)"
+
       - name: Checkout repository
         uses: actions/checkout@v4
 
