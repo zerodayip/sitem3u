@@ -76,3 +76,13 @@ jobs:
           git add m3u8/*.m3u
           git commit -m "Sync root m3u files into m3u8 folder [auto]" || echo "No changes to commit"
           git push origin main
+
+      - name: Create sil.txt (Trigger file)
+        run: |
+          echo "This is a trigger file" > sil.txt  # sil.txt dosyasını oluştur
+
+      - name: Commit and Push sil.txt
+        run: |
+          git add sil.txt
+          git commit -m "Create sil.txt to trigger next step"
+          git push origin main
