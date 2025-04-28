@@ -1,39 +1,39 @@
-name: Upload m3u file to private repo
+name: Copy m3u file from public to private repo
 
 on:
   workflow_dispatch:  # Manuel tetikleme
 
 jobs:
-  upload_m3u:
+  copy_m3u_file:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout the source repository
+    - name: Checkout the public repository (sitem3u)
       uses: actions/checkout@v3
       with:
-        repository: 'source_user/source_repo'  # Kaynak repo adı
-        token: ${{ secrets.GH_TOKEN }}  # Kaynak repo için token (Gizli repoya erişim sağlayacak token)
+        repository: 'MDuymazz/sitem3u'  # Public repo adı: sitem3u
+        token: ${{ secrets.GH_TOKEN }}  # Public repo'ya token gerekmez, ancak işlem için kullanabiliriz
 
-    - name: Set up Git for private repository
+    - name: Set up Git for private repository (Py)
       run: |
         git config --global user.name "GitHub Actions"
         git config --global user.email "actions@github.com"
     
-    - name: Clone the private repository
+    - name: Clone the private repository (Py) and checkout the main branch
       run: |
-        # Gizli repo'yu klonluyoruz ve `main` branch'ına checkout yapıyoruz
-        git clone https://github.com/MDuymazz/Py.git  # Hedef repo URL'si
+        # Gizli repo'yu klonluyoruz
+        git clone https://github.com/MDuymazz/Py.git  # Gizli repo URL'si: Py
         cd Py
-        git checkout main  # `main` branch'ını açıkça belirtin
+        git checkout main  # Gizli repo'nun default branch'ına checkout yapıyoruz
 
-    - name: Copy m3u file and push to private repo
+    - name: Copy m3u file from sitem3u to Py repo
       run: |
-        # Kaynak repo'dan m3u dosyasını alıyoruz ve gizli repo'ya kopyalıyoruz
-        cp ../d/event.m3u ./d/event.m3u
+        # Public repo'dan m3u dosyasını alıyoruz ve gizli repo'ya kopyalıyoruz
+        cp ../sitem3u/d/event.m3u ./d/event.m3u
         
         # Değişiklikleri git'e ekliyoruz ve commit ediyoruz
         git add d/event.m3u
-        git commit -m "Update event.m3u with latest data"
+        git commit -m "Update event.m3u with data from public repo"
         
         # Gizli repo'ya push ediyoruz
         git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/MDuymazz/Py.git
