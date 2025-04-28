@@ -26,14 +26,25 @@ jobs:
     - name: Delete all files except data.html in the 'v' directory, ana_link.txt, and logo.txt, and delete sil.txt
       run: |
         echo "Deleting files in './v' directory except data.html"
-        # Dosya yapısını tekrar kontrol edelim
+        # v klasöründeki dosyaları listele
         ls -alh ./v
-        # v klasöründeki data.html hariç tüm dosyaları sil
-        find ./v -type f ! -name 'data.html' -exec rm -f {} \;
+        
+        # data.html hariç tüm dosyaları sil
+        for file in ./v/*; do
+          if [[ "$file" != "./v/data.html" ]]; then
+            echo "Deleting file: $file"
+            rm -f "$file"
+          fi
+        done
 
         # s klasöründeki ana_link.txt ve logo.txt hariç tüm dosyaları sil
         echo "Deleting files in './s' directory except ana_link.txt and logo.txt"
-        find ./s -type f ! -name 'ana_link.txt' ! -name 'logo.txt' -exec rm -f {} \;
+        for file in ./s/*; do
+          if [[ "$file" != "./s/ana_link.txt" && "$file" != "./s/logo.txt" ]]; then
+            echo "Deleting file: $file"
+            rm -f "$file"
+          fi
+        done
 
         # Ana dizindeki sil.txt dosyasını sil
         echo "Deleting sil.txt in the root directory"
