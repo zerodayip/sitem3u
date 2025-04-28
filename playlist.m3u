@@ -574,16 +574,6 @@ https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports1/playli
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1779.xyz/
 https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="21:45 LAZIO - PARMA" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",21:45 LAZIO - PARMA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1779.xyz/
-https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukssport2/playlist.m3u8
-
-#EXTINF:-1 tvg-name="21:45 VERONA - CAGLIARI" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",21:45 VERONA - CAGLIARI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1779.xyz/
-https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukssport2/playlist.m3u8
-
 #EXTINF:-1 tvg-name="21:45 VERONA - CAGLIARI" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",21:45 VERONA - CAGLIARI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1779.xyz/
@@ -594,11 +584,15 @@ https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukssport2/playlist.m
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1779.xyz/
 https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukssport2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="07:00 (RUGBI) NATIONAL RUGBY LEAGUE : CANBERRA RAIDERS VS REDCLIFFE (SKY SPORT 2 NZ)" tvg-logo="https://w7.pngwing.com/pngs/75/71/png-transparent-euclidean-rugby-football-rugby-ball-rugby-sport-happy-birthday-vector-images-sports-equipment-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",07:00 (RUGBI) NATIONAL RUGBY LEAGUE : CANBERRA RAIDERS VS REDCLIFFE (SKY SPORT 2 NZ)
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1top1.newkso.ru/dokko1/premium589/mono.m3u8
+#EXTINF:-1 tvg-name="21:45 LAZIO - PARMA" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",21:45 LAZIO - PARMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1779.xyz/
+https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukssport2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="21:45 VERONA - CAGLIARI" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="SPOR YAYINLARI 3 ( MAÇ SAATİ )",21:45 VERONA - CAGLIARI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1779.xyz/
+https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukssport2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="08:20 (AUSSIE RULES) AFL : CARLTON BLUES VS GEELONG CATS (FOX SPORTS 2 USA)" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",08:20 (AUSSIE RULES) AFL : CARLTON BLUES VS GEELONG CATS (FOX SPORTS 2 USA)
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
