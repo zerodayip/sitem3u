@@ -57,9 +57,12 @@ jobs:
           ref: main
 
       # Private repo'yu GH_TOKEN ile klonluyoruz
-      - name: Clone Private Repository (Py)
-        run: |
-          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/MDuymazz/Py.git private_py
+      - name: Checkout Private Repository (Py)
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          repository: 'MDuymazz/Py'
+          path: private_py
 
       # Private repo bağımlılıklarını yüklüyoruz
       - name: Install Python dependencies from private repo
@@ -82,29 +85,26 @@ jobs:
         run: python private_py/daddyliveevent/convertm3u.py
 
       # Tüm dosyaları commit ediyoruz
-      - name: Commit All Changes
+      - name: Commit All Changes to Public Repo
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add -A  # Tüm dosyaları stage ediyoruz
           git commit -m "Update files" || echo "No changes to commit"  # Eğer değişiklik varsa commit ediyoruz
+          git push origin main  # Public repo'ya push ediyoruz
 
       # Sadece .m3u dosyalarını Py repo'suna push ediyoruz
-      - name: Push .m3u Files to Private Repo (Py)
-        run: |
-          git push origin main  # Tüm dosyaları push ediyoruz
-
-      # .m3u dosyalarını Py repo'suna push ediyoruz
       - name: Commit and Push .m3u Files to Py Repo
         run: |
+          # `MDuymazz/Py` repo'suna gitmek için GitHub token ile push yapıyoruz.
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
 
-          # .m3u dosyalarını push ediyoruz
-          git add *.m3u  # Sadece .m3u dosyalarını ekle
+          # Sadece .m3u dosyalarını stage ediyoruz
+          git add *.m3u  # .m3u dosyalarını ekle
 
           # Değişiklikleri commit ediyoruz
           git commit -m "Update .m3u files" || echo "No changes to commit"  # Commit mesajı
 
-          # .m3u dosyalarını Py repo'suna push ediyoruz
-          git push origin main  # Push işlemi
+          # `MDuymazz/Py` repo'suna sadece .m3u dosyalarını push ediyoruz
+          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/MDuymazz/Py.git main  # .m3u dosyalarını Py repo'suna push ediyoruz
