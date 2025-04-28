@@ -11,14 +11,16 @@ jobs:
     - name: Checkout Public repo
       uses: actions/checkout@v2
       with:
-        repository: 'MDuymazz/sitem3u'  # Public repo'nun GitHub adresi
+        repository: 'MDuymazz/sitem3u'
         token: ${{ secrets.GITHUB_TOKEN }}
+        ref: main  # Public repo'nun ana dalını belirtin
 
     - name: Checkout Py repo
       uses: actions/checkout@v2
       with:
-        repository: 'MDuymazz/Py'  # Py repo'nun GitHub adresi
+        repository: 'MDuymazz/Py'
         token: ${{ secrets.GITHUB_TOKEN }}
+        ref: main  # Py repo'nun ana dalını belirtin
         path: Py_repo  # Py repo'su yerel dizin olarak 'Py_repo' olarak checkout edilecek
 
     - name: Copy m3u files from Public to Py repo
@@ -28,10 +30,10 @@ jobs:
     - name: Commit and Push changes to Py repo
       run: |
         cd Py_repo
-        git config --global user.name "MDuymazz"  # GitHub kullanıcı adınız
+        git config --global user.name "MDuymazz"
         git config --global user.email "youremail@example.com"  # GitHub email adresinizi buraya girin
         git add .
         git commit -m "Sync m3u files from Public repo"
-        git push origin main
+        git push origin main  # Ana dalı belirtin
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
