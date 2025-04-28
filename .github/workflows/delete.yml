@@ -16,7 +16,7 @@ jobs:
 
     - name: List files in the repository (for debugging)
       run: |
-        echo "Listing files in the root directory:"
+        echo "Listing files in the root directory before deletion:"
         ls -alh
         echo "Listing files in the 'v' directory before deletion:"
         ls -alh ./v
@@ -25,30 +25,35 @@ jobs:
 
     - name: Delete all files except data.html in the 'v' directory, ana_link.txt, and logo.txt, and delete sil.txt
       run: |
+        # Çalışma dizinini kontrol et
         echo "Current working directory: $(pwd)"
+        
         echo "Listing files in './v' directory before deletion:"
         ls -alh ./v
 
-        # Mutlak yolu kullanarak dosya silme işlemini yapalım
-        for file in $(ls ./v); do
-          if [[ "$file" != "data.html" ]]; then
-            echo "Deleting file: ./v/$file"
-            rm -f "./v/$file"
-          fi
-        done
+        # v klasöründeki dosyaları bul ve sil
+        echo "Deleting files in './v' directory except data.html"
+        find ./v -type f ! -name 'data.html' -exec rm -f {} \;
 
-        # Aynı işlemi './s' klasörü için de yapalım
+        # Dosyaların silinip silinmediğini kontrol et
+        echo "Listing files in './v' directory after deletion:"
+        ls -alh ./v
+
+        # s klasöründeki dosyaları bul ve sil
         echo "Deleting files in './s' directory except ana_link.txt and logo.txt"
-        for file in $(ls ./s); do
-          if [[ "$file" != "ana_link.txt" && "$file" != "logo.txt" ]]; then
-            echo "Deleting file: ./s/$file"
-            rm -f "./s/$file"
-          fi
-        done
+        find ./s -type f ! -name 'ana_link.txt' ! -name 'logo.txt' -exec rm -f {} \;
 
-        # Silme işleminden önce 'sil.txt' dosyasını da silelim
+        # Dosyaların silinip silinmediğini kontrol et
+        echo "Listing files in './s' directory after deletion:"
+        ls -alh ./s
+
+        # Ana dizindeki sil.txt dosyasını sil
         echo "Deleting sil.txt in the root directory"
         rm -f ./sil.txt
+
+        # Silinip silinmediğini kontrol et
+        echo "Listing files in the root directory after deletion:"
+        ls -alh
 
     - name: List files after deletion (for debugging)
       run: |
