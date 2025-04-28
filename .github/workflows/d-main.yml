@@ -1,26 +1,23 @@
-name: Run Python Scripts and Push to Private Repo (Py)
+name: Run Python Scripts from Private Repo ( D )
 
 on:
   schedule:
-    - cron: '0 */1 * * *'  # Workflow her saat başı çalışacak
-  workflow_dispatch:  # Manuel tetikleme imkanı da sağlıyoruz
+    - cron: '0 */1 * * *'
+  workflow_dispatch:
 
 jobs:
-  update-m3u:
-    runs-on: ubuntu-latest  # Workflow Ubuntu ortamında çalışacak
+  extract-schedule-data:
+    runs-on: ubuntu-latest
 
     steps:
-      # 1. Ana repoyu çekiyoruz
-      - name: Checkout main repository
-        uses: actions/checkout@v4  # Ana repo üzerinden işlem yapacağız
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      # 2. Python kurulumu
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.10'  # Python 3.10 versiyonu
+          python-version: '3.10'
 
-      # 3. Gerekli Python bağımlılıklarını yüklüyoruz
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
@@ -28,19 +25,45 @@ jobs:
           pip install playwright
           pip install bs4
           pip install lxml
-          playwright install  # Playwright gereksinimlerini kuruyoruz
+          playwright install
 
-      # 4. Python scriptini çalıştırıyoruz (event.m3u dosyasını oluşturuyoruz)
       - name: Run extraction script
-        run: python d/livejson.py  # Veriyi çıkaran Python betiği
+        run: python d/livejson.py
 
-      # 5. Private repo'yu GH_TOKEN ile klonluyoruz ve Push işlemi için yapılandırıyoruz
+      - name: Commit and push if changes
+        run: |
+          git config --global user.name 'GitHub Actions Bot'
+          git config --global user.email 'actions@github.com'
+          # Add both HTML and JSON files
+          git add -A
+          # Ignore screenshot files
+          git status
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update schedule data [skip ci]" && git push)
+
+  run-python-scripts:
+    needs: extract-schedule-data
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Public Repository (veriler)
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          fetch-depth: 0
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
       - name: Clone Private Repository (Py)
         run: |
-          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/MDuymazz/Py.git
-          cd Py
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/MDuymazz/Py.git private_py
 
-      # 6. Diğer Python Scriptlerini Çalıştırıyoruz
+      - name: Install Python dependencies from private repo
+        run: pip install -r private_py/requirements.txt
+
       - name: Run schedule_aljson.py
         run: python private_py/daddyliveevent/schedule_aljson.py
 
@@ -56,16 +79,12 @@ jobs:
       - name: Run convertm3u.py
         run: python private_py/daddyliveevent/convertm3u.py
 
-      # 7. event.m3u dosyasını doğrudan private repo'ya taşıyoruz
-      - name: Copy m3u file to Private Repo
-        run: |
-          cp ../d/event.m3u .  # event.m3u dosyasını Py repo'suna taşıyoruz
+      - name: Add all changes
+        run: git add -A
 
-      # 8. Değişiklikleri commit ve push ediyoruz
-      - name: Commit and Push Changes to Private Repo
+      - name: Commit and Push Changes
         run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git add event.m3u  # event.m3u dosyasını commit etmek için ekliyoruz
-          git commit -m "Update event.m3u data" || echo "No changes to commit"  # Commit mesajı
-          git push origin main  # Değişiklikleri Py repo'suna push ediyoruz
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git commit -m "Update output and counter via workflow D" || echo "No changes to commit"
+          git push origin main
