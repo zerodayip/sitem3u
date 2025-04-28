@@ -16,4 +16,9 @@ jobs:
 
     - name: Delete all files except data.html in 'v' directory
       run: |
-        find ./v -type f ! -name 'data.html' -exec rm -f {} \;
+        # v klasöründe data.html haricindeki tüm dosyaları sil
+        for file in ./v/*; do
+          if [ "$file" != "./v/data.html" ]; then
+            rm -f "$file"
+          fi
+        done
