@@ -7,10 +7,6 @@ on:
     types:
       - completed
 
-concurrency:
-  group: s main
-  cancel-in-progress: true
-
 jobs:
   run-python-scripts:
     runs-on: ubuntu-latest
