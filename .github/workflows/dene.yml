@@ -12,24 +12,28 @@ jobs:
       uses: actions/checkout@v3
       with:
         repository: 'source_user/source_repo'  # Kaynak repo adı
-        token: ${{ secrets.GH_TOKEN }}  # Kaynak repo için token
+        token: ${{ secrets.GH_TOKEN }}  # Kaynak repo için token (Gizli repoya erişim sağlayacak token)
 
     - name: Set up Git for private repository
       run: |
         git config --global user.name "GitHub Actions"
         git config --global user.email "actions@github.com"
     
-    - name: Copy m3u file to private repo
+    - name: Clone the private repository
       run: |
-        # Hedef repo'ya erişmek için hedef repository'i checkout ediyoruz
-        git clone https://github.com/MDuymazz/Py.git
+        # Gizli repo'yu klonluyoruz ve `main` branch'ına checkout yapıyoruz
+        git clone https://github.com/MDuymazz/Py.git  # Hedef repo URL'si
         cd Py
-        
-        # Kaynak repo'dan dosyayı kopyalıyoruz
-        cp ../d/dosya.m3u ./d/dosya.m3u
-        
-        # Değişiklikleri commit edip push ediyoruz
-        git add d/dosya.m3u
-        git commit -m "Add m3u file from source repo"
-        git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/MDuymazz/Py.git
+        git checkout main  # `main` branch'ını açıkça belirtin
 
+    - name: Copy m3u file and push to private repo
+      run: |
+        # Kaynak repo'dan m3u dosyasını alıyoruz ve gizli repo'ya kopyalıyoruz
+        cp ../d/event.m3u ./d/event.m3u
+        
+        # Değişiklikleri git'e ekliyoruz ve commit ediyoruz
+        git add d/event.m3u
+        git commit -m "Update event.m3u with latest data"
+        
+        # Gizli repo'ya push ediyoruz
+        git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/MDuymazz/Py.git
