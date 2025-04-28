@@ -12,14 +12,14 @@ jobs:
       uses: actions/checkout@v2
       with:
         repository: 'MDuymazz/sitem3u'
-        token: ${{ secrets.GITHUB_TOKEN }}
+        token: ${{ secrets.GH_TOKEN }}  # GH_TOKEN kullanıldı
         ref: main  # Public repo'nun ana dalını belirtin
 
     - name: Checkout Py repo
       uses: actions/checkout@v2
       with:
         repository: 'MDuymazz/Py'
-        token: ${{ secrets.GITHUB_TOKEN }}
+        token: ${{ secrets.GH_TOKEN }}  # GH_TOKEN kullanıldı
         ref: main  # Py repo'nun ana dalını belirtin
         path: Py_repo  # Py repo'su yerel dizin olarak 'Py_repo' olarak checkout edilecek
 
@@ -36,4 +36,4 @@ jobs:
         git commit -m "Sync m3u files from Public repo"
         git push origin main  # Ana dalı belirtin
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}  # GH_TOKEN kullanıldı
