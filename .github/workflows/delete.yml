@@ -18,15 +18,17 @@ jobs:
       run: |
         echo "Listing files in the root directory:"
         ls -alh
-        echo "Listing files in the 'v' directory:"
+        echo "Listing files in the 'v' directory before deletion:"
         ls -alh ./v
-        echo "Listing files in the 's' directory:"
+        echo "Listing files in the 's' directory before deletion:"
         ls -alh ./s
 
     - name: Delete all files except data.html in the 'v' directory, ana_link.txt, and logo.txt, and delete sil.txt
       run: |
-        # v klasöründeki data.html hariç tüm dosyaları sil
         echo "Deleting files in './v' directory except data.html"
+        # Dosya yapısını tekrar kontrol edelim
+        ls -alh ./v
+        # v klasöründeki data.html hariç tüm dosyaları sil
         find ./v -type f ! -name 'data.html' -exec rm -f {} \;
 
         # s klasöründeki ana_link.txt ve logo.txt hariç tüm dosyaları sil
