@@ -1,7 +1,7 @@
 name: Upload m3u file to private repo
 
 on:
-  workflow_dispatch:  # Bu satır manuel olarak tetiklemeyi sağlar
+  workflow_dispatch:  # Manuel tetikleme
 
 jobs:
   upload_m3u:
@@ -11,6 +11,17 @@ jobs:
     - name: Checkout the code
       uses: actions/checkout@v3
 
+    - name: Upload m3u file as an artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: m3u-file
+        path: d/dosya.m3u  # Yüklemek istediğiniz m3u dosyasının yolu
+
+    - name: Download artifact to another job (optional)
+      uses: actions/download-artifact@v3
+      with:
+        name: m3u-file
+
     - name: Set up Git
       run: |
         git config --global user.name "GitHub Actions"
@@ -18,8 +29,11 @@ jobs:
     
     - name: Read m3u file and upload to private repo
       run: |
+        # Artifact'tan m3u dosyasını indir
+        cat d/dosya.m3u
+
         # m3u dosyasını okuma
-        m3u_content=$(cat d/event.m3u)
+        m3u_content=$(cat d/dosya.m3u)
 
         # Base64 formatına dönüştürme
         encoded_content=$(echo -n "$m3u_content" | base64)
