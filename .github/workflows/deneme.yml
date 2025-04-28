@@ -35,8 +35,11 @@ jobs:
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
 
+          # Repo URL'yi kontrol et ve doğru URL ile bağlantıyı ekle
+          REPO_URL=https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/MDuymazz/Py.git
+          
           # Uzak repository bağlantısını ekliyoruz
-          git remote add private-repo https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/MDuymazz/Py.git
+          git remote add private-repo $REPO_URL
 
           # .m3u dosyasını ekliyoruz
           git add d/event.m3u  # .m3u dosyasını stage ediyoruz
