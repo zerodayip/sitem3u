@@ -15,39 +15,40 @@ else:
 # BeautifulSoup ile sayfayı parse ediyoruz
 soup = BeautifulSoup(response.content, "html.parser")
 
-# Kanal listesini bulalım
-kanal_listesi = soup.find_all('div', {'class': 'kanal_ad'})
+# Kanal listesini bulalım (kanal-listesi içindeki a etiketleri)
+kanal_listeleri = soup.find_all('a', {'title': True})
 
-# Verileri yazdırıyoruz
-if kanal_listesi:
+# Kanal adı, resim URL ve linki almak
+kanal_adlari = []
+kanal_resimleri = []
+kanal_linkleri = []
+
+for kanal in kanal_listeleri:
+    # Kanal adını alalım
+    kanal_ad = kanal.find('div', {'class': 'kanal_ad'}).text.strip()
+    kanal_adlari.append(kanal_ad)
+
+    # Kanal resminin URL'sini alalım
+    kanal_resim = kanal.find('div', {'class': 'kanal_resim'}).find('img')['src']
+    kanal_resim_url = "https://canlitv.com" + kanal_resim
+    kanal_resimleri.append(kanal_resim_url)
+
+    # Kanal linkini alalım
+    kanal_link = "https://canlitv.com" + kanal['href']
+    kanal_linkleri.append(kanal_link)
+
+# Verileri yazdıralım
+if kanal_adlari and kanal_resimleri and kanal_linkleri:
     print("Kanal Adları:")
-    for kanal in kanal_listesi:
-        print(kanal.text.strip())  # Kanal adını yazdırıyoruz
-else:
-    print("Kanal adı bulunamadı!")
-
-# Kanal resimlerinin URL'lerini alalım
-kanal_resimleri = soup.find_all('div', {'class': 'kanal_resim'})
-
-if kanal_resimleri:
+    for kanal_ad in kanal_adlari:
+        print(kanal_ad)
+    
     print("\nKanal Resimleri:")
-    for resim in kanal_resimleri:
-        img_tag = resim.find('img')
-        if img_tag and 'src' in img_tag.attrs:
-            resim_url = "https://canlitv.com" + img_tag.attrs['src']
-            print(resim_url)
-        else:
-            print("Resim URL'si bulunamadı!")
-else:
-    print("Kanal resimleri bulunamadı!")
+    for kanal_resim in kanal_resimleri:
+        print(kanal_resim)
 
-# Kanal linklerini alalım
-kanal_linkleri = soup.find_all('a', {'title': True})
-
-if kanal_linkleri:
     print("\nKanal Linkleri:")
-    for link in kanal_linkleri:
-        kanal_link = "https://canlitv.com" + link['href']
+    for kanal_link in kanal_linkleri:
         print(kanal_link)
 else:
-    print("Kanal linkleri bulunamadı!")
+    print("Veri çekilemedi!")
