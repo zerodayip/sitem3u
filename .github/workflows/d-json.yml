@@ -2,7 +2,7 @@ name: Run Python Scripts from Private Repo (D - JSON)
 
 on:
   schedule:
-    - cron: '0 */4 * * *'  # Her 4 saatte bir çalışır
+    - cron: '30 */4 * * *'  # Her 4 saatte bir çalışır
   workflow_dispatch:  # Manuel tetikleme de mümkün
 
 jobs:
