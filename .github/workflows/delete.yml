@@ -9,37 +9,39 @@ on:
 jobs:
   delete-files:
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Checkout the repository
         uses: actions/checkout@v2
 
       - name: Set up Git user
         run: |
-          git config --global user.email "your-email@example.com"  # GitHub e-posta adresinizi buraya yazın
-          git config --global user.name "Your Name"  # GitHub kullanıcı adınızı buraya yazın
+          git config --global user.email "your-email@example.com"
+          git config --global user.name "Your Name"
+
+      - name: Delete only playlist.m3u from root directory
+        run: |
+          if [ -f playlist.m3u ]; then
+            git rm playlist.m3u
+          fi
 
       - name: Delete all files except data.html in 'v' folder
         run: |
-          # 'v' klasöründeki tüm dosyaları sil, data.html hariç
           find v -type f ! -name 'data.html' -exec git rm {} \;
 
       - name: Delete all files except logo.txt and ana_link.txt in 's' folder
         run: |
-          # 's' klasöründeki tüm dosyaları sil, logo.txt ve ana_link.txt hariç
           find s -type f ! -name 'logo.txt' ! -name 'ana_link.txt' -exec git rm {} \;
 
       - name: Delete all files except logo.txt and ana_link.txt in 'g' folder
         run: |
-          # 'g' klasöründeki tüm dosyaları sil, logo.txt ve ana_link.txt hariç
           find g -type f ! -name 'logo.txt' ! -name 'ana_link.txt' -exec git rm {} \;
 
       - name: Delete all files except logo.txt, livejson.py, and schedule.json in 'd' folder
         run: |
-          # 'd' klasöründeki tüm dosyaları sil, logo.txt, livejson.py, schedule.json hariç
           find d -type f ! -name 'logo.txt' ! -name 'livejson.py' ! -name 'kanal.m3u' ! -name 'schedule.json' -exec git rm {} \;
 
       - name: Commit and push the changes
         run: |
           git commit -m "Delete files"
-          git push origin main  # Ya da hangi branşta çalıştırmak istiyorsanız
+          git push origin main
