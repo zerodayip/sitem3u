@@ -1,19 +1,24 @@
 import requests
 from bs4 import BeautifulSoup
 
-# 1'den 6'ya kadar olan sayfaları gezmek için
-base_url = "https://canlitv.com/?sayfa="
+# Sayfa URL'lerini tek tek yazalım
+urls = [
+    "https://canlitv.com/?sayfa=1",
+    "https://canlitv.com/?sayfa=2",
+    "https://canlitv.com/?sayfa=3",
+    "https://canlitv.com/?sayfa=4",
+    "https://canlitv.com/?sayfa=5",
+    "https://canlitv.com/?sayfa=6"
+]
 
-# 1'den 6'ya kadar olan sayfa numaralarıyla döngü yapalım
-for page_num in range(1, 7):
-    url = base_url + str(page_num)
-    
+# Her sayfayı tek tek gezerek verileri çekelim
+for url in urls:
     # Sayfayı çekiyoruz
     response = requests.get(url)
     
     # Eğer sayfa başarılı bir şekilde geldiyse, verileri işleyelim
     if response.status_code == 200:
-        print(f"Sayfa {page_num} başarıyla yüklendi!")
+        print(f"Sayfa başarıyla yüklendi: {url}")
         
         # HTML'yi BeautifulSoup ile parse edelim
         soup = BeautifulSoup(response.content, 'html.parser')
@@ -32,4 +37,4 @@ for page_num in range(1, 7):
             print("-" * 50)
     
     else:
-        print(f"Sayfa {page_num} yüklenemedi!")
+        print(f"Sayfa yüklenemedi: {url}")
