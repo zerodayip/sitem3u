@@ -1,22 +1,31 @@
 import requests
 from bs4 import BeautifulSoup
 
-# Sayfa numarasını 1'den 6'ya kadar döngü ile artırıyoruz
-for page_num in range(1, 7):
-    url = f"https://canlitv.com/?sayfa={page_num}"
+# Manually visit each page (sayfa 1 to sayfa 6)
+page_urls = [
+    "https://canlitv.com/?sayfa=1",
+    "https://canlitv.com/?sayfa=2",
+    "https://canlitv.com/?sayfa=3",
+    "https://canlitv.com/?sayfa=4",
+    "https://canlitv.com/?sayfa=5",
+    "https://canlitv.com/?sayfa=6"
+]
 
-    # Sayfayı alıyoruz
+# Loop through each URL to get data
+for url in page_urls:
+    print(f"Veri çekiliyor: {url}")
+    
     response = requests.get(url)
     if response.status_code == 200:
-        print(f"Sayfa {page_num} başarıyla yüklendi!\n")
-
-        # Sayfa içeriğini BeautifulSoup ile parse ediyoruz
+        print(f"Sayfa başarıyla yüklendi: {url}")
+        
+        # BeautifulSoup ile sayfa içeriğini parse ediyoruz
         soup = BeautifulSoup(response.text, 'html.parser')
-
-        # Kanal listesine ait div'i alıyoruz
+        
+        # Kanal listesine ait 'li' elemanlarını buluyoruz
         kanal_list = soup.find_all('li', class_='tv fk_')
 
-        # Her kanal için bilgi alıyoruz
+        # Her bir kanal için bilgileri alıyoruz
         for kanal in kanal_list:
             # Kanal adı
             kanal_ad = kanal.find('a').text.strip()
@@ -30,4 +39,4 @@ for page_num in range(1, 7):
             print("-" * 40)
 
     else:
-        print(f"Sayfa {page_num} yüklenemedi!")
+        print(f"Sayfa yüklenemedi: {url}")
