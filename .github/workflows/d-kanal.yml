@@ -1,4 +1,4 @@
-name: Run Python Scripts from Private Repo ( D- KANAL)
+name: Run Python Scripts from Private Repo (D- KANAL)
 
 on:
   workflow_dispatch:          # Manuel tetikleme için
