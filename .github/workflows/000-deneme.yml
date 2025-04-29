@@ -1,34 +1,25 @@
-name: Web Scraping with 50 Workers
+name: Run Scraper Script
 
 on:
   workflow_dispatch:
 
 jobs:
-  setup:
+  scrape:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check out repository
+      - name: Checkout repository
         uses: actions/checkout@v2
 
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: '3.x'
+          python-version: '3.9'
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4
 
-  run_scraper:
-    needs: setup
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Check out repository
-        uses: actions/checkout@v2
-
-      - name: Run Python Web Scraper
-        run: |
-          python deneme.py  # Scraper.py, yukarıda yazdığınız Python kodunun adı
+      - name: Run scraper script
+        run: python deneme.py
