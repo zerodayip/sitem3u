@@ -1,36 +1,43 @@
-from playwright.sync_api import sync_playwright
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+import time
+import re
 
-with sync_playwright() as p:
-    browser = p.chromium.launch(headless=True)
-    page = browser.new_page()
+options = Options()
+options.add_argument("--headless")
+options.add_argument("--disable-gpu")
+options.add_argument("--no-sandbox")
+options.add_argument("--disable-dev-shm-usage")
+options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/117.0.0.0 Safari/537.36")
 
-    m3u8_links = []
+driver = webdriver.Chrome(options=options)
 
-    def handle_request(request):
-        if ".m3u8" in request.url:
-            m3u8_links.append(request.url)
+# Asıl sayfayı aç
+driver.get("https://canlitv.com/trt1-canli")
+time.sleep(5)
 
-    # Ağ trafiğini dinlemeye başla
-    page.on("request", handle_request)
+# iframe'i bul
+try:
+    iframe = driver.find_element("id", "Player")
+    iframe_src = iframe.get_attribute("src")
+    print(f"iframe src: {iframe_src}")
+    
+    # iframe içine git
+    driver.get("https://canlitv.com" + iframe_src)
+    time.sleep(5)
 
-    # Sayfayı aç
-    page.goto("https://canlitv.com/trt1-canli")
+    # İçeriği al ve .m3u8 ara
+    html = driver.page_source
+    matches = re.findall(r'https?://[^\s"\']+\.m3u8', html)
 
-    # Iframe'i seç
-    iframe = page.frame(name="Player")  # Burada iframe'in 'name' veya 'id' özelliklerine göre seçiyoruz
-
-    # Eğer iframe'deki video öğesini bulabilirsen, buradaki oynatma işlemini tetikleyebilirsin:
-    # iframe.click('button#play-button')  # Eğer bir play butonu varsa bunu tetikle
-
-    # Yavaşça bekleyerek tüm medya kaynaklarının yüklenmesini sağla
-    page.wait_for_timeout(10000)  # Sayfa yüklendikten sonra 10 saniye bekle
-
-    # Bulunan m3u8 bağlantılarını yazdır
-    if m3u8_links:
-        print("Bulunan m3u8 bağlantıları:")
-        for url in set(m3u8_links):
-            print(url)
+    if matches:
+        print("Bulunan .m3u8 bağlantıları:")
+        for m in matches:
+            print(m)
     else:
-        print("Herhangi bir m3u8 bağlantısı bulunamadı.")
+        print("Hiçbir .m3u8 bağlantısı bulunamadı.")
 
-    browser.close()
+except Exception as e:
+    print(f"Hata oluştu: {e}")
+
+driver.quit()
