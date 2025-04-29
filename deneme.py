@@ -25,17 +25,28 @@ kanal_linkleri = []
 
 for kanal in kanal_listeleri:
     # Kanal adını alalım
-    kanal_ad = kanal.find('div', {'class': 'kanal_ad'}).text.strip()
-    kanal_adlari.append(kanal_ad)
+    kanal_ad_div = kanal.find('div', {'class': 'kanal_ad'})
+    if kanal_ad_div:
+        kanal_ad = kanal_ad_div.text.strip()
+        kanal_adlari.append(kanal_ad)
+    else:
+        kanal_adlari.append('Kanal adı bulunamadı')
 
     # Kanal resminin URL'sini alalım
-    kanal_resim = kanal.find('div', {'class': 'kanal_resim'}).find('img')['src']
-    kanal_resim_url = "https://canlitv.com" + kanal_resim
-    kanal_resimleri.append(kanal_resim_url)
+    kanal_resim_div = kanal.find('div', {'class': 'kanal_resim'})
+    if kanal_resim_div:
+        kanal_resim = kanal_resim_div.find('img')['src']
+        kanal_resim_url = "https://canlitv.com" + kanal_resim
+        kanal_resimleri.append(kanal_resim_url)
+    else:
+        kanal_resimleri.append('Resim bulunamadı')
 
     # Kanal linkini alalım
-    kanal_link = "https://canlitv.com" + kanal['href']
-    kanal_linkleri.append(kanal_link)
+    kanal_link = kanal.get('href')
+    if kanal_link:
+        kanal_linkleri.append("https://canlitv.com" + kanal_link)
+    else:
+        kanal_linkleri.append('Link bulunamadı')
 
 # Verileri yazdıralım
 if kanal_adlari and kanal_resimleri and kanal_linkleri:
