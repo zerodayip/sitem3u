@@ -1,9 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
 
-# Sayfa numarasını 1'den 6'ya kadar artırarak işlem yapacağız
+# Sayfa numarasını 1'den 6'ya kadar döngü ile artırıyoruz
 for page_num in range(1, 7):
-    # Sayfa URL'sini oluşturuyoruz
     url = f"https://canlitv.com/?sayfa={page_num}"
 
     # Sayfayı alıyoruz
