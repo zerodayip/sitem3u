@@ -1,46 +1,53 @@
 import requests
 from bs4 import BeautifulSoup
-from concurrent.futures import ThreadPoolExecutor
-import time
 
-# Kanal Listesi URL'si
-base_url = "https://canlitv.com/?sayfa={}"
+# Web sayfasının URL'si
+url = "https://canlitv.com/?sayfa=1"
 
-# Kanal Detaylarını almak için fonksiyon
-def get_channel_data(page):
-    url = base_url.format(page)
-    response = requests.get(url)
-    soup = BeautifulSoup(response.text, 'html.parser')
+# Sayfayı almak için GET isteği gönderiyoruz
+response = requests.get(url)
+if response.status_code == 200:
+    print("Sayfa başarıyla yüklendi!")
+else:
+    print("Sayfa yüklenemedi!")
+    exit()
 
-    kanal_listesi = soup.find(id="kanal-listesi")
-    if kanal_listesi:
-        kanal_items = kanal_listesi.find_all("div", class_="kanal")
-        for kanal in kanal_items:
-            kanal_ad = kanal.find("div", class_="kanal_ad")
-            kanal_resim = kanal.find("div", class_="kanal_resim").find("img") if kanal.find("div", class_="kanal_resim") else None
-            kanal_link = kanal.find("a", title=True)
+# BeautifulSoup ile sayfayı parse ediyoruz
+soup = BeautifulSoup(response.content, "html.parser")
 
-            # Eğer kanal_ad ve kanal_link varsa işleme alalım
-            if kanal_ad and kanal_link:
-                kanal_ad_text = kanal_ad.text.strip()
-                kanal_resim_url = "https://canlitv.com" + kanal_resim["src"] if kanal_resim else None
-                kanal_url = "https://canlitv.com" + kanal_link["href"]
+# Kanal listesini bulalım
+kanal_listesi = soup.find_all('div', {'class': 'kanal_ad'})
 
-                # Verileri yazdır
-                print(f"Kanal Adı: {kanal_ad_text}")
-                print(f"Logo URL: {kanal_resim_url}")
-                print(f"Kanal Linki: {kanal_url}")
-                print("------")
+# Verileri yazdırıyoruz
+if kanal_listesi:
+    print("Kanal Adları:")
+    for kanal in kanal_listesi:
+        print(kanal.text.strip())  # Kanal adını yazdırıyoruz
+else:
+    print("Kanal adı bulunamadı!")
 
-# Paralel olarak işlemleri yapalım
-def scrape_channels():
-    start_time = time.time()
-    with ThreadPoolExecutor(max_workers=6) as executor:
-        # Sayfa numaralarını 1'den 6'ya kadar paralel işle
-        pages = [1, 2, 3, 4, 5, 6]
-        executor.map(get_channel_data, pages)
-    end_time = time.time()
-    print(f"Veri çekme tamamlandı. Süre: {end_time - start_time:.2f} saniye")
+# Kanal resimlerinin URL'lerini alalım
+kanal_resimleri = soup.find_all('div', {'class': 'kanal_resim'})
 
-if __name__ == "__main__":
-    scrape_channels()
+if kanal_resimleri:
+    print("\nKanal Resimleri:")
+    for resim in kanal_resimleri:
+        img_tag = resim.find('img')
+        if img_tag and 'src' in img_tag.attrs:
+            resim_url = "https://canlitv.com" + img_tag.attrs['src']
+            print(resim_url)
+        else:
+            print("Resim URL'si bulunamadı!")
+else:
+    print("Kanal resimleri bulunamadı!")
+
+# Kanal linklerini alalım
+kanal_linkleri = soup.find_all('a', {'title': True})
+
+if kanal_linkleri:
+    print("\nKanal Linkleri:")
+    for link in kanal_linkleri:
+        kanal_link = "https://canlitv.com" + link['href']
+        print(kanal_link)
+else:
+    print("Kanal linkleri bulunamadı!")
