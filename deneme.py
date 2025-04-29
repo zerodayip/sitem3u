@@ -1,17 +1,24 @@
 import requests
 from bs4 import BeautifulSoup
+from concurrent.futures import ThreadPoolExecutor
 
-url = "https://canlitv.com/?sayfa=1"
 base_url = "https://canlitv.com"
+sayfa_url = base_url + "/?sayfa={}"
 
-response = requests.get(url)
-soup = BeautifulSoup(response.text, "html.parser")
+def sayfa_isle(sayfa):
+    try:
+        response = requests.get(sayfa_url.format(sayfa), timeout=10)
+        soup = BeautifulSoup(response.text, "html.parser")
+        kanallar = soup.select("li.tv.fk_")
 
-kanallar = soup.select("li.tv.fk_")
+        sonuc = [f"{a.text.strip()} - {base_url + a.get('href')}"
+                 for kanal in kanallar if (a := kanal.find("a"))]
+        return f"\n--- Sayfa {sayfa} ---\n" + "\n".join(sonuc)
+    except Exception as e:
+        return f"\n--- Sayfa {sayfa} ---\nHata: {e}"
 
-for kanal in kanallar:
-    a_tag = kanal.find("a")
-    if a_tag:
-        kanal_adi = a_tag.text.strip()
-        detay_url = base_url + a_tag.get("href")
-        print(f"{kanal_adi} - {detay_url}")
+with ThreadPoolExecutor(max_workers=6) as executor:
+    results = executor.map(sayfa_isle, range(1, 7))
+
+for r in results:
+    print(r)
