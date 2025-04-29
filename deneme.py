@@ -1,43 +1,28 @@
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
-import time
-import re
+import chromedriver_autoinstaller
+
+# Otomatik driver kurulumu
+chromedriver_autoinstaller.install()
 
 options = Options()
 options.add_argument("--headless")
-options.add_argument("--disable-gpu")
 options.add_argument("--no-sandbox")
 options.add_argument("--disable-dev-shm-usage")
-options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/117.0.0.0 Safari/537.36")
 
-driver = webdriver.Chrome(options=options)
+browser = webdriver.Chrome(options=options)
+browser.get("https://canlitv.com/trt1-canli")
 
-# Asıl sayfayı aç
-driver.get("https://canlitv.com/trt1-canli")
-time.sleep(5)
+# Tüm sayfa kaynaklarını al
+html = browser.page_source
 
-# iframe'i bul
-try:
-    iframe = driver.find_element("id", "Player")
-    iframe_src = iframe.get_attribute("src")
-    print(f"iframe src: {iframe_src}")
-    
-    # iframe içine git
-    driver.get("https://canlitv.com" + iframe_src)
-    time.sleep(5)
+# m3u8 var mı diye kontrol et
+if ".m3u8" in html:
+    print("Sayfa kaynağında m3u8 bulundu!")
+    start = html.find("http")
+    end = html.find(".m3u8") + 5
+    print("M3U8 bağlantısı:", html[start:end])
+else:
+    print("Sayfa kaynağında m3u8 bulunamadı.")
 
-    # İçeriği al ve .m3u8 ara
-    html = driver.page_source
-    matches = re.findall(r'https?://[^\s"\']+\.m3u8', html)
-
-    if matches:
-        print("Bulunan .m3u8 bağlantıları:")
-        for m in matches:
-            print(m)
-    else:
-        print("Hiçbir .m3u8 bağlantısı bulunamadı.")
-
-except Exception as e:
-    print(f"Hata oluştu: {e}")
-
-driver.quit()
+browser.quit()
