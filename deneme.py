@@ -1,48 +1,83 @@
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
-import chromedriver_autoinstaller
+import requests
+from bs4 import BeautifulSoup
+from concurrent.futures import ThreadPoolExecutor
 import time
 
-# ChromeDriver'ı otomatik indirip kur
-chromedriver_autoinstaller.install()
+# PHP sayfasından veriyi almak için fonksiyon
+def get_php_data(channel_url):
+    try:
+        response = requests.get(channel_url)
+        soup = BeautifulSoup(response.content, 'html.parser')
 
-# Tarayıcı ayarları
-options = Options()
-options.add_argument("--headless")  # Tarayıcıyı görünmeden çalıştır
-options.add_argument("--no-sandbox")
-options.add_argument("--disable-dev-shm-usage")
+        # PHP sayfasındaki veri, örneğin başlık, içerik veya başka bir veri
+        php_data = soup.find('div', {'class': 'some-class'})  # Bu kısmı değiştirin
+        if php_data:
+            return php_data.text.strip()
+        else:
+            return "Veri Bulunamadı"
+    except Exception as e:
+        return f"Hata: {e}"
 
-# Tarayıcıyı başlat
-browser = webdriver.Chrome(options=options)
-browser.get("https://canlitv.com/trt1-canli")
+# Kanal verilerini almak için fonksiyon
+def get_channel_data(page_number):
+    url = f'https://canlitv.com/?sayfa={page_number}'
+    try:
+        response = requests.get(url)
+        soup = BeautifulSoup(response.content, 'html.parser')
 
-# Sayfanın tam yüklenmesi için bekle (isteğe bağlı artırılabilir)
-time.sleep(5)
+        kanal_listesi = soup.find('div', {'id': 'kanal-listesi'})
+        if kanal_listesi:
+            channels = kanal_listesi.find_all('div', {'class': 'kanal'})
 
-# iframe içindeki player sayfasını bul
-try:
-    iframe = browser.find_element("id", "Player")
-    iframe_src = iframe.get_attribute("src")
-    print(f"[iframe src] {iframe_src}")
-except Exception as e:
-    print("[iframe bulunamadı]", e)
-    iframe_src = None
+            channel_data = []
+            for channel in channels:
+                kanal_ad = channel.find('div', {'class': 'kanal_ad'}).text.strip()
+                kanal_resim = 'https://canlitv.com' + channel.find('div', {'class': 'kanal_resim'}).find('img')['src']
+                kanal_link = 'https://canlitv.com' + channel.find('a')['href']
 
-# iframe varsa içeriğini ayrıca aç ve m3u8 ara
-if iframe_src:
-    if not iframe_src.startswith("http"):
-        iframe_src = "https://canlitv.com" + iframe_src
-    browser.get(iframe_src)
-    time.sleep(5)
+                # PHP verisini almak için ilgili URL'yi çağırıyoruz
+                php_data = get_php_data(kanal_link)
 
-    html = browser.page_source
-    if ".m3u8" in html:
-        start = html.find("http")
-        end = html.find(".m3u8") + 5
-        print("[m3u8 bulundu]", html[start:end])
-    else:
-        print("[iframe içinde m3u8 bulunamadı]")
-else:
-    print("[iframe bulunamadı veya geçersiz]")
+                channel_data.append({
+                    'kanal_ad': kanal_ad,
+                    'kanal_resim': kanal_resim,
+                    'kanal_link': kanal_link,
+                    'php_data': php_data  # PHP verisini ekliyoruz
+                })
 
-browser.quit()
+            return channel_data
+        else:
+            return []
+
+    except Exception as e:
+        return f"Hata: {e}"
+
+# Sayfa numaralarını paralel şekilde işlemek için fonksiyon
+def scrape_all_pages(start_page, end_page):
+    with ThreadPoolExecutor(max_workers=50) as executor:
+        results = executor.map(get_channel_data, range(start_page, end_page + 1))
+    
+    all_channels = []
+    for result in results:
+        all_channels.extend(result)
+
+    return all_channels
+
+# Ana fonksiyon
+def main():
+    start_time = time.time()
+
+    # Sayfaları 1'den 6'ya kadar çekiyoruz
+    all_data = scrape_all_pages(1, 6)
+
+    for channel in all_data:
+        print(f"Kanal Adı: {channel['kanal_ad']}")
+        print(f"Kanal Resim: {channel['kanal_resim']}")
+        print(f"Kanal Link: {channel['kanal_link']}")
+        print(f"PHP Verisi: {channel['php_data']}")
+        print('----------------------------')
+
+    print(f"İşlem Süresi: {time.time() - start_time:.2f} saniye")
+
+if __name__ == "__main__":
+    main()
