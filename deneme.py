@@ -1,22 +1,14 @@
-import gzip
-import shutil
-import os
+import requests
 
-# Giriş ve çıkış dosyaları
-input_file = 'logo.xml'
-output_file = 'epg.xml.gz'
+url = "https://vavoo.to/channels"
 
-# GZ formatına dönüştürme
-def compress_xml_to_gz(input_path, output_path):
-    if not os.path.exists(input_path):
-        print(f"HATA: {input_path} bulunamadı.")
-        return
+headers = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+}
 
-    with open(input_path, 'rb') as f_in:
-        with gzip.open(output_path, 'wb') as f_out:
-            shutil.copyfileobj(f_in, f_out)
+response = requests.get(url, headers=headers)
 
-    print(f"{input_path} başarıyla {output_path} dosyasına dönüştürüldü.")
-
-# Fonksiyonu çalıştır
-compress_xml_to_gz(input_file, output_file)
+if response.status_code == 200:
+    print(response.text)
+else:
+    print(f"Sayfa alınamadı. Durum kodu: {response.status_code}")
