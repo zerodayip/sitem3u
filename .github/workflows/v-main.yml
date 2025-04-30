@@ -59,7 +59,7 @@ jobs:
           git config user.email "actions@github.com"
 
           # Değişiklikleri commit et
-          git commit -m "Update all output files and playlist.m3u via workflow V" || echo "No changes to commit"
+          git commit -m "Update all output files via workflow V" || echo "No changes to commit"
 
           # Değişiklikleri push et
           git push origin main
