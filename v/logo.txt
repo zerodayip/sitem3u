@@ -1,0 +1,5 @@
+ATV, ATV HD, ATV FHD, ATV SD=https://images.seeklogo.com/logo-png/1/1/atv-logo-png_seeklogo-13363.png?v=1955414569188774960
+A SPOR, A SPOR HD, A SPOR FHD=https://upload.wikimedia.org/wikipedia/tr/e/e9/A_Spor_logosu.png?20140920094553
+DIZIMAX, DIZIMAX HD=https://cdn.example.com/logos/dizimax_logo.png
+TRT 1, TRT 1 HD=https://images.seeklogo.com/logo-png/26/2/trt-1-logo-png_seeklogo-260967.png
+SHOW TV, SHOW TV HD=https://images.seeklogo.com/logo-png/30/2/show-tv-logo-png_seeklogo-307890.png
