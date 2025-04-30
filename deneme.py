@@ -17,7 +17,7 @@ try:
     raw_text = soup.get_text().strip()
     data = json.loads(raw_text)
 
-    with open("data.txt", "w", encoding="utf-8") as file:
+    with open("v/data.txt", "w", encoding="utf-8") as file:
         for item in data:
             country = item.get("country", "")
             channel_id = item.get("id", "")
