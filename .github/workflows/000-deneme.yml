@@ -3,33 +3,26 @@
 name: Compress EPG XML
 
 on:
-  workflow_dispatch:  # Manuel çalıştırma
-  push:
-    paths:
-      - 'epg.xml'
+  workflow_dispatch:
 
 jobs:
   compress:
     runs-on: ubuntu-latest
     steps:
-      - name: Repo’yu klonla
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Python ortamı kur
+      - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.11'
 
-      - name: Gerekli dosyaları yükle
-        run: |
-          pip install --upgrade pip
-
-      - name: XML dosyasını .gz yap
+      - name: Compress epg.xml to epg.xml.gz
         run: |
           python deneme.py
 
-      - name: GZ dosyasını yükle (opsiyonel)
-        uses: actions/upload-artifact@v3
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
         with:
           name: epg.xml.gz
           path: epg.xml.gz
