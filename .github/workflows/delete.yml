@@ -43,5 +43,5 @@ jobs:
 
       - name: Commit and push the changes
         run: |
-          git commit -m "Delete files"
+          git commit -m "Updated files"
           git push origin main
