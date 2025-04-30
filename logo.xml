@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv>
+  <channel id="2587">
+    <display-name lang="ru">A SPOR HD</display-name>
+    <display-name lang="tr">A SPOR</display-name>
+    <tvg-logo src="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" />
+  </channel>
+
+  <channel id="3961">
+    <display-name lang="en">BEIN SPORTS HD</display-name>
+    <tvg-logo src="http://epg.one/img/3961.png" />
+  </channel>
+</tv>
