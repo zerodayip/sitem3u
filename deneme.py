@@ -1,40 +1,22 @@
-import requests
-from bs4 import BeautifulSoup
+import gzip
+import shutil
+import os
 
-# Sayfa URL'lerini tek tek yazalım
-urls = [
-    "https://canlitv.com/?sayfa=1",
-    "https://canlitv.com/?sayfa=2",
-    "https://canlitv.com/?sayfa=3",
-    "https://canlitv.com/?sayfa=4",
-    "https://canlitv.com/?sayfa=5",
-    "https://canlitv.com/?sayfa=6"
-]
+# Giriş ve çıkış dosyaları
+input_file = 'logo.xml'
+output_file = 'epg.xml.gz'
 
-# Her sayfayı tek tek gezerek verileri çekelim
-for url in urls:
-    # Sayfayı çekiyoruz
-    response = requests.get(url)
-    
-    # Eğer sayfa başarılı bir şekilde geldiyse, verileri işleyelim
-    if response.status_code == 200:
-        print(f"Sayfa başarıyla yüklendi: {url}")
-        
-        # HTML'yi BeautifulSoup ile parse edelim
-        soup = BeautifulSoup(response.content, 'html.parser')
-        
-        # Kanal linklerini bulmak için tüm <a> etiketlerine bakacağız
-        kanal_links = soup.find_all('a', title=True)  # title attribute'u olan <a> etiketleri
+# GZ formatına dönüştürme
+def compress_xml_to_gz(input_path, output_path):
+    if not os.path.exists(input_path):
+        print(f"HATA: {input_path} bulunamadı.")
+        return
 
-        # Kanal bilgilerini alalım
-        for kanal in kanal_links:
-            kanal_ad = kanal.text.strip()  # Kanal adı
-            kanal_url = "https://canlitv.com" + kanal['href']  # Kanal URL'si
+    with open(input_path, 'rb') as f_in:
+        with gzip.open(output_path, 'wb') as f_out:
+            shutil.copyfileobj(f_in, f_out)
 
-            # Kanal bilgilerini ekrana yazdıralım
-            print(f"Kanal Adı: {kanal_ad}")
-            print(f"Kanal URL: {kanal_url}")
-            print("-" * 50)
-    
-    else:
-        print(f"Sayfa yüklenemedi: {url}")
+    print(f"{input_path} başarıyla {output_path} dosyasına dönüştürüldü.")
+
+# Fonksiyonu çalıştır
+compress_xml_to_gz(input_file, output_file)
