@@ -1,5 +1,5 @@
 ATV, ATV HD, ATV FHD, ATV SD=https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/1330px-Atv_logo_2010.svg.png?20220324094234
 A SPOR, A SPOR HD, A SPOR FHD=https://upload.wikimedia.org/wikipedia/tr/e/e9/A_Spor_logosu.png?20140920094553
-DIZIMAX, DIZIMAX HD=https://cdn.example.com/logos/dizimax_logo.png
-TRT 1, TRT 1 HD=https://images.seeklogo.com/logo-png/26/2/trt-1-logo-png_seeklogo-260967.png
-SHOW TV, SHOW TV HD=https://images.seeklogo.com/logo-png/30/2/show-tv-logo-png_seeklogo-307890.png
+24, 24 HABER HD+ SD, 24 KITCHEN, 24 RAW=https://upload.wikimedia.org/wikipedia/tr/a/a6/24_TV_logosu.png
+360, 360 PLUS, 360 RAW=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/360_tv.png/120px-360_tv.png
+A HABER, A HABER HD, A HABER HEVC, A HABER RAW=https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Ahaber_Logo.png/150px-Ahaber_Logo.png
