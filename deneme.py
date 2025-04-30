@@ -13,13 +13,8 @@ try:
     response.raise_for_status()
     soup = BeautifulSoup(response.text, "html.parser")
 
-    # Sayfada sadece JSON varsa veya düz metin içinde JSON varsa:
-    raw_text = soup.get_text()
-    
-    # Başındaki boşlukları sil
-    raw_text = raw_text.strip()
-    
-    # JSON verisini yükle
+    # Sayfada JSON varsa düz metin olarak çek
+    raw_text = soup.get_text().strip()
     data = json.loads(raw_text)
 
     with open("data.txt", "w", encoding="utf-8") as file:
@@ -27,11 +22,13 @@ try:
             country = item.get("country", "")
             channel_id = item.get("id", "")
             channel_name = item.get("name", "").split(" (")[0]
-            file.write(f'Country="{country}"\n')
-            file.write(f'Channel="{channel_id}"\n')
-            file.write(f'Channel_Name="{channel_name}"\n\n')
+            url_line = f"https://vavoo.to/play/{channel_id}/index.m3u8"
 
-    print("Veriler başarıyla data.txt dosyasına kaydedildi.")
+            file.write(f'Country = "{country}"\n')
+            file.write(f'Channel_Name = "{channel_name}"\n')
+            file.write(f'URL = "{url_line}"\n\n')
+
+    print("Veriler başarıyla data.txt dosyasına yazıldı.")
 
 except (requests.exceptions.RequestException, json.JSONDecodeError) as e:
     print(f"Bir hata oluştu: {e}")
