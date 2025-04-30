@@ -1,9 +1,9 @@
 name: Run Python Scripts from Private Repo ( V )
 
-on:
-  schedule:
-    - cron: '0 */1 * * *'  # Her saat başında çalışacak şekilde
-  workflow_dispatch:  # Manuel tetikleme için
+#on:
+#  schedule:
+#    - cron: '0 */1 * * *'  # Her saat başında çalışacak şekilde
+#  workflow_dispatch:  # Manuel tetikleme için
 
 jobs:
   run-python-scripts:
