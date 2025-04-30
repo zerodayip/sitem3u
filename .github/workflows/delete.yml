@@ -27,7 +27,7 @@ jobs:
 
       - name: Delete all files except data.html in 'v' folder
         run: |
-          find v -type f ! -name 'data.html' -exec git rm {} \;
+          find v -type f ! -name 'logo.txt' ! -name 'data.html' -exec git rm {} \;
 
       - name: Delete all files except logo.txt and ana_link.txt in 's' folder
         run: |
