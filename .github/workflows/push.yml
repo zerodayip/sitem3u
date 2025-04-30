@@ -90,5 +90,5 @@ jobs:
         run: |
           echo "This is a trigger file $(date)" > sil.txt  # sil.txt dosyasının içeriğini her seferinde değiştir
           git add sil.txt  # Dosyayı git'e ekle
-          git commit -m "Update sil.txt to trigger next step"  # Commit yap
+          git commit -m "Trigger to Next Step"  # Commit yap
           git push origin main  # Push işlemini gerçekleştir
