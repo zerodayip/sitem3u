@@ -32,6 +32,6 @@ jobs:
 
       - name: Değişiklikleri commit et ve pushla
         run: |
-          git add data.txt
+          git add v/data.txt
           git diff --cached --quiet || git commit -m "Auto update: data.txt via scraper"
           git push
