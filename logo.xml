@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv>
+<channel id="2587">
+	<display-name lang="ru">A SPOR HD</display-name>
+	<display-name lang="ru">A SPORT</display-name>
+	<display-name lang="ru">A Spor HD TR</display-name>
+	<display-name lang="ru">A Spor TR</display-name>
+	<display-name lang="ru">A Sport TR</display-name>
+	<display-name lang="ru">A SPOR</display-name>
+	<icon src="http://epg.one/img/2587.png" />
+</channel>
+<channel id="3961">
+</tv>
