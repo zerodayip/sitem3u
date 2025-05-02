@@ -29,7 +29,7 @@ jobs:
           playwright install
 
       - name: Run livejson.py from private repo (output to public d/)
-        run: python private_py/daddylivekanal/livejson.py
+        run: python private_py/daddyliveevent/livejson.py
 
       - name: Commit and push if changes
         run: |
