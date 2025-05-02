@@ -37,10 +37,10 @@ jobs:
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
 
-      - name: Commit and Push Changes
+      - name: Commit and Push Only playlist.m3u
         run: |
-          git add .
-          git diff --cached --quiet || (git commit -m "Update playlist.m3u and clean up files via GitHub Actions" && git push)
+          git add ./playlist.m3u
+          git diff --cached --quiet || (git commit -m "Update playlist.m3u via GitHub Actions" && git push)
 
   sync-root-folder:
     runs-on: ubuntu-latest
@@ -63,32 +63,31 @@ jobs:
         run: |
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/Py.git private_py
 
-      - name: Copy m3u files from root folder to m3u8 folder in Private Py Repo
+      - name: Copy ONLY playlist.m3u to m3u8 folder in Private Py Repo
         run: |
-          mkdir -p private_py/m3u8  # m3u8 klasörü oluştur
-          cp *.m3u private_py/m3u8/  # Ana dizindeki tüm .m3u dosyalarını m3u8 içine kopyala
+          mkdir -p private_py/m3u8
+          cp playlist.m3u private_py/m3u8/
 
-      - name: Check if .m3u files are copied
+      - name: Check if playlist.m3u is copied
         run: |
           echo "Files in m3u8 folder:"
-          ls private_py/m3u8  # Kopyalanan dosyaların burada olduğunu kontrol et
+          ls private_py/m3u8
 
       - name: Configure Git for Commit (Again)
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
 
-      - name: Commit and Push to Private Py Repo (Even if no changes)
+      - name: Commit and Push ONLY playlist.m3u to Private Py Repo
         run: |
           cd private_py
-          git add m3u8/*.m3u
-          # Commit'i değişiklikler olsa da olmasa da her zaman yap
-          git commit --amend --no-edit || git commit -m "Sync root m3u files into m3u8 folder [auto]"
-          git push origin main --force  # Force push ile commit'i yap
-          
+          git add m3u8/playlist.m3u
+          git diff --cached --quiet || git commit -m "Sync playlist.m3u into m3u8 folder [auto]"
+          git push origin main
+
       - name: Create or Update sil.txt (Trigger file)
         run: |
-          echo "This is a trigger file $(date)" > sil.txt  # sil.txt dosyasının içeriğini her seferinde değiştir
-          git add sil.txt  # Dosyayı git'e ekle
-          git commit -m "Trigger to Next Step"  # Commit yap
-          git push origin main  # Push işlemini gerçekleştir
+          echo "This is a trigger file $(date)" > sil.txt
+          git add sil.txt
+          git commit -m "Trigger to Next Step"
+          git push origin main
