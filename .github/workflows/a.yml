@@ -1,0 +1,25 @@
+name: Run TopEmbed Scraper
+
+on:
+  workflow_dispatch:  # Elle tetiklenebilir       # Her push'ta çalışır
+
+jobs:
+  run-scraper:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repo'yu Klonla
+        uses: actions/checkout@v3
+
+      - name: Python Kurulumu
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Gerekli Kütüphaneleri Kur
+        run: |
+          pip install requests beautifulsoup4
+
+      - name: Python Script'ini Çalıştır
+        run: |
+          python deneme.py
