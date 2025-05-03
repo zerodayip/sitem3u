@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+from playwright.sync_api import sync_playwright
 import re
 from concurrent.futures import ThreadPoolExecutor
 
@@ -17,16 +18,38 @@ LEAGUE_MAPPING = {
 
 base_url = "https://topembed.pw"
 
-def extract_m3u8(link_obj):
-    url = link_obj["page"]
-    headers = {"Referer": base_url, "User-Agent": "Mozilla/5.0"}
-    try:
-        r = requests.get(url, headers=headers, timeout=10)
-        m3u8_links = re.findall(r'https?://[^\s"\']+\.m3u8', r.text)
-        link_obj["m3u8"] = m3u8_links[0] if m3u8_links else None
-    except Exception:
-        link_obj["m3u8"] = None
-    return link_obj
+def extract_m3u8_from_embed_page(embed_url):
+    m3u8_links = []
+
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)  # Tarayıcıyı başlat
+        page = browser.new_page()
+
+        # Referer ve User-Agent gibi başlıkları ayarla
+        page.set_extra_http_headers({
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+            "Referer": embed_url
+        })
+
+        # Sayfayı yükle
+        page.goto(embed_url)
+
+        # Ağ trafiğini izleyerek m3u8 linklerini bul
+        def handle_route(route, request):
+            # Ağ isteklerini kontrol et
+            if '.m3u8' in request.url:
+                m3u8_links.append(request.url)
+
+        # Ağ trafiği dinleme
+        page.on('route', handle_route)
+
+        # Sayfa yüklenene kadar bekle (max 30 saniye)
+        page.wait_for_load_state('load')
+
+        # Tarayıcıyı kapat
+        browser.close()
+
+    return m3u8_links
 
 def fetch_events():
     items = []
@@ -63,15 +86,17 @@ def fetch_events():
         items.append({"title": title, "league": "TV", "links": [link_obj]})
         all_link_objs.append(link_obj)
 
-    # 50 iş parçacığı ile m3u8 tarama
+    # 50 iş parçacığı ile m3u8 tarama (Playwright ile)
+    updated_links = []
     with ThreadPoolExecutor(max_workers=50) as executor:
-        updated_links = list(executor.map(extract_m3u8, all_link_objs))
+        updated_links = list(executor.map(extract_m3u8_from_embed_page, [link["page"] for link in all_link_objs]))
 
     # Güncellenen m3u8'leri eşleştir
     idx = 0
     for item in items:
         for i in range(len(item["links"])):
-            item["links"][i]["m3u8"] = updated_links[idx]["m3u8"]
+            if updated_links[idx]:
+                item["links"][i]["m3u8"] = updated_links[idx][0] if updated_links[idx] else None
             idx += 1
 
     return items
