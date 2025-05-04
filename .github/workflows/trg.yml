@@ -34,8 +34,8 @@ jobs:
       - name: Run ana_domain.py
         run: python private_py/trgoals/ana_domain.py
 
-     # - name: Run baseurl.py
-       # run: python private_py/selcuk/baseurl.py
+      - name: Run baseurl.py
+        run: python private_py/trgoals/main_link.py
 
       #      - name: Run datahtml.py
       #        run: python private_py/selcuk/datahtml.py
