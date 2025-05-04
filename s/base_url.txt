@@ -1,0 +1,232 @@
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "13:30 EMPOLI - LAZIO"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcukssport2/playlist.m3u8"
+
+Grup = "ICON-BASKETBALL"
+Kanal_Adı = "13:30 BASQUET GIRONA - IBEROSTAR TENERIFE"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcuksmartspor/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "13:30 EMPOLI - LAZIO"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcukssport2/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "14:00 GLASGOW RANGERS - CELTIC"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcuktrtspor/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "14:00 GLASGOW RANGERS - CELTIC"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcuktrtspor/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "14:30 KARLSRUHE - KAISERSLAUTERN"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcuktivibuspor3/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "14:30 HERTHA BERLIN - GREUTHER FÜRTH"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcuktivibuspor4/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "14:30 HERTHA BERLIN - GREUTHER FÜRTH"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcuktivibuspor4/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "14:30 KARLSRUHE - KAISERSLAUTERN"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcuktivibuspor3/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "15:00 REAL MADRID - CELTA VIGO"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcukssport/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "15:00 REAL MADRID - CELTA VIGO"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcukssport/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "15:30 G.A. EAGLES - AZ ALKMAAR"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcuktv85/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "15:30 G.A. EAGLES - AZ ALKMAAR"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcuktv85/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "16:00 MONZA - ATALANTA"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcukssport2/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "16:00 ERZURUMSPOR - ÜMRANIYESPOR"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcuktrtspor/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "16:00 SAMSUNSPOR - EYÜPSPOR"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcukbeinsports2/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "16:00 ÇORUM FK - ŞANLIURFASPOR"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcuktrtspor/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "16:00 KEÇIÖRENGÜCÜ - ANKARAGÜCÜ"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcuktrtspor/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "16:00 IĞDIRSPOR - KOCAELISPOR"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcuktrtspor/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "16:00 IĞDIRSPOR - KOCAELISPOR"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcuktrtspor/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "16:00 BOLUSPOR - Y.MALATYASPOR"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcuktrtspor/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "16:00 MANISA FK - BANDIRMASPOR"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcuktrtspor/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "16:00 ERZURUMSPOR - ÜMRANIYESPOR"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcuktrtspor/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "16:00 ÇORUM FK - ŞANLIURFASPOR"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcuktrtspor/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "16:00 PENDIKSPOR - FATIH KARAGÜMRÜK"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcuktrtspor/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "16:00 GENÇLERBIRLIĞI - SAKARYASPOR"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcuktrtspor/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "16:00 MONZA - ATALANTA"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcukssport2/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "16:00 SAMSUNSPOR - EYÜPSPOR"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcukbeinsports2/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "16:00 BOLUSPOR - Y.MALATYASPOR"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcuktrtspor/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "16:00 PENDIKSPOR - FATIH KARAGÜMRÜK"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcuktrtspor/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "16:00 MANISA FK - BANDIRMASPOR"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcuktrtspor/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "16:00 KEÇIÖRENGÜCÜ - ANKARAGÜCÜ"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcuktrtspor/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "16:00 GENÇLERBIRLIĞI - SAKARYASPOR"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcuktrtspor/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "16:30 AUGSBURG - HOLSTEIN KIEL"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcuktivibuspor1/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "16:30 AUGSBURG - HOLSTEIN KIEL"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcuktivibuspor1/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "17:15 SEVILLA - LEGANES"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcukssport/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "17:15 SEVILLA - LEGANES"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcukssport/playlist.m3u8"
+
+Grup = "ICON-BASKETBALL"
+Kanal_Adı = "18:00 DARÜŞŞAFAKA - YALOVASPOR"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcukbeinsports5/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "18:15 LYON - LENS"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "18:15 LYON - LENS"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "18:30 FREIBURG - BAYER LEVERKUSEN"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcuktivibuspor2/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "18:30 FREIBURG - BAYER LEVERKUSEN"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcuktivibuspor2/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "19:00 FENERBAHÇE - BEŞIKTAŞ"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcukbeinsports1/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "19:00 ROMA - FIORENTINA"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcukssport2/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "19:00 ADANA DEMIRSPOR - GÖZTEPE"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcukbeinsports2/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "19:00 ROMA - FIORENTINA"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcukssport2/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "19:00 FENERBAHÇE - BEŞIKTAŞ"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcukbeinsports1/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "19:00 ADANA DEMIRSPOR - GÖZTEPE"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcukbeinsports2/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "19:30 ESPANYOL - REAL BETIS"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcukssport/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "19:30 ESPANYOL - REAL BETIS"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcukssport/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "20:30 MAINZ - EINTRACHT FRANKFURT"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcuktivibuspor1/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "20:30 MAINZ - EINTRACHT FRANKFURT"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcuktivibuspor1/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:45 LILLE - MARSILYA"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcukbeinsports3/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:45 BOLOGNA - JUVENTUS"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcukssport2/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:45 LILLE - MARSILYA"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcukbeinsports3/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:45 BOLOGNA - JUVENTUS"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcukssport2/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 REAL SOCIEDAD - ATHLETIC BILBAO"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcukssport/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 REAL SOCIEDAD - ATHLETIC BILBAO"
+Url = "https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcukssport/playlist.m3u8"
+
