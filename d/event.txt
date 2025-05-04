@@ -1,0 +1,410 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="21:00 (TV PROGRAMLARI) FANDUEL RACING LIVE (ALTITUDE SPORTS)" tvg-logo="https://w7.pngwing.com/pngs/870/881/png-transparent-television-couch-illustration-watch-tv-on-the-sofa-angle-text-sofa-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",21:00 (TV PROGRAMLARI) FANDUEL RACING LIVE (ALTITUDE SPORTS)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium923/mono.m3u8
+
+#EXTINF:-1 tvg-id="21:00 (FUTBOL) ARGENTINA - PRIMERA DIVISIÓN : TIGRE VS BOCA JUNIORS (TNT SPORTS ARGENTINA)" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",21:00 (FUTBOL) ARGENTINA - PRIMERA DIVISIÓN : TIGRE VS BOCA JUNIORS (TNT SPORTS ARGENTINA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6top1.newkso.ru/ddy6/premium388/mono.m3u8
+
+#EXTINF:-1 tvg-id="21:00 (FUTBOL) ARGENTINA - PRIMERA DIVISIÓN : TIGRE VS BOCA JUNIORS (ARENA SPORT 1 SERBIA)" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",21:00 (FUTBOL) ARGENTINA - PRIMERA DIVISIÓN : TIGRE VS BOCA JUNIORS (ARENA SPORT 1 SERBIA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium429/mono.m3u8
+
+#EXTINF:-1 tvg-id="21:00 (FUTBOL) ARGENTINA - PRIMERA DIVISIÓN : TIGRE VS BOCA JUNIORS (ARENA SPORT 2 CROATIA)" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",21:00 (FUTBOL) ARGENTINA - PRIMERA DIVISIÓN : TIGRE VS BOCA JUNIORS (ARENA SPORT 2 CROATIA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium433/mono.m3u8
+
+#EXTINF:-1 tvg-id="21:00 (FUTBOL) ARGENTINA - PRIMERA DIVISIÓN : TIGRE VS BOCA JUNIORS (SPORT 4 ISRAEL)" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",21:00 (FUTBOL) ARGENTINA - PRIMERA DIVISIÓN : TIGRE VS BOCA JUNIORS (SPORT 4 ISRAEL)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium143/mono.m3u8
+
+#EXTINF:-1 tvg-id="21:00 (RUGBI) MAJOR LEAGUE RUGBY : SAN DIEGO LEGION VS NOLA GOLD (SKY SPORT SELECT NZ)" tvg-logo="https://w7.pngwing.com/pngs/75/71/png-transparent-euclidean-rugby-football-rugby-ball-rugby-sport-happy-birthday-vector-images-sports-equipment-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",21:00 (RUGBI) MAJOR LEAGUE RUGBY : SAN DIEGO LEGION VS NOLA GOLD (SKY SPORT SELECT NZ)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1top1.newkso.ru/dokko1/premium587/mono.m3u8
+
+#EXTINF:-1 tvg-id="21:10 (FUTBOL) COLOMBIA - PRIMERA A : MEDELLÍN VS ATLÉTICO NACIONAL (WIN+ FUTBOL COLOMBIA)" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",21:10 (FUTBOL) COLOMBIA - PRIMERA A : MEDELLÍN VS ATLÉTICO NACIONAL (WIN+ FUTBOL COLOMBIA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1top1.newkso.ru/dokko1/premium392/mono.m3u8
+
+#EXTINF:-1 tvg-id="21:30 (FUTBOL) CHILE - PRIMERA DIVISION : AUDAX ITALIANO VS LA SERENA (TNT SPORTS PREMIUM CHILE)" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",21:30 (FUTBOL) CHILE - PRIMERA DIVISION : AUDAX ITALIANO VS LA SERENA (TNT SPORTS PREMIUM CHILE)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1top1.newkso.ru/dokko1/premium642/mono.m3u8
+
+#EXTINF:-1 tvg-id="21:30 (FUTBOL) BRAZIL - BRASILEIRÃO : CRUZEIRO VS FLAMENGO (PREMIERE BR)" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",21:30 (FUTBOL) BRAZIL - BRASILEIRÃO : CRUZEIRO VS FLAMENGO (PREMIERE BR)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium88/mono.m3u8
+
+#EXTINF:-1 tvg-id="21:30 (FUTBOL) BRAZIL - SERIE B : CHAPECOENSE VS CRICIÚMA (ESPN4 BRAZIL)" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",21:30 (FUTBOL) BRAZIL - SERIE B : CHAPECOENSE VS CRICIÚMA (ESPN4 BRAZIL)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6top1.newkso.ru/ddy6/premium85/mono.m3u8
+
+#EXTINF:-1 tvg-id="21:30 (FUTBOL) CAMPEONATO BRASILEIRO FEMININO DE FUTEBOL : CORINTHIANS VS BAHIA (SPORTV BR)" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",21:30 (FUTBOL) CAMPEONATO BRASILEIRO FEMININO DE FUTEBOL : CORINTHIANS VS BAHIA (SPORTV BR)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6top1.newkso.ru/ddy6/premium78/mono.m3u8
+
+#EXTINF:-1 tvg-id="22:00 (TV PROGRAMLARI) NAKED AND AFRAID SEASON 18, EPISODE 10 (DISCOVERY USA)" tvg-logo="https://w7.pngwing.com/pngs/870/881/png-transparent-television-couch-illustration-watch-tv-on-the-sofa-angle-text-sofa-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:00 (TV PROGRAMLARI) NAKED AND AFRAID SEASON 18, EPISODE 10 (DISCOVERY USA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium313/mono.m3u8
+
+#EXTINF:-1 tvg-id="22:00 (TV PROGRAMLARI) SNAPPED: KILLER COUPLES SEASON 18, EPISODE 8 (OXYGEN TRUE CRIME)" tvg-logo="https://w7.pngwing.com/pngs/870/881/png-transparent-television-couch-illustration-watch-tv-on-the-sofa-angle-text-sofa-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:00 (TV PROGRAMLARI) SNAPPED: KILLER COUPLES SEASON 18, EPISODE 8 (OXYGEN TRUE CRIME)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium332/mono.m3u8
+
+#EXTINF:-1 tvg-id="22:00 (FUTBOL) COSTA RICA - PRIMERA DIVISION : DEPORTIVO SAPRISSA VS GUANACASTECA (FUTV)" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:00 (FUTBOL) COSTA RICA - PRIMERA DIVISION : DEPORTIVO SAPRISSA VS GUANACASTECA (FUTV)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium6/mono.m3u8
+
+#EXTINF:-1 tvg-id="22:00 (FUTBOL) USL LEAGUE ONE : PORTLAND HEARTS OF PINE VS ONE KNOXVILLE (NESN USA)" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:00 (FUTBOL) USL LEAGUE ONE : PORTLAND HEARTS OF PINE VS ONE KNOXVILLE (NESN USA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium762/mono.m3u8
+
+#EXTINF:-1 tvg-id="22:00 (GOLF) LPGA TOUR : BLACK DESERT CHAMPIONSHIP (SKY SPORTS GOLF UK)" tvg-logo="wind" group-title="GÜNLÜK DÜNYA SPORLARI",22:00 (GOLF) LPGA TOUR : BLACK DESERT CHAMPIONSHIP (SKY SPORTS GOLF UK)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium70/mono.m3u8
+
+#EXTINF:-1 tvg-id="22:00 (GOLF) LPGA TOUR : BLACK DESERT CHAMPIONSHIP (GOLF CHANNEL USA)" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",22:00 (GOLF) LPGA TOUR : BLACK DESERT CHAMPIONSHIP (GOLF CHANNEL USA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium318/mono.m3u8
+
+#EXTINF:-1 tvg-id="22:00 (GOLF) LPGA TOUR : BLACK DESERT CHAMPIONSHIP (MOVISTAR GOLF)" tvg-logo="dokko1" group-title="GÜNLÜK DÜNYA SPORLARI",22:00 (GOLF) LPGA TOUR : BLACK DESERT CHAMPIONSHIP (MOVISTAR GOLF)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1top1.newkso.ru/dokko1/premium528/mono.m3u8
+
+#EXTINF:-1 tvg-id="22:00 (GOLF) LPGA TOUR : BLACK DESERT CHAMPIONSHIP (SUPERSPORT GOLF)" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",22:00 (GOLF) LPGA TOUR : BLACK DESERT CHAMPIONSHIP (SUPERSPORT GOLF)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium422/mono.m3u8
+
+#EXTINF:-1 tvg-id="22:00 (GOLF) LPGA TOUR : BLACK DESERT CHAMPIONSHIP (SKY SPORTS MAIN EVENT)" tvg-logo="zeko" group-title="GÜNLÜK DÜNYA SPORLARI",22:00 (GOLF) LPGA TOUR : BLACK DESERT CHAMPIONSHIP (SKY SPORTS MAIN EVENT)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium38/mono.m3u8
+
+#EXTINF:-1 tvg-id="22:00 (GOLF) LPGA TOUR : BLACK DESERT CHAMPIONSHIP (SKY SPORT 3 NZ)" tvg-logo="dokko1" group-title="GÜNLÜK DÜNYA SPORLARI",22:00 (GOLF) LPGA TOUR : BLACK DESERT CHAMPIONSHIP (SKY SPORT 3 NZ)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1top1.newkso.ru/dokko1/premium590/mono.m3u8
+
+#EXTINF:-1 tvg-id="22:00 (BASKETBOL) NBA : INDIANA PACERS VS CLEVELAND CAVALIERS (HOME FEED)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:00 (BASKETBOL) NBA : INDIANA PACERS VS CLEVELAND CAVALIERS (HOME FEED)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium11/mono.m3u8
+
+#EXTINF:-1 tvg-id="22:00 (BASKETBOL) NBA : INDIANA PACERS VS CLEVELAND CAVALIERS (AWAY FEED)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:00 (BASKETBOL) NBA : INDIANA PACERS VS CLEVELAND CAVALIERS (AWAY FEED)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium12/mono.m3u8
+
+#EXTINF:-1 tvg-id="22:00 (BASKETBOL) NBA : INDIANA PACERS VS CLEVELAND CAVALIERS (TNT USA)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:00 (BASKETBOL) NBA : INDIANA PACERS VS CLEVELAND CAVALIERS (TNT USA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium338/mono.m3u8
+
+#EXTINF:-1 tvg-id="22:00 (BASKETBOL) NBA : INDIANA PACERS VS CLEVELAND CAVALIERS (TRUTV USA)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:00 (BASKETBOL) NBA : INDIANA PACERS VS CLEVELAND CAVALIERS (TRUTV USA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1top1.newkso.ru/dokko1/premium341/mono.m3u8
+
+#EXTINF:-1 tvg-id="22:00 (BASKETBOL) NBA : INDIANA PACERS VS CLEVELAND CAVALIERS (TSN4)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:00 (BASKETBOL) NBA : INDIANA PACERS VS CLEVELAND CAVALIERS (TSN4)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium114/mono.m3u8
+
+#EXTINF:-1 tvg-id="22:00 (BASKETBOL) NBA : INDIANA PACERS VS CLEVELAND CAVALIERS (M+ #VAMOS ES)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:00 (BASKETBOL) NBA : INDIANA PACERS VS CLEVELAND CAVALIERS (M+ #VAMOS ES)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium521/mono.m3u8
+
+#EXTINF:-1 tvg-id="22:00 (BASKETBOL) NBA : INDIANA PACERS VS CLEVELAND CAVALIERS (SPORT TV2 PORTUGAL)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:00 (BASKETBOL) NBA : INDIANA PACERS VS CLEVELAND CAVALIERS (SPORT TV2 PORTUGAL)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1top1.newkso.ru/dokko1/premium74/mono.m3u8
+
+#EXTINF:-1 tvg-id="22:00 (BASKETBOL) NBA : INDIANA PACERS VS CLEVELAND CAVALIERS (CANAL+ SPORT 2 POLAND)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:00 (BASKETBOL) NBA : INDIANA PACERS VS CLEVELAND CAVALIERS (CANAL+ SPORT 2 POLAND)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6top1.newkso.ru/ddy6/premium73/mono.m3u8
+
+#EXTINF:-1 tvg-id="22:00 (BASKETBOL) NBA : INDIANA PACERS VS CLEVELAND CAVALIERS (BEIN SPORTS 1 FRANCE)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:00 (BASKETBOL) NBA : INDIANA PACERS VS CLEVELAND CAVALIERS (BEIN SPORTS 1 FRANCE)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium116/mono.m3u8
+
+#EXTINF:-1 tvg-id="22:00 (BASKETBOL) NBA : INDIANA PACERS VS CLEVELAND CAVALIERS (ESPN 2 NL)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:00 (BASKETBOL) NBA : INDIANA PACERS VS CLEVELAND CAVALIERS (ESPN 2 NL)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium386/mono.m3u8
+
+#EXTINF:-1 tvg-id="22:00 (BASKETBOL) NBA : INDIANA PACERS VS CLEVELAND CAVALIERS (COSMOTE SPORT 5 GREECE)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:00 (BASKETBOL) NBA : INDIANA PACERS VS CLEVELAND CAVALIERS (COSMOTE SPORT 5 GREECE)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1top1.newkso.ru/dokko1/premium626/mono.m3u8
+
+#EXTINF:-1 tvg-id="22:00 (BASKETBOL) NBA : INDIANA PACERS VS CLEVELAND CAVALIERS (ARENA SPORT 1 CROATIA)" tvg-logo="https://w7.pngwing.com/pngs/662/687/png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",22:00 (BASKETBOL) NBA : INDIANA PACERS VS CLEVELAND CAVALIERS (ARENA SPORT 1 CROATIA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6top1.newkso.ru/ddy6/premium432/mono.m3u8
+
+#EXTINF:-1 tvg-id="23:00 (TV PROGRAMLARI) JUEGO DE VOCES, DE TAL PALO TAL ASTILLA SEASON 2, EPISODE 8 (UNIVISION USA)" tvg-logo="https://w7.pngwing.com/pngs/870/881/png-transparent-television-couch-illustration-watch-tv-on-the-sofa-angle-text-sofa-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (TV PROGRAMLARI) JUEGO DE VOCES, DE TAL PALO TAL ASTILLA SEASON 2, EPISODE 8 (UNIVISION USA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium132/mono.m3u8
+
+#EXTINF:-1 tvg-id="23:00 (TV PROGRAMLARI) AMERICA'S FUNNIEST HOME VIDEOS SEASON 35, EPISODE 20 (ABC NY USA)" tvg-logo="https://w7.pngwing.com/pngs/870/881/png-transparent-television-couch-illustration-watch-tv-on-the-sofa-angle-text-sofa-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (TV PROGRAMLARI) AMERICA'S FUNNIEST HOME VIDEOS SEASON 35, EPISODE 20 (ABC NY USA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium766/mono.m3u8
+
+#EXTINF:-1 tvg-id="23:00 (FUTBOL) MEXICO - LIGA DE EXPANSIÓN MX : TAMPICO MADERO VS MINEROS DE ZACATECAS (FOX SPORTS MEXICO)" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (FUTBOL) MEXICO - LIGA DE EXPANSIÓN MX : TAMPICO MADERO VS MINEROS DE ZACATECAS (FOX SPORTS MEXICO)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium929/mono.m3u8
+
+#EXTINF:-1 tvg-id="23:00 (FUTBOL) MEXICO - LIGA DE EXPANSIÓN MX : TAMPICO MADERO VS MINEROS DE ZACATECAS (ESPN4 MEXICO)" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (FUTBOL) MEXICO - LIGA DE EXPANSIÓN MX : TAMPICO MADERO VS MINEROS DE ZACATECAS (ESPN4 MEXICO)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium928/mono.m3u8
+
+#EXTINF:-1 tvg-id="23:00 (FUTBOL) MEXICO - LIGA DE EXPANSIÓN MX : TAMPICO MADERO VS MINEROS DE ZACATECAS (TVC DEPORTES)" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (FUTBOL) MEXICO - LIGA DE EXPANSIÓN MX : TAMPICO MADERO VS MINEROS DE ZACATECAS (TVC DEPORTES)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium932/mono.m3u8
+
+#EXTINF:-1 tvg-id="23:00 (FUTBOL) MAJOR LEAGUE SOCCER : SPORTING KC VS LA GALAXY (MLS SEASON PASS)" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (FUTBOL) MAJOR LEAGUE SOCCER : SPORTING KC VS LA GALAXY (MLS SEASON PASS)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6top1.newkso.ru/ddy6/premium151/mono.m3u8
+
+#EXTINF:-1 tvg-id="23:00 (FUTBOL) MAJOR LEAGUE SOCCER : SPORTING KC VS LA GALAXY (SPORTDIGITAL FUSSBALL DE)" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (FUTBOL) MAJOR LEAGUE SOCCER : SPORTING KC VS LA GALAXY (SPORTDIGITAL FUSSBALL DE)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1top1.newkso.ru/dokko1/premium571/mono.m3u8
+
+#EXTINF:-1 tvg-id="23:00 (FUTBOL) MAJOR LEAGUE SOCCER : SPORTING KC VS LA GALAXY (SPORT 2 ISRAEL)" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (FUTBOL) MAJOR LEAGUE SOCCER : SPORTING KC VS LA GALAXY (SPORT 2 ISRAEL)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium141/mono.m3u8
+
+#EXTINF:-1 tvg-id="23:00 (FUTBOL) USL CHAMPIONSHIP : OAKLAND ROOTS VS SACRAMENTO REPUBLIC (CBS SPORTS NETWORK USA)" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (FUTBOL) USL CHAMPIONSHIP : OAKLAND ROOTS VS SACRAMENTO REPUBLIC (CBS SPORTS NETWORK USA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium308/mono.m3u8
+
+#EXTINF:-1 tvg-id="23:00 (FUTBOL) USL LEAGUE ONE : SPOKANE VELOCITY VS WESTCHESTER SC (MSG USA)" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (FUTBOL) USL LEAGUE ONE : SPOKANE VELOCITY VS WESTCHESTER SC (MSG USA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium765/mono.m3u8
+
+#EXTINF:-1 tvg-id="23:00 (FUTBOL) LIGA MX FEMENIL : AMÉRICA VS GUADALAJARA (TUDN USA)" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (FUTBOL) LIGA MX FEMENIL : AMÉRICA VS GUADALAJARA (TUDN USA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium66/mono.m3u8
+
+#EXTINF:-1 tvg-id="23:00 (FUTBOL) USL CHAMPIONSHIP : MONTEREY BAY VS MIAMI FC (ESPN+ USA)" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (FUTBOL) USL CHAMPIONSHIP : MONTEREY BAY VS MIAMI FC (ESPN+ USA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6top1.newkso.ru/ddy6/premium152/mono.m3u8
+
+#EXTINF:-1 tvg-id="23:00 (BEYZBOL) MLB : ATLANTA BRAVES VS LOS ANGELES DODGERS (MLB LEAGUE PASS)" tvg-logo="https://w7.pngwing.com/pngs/538/319/png-transparent-cricket-player-on-field-illustration-cricket-baseball-twenty20-batting-illustration-baseball-game-game-sport-video-game-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (BEYZBOL) MLB : ATLANTA BRAVES VS LOS ANGELES DODGERS (MLB LEAGUE PASS)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium2/mono.m3u8
+
+#EXTINF:-1 tvg-id="23:00 (BEYZBOL) MLB : ATLANTA BRAVES VS LOS ANGELES DODGERS (TNT SPORTS 1 UK)" tvg-logo="https://w7.pngwing.com/pngs/538/319/png-transparent-cricket-player-on-field-illustration-cricket-baseball-twenty20-batting-illustration-baseball-game-game-sport-video-game-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (BEYZBOL) MLB : ATLANTA BRAVES VS LOS ANGELES DODGERS (TNT SPORTS 1 UK)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium31/mono.m3u8
+
+#EXTINF:-1 tvg-id="23:00 (BEYZBOL) MLB : ATLANTA BRAVES VS LOS ANGELES DODGERS (ESPN USA)" tvg-logo="https://w7.pngwing.com/pngs/538/319/png-transparent-cricket-player-on-field-illustration-cricket-baseball-twenty20-batting-illustration-baseball-game-game-sport-video-game-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (BEYZBOL) MLB : ATLANTA BRAVES VS LOS ANGELES DODGERS (ESPN USA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium44/mono.m3u8
+
+#EXTINF:-1 tvg-id="23:00 (BEYZBOL) MLB : ATLANTA BRAVES VS LOS ANGELES DODGERS (VODAFONE SPORT)" tvg-logo="https://w7.pngwing.com/pngs/538/319/png-transparent-cricket-player-on-field-illustration-cricket-baseball-twenty20-batting-illustration-baseball-game-game-sport-video-game-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (BEYZBOL) MLB : ATLANTA BRAVES VS LOS ANGELES DODGERS (VODAFONE SPORT)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium260/mono.m3u8
+
+#EXTINF:-1 tvg-id="23:00 (BEYZBOL) MLB : ATLANTA BRAVES VS LOS ANGELES DODGERS (RDS CA)" tvg-logo="https://w7.pngwing.com/pngs/538/319/png-transparent-cricket-player-on-field-illustration-cricket-baseball-twenty20-batting-illustration-baseball-game-game-sport-video-game-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (BEYZBOL) MLB : ATLANTA BRAVES VS LOS ANGELES DODGERS (RDS CA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1top1.newkso.ru/dokko1/premium839/mono.m3u8
+
+#EXTINF:-1 tvg-id="23:00 (BEYZBOL) MLB : ATLANTA BRAVES VS LOS ANGELES DODGERS (TSN2)" tvg-logo="https://w7.pngwing.com/pngs/538/319/png-transparent-cricket-player-on-field-illustration-cricket-baseball-twenty20-batting-illustration-baseball-game-game-sport-video-game-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (BEYZBOL) MLB : ATLANTA BRAVES VS LOS ANGELES DODGERS (TSN2)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium112/mono.m3u8
+
+#EXTINF:-1 tvg-id="23:00 (BEYZBOL) MLB : ATLANTA BRAVES VS LOS ANGELES DODGERS (ESPN DEPORTES)" tvg-logo="https://w7.pngwing.com/pngs/538/319/png-transparent-cricket-player-on-field-illustration-cricket-baseball-twenty20-batting-illustration-baseball-game-game-sport-video-game-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (BEYZBOL) MLB : ATLANTA BRAVES VS LOS ANGELES DODGERS (ESPN DEPORTES)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium375/mono.m3u8
+
+#EXTINF:-1 tvg-id="23:00 (BEYZBOL) MLB : ATLANTA BRAVES VS LOS ANGELES DODGERS (BEIN SPORTS 4 MAX FRANCE)" tvg-logo="https://w7.pngwing.com/pngs/538/319/png-transparent-cricket-player-on-field-illustration-cricket-baseball-twenty20-batting-illustration-baseball-game-game-sport-video-game-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (BEYZBOL) MLB : ATLANTA BRAVES VS LOS ANGELES DODGERS (BEIN SPORTS 4 MAX FRANCE)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6top1.newkso.ru/ddy6/premium494/mono.m3u8
+
+#EXTINF:-1 tvg-id="23:00 (BEYZBOL) MLB : ATLANTA BRAVES VS LOS ANGELES DODGERS (5 LIVE ISRAEL)" tvg-logo="https://w7.pngwing.com/pngs/538/319/png-transparent-cricket-player-on-field-illustration-cricket-baseball-twenty20-batting-illustration-baseball-game-game-sport-video-game-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (BEYZBOL) MLB : ATLANTA BRAVES VS LOS ANGELES DODGERS (5 LIVE ISRAEL)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium146/mono.m3u8
+
+#EXTINF:-1 tvg-id="23:00 (BUZ HOKEYİ) NHL : ST. LOUIS BLUES VS WINNIPEG JETS (HOME FEED)" tvg-logo="https://w7.pngwing.com/pngs/545/208/png-transparent-ice-hockey-pond-hockey-hockey-players-sport-video-player-competition-event-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (BUZ HOKEYİ) NHL : ST. LOUIS BLUES VS WINNIPEG JETS (HOME FEED)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium5/mono.m3u8
+
+#EXTINF:-1 tvg-id="23:00 (BUZ HOKEYİ) NHL : ST. LOUIS BLUES VS WINNIPEG JETS (AWAY FEED)" tvg-logo="https://w7.pngwing.com/pngs/545/208/png-transparent-ice-hockey-pond-hockey-hockey-players-sport-video-player-competition-event-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (BUZ HOKEYİ) NHL : ST. LOUIS BLUES VS WINNIPEG JETS (AWAY FEED)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium7/mono.m3u8
+
+#EXTINF:-1 tvg-id="23:00 (BUZ HOKEYİ) NHL : ST. LOUIS BLUES VS WINNIPEG JETS (TBS USA)" tvg-logo="https://w7.pngwing.com/pngs/545/208/png-transparent-ice-hockey-pond-hockey-hockey-players-sport-video-player-competition-event-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (BUZ HOKEYİ) NHL : ST. LOUIS BLUES VS WINNIPEG JETS (TBS USA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium336/mono.m3u8
+
+#EXTINF:-1 tvg-id="23:00 (BUZ HOKEYİ) NHL : ST. LOUIS BLUES VS WINNIPEG JETS (SPORTSNET ONTARIO)" tvg-logo="https://w7.pngwing.com/pngs/545/208/png-transparent-ice-hockey-pond-hockey-hockey-players-sport-video-player-competition-event-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (BUZ HOKEYİ) NHL : ST. LOUIS BLUES VS WINNIPEG JETS (SPORTSNET ONTARIO)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium406/mono.m3u8
+
+#EXTINF:-1 tvg-id="23:00 (BUZ HOKEYİ) NHL : ST. LOUIS BLUES VS WINNIPEG JETS (SPORTSNET EAST)" tvg-logo="https://w7.pngwing.com/pngs/545/208/png-transparent-ice-hockey-pond-hockey-hockey-players-sport-video-player-competition-event-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (BUZ HOKEYİ) NHL : ST. LOUIS BLUES VS WINNIPEG JETS (SPORTSNET EAST)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium408/mono.m3u8
+
+#EXTINF:-1 tvg-id="23:00 (BUZ HOKEYİ) NHL : ST. LOUIS BLUES VS WINNIPEG JETS (SPORTSNET WEST)" tvg-logo="https://w7.pngwing.com/pngs/545/208/png-transparent-ice-hockey-pond-hockey-hockey-players-sport-video-player-competition-event-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (BUZ HOKEYİ) NHL : ST. LOUIS BLUES VS WINNIPEG JETS (SPORTSNET WEST)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium407/mono.m3u8
+
+#EXTINF:-1 tvg-id="23:00 (BUZ HOKEYİ) NHL : ST. LOUIS BLUES VS WINNIPEG JETS (FANDUEL SPORTS NETWORK KANSAS CITY)" tvg-logo="https://w7.pngwing.com/pngs/545/208/png-transparent-ice-hockey-pond-hockey-hockey-players-sport-video-player-competition-event-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (BUZ HOKEYİ) NHL : ST. LOUIS BLUES VS WINNIPEG JETS (FANDUEL SPORTS NETWORK KANSAS CITY)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium895/mono.m3u8
+
+#EXTINF:-1 tvg-id="23:00 (BUZ HOKEYİ) NHL : ST. LOUIS BLUES VS WINNIPEG JETS (SKY SPORT TOP EVENT DE)" tvg-logo="https://w7.pngwing.com/pngs/545/208/png-transparent-ice-hockey-pond-hockey-hockey-players-sport-video-player-competition-event-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (BUZ HOKEYİ) NHL : ST. LOUIS BLUES VS WINNIPEG JETS (SKY SPORT TOP EVENT DE)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1top1.newkso.ru/dokko1/premium556/mono.m3u8
+
+#EXTINF:-1 tvg-id="23:00 (BUZ HOKEYİ) NHL : ST. LOUIS BLUES VS WINNIPEG JETS (SKY SPORT MIX DE)" tvg-logo="https://w7.pngwing.com/pngs/545/208/png-transparent-ice-hockey-pond-hockey-hockey-players-sport-video-player-competition-event-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (BUZ HOKEYİ) NHL : ST. LOUIS BLUES VS WINNIPEG JETS (SKY SPORT MIX DE)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6top1.newkso.ru/ddy6/premium557/mono.m3u8
+
+#EXTINF:-1 tvg-id="23:00 (BUZ HOKEYİ) NHL : ST. LOUIS BLUES VS WINNIPEG JETS (V SPORT VINTER)" tvg-logo="https://w7.pngwing.com/pngs/545/208/png-transparent-ice-hockey-pond-hockey-hockey-players-sport-video-player-competition-event-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:00 (BUZ HOKEYİ) NHL : ST. LOUIS BLUES VS WINNIPEG JETS (V SPORT VINTER)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfstop1.newkso.ru/nfs/premium8/mono.m3u8
+
+#EXTINF:-1 tvg-id="23:20 (FUTBOL) COLOMBIA - PRIMERA A : UNIÓN MAGDALENA VS ONCE CALDAS (WIN+ FUTBOL COLOMBIA)" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:20 (FUTBOL) COLOMBIA - PRIMERA A : UNIÓN MAGDALENA VS ONCE CALDAS (WIN+ FUTBOL COLOMBIA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1top1.newkso.ru/dokko1/premium392/mono.m3u8
+
+#EXTINF:-1 tvg-id="23:30 (FUTBOL) ARGENTINA - PRIMERA DIVISIÓN : RIVER PLATE VS VÉLEZ SARSFIELD (ESPN PREMIUM ARGENTINA)" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:30 (FUTBOL) ARGENTINA - PRIMERA DIVISIÓN : RIVER PLATE VS VÉLEZ SARSFIELD (ESPN PREMIUM ARGENTINA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium387/mono.m3u8
+
+#EXTINF:-1 tvg-id="23:30 (FUTBOL) ARGENTINA - PRIMERA DIVISIÓN : RIVER PLATE VS VÉLEZ SARSFIELD (ARENA SPORT 1 SERBIA)" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:30 (FUTBOL) ARGENTINA - PRIMERA DIVISIÓN : RIVER PLATE VS VÉLEZ SARSFIELD (ARENA SPORT 1 SERBIA)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windtop1.newkso.ru/wind/premium429/mono.m3u8
+
+#EXTINF:-1 tvg-id="23:30 (FUTBOL) ARGENTINA - PRIMERA DIVISIÓN : RIVER PLATE VS VÉLEZ SARSFIELD (SPORT 4 ISRAEL)" tvg-logo="https://w7.pngwing.com/pngs/973/78/png-transparent-football-player-football-players-soccer-player-logo-purple-violet-team-thumbnail.png" group-title="GÜNLÜK DÜNYA SPORLARI",23:30 (FUTBOL) ARGENTINA - PRIMERA DIVISIÓN : RIVER PLATE VS VÉLEZ SARSFIELD (SPORT 4 ISRAEL)
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekotop1.newkso.ru/zeko/premium143/mono.m3u8
+
