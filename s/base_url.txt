@@ -1,0 +1,48 @@
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "19:00 FENERBAHÇE - BEŞIKTAŞ HD1"
+Url = "https://due.a8e1c01a461e4c48.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "19:00 FENERBAHÇE - BEŞIKTAŞ (ÇOKLU KALITE)"
+Url = "https://due.a8e1c01a461e4c48.click/itis/8c1437d28413db5112720e3ce0579154/master.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "19:00 FENERBAHÇE - BEŞIKTAŞ HD1"
+Url = "https://due.a8e1c01a461e4c48.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "19:00 FENERBAHÇE - BEŞIKTAŞ (ÇOKLU KALITE)"
+Url = "https://due.a8e1c01a461e4c48.click/itis/8c1437d28413db5112720e3ce0579154/master.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "20:30 MAINZ - EINTRACHT FRANKFURT"
+Url = "https://alpha.cf-worker-ab09587f1265b5.workers.dev/live/selcuktivibuspor1/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "20:30 MAINZ - EINTRACHT FRANKFURT"
+Url = "https://alpha.cf-worker-ab09587f1265b5.workers.dev/live/selcuktivibuspor1/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:45 LILLE - MARSILYA"
+Url = "https://alpha.cf-worker-ab09587f1265b5.workers.dev/live/selcukbeinsports3/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:45 BOLOGNA - JUVENTUS"
+Url = "https://alpha.cf-worker-ab09587f1265b5.workers.dev/live/selcukssport2/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:45 LILLE - MARSILYA"
+Url = "https://alpha.cf-worker-ab09587f1265b5.workers.dev/live/selcukbeinsports3/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:45 BOLOGNA - JUVENTUS"
+Url = "https://alpha.cf-worker-ab09587f1265b5.workers.dev/live/selcukssport2/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 REAL SOCIEDAD - ATHLETIC BILBAO"
+Url = "https://alpha.cf-worker-ab09587f1265b5.workers.dev/live/selcukssport/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 REAL SOCIEDAD - ATHLETIC BILBAO"
+Url = "https://alpha.cf-worker-ab09587f1265b5.workers.dev/live/selcukssport/playlist.m3u8"
+
