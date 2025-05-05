@@ -4,7 +4,7 @@ import json
 import re
 
 def view_html_from_site():
-    url = "https://daddylive.dad/"
+    url = "https://daddylivehd1.click/"
 
     print(f"Sayfaya erişiliyor: {url}")
 
