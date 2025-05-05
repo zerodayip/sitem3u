@@ -25,6 +25,7 @@ def html_to_json(html_content):
         # Tarih bilgisi <h2><strong>...</strong></h2> içinde yer alıyor
         date_text = date_tag.find('h2').find('strong').get_text(strip=True)
         result[date_text] = {}
+        print(f"Tarih Bilgisi: {date_text}")  # Tarih bilgisini yazdıralım
     else:
         print("Tarih bilgisi bulunamadı.")
         return {}
