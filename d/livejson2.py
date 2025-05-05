@@ -1,11 +1,12 @@
 from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
-import re
 import json
+import re
 
 def extract_html():
     url = "https://daddylivehd1.click/"
 
+    # Playwright ile sayfayı alalım
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
         page = browser.new_page()
@@ -13,13 +14,20 @@ def extract_html():
         page.wait_for_timeout(10000)  # 10 saniye bekle
         html = page.content()
         browser.close()
-        return html
+
+    # HTML'yi geçici bir dosyaya kaydet
+    with open("temp_page.html", "w", encoding="utf-8") as f:
+        f.write(html)
+    
+    print("HTML içeriği 'temp_page.html' dosyasına kaydedildi.")
+    
+    return html
 
 def html_to_json(html_content):
     soup = BeautifulSoup(html_content, 'html.parser')
     result = {}
 
-    # 1. Tarih başlığını al (örneğin "Monday 05th May 2025 – Schedule Time UK GMT")
+    # Tarih bilgisini al
     date_tag = soup.find('div', class_='entry-content')
     if date_tag:
         # Tarih bilgisi <h2><strong>...</strong></h2> içinde yer alıyor
@@ -32,7 +40,7 @@ def html_to_json(html_content):
 
     current_category = None
 
-    # 2. Kategorileri ve etkinlikleri işle
+    # Kategorileri ve etkinlikleri işle
     for tag in soup.find_all(['h2', 'p']):
         if tag.name == 'h2' and tag.find('strong'):
             current_category = tag.get_text(strip=True)
@@ -84,6 +92,6 @@ if __name__ == "__main__":
 
     # JSON çıktısını kaydet
     if data:
-        save_json(data, "schedule.json")
+        save_json(data, "d/schedule2.json")
     else:
         print("Veri oluşturulamadı.")
