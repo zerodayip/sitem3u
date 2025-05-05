@@ -1,7 +1,7 @@
 from playwright.sync_api import sync_playwright
 
 def view_html_from_site():
-    url = "https://daddylive.dad/"
+    url = "https://daddylivehd1.click/"
 
     print(f"Sayfaya erişiliyor: {url}")
 
