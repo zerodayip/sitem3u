@@ -20,7 +20,7 @@ def html_to_json(html_content):
     soup = BeautifulSoup(html_content, 'html.parser')
     result = {}
 
-    # 1. Tarih başlığını al
+    # 1. Tarih başlığını al (örneğin "Monday 05th May 2025 – Schedule Time UK GMT")
     date_tag = soup.find('div', class_='entry-content')
     if not date_tag:
         print("Tarih bilgisi bulunamadı.")
@@ -83,6 +83,6 @@ if __name__ == "__main__":
 
     # JSON çıktısını kaydet
     if data:
-        save_json(data, "d/schedule2.json")
+        save_json(data, "schedule.json")
     else:
         print("Veri oluşturulamadı.")
