@@ -28,7 +28,7 @@ jobs:
           playwright install
 
       - name: Run extraction script
-        run: python d/livejson.py
+        run: python d/livejson2.py
 
       - name: Commit and push if changes
         run: |
