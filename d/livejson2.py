@@ -3,25 +3,37 @@ from bs4 import BeautifulSoup
 import json
 import re
 
-def extract_html():
-    url = "https://daddylivehd1.click/"
+def view_html_from_site():
+    url = "https://daddylive.dad/"
 
-    # Playwright ile sayfayı alalım
+    print(f"Sayfaya erişiliyor: {url}")
+
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
-        page = browser.new_page()
-        page.goto(url)
-        page.wait_for_timeout(10000)  # 10 saniye bekle
-        html = page.content()
-        browser.close()
+        context = browser.new_context(
+            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0 Safari/537.36"
+        )
+        page = context.new_page()
 
-    # HTML'yi geçici bir dosyaya kaydet
-    with open("temp_page.html", "w", encoding="utf-8") as f:
-        f.write(html)
-    
-    print("HTML içeriği 'temp_page.html' dosyasına kaydedildi.")
-    
-    return html
+        try:
+            page.goto(url)
+            print("Sayfa yükleniyor, bekleniyor...")
+            page.wait_for_timeout(10000)  # 10 saniye bekle
+
+            html_content = page.evaluate("""() => document.body.innerHTML""")
+
+            # HTML içeriğini geçici dosyaya kaydet
+            with open("temp_page.html", "w", encoding="utf-8") as f:
+                f.write(html_content)
+            print("HTML içeriği 'temp_page.html' dosyasına kaydedildi.")
+
+            return html_content
+
+        except Exception as e:
+            print(f"Hata oluştu: {e}")
+        finally:
+            browser.close()
+
 
 def html_to_json(html_content):
     soup = BeautifulSoup(html_content, 'html.parser')
@@ -77,21 +89,23 @@ def html_to_json(html_content):
 
     return result
 
+
 def save_json(data, filename="schedule.json"):
     # JSON verisini belirtilen dosyaya kaydet
     with open(filename, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
     print(f"JSON verisi '{filename}' dosyasına kaydedildi.")
 
+
 if __name__ == "__main__":
     # HTML içeriğini al
-    html_content = extract_html()
+    html_content = view_html_from_site()
 
     # HTML'den JSON verisi oluştur
     data = html_to_json(html_content)
 
     # JSON çıktısını kaydet
     if data:
-        save_json(data, "d/schedule2.json")
+        save_json(data, "schedule.json")
     else:
         print("Veri oluşturulamadı.")
