@@ -2,7 +2,6 @@ from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
 import re
 import json
-import os
 
 def extract_html():
     url = "https://daddylivehd1.click/"
@@ -22,12 +21,13 @@ def html_to_json(html_content):
 
     # 1. Tarih başlığını al (örneğin "Monday 05th May 2025 – Schedule Time UK GMT")
     date_tag = soup.find('div', class_='entry-content')
-    if not date_tag:
+    if date_tag:
+        # Tarih bilgisi <h2><strong>...</strong></h2> içinde yer alıyor
+        date_text = date_tag.find('h2').find('strong').get_text(strip=True)
+        result[date_text] = {}
+    else:
         print("Tarih bilgisi bulunamadı.")
         return {}
-
-    date_text = date_tag.find('h2').get_text(strip=True)
-    result[date_text] = {}
 
     current_category = None
 
