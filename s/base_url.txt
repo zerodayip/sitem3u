@@ -1,0 +1,20 @@
+Grup = "ICON-BASKETBALL"
+Kanal_Adı = "19:00 FENERBAHÇE BEKO - KARŞIYAKA"
+Url = "https://alpha.cf-worker-ab09587f1265b5.workers.dev/live/selcukbeinsports5/playlist.m3u8"
+
+Grup = "ICON-BASKETBALL"
+Kanal_Adı = "20:00 MONACO - BARCELONA"
+Url = "https://alpha.cf-worker-ab09587f1265b5.workers.dev/live/selcukssport2/playlist.m3u8"
+
+Grup = "ICON-BASKETBALL"
+Kanal_Adı = "21:45 PANATHINAIKOS - ANADOLU EFES"
+Url = "https://alpha.cf-worker-ab09587f1265b5.workers.dev/live/selcukssport/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 INTER - BARCELONA"
+Url = "https://alpha.cf-worker-ab09587f1265b5.workers.dev/live/selcuktrt1/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 INTER - BARCELONA"
+Url = "https://alpha.cf-worker-ab09587f1265b5.workers.dev/live/selcuktrt1/playlist.m3u8"
+
