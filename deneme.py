@@ -9,7 +9,7 @@ def html_to_json(html_content):
     soup = BeautifulSoup(html_content, 'html.parser')
     result = {}
 
-    # Tarih <h2><strong>Tuesday 06th May 2025 – Schedule Time UK GMT</strong></h2>
+    # Tarih bul
     date_strong = soup.find('strong', string=re.compile(r'\w+ \d{2}(st|nd|rd|th) \w+ \d{4}', re.IGNORECASE))
     if not date_strong:
         print("UYARI: Tarih bilgisi bulunamadı!")
@@ -18,47 +18,49 @@ def html_to_json(html_content):
     date_text = date_strong.get_text(strip=True).split('–')[0].strip()
     result[date_text] = {}
 
-    # Kategori (örneğin "TV Shows")
-    category_header = soup.find('h2', string=re.compile(r'TV Shows', re.IGNORECASE))
-    if not category_header:
-        print("UYARI: Kategori başlığı bulunamadı!")
-        return result
+    # Tüm kategori başlıklarını bul (h2 -> strong olmayanlar hariç)
+    all_headers = soup.find_all('h2')
+    for header in all_headers:
+        category_name = header.get_text(strip=True)
+        if not category_name or "Schedule" in category_name:
+            continue  # Tarih başlığı veya boş başlıkları geç
 
-    category = category_header.get_text(strip=True)
-    result[date_text][category] = []
+        result[date_text][category_name] = []
 
-    # Etkinlikler
-    for tag in category_header.find_all_next('strong'):
-        full_text = tag.get_text(" ", strip=True)
+        # Bu başlıktan sonraki strong'lara bak
+        for tag in header.find_all_next('strong'):
+            # Eğer yeni bir kategoriye geçildiyse çık
+            if tag.find_previous('h2') != header:
+                break
 
-        match = re.match(r'(\d{2}:\d{2})\s+(.*?)(?=(https?|$))', full_text)
-        if not match:
-            continue
+            full_text = tag.get_text(" ", strip=True)
+            match = re.match(r'(\d{2}:\d{2})\s+(.*?)(?=(https?|$))', full_text)
+            if not match:
+                continue
 
-        event_time = match.group(1)
-        event_info = match.group(2).strip()
+            event_time = match.group(1)
+            event_info = match.group(2).strip()
 
-        channels = []
-        for a in tag.find_all('a', href=True):
-            href = a['href']
-            name = a.get_text(strip=True)
-            id_match = re.search(r'stream-(\d+)\.php', href)
-            if id_match:
-                channel_id = id_match.group(1)
-                clean_name = re.sub(r'\s*\(CH-\d+\)$', '', name)
-                # Event içinden kanal ismini ve CH bilgisini sil
-                event_info = event_info.replace(name, '').strip()
-                event_info = re.sub(r'\(CH-\d+\)', '', event_info).strip()
-                channels.append({
-                    "channel_name": clean_name,
-                    "channel_id": channel_id
-                })
+            channels = []
+            for a in tag.find_all('a', href=True):
+                href = a['href']
+                name = a.get_text(strip=True)
+                id_match = re.search(r'stream-(\d+)\.php', href)
+                if id_match:
+                    channel_id = id_match.group(1)
+                    clean_name = re.sub(r'\s*\(CH-\d+\)$', '', name)
+                    event_info = event_info.replace(name, '').strip()
+                    event_info = re.sub(r'\(CH-\d+\)', '', event_info).strip()
+                    channels.append({
+                        "channel_name": clean_name,
+                        "channel_id": channel_id
+                    })
 
-        result[date_text][category].append({
-            "time": event_time,
-            "event": event_info,
-            "channels": channels
-        })
+            result[date_text][category_name].append({
+                "time": event_time,
+                "event": event_info,
+                "channels": channels
+            })
 
     return result
 
@@ -84,7 +86,7 @@ def modify_json_file(json_file_path):
     print(f"JSON dosyası güncellendi ve kaydedildi: {json_file_path}")
 
 def extract_schedule_container():
-    url = "https://daddylivehd1.click/"
+    url = "https://daddylivehd1.click/"  # İlgili URL'yi buraya ekleyin
 
     script_dir = os.path.dirname(os.path.abspath(__file__))
     json_output = os.path.join(script_dir, "schedule.json")
