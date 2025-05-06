@@ -32,11 +32,11 @@ jobs:
       - name: Run datatxtm3u.py
         run: python private_py/vavoo/datatxtm3u.py
 
-      - name: Run dizi_gunluk.py
-        run: python private_py/vavoo/dizi_gunluk.py
+  #    - name: Run dizi_gunluk.py
+  #      run: python private_py/vavoo/dizi_gunluk.py
 
-      - name: Run diziler_m3u.py
-        run: python private_py/vavoo/diziler_m3u.py
+ #     - name: Run diziler_m3u.py
+ #       run: python private_py/vavoo/diziler_m3u.py
 
       - name: Run sporekrani.py
         run: python private_py/vavoo/sporekrani.py
