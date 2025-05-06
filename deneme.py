@@ -84,7 +84,7 @@ def modify_json_file(json_file_path):
     print(f"JSON dosyası güncellendi ve kaydedildi: {json_file_path}")
 
 def extract_schedule_container():
-    url = "https://daddylive.dad/"
+    url = "https://daddylivehd1.click/"
 
     script_dir = os.path.dirname(os.path.abspath(__file__))
     json_output = os.path.join(script_dir, "schedule.json")
