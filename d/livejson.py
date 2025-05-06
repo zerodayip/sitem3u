@@ -9,62 +9,58 @@ def html_to_json(html_content):
     soup = BeautifulSoup(html_content, 'html.parser')
     result = {}
 
-    # Tam tarih başlığı "Tuesday 06th May 2025 – Schedule Time UK GMT"
-    full_heading = soup.find('strong', string=re.compile(r'\w+ \d{2}(st|nd|rd|th) \w+ \d{4}\s+–\s+Schedule Time', re.IGNORECASE))
-    if not full_heading:
-        print("UYARI: Tarih bilgisi bulunamadı!")
+    date_rows = soup.find_all('tr', class_='date-row')
+    if not date_rows:
+        print("UYARI: HTML içeriğinde tarih satırı bulunamadı!")
         return {}
 
-    date_text = full_heading.get_text(strip=True)
-    result[date_text] = {}
+    current_date = None
+    current_category = None
 
-    for h2 in soup.find_all('h2'):
-        category = h2.get_text(strip=True)
+    for row in soup.find_all('tr'):
+        if 'date-row' in row.get('class', []):
+            current_date = row.find('strong').text.strip()
+            result[current_date] = {}
+            current_category = None
 
-        # Boş veya tekrar eden başlıkları atla
-        if category.lower().startswith("daddylivehd") or category == date_text:
-            continue
+        elif 'category-row' in row.get('class', []) and current_date:
+            current_category = row.find('strong').text.strip() + "</span>"
+            result[current_date][current_category] = []
 
-        events = []
-        for tag in h2.find_all_next('strong'):
-            if tag.find_previous('h2') != h2:
-                break
+        elif 'event-row' in row.get('class', []) and current_date and current_category:
+            time_div = row.find('div', class_='event-time')
+            info_div = row.find('div', class_='event-info')
 
-            full_text = tag.get_text(" ", strip=True)
-            match = re.match(r'(\d{2}:\d{2})\s+(.*?)(?=(https?|$))', full_text)
-            if not match:
+            if not time_div or not info_div:
                 continue
 
-            event_time = match.group(1)
-            event_info = match.group(2).strip()
+            time_strong = time_div.find('strong')
+            event_time = time_strong.text.strip() if time_strong else ""
+            event_info = info_div.text.strip()
 
-            channels = []
-            for a in tag.find_all('a', href=True):
-                href = a['href']
-                name = a.get_text(strip=True)
-                id_match = re.search(r'stream-(\d+)\.php', href)
-                if id_match:
-                    channel_id = id_match.group(1)
-                    clean_name = re.sub(r'\s*\(CH-\d+\)$', '', name)
-                    channels.append({
-                        "channel_name": clean_name,
-                        "channel_id": channel_id
-                    })
-
-            # Event'ten kanal isimlerini sil
-            if channels:
-                first_channel = channels[0]['channel_name']
-                event_info = event_info.split(first_channel)[0].strip()
-                event_info = re.sub(r'\|$', '', event_info).strip()
-
-            events.append({
+            event_data = {
                 "time": event_time,
                 "event": event_info,
-                "channels": channels
-            })
+                "channels": []
+            }
 
-        if events:
-            result[date_text][category] = events
+            next_row = row.find_next_sibling('tr')
+            if next_row and 'channel-row' in next_row.get('class', []):
+                channel_links = next_row.find_all('a', class_='channel-button-small')
+                for link in channel_links:
+                    href = link.get('href', '')
+                    channel_id_match = re.search(r'stream-(\d+)\.php', href)
+                    if channel_id_match:
+                        channel_id = channel_id_match.group(1)
+                        channel_name = link.text.strip()
+                        channel_name = re.sub(r'\s*\(CH-\d+\)$', '', channel_name)
+
+                        event_data["channels"].append({
+                            "channel_name": channel_name,
+                            "channel_id": channel_id
+                        })
+
+            result[current_date][current_category].append(event_data)
 
     return result
 
@@ -72,14 +68,24 @@ def modify_json_file(json_file_path):
     with open(json_file_path, "r", encoding="utf-8") as f:
         data = json.load(f)
 
-    # Tarih anahtarlarını koru, sadece yapıyı yeniden yaz
+    current_month = datetime.now().strftime("%B")
+
+    for date in list(data.keys()):
+        match = re.match(r"(\w+\s\d+)(st|nd|rd|th)\s(\d{4})", date)
+        if match:
+            day_part = match.group(1)
+            suffix = match.group(2)
+            year_part = match.group(3)
+            new_date = f"{day_part}{suffix} {current_month} {year_part}"
+            data[new_date] = data.pop(date)
+
     with open(json_file_path, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
 
     print(f"JSON dosyası güncellendi ve kaydedildi: {json_file_path}")
 
 def extract_schedule_container():
-    url = "https://daddylivehd1.click/"
+    url = "https://daddylive.dad/"
 
     script_dir = os.path.dirname(os.path.abspath(__file__))
     json_output = os.path.join(script_dir, "schedule.json")
@@ -97,12 +103,15 @@ def extract_schedule_container():
             print("Sayfaya gidiliyor...")
             page.goto(url)
             print("Sayfanın tam yüklenmesi bekleniyor...")
-            page.wait_for_timeout(10000)
+            page.wait_for_timeout(10000)  # 10 saniye
 
-            schedule_content = page.content()
+            schedule_content = page.evaluate("""() => {
+                const container = document.getElementById('main-schedule-container');
+                return container ? container.outerHTML : '';
+            }""")
 
             if not schedule_content:
-                print("UYARI: Sayfa içeriği boş!")
+                print("UYARI: main-schedule-container bulunamadı ya da boş!")
                 return False
 
             print("HTML içerik JSON formatına dönüştürülüyor...")
