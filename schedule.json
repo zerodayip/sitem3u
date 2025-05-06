@@ -1,5 +1,6 @@
 {
     "Tuesday 06th May 2025": {
+        "DaddyLiveHD – Live Sports Streaming Free": [],
         "TV Shows": [
             {
                 "time": "14:30",
@@ -464,7 +465,9 @@
                         "channel_id": "324"
                     }
                 ]
-            },
+            }
+        ],
+        "Soccer": [
             {
                 "time": "11:00",
                 "event": "Korea Republic – K League 1 : Anyang vs Seoul",
@@ -1078,7 +1081,9 @@
                         "channel_id": "143"
                     }
                 ]
-            },
+            }
+        ],
+        "Cricket": [
             {
                 "time": "15:00",
                 "event": "Indian Premier League : Mumbai Indians vs Gujarat Titans  | Willow Cricket 2  | Sky Sport 1 NZ  | Sky Sports Cricket  | Fox Cricket  | Astro Cricket  | SuperSport Cricket",
@@ -1112,7 +1117,9 @@
                         "channel_id": "368"
                     }
                 ]
-            },
+            }
+        ],
+        "Tennis": [
             {
                 "time": "10:00",
                 "event": "ATP and WTA 1000 Rome  | Sky Sports Tennis UK  | TSN3  | TSN4  | Sky Sports Tennis DE  | TV4 Tennis  | beIN Sports 3 France  | NovaSports 6 GR  | Digi Sport 2 Romania  | Digi Sport 4 Romania  | Polsat Sport 1 Poland  | Movistar Deportes 2 Spain  | Movistar Deportes 3 Spain  | Cosmote Sport 6  | Canal+ Sport 2 Poland  | Sport Klub 1 Croatia  | Sport Klub 2 Croatia  | Sport Klub HD Croatia",
@@ -1190,7 +1197,9 @@
                         "channel_id": "453"
                     }
                 ]
-            },
+            }
+        ],
+        "Golf": [
             {
                 "time": "21:00",
                 "event": "College Golf 2025 PGA WORKS Collegiate Championships, Second Round",
@@ -1200,7 +1209,9 @@
                         "channel_id": "318"
                     }
                 ]
-            },
+            }
+        ],
+        "WWE": [
             {
                 "time": "00:00",
                 "event": "WWE NXT  | CW PIX 11 USA  | SuperSport Variety 3  | SuperSport Grandstand",
@@ -1222,7 +1233,9 @@
                         "channel_id": "412"
                     }
                 ]
-            },
+            }
+        ],
+        "Motorsport": [
             {
                 "time": "18:00",
                 "event": "Swedish Elitserien League Speedway – Dackarna Malilla vs Lejonen",
@@ -1232,7 +1245,9 @@
                         "channel_id": "451"
                     }
                 ]
-            },
+            }
+        ],
+        "Baseball": [
             {
                 "time": "18:00",
                 "event": "College Softball SEC Tournament, First Round : Kentucky vs Georgia",
@@ -1558,7 +1573,9 @@
                         "channel_id": "755"
                     }
                 ]
-            },
+            }
+        ],
+        "Basketball": [
             {
                 "time": "16:00",
                 "event": "Nemzeti Bajnoksag I/A : Atomeromu SE Paks vs Szolnoki Olaj",
@@ -1826,7 +1843,9 @@
                         "channel_id": "144"
                     }
                 ]
-            },
+            }
+        ],
+        "Beach Soccer": [
             {
                 "time": "12:00",
                 "event": "Beach Soccer World Cup : El Salvador vs Italy  | FOX Sports 2 USA  | Match TV Russia  | L Equipe France  | beIN Sports MENA 9  | beIN Sports MENA English 2  | Sport 5 Plus Israel",
@@ -1950,7 +1969,9 @@
                         "channel_id": "148"
                     }
                 ]
-            },
+            }
+        ],
+        "Cycling": [
             {
                 "time": "14:30",
                 "event": "La Vuelta Femenina | Stage 3 Women | Barbastro – Huesca (132.4km)  | TNT Sports 1 UK  | EuroSport 1 Poland  | EuroSport 1 Spain  | EuroSport 1 France  | Eurosport 1 SE  | EuroSport 1 Italy  | EuroSport 1 France  | EuroSport 1 Greece",
@@ -1992,7 +2013,9 @@
                         "channel_id": "41"
                     }
                 ]
-            },
+            }
+        ],
+        "Rugby Union": [
             {
                 "time": "13:00",
                 "event": "U20 Rugby Championship : New Zealand U20 vs Argentina U20  | ESPN2 Argentina",
@@ -2016,7 +2039,9 @@
                         "channel_id": "590"
                     }
                 ]
-            },
+            }
+        ],
+        "Horse Racing": [
             {
                 "time": "13:00",
                 "event": "Live racing from around the UK",
@@ -2036,7 +2061,9 @@
                         "channel_id": "555"
                     }
                 ]
-            },
+            }
+        ],
+        "Ice Hockey": [
             {
                 "time": "18:00",
                 "event": "Friendly Games : Hungary vs. Canada",
@@ -2154,7 +2181,9 @@
                         "channel_id": "409"
                     }
                 ]
-            },
+            }
+        ],
+        "Volleyball": [
             {
                 "time": "14:00",
                 "event": "Russia Cup : Novosibirsk vs Zenit St. Petersburg",
@@ -2175,6 +2204,7 @@
                     }
                 ]
             }
-        ]
+        ],
+        "Disclaimer – Our platformDaddyLiveHDmerely displays links to audiovisual content located on serv third parties and provided and/or transmitted by third parties. We DO NOT host nor transmit any audiovisual content itself and DO NOT control nor influence such content. We cannot accept any liability for the content transmitted by others. Any responsibility for this content lies with those who host or transmit it. We are not affiliated nor claim to be affiliated with any of the owners of streams and/or videos. All content is copyright of their respective owners.": []
     }
 }
