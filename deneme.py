@@ -9,16 +9,16 @@ def html_to_json(html_content):
     soup = BeautifulSoup(html_content, 'html.parser')
     result = {}
 
-    # Tarih <h2><strong>Tuesday 06th May 2025 – Schedule Time UK GMT</strong></h2>
-    date_strong = soup.find('strong', string=re.compile(r'\w+ \d{2}(st|nd|rd|th) \w+ \d{4}', re.IGNORECASE))
-    if not date_strong:
+    # Tarih bilgisi
+    date_header = soup.find('h2', string=re.compile(r'\w+ \d{2}(st|nd|rd|th) \w+ \d{4}', re.IGNORECASE))
+    if not date_header:
         print("UYARI: Tarih bilgisi bulunamadı!")
         return {}
 
-    date_text = date_strong.get_text(strip=True).split('–')[0].strip()
+    date_text = date_header.get_text(strip=True).split('–')[0].strip()
     result[date_text] = {}
 
-    # Kategori (örneğin "TV Shows")
+    # Kategori başlığı (örneğin "TV Shows")
     category_header = soup.find('h2', string=re.compile(r'TV Shows', re.IGNORECASE))
     if not category_header:
         print("UYARI: Kategori başlığı bulunamadı!")
@@ -28,20 +28,22 @@ def html_to_json(html_content):
     result[date_text][category] = []
 
     # Etkinlikler
-    for tag in category_header.find_all_next('strong'):
-        full_text = tag.get_text(" ", strip=True)
-
-        match = re.match(r'(\d{2}:\d{2})\s+(.*?)(?=(https?|$))', full_text)
+    strong_tags = category_header.find_all_next('strong')
+    for tag in strong_tags:
+        raw_text = tag.get_text(" ", strip=True)
+        match = re.match(r"(\d{2}:\d{2})\s+(.*?)(?=(https?|$))", raw_text)
         if not match:
             continue
 
         event_time = match.group(1)
         event_info = match.group(2).strip()
 
+        # Kanal bilgilerini temizle
         channels = []
         for a in tag.find_all('a', href=True):
             href = a['href']
             name = a.get_text(strip=True)
+            event_info = event_info.replace(name, '').strip()
             id_match = re.search(r'stream-(\d+)\.php', href)
             if id_match:
                 channel_id = id_match.group(1)
@@ -66,13 +68,12 @@ def modify_json_file(json_file_path):
     current_month = datetime.now().strftime("%B")
 
     for date in list(data.keys()):
-        match = re.match(r"(\w+\s\d+)(st|nd|rd|th)\s(\w+)\s(\d{4})", date)
+        match = re.match(r"(\w+\s\d+)(st|nd|rd|th)\s(\d{4})", date)
         if match:
             day_part = match.group(1)
             suffix = match.group(2)
-            month_part = match.group(3)
-            year_part = match.group(4)
-            new_date = f"{day_part}{suffix} {month_part} {year_part}"
+            year_part = match.group(3)
+            new_date = f"{day_part}{suffix} {current_month} {year_part}"
             data[new_date] = data.pop(date)
 
     with open(json_file_path, "w", encoding="utf-8") as f:
@@ -99,12 +100,15 @@ def extract_schedule_container():
             print("Sayfaya gidiliyor...")
             page.goto(url)
             print("Sayfanın tam yüklenmesi bekleniyor...")
-            page.wait_for_timeout(10000)
+            page.wait_for_timeout(10000)  # 10 saniye
 
-            schedule_content = page.content()
+            schedule_content = page.evaluate("""() => {
+                const container = document.getElementById('main-schedule-container');
+                return container ? container.outerHTML : '';
+            }""")
 
             if not schedule_content:
-                print("UYARI: Sayfa içeriği boş!")
+                print("UYARI: main-schedule-container bulunamadı ya da boş!")
                 return False
 
             print("HTML içerik JSON formatına dönüştürülüyor...")
