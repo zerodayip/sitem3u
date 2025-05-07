@@ -30,7 +30,7 @@ jobs:
 
       # daddylivekanal scripts
       - name: Run kanal_verileri.py
-        run: python private_py/daddylivehdevent/kanal_verileri.py
+        run: python private_py/daddylivehd1click/html.py
 
       # Tüm değişiklikleri sahneye al
       - name: Add all changes
