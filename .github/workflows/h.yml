@@ -53,7 +53,7 @@ jobs:
 
       - name: Add and Commit Changes
         run: |
-          git add schedule.json
+          git add d/schedule.json
           git commit -m "Update schedule.json via workflow D" || echo "No changes to commit"
 
       - name: Push Changes
