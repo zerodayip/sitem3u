@@ -37,7 +37,7 @@ jobs:
 
       # daddylivejson scripts
       - name: Run json.py
-        run: python private_py/daddylivejson/json.py
+        run: python private_py/daddylivejson/dadhtml.py
 
       - name: Copy output file to repo root
         run: cp private_py/daddylivejson/schedule.json ./schedule.json
