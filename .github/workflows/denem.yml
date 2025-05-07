@@ -26,7 +26,12 @@ jobs:
 
       - name: Install Python dependencies from private repo
         run: |
-          pip install -r private_py/requirements.txt
+          python -m pip install --upgrade pip
+          pip install beautifulsoup4
+          pip install playwright
+          pip install bs4
+          pip install lxml
+          playwright install
 
       # daddylivekanal scripts
       - name: Run kanal_verileri.py
