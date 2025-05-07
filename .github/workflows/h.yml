@@ -41,7 +41,7 @@ jobs:
 
       # daddylivejson scripts
       - name: Run kanal_verileri.py
-        run: python private_py/daddylivejson/kanal_verileri.py
+        run: python private_py/daddylivejson/json.py
 
       - name: Copy output file to repo root
         run: cp private_py/daddylivejson/schedule.json ./schedule.json
