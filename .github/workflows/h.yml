@@ -40,7 +40,7 @@ jobs:
           playwright install
 
       # daddylivejson scripts
-      - name: Run kanal_verileri.py
+      - name: Run json.py
         run: python private_py/daddylivejson/json.py
 
       - name: Copy output file to repo root
