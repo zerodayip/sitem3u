@@ -39,7 +39,7 @@ jobs:
 
       - name: Delete all files except logo.txt, livejson.py, and schedule.json in 'd' folder
         run: |
-          find d -type f ! -name 'logo.txt' ! -name 'livejson.py' ! -name 'kanal.m3u' ! -name 'schedule.json' -exec git rm {} \;
+          find d -type f ! -name 'logo.txt' ! -name 'livejson.py' ! -name 'livejson2.py' ! -name 'kanal.m3u' ! -name 'schedule.json' -exec git rm {} \;
 
       - name: Commit and push the changes
         run: |
