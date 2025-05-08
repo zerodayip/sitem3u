@@ -1,0 +1,32 @@
+Grup = "ICON-TENNIS"
+Kanal_Adı = "14:00 E.COCCIARETTO - I.SWIATEK"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-8cebbdb0bfdc3f.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8&referer=https://www.selcuksportshd1791.xyz/&origin=https://www.selcuksportshd1791.xyz/"
+
+Grup = "ICON-TENNIS"
+Kanal_Adı = "15:30 J.PAOLINI - L.SUN"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-8cebbdb0bfdc3f.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8&referer=https://www.selcuksportshd1791.xyz/&origin=https://www.selcuksportshd1791.xyz/"
+
+Grup = "ICON-TENNIS"
+Kanal_Adı = "18:00 A.KRUEGER - J.PEGULA"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-8cebbdb0bfdc3f.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8&referer=https://www.selcuksportshd1791.xyz/&origin=https://www.selcuksportshd1791.xyz/"
+
+Grup = "ICON-BASKETBALL"
+Kanal_Adı = "21:30 LEYMA CORUNA - BARCELONA"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-8cebbdb0bfdc3f.workers.dev/live/selcuksmartspor/playlist.m3u8&referer=https://www.selcuksportshd1791.xyz/&origin=https://www.selcuksportshd1791.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 BODO GLIMT - TOTTENHAM"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-8cebbdb0bfdc3f.workers.dev/live/selcuktrtspor/playlist.m3u8&referer=https://www.selcuksportshd1791.xyz/&origin=https://www.selcuksportshd1791.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 MANCHESTER UTD - ATHLETIC BILBAO"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-8cebbdb0bfdc3f.workers.dev/live/selcuktrt1/playlist.m3u8&referer=https://www.selcuksportshd1791.xyz/&origin=https://www.selcuksportshd1791.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 MANCHESTER UTD - ATHLETIC BILBAO"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-8cebbdb0bfdc3f.workers.dev/live/selcuktrt1/playlist.m3u8&referer=https://www.selcuksportshd1791.xyz/&origin=https://www.selcuksportshd1791.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 BODO GLIMT - TOTTENHAM"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-8cebbdb0bfdc3f.workers.dev/live/selcuktrtspor/playlist.m3u8&referer=https://www.selcuksportshd1791.xyz/&origin=https://www.selcuksportshd1791.xyz/"
+
