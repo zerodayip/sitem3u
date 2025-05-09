@@ -1,22 +1,29 @@
-name: Run Python Scripts from Private Repo (D- JSON 2)
+name: Run Python Scripts from Private Repo (D- JSON-HD1)
 
 on:
-  workflow_dispatch:  # Manuel tetikleme de mümkün
+  workflow_dispatch:
 
 jobs:
-  extract-schedule-data:
+  run-python-scripts:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - name: Checkout Public Repository (veriler)
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+          ref: main
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v2
         with:
-          python-version: '3.10'
+          python-version: '3.x'
 
-      - name: Install dependencies
+      - name: Clone Private Repository (Py)
+        run: |
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/Py.git private_py
+
+      - name: Install Python dependencies from private repo
         run: |
           python -m pip install --upgrade pip
           pip install beautifulsoup4
@@ -25,13 +32,25 @@ jobs:
           pip install lxml
           playwright install
 
-      - name: Run extraction script
-        run: python d/livejson2.py
+      # daddylivejson scripts
+      - name: Run dadhtml.py
+        run: python private_py/daddylivejson/hd1.py
 
-      - name: Commit and push if changes
+      - name: Copy output file to d/ folder
+        run: cp private_py/daddylivejson/schedule.json ./d/schedule.json
+
+      - name: Configure Git User
         run: |
-          git config --global user.name 'GitHub Actions Bot'
-          git config --global user.email 'actions@github.com'
-          git add -A
-          git status
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update schedule data [skip ci]" && git push origin main)
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+
+      - name: Set remote URL
+        run: git remote set-url origin https://github.com/zerodayip/sitem3u.git
+
+      - name: Add and Commit Changes
+        run: |
+          git add d/schedule.json
+          git commit -m "Update schedule.json via workflow D" || echo "No changes to commit"
+
+      - name: Push Changes
+        run: git push origin main
