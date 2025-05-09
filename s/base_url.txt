@@ -1,0 +1,40 @@
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "20:00 RAMS BAŞAKŞEHIR - FENERBAHÇE HD1"
+Url = "https://due.a8e1c01a461e4c48.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "20:00 RAMS BAŞAKŞEHIR - FENERBAHÇE HD1"
+Url = "https://due.a8e1c01a461e4c48.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "20:00 RAMS BAŞAKŞEHIR - FENERBAHÇE (ÇOKLU KALITE)"
+Url = "https://due.a8e1c01a461e4c48.click/itis/8c1437d28413db5112720e3ce0579154/master.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "20:00 RAMS BAŞAKŞEHIR - FENERBAHÇE (ÇOKLU KALITE)"
+Url = "https://due.a8e1c01a461e4c48.click/itis/8c1437d28413db5112720e3ce0579154/master.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:30 WOLFSBURG - HOFFENHEIM"
+Url = "https://alpha.cf-worker-8cebbdb0bfdc3f.workers.dev/live/selcukbeinsports4/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:30 WOLFSBURG - HOFFENHEIM"
+Url = "https://alpha.cf-worker-8cebbdb0bfdc3f.workers.dev/live/selcukbeinsports4/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:45 MILAN - BOLOGNA"
+Url = "https://alpha.cf-worker-8cebbdb0bfdc3f.workers.dev/live/selcukssport2/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:45 MILAN - BOLOGNA"
+Url = "https://alpha.cf-worker-8cebbdb0bfdc3f.workers.dev/live/selcukssport2/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 LAS PALMAS - RAYO VALLECANO"
+Url = "https://alpha.cf-worker-8cebbdb0bfdc3f.workers.dev/live/selcukssport/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 LAS PALMAS - RAYO VALLECANO"
+Url = "https://alpha.cf-worker-8cebbdb0bfdc3f.workers.dev/live/selcukssport/playlist.m3u8"
+
