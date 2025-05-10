@@ -66,9 +66,6 @@ jobs:
         run: python private_py/daddyliveevent/convertm3u.py
 
       # ---------------- S Section ----------------
-      - name: Wait 30 seconds (optional delay)
-        run: python -c "import time; time.sleep(30)"
-
       - name: Run ana_domain.py
         run: python private_py/selcuk/ana_domain.py
 
