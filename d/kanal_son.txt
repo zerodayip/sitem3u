@@ -1,0 +1,5824 @@
+Channel_Name= "51"
+Channel_server= "zeko"
+Event= "ABC USA"
+
+Channel_Name= "302"
+Channel_server= "zeko"
+Event= "A&E USA"
+
+Channel_Name= "303"
+Channel_server= "nfs"
+Event= "AMC USA"
+
+Channel_Name= "304"
+Channel_server= "nfs"
+Event= "Animal Planet"
+
+Channel_Name= "666"
+Channel_server= "null"
+Event= "ACC Network USA"
+
+Channel_Name= "123"
+Channel_server= "zeko"
+Event= "Astro SuperSport 1"
+
+Channel_Name= "124"
+Channel_server= "wind"
+Event= "Astro SuperSport 2"
+
+Channel_Name= "125"
+Channel_server= "zeko"
+Event= "Astro SuperSport 3"
+
+Channel_Name= "126"
+Channel_server= "zeko"
+Event= "Astro SuperSport 4"
+
+Channel_Name= "134"
+Channel_server= "wind"
+Event= "Arena Sport 1 Premium"
+
+Channel_Name= "135"
+Channel_server= "ddy6"
+Event= "Arena Sport 2 Premium"
+
+Channel_Name= "139"
+Channel_server= "ddy6"
+Event= "Arena Sport 3 Premium"
+
+Channel_Name= "429"
+Channel_server= "wind"
+Event= "Arena Sport 1 Serbia"
+
+Channel_Name= "430"
+Channel_server= "zeko"
+Event= "Arena Sport 2 Serbia"
+
+Channel_Name= "431"
+Channel_server= "wind"
+Event= "Arena Sport 3 Serbia"
+
+Channel_Name= "581"
+Channel_server= "wind"
+Event= "Arena Sport 4 Serbia"
+
+Channel_Name= "432"
+Channel_server= "ddy6"
+Event= "Arena Sport 1 Croatia"
+
+Channel_Name= "433"
+Channel_server= "zeko"
+Event= "Arena Sport 2 Croatia"
+
+Channel_Name= "434"
+Channel_server= "ddy6"
+Event= "Arena Sport 3 Croatia"
+
+Channel_Name= "580"
+Channel_server= "wind"
+Event= "Arena Sport 4 Croatia"
+
+Channel_Name= "781"
+Channel_server= "dokko1"
+Event= "Alkass One"
+
+Channel_Name= "782"
+Channel_server= "dokko1"
+Event= "Alkass Two"
+
+Channel_Name= "783"
+Channel_server= "dokko1"
+Event= "Alkass Three"
+
+Channel_Name= "784"
+Channel_server= "dokko1"
+Event= "Alkass Four"
+
+Channel_Name= "785"
+Channel_server= "dokko1"
+Event= "ABS-CBN"
+
+Channel_Name= "579"
+Channel_server= "wind"
+Event= "Arena Sport 1 BiH"
+
+Channel_Name= "600"
+Channel_server= "wind"
+Event= "Abu Dhabi Sports 1 UAE"
+
+Channel_Name= "601"
+Channel_server= "dokko1"
+Event= "Abu Dhabi Sports 2 UAE"
+
+Channel_Name= "609"
+Channel_server= "dokko1"
+Event= "Abu Dhabi Sports 1 Premium"
+
+Channel_Name= "610"
+Channel_server= "dokko1"
+Event= "Abu Dhabi Sports 2 Premium"
+
+Channel_Name= "370"
+Channel_server= "zeko"
+Event= "Astro Cricket"
+
+Channel_Name= "531"
+Channel_server= "dokko1"
+Event= "Antena 3 Spain"
+
+Channel_Name= "664"
+Channel_server= "dokko1"
+Event= "ACC Network USA"
+
+Channel_Name= "295"
+Channel_server= "ddy6"
+Event= "Adult Swim"
+
+Channel_Name= "717"
+Channel_server= "ddy6"
+Event= "AXN Movies Portugal"
+
+Channel_Name= "725"
+Channel_server= "ddy6"
+Event= "Arte DE"
+
+Channel_Name= "742"
+Channel_server= "nfs"
+Event= "AXS TV USA"
+
+Channel_Name= "766"
+Channel_server= "zeko"
+Event= "ABCNY USA"
+
+Channel_Name= "61"
+Channel_server= "wind"
+Event= "beIN Sports MENA English 1"
+
+Channel_Name= "90"
+Channel_server= "zeko"
+Event= "beIN Sports MENA English 2"
+
+Channel_Name= "46"
+Channel_server= "wind"
+Event= "beIN Sports MENA English 3"
+
+Channel_Name= "91"
+Channel_server= "dokko1"
+Event= "beIN Sports MENA 1"
+
+Channel_Name= "92"
+Channel_server= "dokko1"
+Event= "beIN Sports MENA 2"
+
+Channel_Name= "93"
+Channel_server= "dokko1"
+Event= "beIN Sports MENA 3"
+
+Channel_Name= "94"
+Channel_server= "dokko1"
+Event= "beIN Sports MENA 4"
+
+Channel_Name= "95"
+Channel_server= "dokko1"
+Event= "beIN Sports MENA 5"
+
+Channel_Name= "96"
+Channel_server= "dokko1"
+Event= "beIN Sports MENA 6"
+
+Channel_Name= "97"
+Channel_server= "dokko1"
+Event= "beIN Sports MENA 7"
+
+Channel_Name= "98"
+Channel_server= "ddy6"
+Event= "beIN Sports MENA Premium 1"
+
+Channel_Name= "99"
+Channel_server= "ddy6"
+Event= "beIN Sports MENA Premium 2"
+
+Channel_Name= "100"
+Channel_server= "ddy6"
+Event= "beIN Sports MENA Premium 3"
+
+Channel_Name= "494"
+Channel_server= "ddy6"
+Event= "beIN Sports MAX 4 France"
+
+Channel_Name= "495"
+Channel_server= "ddy6"
+Event= "beIN Sports MAX 5 France"
+
+Channel_Name= "496"
+Channel_server= "ddy6"
+Event= "beIN Sports MAX 6 France"
+
+Channel_Name= "497"
+Channel_server= "ddy6"
+Event= "beIN Sports MAX 7 France"
+
+Channel_Name= "498"
+Channel_server= "ddy6"
+Event= "beIN Sports MAX 8 France"
+
+Channel_Name= "499"
+Channel_server= "ddy6"
+Event= "beIN Sports MAX 9 France"
+
+Channel_Name= "500"
+Channel_server= "ddy6"
+Event= "beIN Sports MAX 10 France"
+
+Channel_Name= "116"
+Channel_server= "zeko"
+Event= "beIN SPORTS 1 France"
+
+Channel_Name= "117"
+Channel_server= "zeko"
+Event= "beIN SPORTS 2 France"
+
+Channel_Name= "118"
+Channel_server= "zeko"
+Event= "beIN SPORTS 3 France"
+
+Channel_Name= "62"
+Channel_server= "zeko"
+Event= "beIN SPORTS 1 Turkey"
+
+Channel_Name= "63"
+Channel_server= "zeko"
+Event= "beIN SPORTS 2 Turkey"
+
+Channel_Name= "64"
+Channel_server= "zeko"
+Event= "beIN SPORTS 3 Turkey"
+
+Channel_Name= "67"
+Channel_server= "zeko"
+Event= "beIN SPORTS 4 Turkey"
+
+Channel_Name= "578"
+Channel_server= "wind"
+Event= "BeIN Sports HD Qatar"
+
+Channel_Name= "425"
+Channel_server= "zeko"
+Event= "BeIN SPORTS USA"
+
+Channel_Name= "372"
+Channel_server= "zeko"
+Event= "beIN SPORTS en Espa単ol"
+
+Channel_Name= "491"
+Channel_server= "ddy6"
+Event= "beIN SPORTS Australia 1"
+
+Channel_Name= "492"
+Channel_server= "ddy6"
+Event= "beIN SPORTS Australia 2"
+
+Channel_Name= "493"
+Channel_server= "ddy6"
+Event= "beIN SPORTS Australia 3"
+
+Channel_Name= "522"
+Channel_server= "wind"
+Event= "Barca TV Spain"
+
+Channel_Name= "380"
+Channel_server= "dokko1"
+Event= "Benfica TV PT"
+
+Channel_Name= "648"
+Channel_server= "dokko1"
+Event= "Boomerang"
+
+Channel_Name= "476"
+Channel_server= "wind"
+Event= "BNT 1 Bulgaria"
+
+Channel_Name= "477"
+Channel_server= "wind"
+Event= "BNT 2 Bulgaria"
+
+Channel_Name= "478"
+Channel_server= "wind"
+Event= "BNT 3 Bulgaria"
+
+Channel_Name= "737"
+Channel_server= "ddy6"
+Event= "BR Fernsehen DE"
+
+Channel_Name= "479"
+Channel_server= "wind"
+Event= "bTV Bulgaria"
+
+Channel_Name= "481"
+Channel_server= "wind"
+Event= "bTV Action Bulgaria"
+
+Channel_Name= "484"
+Channel_server= "wind"
+Event= "bTV Lady Bulgaria"
+
+Channel_Name= "305"
+Channel_server= "null"
+Event= "BBC America (BBCA)"
+
+Channel_Name= "306"
+Channel_server= "zeko"
+Event= "BET USA"
+
+Channel_Name= "307"
+Channel_server= "nfs"
+Event= "Bravo USA"
+
+Channel_Name= "349"
+Channel_server= "dokko1"
+Event= "BBC News Channel HD"
+
+Channel_Name= "356"
+Channel_server= "ddy6"
+Event= "BBC One UK"
+
+Channel_Name= "357"
+Channel_server= "dokko1"
+Event= "BBC Two UK"
+
+Channel_Name= "358"
+Channel_server= "ddy6"
+Event= "BBC Three UK"
+
+Channel_Name= "359"
+Channel_server= "dokko1"
+Event= "BBC Four UK"
+
+Channel_Name= "397"
+Channel_server= "wind"
+Event= "BIG TEN Network (BTN USA)"
+
+Channel_Name= "535"
+Channel_server= "dokko1"
+Event= "Cuatro Spain"
+
+Channel_Name= "354"
+Channel_server= "wind"
+Event= "Channel 4 UK"
+
+Channel_Name= "355"
+Channel_server= "zeko"
+Event= "Channel 5 UK"
+
+Channel_Name= "308"
+Channel_server= "zeko"
+Event= "CBS Sports Network (CBSSN)"
+
+Channel_Name= "121"
+Channel_server= "wind"
+Event= "Canal+ France"
+
+Channel_Name= "122"
+Channel_server= "wind"
+Event= "Canal+ Sport France"
+
+Channel_Name= "463"
+Channel_server= "wind"
+Event= "Canal+ Foot France"
+
+Channel_Name= "464"
+Channel_server= "wind"
+Event= "Canal+ Sport360"
+
+Channel_Name= "540"
+Channel_server= "ddy6"
+Event= "Canal 11 Portugal"
+
+Channel_Name= "48"
+Channel_server= "nfs"
+Event= "Canal+ Sport Poland"
+
+Channel_Name= "73"
+Channel_server= "ddy6"
+Event= "Canal+ Sport 2 Poland"
+
+Channel_Name= "75"
+Channel_server= "wind"
+Event= "CANAL+ SPORT 5 Poland"
+
+Channel_Name= "566"
+Channel_server= "dokko1"
+Event= "Canal+ Premium Poland"
+
+Channel_Name= "567"
+Channel_server= "dokko1"
+Event= "Canal+ Family Poland"
+
+Channel_Name= "570"
+Channel_server= "wind"
+Event= "Canal+ Seriale Poland"
+
+Channel_Name= "486"
+Channel_server= "ddy6"
+Event= "Canal+ Sport 1 Afrique"
+
+Channel_Name= "487"
+Channel_server= "ddy6"
+Event= "Canal+ Sport 2 Afrique"
+
+Channel_Name= "488"
+Channel_server= "ddy6"
+Event= "Canal+ Sport 3 Afrique"
+
+Channel_Name= "489"
+Channel_server= "ddy6"
+Event= "Canal+ Sport 4 Afrique"
+
+Channel_Name= "490"
+Channel_server= "ddy6"
+Event= "Canal+ Sport 5 Afrique"
+
+Channel_Name= "805"
+Channel_server= "dokko1"
+Event= "CANAL9 Denmark"
+
+Channel_Name= "89"
+Channel_server= "wind"
+Event= "Combate Brasil"
+
+Channel_Name= "747"
+Channel_server= "nfs"
+Event= "C More Football Sweden"
+
+Channel_Name= "622"
+Channel_server= "dokko1"
+Event= "Cosmote Sport 1 HD"
+
+Channel_Name= "623"
+Channel_server= "dokko1"
+Event= "Cosmote Sport 2 HD"
+
+Channel_Name= "624"
+Channel_server= "dokko1"
+Event= "Cosmote Sport 3 HD"
+
+Channel_Name= "625"
+Channel_server= "dokko1"
+Event= "Cosmote Sport 4 HD"
+
+Channel_Name= "626"
+Channel_server= "dokko1"
+Event= "Cosmote Sport 5 HD"
+
+Channel_Name= "627"
+Channel_server= "dokko1"
+Event= "Cosmote Sport 6 HD"
+
+Channel_Name= "628"
+Channel_server= "dokko1"
+Event= "Cosmote Sport 7 HD"
+
+Channel_Name= "629"
+Channel_server= "dokko1"
+Event= "Cosmote Sport 8 HD"
+
+Channel_Name= "630"
+Channel_server= "dokko1"
+Event= "Cosmote Sport 9 HD"
+
+Channel_Name= "546"
+Channel_server= "null"
+Event= "Channel 9 Israel"
+
+Channel_Name= "547"
+Channel_server= "null"
+Event= "Channel 10 Israe"
+
+Channel_Name= "548"
+Channel_server= "zeko"
+Event= "Channel 11 Israel"
+
+Channel_Name= "549"
+Channel_server= "zeko"
+Event= "Channel 12 Israel"
+
+Channel_Name= "551"
+Channel_server= "zeko"
+Event= "Channel 13 Israel"
+
+Channel_Name= "552"
+Channel_server= "zeko"
+Event= "Channel 14 Israel"
+
+Channel_Name= "8111"
+Channel_server= "null"
+Event= "C More Stars Sweden"
+
+Channel_Name= "812"
+Channel_server= "null"
+Event= "C More First Sweden"
+
+Channel_Name= "813"
+Channel_server= "null"
+Event= "C More Hits Sweden"
+
+Channel_Name= "814"
+Channel_server= "nfs"
+Event= "C More Series Sweden"
+
+Channel_Name= "748"
+Channel_server= "ddy6"
+Event= "COZI TV USA"
+
+Channel_Name= "647"
+Channel_server= "dokko1"
+Event= "CMT USA"
+
+Channel_Name= "52"
+Channel_server= "nfs"
+Event= "CBS USA"
+
+Channel_Name= "300"
+Channel_server= "zeko"
+Event= "CW USA"
+
+Channel_Name= "309"
+Channel_server= "zeko"
+Event= "CNBC USA"
+
+Channel_Name= "310"
+Channel_server= "zeko"
+Event= "Comedy Central"
+
+Channel_Name= "339"
+Channel_server= "nfs"
+Event= "Cartoon Network"
+
+Channel_Name= "345"
+Channel_server= "nfs"
+Event= "CNN USA"
+
+Channel_Name= "374"
+Channel_server= "zeko"
+Event= "Cinemax USA"
+
+Channel_Name= "602"
+Channel_server= "zeko"
+Event= "CTV Canada"
+
+Channel_Name= "838"
+Channel_server= "nfs"
+Event= "CTV 2 Canada"
+
+Channel_Name= "669"
+Channel_server= "dokko1"
+Event= "Crime+ Investigation USA"
+
+Channel_Name= "696"
+Channel_server= "nfs"
+Event= "Comet USA"
+
+Channel_Name= "697"
+Channel_server= "dokko1"
+Event= "Cooking Channel USA"
+
+Channel_Name= "715"
+Channel_server= "wind"
+Event= "Cleo TV"
+
+Channel_Name= "750"
+Channel_server= "wind"
+Event= "C SPAN 1"
+
+Channel_Name= "767"
+Channel_server= "zeko"
+Event= "CBSNY USA"
+
+Channel_Name= "831"
+Channel_server= "nfs"
+Event= "Citytv"
+
+Channel_Name= "832"
+Channel_server= "dokko1"
+Event= "CBC CA"
+
+Channel_Name= "426"
+Channel_server= "ddy6"
+Event= "DAZN 1 Bar DE"
+
+Channel_Name= "427"
+Channel_server= "ddy6"
+Event= "DAZN 2 Bar DE"
+
+Channel_Name= "445"
+Channel_server= "wind"
+Event= "DAZN 1 Spain"
+
+Channel_Name= "446"
+Channel_server= "zeko"
+Event= "DAZN 2 Spain"
+
+Channel_Name= "447"
+Channel_server= "zeko"
+Event= "DAZN 3 Spain"
+
+Channel_Name= "448"
+Channel_server= "zeko"
+Event= "DAZN 4 Spain"
+
+Channel_Name= "537"
+Channel_server= "dokko1"
+Event= "DAZN F1 ES"
+
+Channel_Name= "538"
+Channel_server= "dokko1"
+Event= "DAZN LaLiga"
+
+Channel_Name= "43"
+Channel_server= "wind"
+Event= "DAZN LaLiga 2"
+
+Channel_Name= "801"
+Channel_server= "dokko1"
+Event= "DR1 Denmark"
+
+Channel_Name= "802"
+Channel_server= "dokko1"
+Event= "DR2 Denmark"
+
+Channel_Name= "400"
+Channel_server= "nfs"
+Event= "Digi Sport 1 Romania"
+
+Channel_Name= "401"
+Channel_server= "nfs"
+Event= "Digi Sport 2 Romania"
+
+Channel_Name= "402"
+Channel_server= "nfs"
+Event= "Digi Sport 3 Romania"
+
+Channel_Name= "403"
+Channel_server= "nfs"
+Event= "Digi Sport 4 Romania"
+
+Channel_Name= "465"
+Channel_server= "wind"
+Event= "Diema Sport Bulgaria"
+
+Channel_Name= "466"
+Channel_server= "wind"
+Event= "Diema Sport 2 Bulgaria"
+
+Channel_Name= "467"
+Channel_server= "wind"
+Event= "Diema Sport 3 Bulgaria"
+
+Channel_Name= "482"
+Channel_server= "ddy6"
+Event= "Diema Bulgaria"
+
+Channel_Name= "485"
+Channel_server= "wind"
+Event= "Diema Family Bulgaria"
+
+Channel_Name= "604"
+Channel_server= "dokko1"
+Event= "Dubai Sports 1 UAE"
+
+Channel_Name= "605"
+Channel_server= "dokko1"
+Event= "Dubai Sports 2 UAE"
+
+Channel_Name= "606"
+Channel_server= "dokko1"
+Event= "Dubai Sports 3 UAE"
+
+Channel_Name= "607"
+Channel_server= "dokko1"
+Event= "Dubai Racing 1 UAE"
+
+Channel_Name= "608"
+Channel_server= "dokko1"
+Event= "Dubai Racing 2 UAE"
+
+Channel_Name= "786"
+Channel_server= "null"
+Event= "DSTV Mzansi Magic"
+
+Channel_Name= "827"
+Channel_server= "null"
+Event= "DSTV M-Net"
+
+Channel_Name= "828"
+Channel_server= "null"
+Event= "DSTV kykNET & kie"
+
+Channel_Name= "311"
+Channel_server= "zeko"
+Event= "Discovery Life Channel"
+
+Channel_Name= "312"
+Channel_server= "zeko"
+Event= "Disney Channel"
+
+Channel_Name= "313"
+Channel_server= "zeko"
+Event= "Discovery Channel"
+
+Channel_Name= "657"
+Channel_server= "dokko1"
+Event= "Discovery Family"
+
+Channel_Name= "314"
+Channel_server= "zeko"
+Event= "Disney XD"
+
+Channel_Name= "651"
+Channel_server= "dokko1"
+Event= "Destination America"
+
+Channel_Name= "652"
+Channel_server= "nfs"
+Event= "Disney JR"
+
+Channel_Name= "348"
+Channel_server= "dokko1"
+Event= "Dave"
+
+Channel_Name= "44"
+Channel_server= "zeko"
+Event= "ESPN USA"
+
+Channel_Name= "45"
+Channel_server= "wind"
+Event= "ESPN2 USA"
+
+Channel_Name= "316"
+Channel_server= "zeko"
+Event= "ESPNU USA"
+
+Channel_Name= "379"
+Channel_server= "zeko"
+Event= "ESPN 1 NL"
+
+Channel_Name= "386"
+Channel_server= "zeko"
+Event= "ESPN 2 NL"
+
+Channel_Name= "71"
+Channel_server= "wind"
+Event= "Eleven Sports 1 Poland"
+
+Channel_Name= "72"
+Channel_server= "wind"
+Event= "Eleven Sports 2 Poland"
+
+Channel_Name= "428"
+Channel_server= "ddy6"
+Event= "Eleven Sports 3 Poland"
+
+Channel_Name= "455"
+Channel_server= "ddy6"
+Event= "Eleven Sports 1 Portugal"
+
+Channel_Name= "456"
+Channel_server= "wind"
+Event= "Eleven Sports 2 Portugal"
+
+Channel_Name= "457"
+Channel_server= "wind"
+Event= "Eleven Sports 3 Portugal"
+
+Channel_Name= "458"
+Channel_server= "wind"
+Event= "Eleven Sports 4 Portugal"
+
+Channel_Name= "459"
+Channel_server= "wind"
+Event= "Eleven Sports 5 Portugal"
+
+Channel_Name= "41"
+Channel_server= "wind"
+Event= "EuroSport 1 UK"
+
+Channel_Name= "42"
+Channel_server= "wind"
+Event= "EuroSport 2 UK"
+
+Channel_Name= "57"
+Channel_server= "wind"
+Event= "EuroSport 1 Poland"
+
+Channel_Name= "58"
+Channel_server= "wind"
+Event= "EuroSport 2 Poland"
+
+Channel_Name= "524"
+Channel_server= "zeko"
+Event= "EuroSport 1 Spain"
+
+Channel_Name= "525"
+Channel_server= "ddy6"
+Event= "EuroSport 2 Spain"
+
+Channel_Name= "878"
+Channel_server= "wind"
+Event= "EuroSport 1 Italy"
+
+Channel_Name= "879"
+Channel_server= "wind"
+Event= "EuroSport 2 Italy"
+
+Channel_Name= "469"
+Channel_server= "null"
+Event= "Eurosport 1 Bulgaria"
+
+Channel_Name= "470"
+Channel_server= "wind"
+Event= "Eurosport 2 Bulgaria"
+
+Channel_Name= "387"
+Channel_server= "wind"
+Event= "ESPN Premium Argentina"
+
+Channel_Name= "81"
+Channel_server= "zeko"
+Event= "ESPN Brasil"
+
+Channel_Name= "82"
+Channel_server= "wind"
+Event= "ESPN2 Brasil"
+
+Channel_Name= "83"
+Channel_server= "ddy6"
+Event= "ESPN3 Brasil"
+
+Channel_Name= "85"
+Channel_server= "ddy6"
+Event= "ESPN4 Brasil"
+
+Channel_Name= "149"
+Channel_server= "ddy6"
+Event= "ESPN SUR"
+
+Channel_Name= "150"
+Channel_server= "wind"
+Event= "ESPN2 SUR"
+
+Channel_Name= "375"
+Channel_server= "zeko"
+Event= "ESPN Deportes"
+
+Channel_Name= "288"
+Channel_server= "nfs"
+Event= "ESPNews"
+
+Channel_Name= "315"
+Channel_server= "zeko"
+Event= "E! Entertainment Television"
+
+Channel_Name= "363"
+Channel_server= "ddy6"
+Event= "E4 Channel"
+
+Channel_Name= "39"
+Channel_server= "zeko"
+Event= "Fox Sports 1 USA"
+
+Channel_Name= "758"
+Channel_server= "zeko"
+Event= "Fox Sports 2 USA"
+
+Channel_Name= "756"
+Channel_server= "ddy6"
+Event= "FOX Soccer Plus"
+
+Channel_Name= "369"
+Channel_server= "ddy6"
+Event= "Fox Cricket"
+
+Channel_Name= "643"
+Channel_server= "dokko1"
+Event= "FOX Deportes USA"
+
+Channel_Name= "820"
+Channel_server= "zeko"
+Event= "FOX Sports 502 AU"
+
+Channel_Name= "821"
+Channel_server= "zeko"
+Event= "FOX Sports 503 AU"
+
+Channel_Name= "822"
+Channel_server= "zeko"
+Event= "FOX Sports 504 AU"
+
+Channel_Name= "823"
+Channel_server= "wind"
+Event= "FOX Sports 505 AU"
+
+Channel_Name= "824"
+Channel_server= "wind"
+Event= "FOX Sports 506 AU"
+
+Channel_Name= "825"
+Channel_server= "wind"
+Event= "FOX Sports 507 AU"
+
+Channel_Name= "787"
+Channel_server= "wind"
+Event= "Fox Sports Argentina"
+
+Channel_Name= "788"
+Channel_server= "wind"
+Event= "Fox Sports 2 Argentina"
+
+Channel_Name= "789"
+Channel_server= "nfs"
+Event= "Fox Sports 3 Argentina"
+
+Channel_Name= "830"
+Channel_server= "ddy6"
+Event= "Fox Sports Premium MX"
+
+Channel_Name= "568"
+Channel_server= "dokko1"
+Event= "FilmBox Premium Poland"
+
+Channel_Name= "757"
+Channel_server= "zeko"
+Event= "Fight Network"
+
+Channel_Name= "297"
+Channel_server= "ddy6"
+Event= "Fox Business"
+
+Channel_Name= "483"
+Channel_server= "wind"
+Event= "FOX HD Bulgaria"
+
+Channel_Name= "54"
+Channel_server= "zeko"
+Event= "FOX USA"
+
+Channel_Name= "317"
+Channel_server= "zeko"
+Event= "FX USA"
+
+Channel_Name= "298"
+Channel_server= "ddy6"
+Event= "FXX USA"
+
+Channel_Name= "301"
+Channel_server= "zeko"
+Event= "Freeform"
+
+Channel_Name= "347"
+Channel_server= "zeko"
+Event= "Fox News"
+
+Channel_Name= "381"
+Channel_server= "zeko"
+Event= "FX Movie Channel"
+
+Channel_Name= "665"
+Channel_server= "null"
+Event= "FYI"
+
+Channel_Name= "688"
+Channel_server= "wind"
+Event= "Film4 UK"
+
+Channel_Name= "744"
+Channel_server= "ddy6"
+Event= "Fashion TV"
+
+Channel_Name= "751"
+Channel_server= "dokko1"
+Event= "FETV - Family Entertainment Television"
+
+Channel_Name= "768"
+Channel_server= "zeko"
+Event= "FOXNY USA"
+
+Channel_Name= "775"
+Channel_server= "zeko"
+Event= "Fox Weather Channel"
+
+Channel_Name= "530"
+Channel_server= "dokko1"
+Event= "GOL PLAY Spain"
+
+Channel_Name= "318"
+Channel_server= "zeko"
+Event= "GOLF Channel USA"
+
+Channel_Name= "319"
+Channel_server= "nfs"
+Event= "Game Show Network"
+
+Channel_Name= "292"
+Channel_server= "nfs"
+Event= "Gol Mundial 1"
+
+Channel_Name= "687"
+Channel_server= "ddy6"
+Event= "Gold UK"
+
+Channel_Name= "743"
+Channel_server= "nfs"
+Event= "Galavisi贸n USA"
+
+Channel_Name= "699"
+Channel_server= "zeko"
+Event= "CBC CA"
+
+Channel_Name= "752"
+Channel_server= "dokko1"
+Event= "Grit Channel"
+
+Channel_Name= "760"
+Channel_server= "zeko"
+Event= "Globo SP"
+
+Channel_Name= "761"
+Channel_server= "zeko"
+Event= "Globo RIO"
+
+Channel_Name= "836"
+Channel_server= "dokko1"
+Event= "Global CA"
+
+Channel_Name= "320"
+Channel_server= "zeko"
+Event= "The Hallmark Channel"
+
+Channel_Name= "296"
+Channel_server= "ddy6"
+Event= "Hallmark Movies & Mysterie"
+
+Channel_Name= "321"
+Channel_server= "zeko"
+Event= "HBO USA"
+
+Channel_Name= "689"
+Channel_server= "nfs"
+Event= "HBO2 USA"
+
+Channel_Name= "690"
+Channel_server= "nfs"
+Event= "HBO Comedy USA"
+
+Channel_Name= "691"
+Channel_server= "nfs"
+Event= "HBO Family USA"
+
+Channel_Name= "692"
+Channel_server= "nfs"
+Event= "HBO Latino USA"
+
+Channel_Name= "693"
+Channel_server= "nfs"
+Event= "HBO Signature USA"
+
+Channel_Name= "694"
+Channel_server= "nfs"
+Event= "HBO Zone USA"
+
+Channel_Name= "569"
+Channel_server= "wind"
+Event= "HBO Poland"
+
+Channel_Name= "322"
+Channel_server= "nfs"
+Event= "History USA"
+
+Channel_Name= "323"
+Channel_server= "ddy6"
+Event= "Headline News"
+
+Channel_Name= "382"
+Channel_server= "zeko"
+Event= "HGTV"
+
+Channel_Name= "553"
+Channel_server= "ddy6"
+Event= "HOT3 Israel"
+
+Channel_Name= "740"
+Channel_server= "ddy6"
+Event= "HR Fernsehen DE"
+
+Channel_Name= "350"
+Channel_server= "dokko1"
+Event= "ITV 1 UK"
+
+Channel_Name= "351"
+Channel_server= "zeko"
+Event= "ITV 2 UK"
+
+Channel_Name= "352"
+Channel_server= "zeko"
+Event= "ITV 3 UK"
+
+Channel_Name= "353"
+Channel_server= "ddy6"
+Event= "ITV 4 UK"
+
+Channel_Name= "854"
+Channel_server= "wind"
+Event= "Italia 1 Italy"
+
+Channel_Name= "324"
+Channel_server= "wind"
+Event= "Investigation Discovery (ID USA)"
+
+Channel_Name= "325"
+Channel_server= "wind"
+Event= "ION USA"
+
+Channel_Name= "656"
+Channel_server= "nfs"
+Event= "IFC TV USA"
+
+Channel_Name= "803"
+Channel_server= "dokko1"
+Event= "Kanal 4 Denmark"
+
+Channel_Name= "804"
+Channel_server= "dokko1"
+Event= "Kanal 5 Denmark"
+
+Channel_Name= "731"
+Channel_server= "null"
+Event= "Kabel Eins (Kabel 1) DE"
+
+Channel_Name= "539"
+Channel_server= "dokko1"
+Event= "LaLiga SmartBank TV"
+
+Channel_Name= "645"
+Channel_server= "dokko1"
+Event= "L'Equipe France"
+
+Channel_Name= "534"
+Channel_server= "dokko1"
+Event= "La Sexta Spain"
+
+Channel_Name= "826"
+Channel_server= "ddy6"
+Event= "Liverpool TV (LFC TV)"
+
+Channel_Name= "326"
+Channel_server= "wind"
+Event= "Lifetime Network"
+
+Channel_Name= "389"
+Channel_server= "nfs"
+Event= "Lifetime Movies Network"
+
+Channel_Name= "667"
+Channel_server= "null"
+Event= "Longhorn Network USA"
+
+Channel_Name= "855"
+Channel_server= "wind"
+Event= "La7 Italy"
+
+Channel_Name= "856"
+Channel_server= "wind"
+Event= "LA7d HD+ Italy"
+
+Channel_Name= "136"
+Channel_server= "ddy6"
+Event= "Match Football 1 Russia"
+
+Channel_Name= "137"
+Channel_server= "ddy6"
+Event= "Match Football 2 Russia"
+
+Channel_Name= "138"
+Channel_server= "ddy6"
+Event= "Match Football 3 Russia"
+
+Channel_Name= "573"
+Channel_server= "ddy6"
+Event= "Match Premier Russia"
+
+Channel_Name= "127"
+Channel_server= "ddy6"
+Event= "Match TV Russia"
+
+Channel_Name= "395"
+Channel_server= "nfs"
+Event= "МАТЧ! БОЕЦ Russia"
+
+Channel_Name= "84"
+Channel_server= "wind"
+Event= "Movistar Laliga"
+
+Channel_Name= "435"
+Channel_server= "zeko"
+Event= "Movistar Liga de Campeones"
+
+Channel_Name= "436"
+Channel_server= "zeko"
+Event= "Movistar Deportes Spain"
+
+Channel_Name= "438"
+Channel_server= "zeko"
+Event= "Movistar Deportes 2 Spain"
+
+Channel_Name= "526"
+Channel_server= "dokko1"
+Event= "Movistar Deportes 3 Spain"
+
+Channel_Name= "527"
+Channel_server= "dokko1"
+Event= "Movistar Deportes 4 Spain"
+
+Channel_Name= "528"
+Channel_server= "dokko1"
+Event= "Movistar Golf Spain"
+
+Channel_Name= "563"
+Channel_server= "dokko1"
+Event= "Motowizja Poland"
+
+Channel_Name= "765"
+Channel_server= "zeko"
+Event= "MSG USA"
+
+Channel_Name= "327"
+Channel_server= "wind"
+Event= "MSNBC"
+
+Channel_Name= "299"
+Channel_server= "ddy6"
+Event= "Magnolia Network"
+
+Channel_Name= "367"
+Channel_server= "zeko"
+Event= "MTV UK"
+
+Channel_Name= "371"
+Channel_server= "nfs"
+Event= "MTV USA"
+
+Channel_Name= "377"
+Channel_server= "wind"
+Event= "MUTV UK"
+
+Channel_Name= "646"
+Channel_server= "null"
+Event= "MAVTV USA"
+
+Channel_Name= "779"
+Channel_server= "dokko1"
+Event= "Max Sport 1 Croatia"
+
+Channel_Name= "780"
+Channel_server= "dokko1"
+Event= "Max Sport 2 Croatia"
+
+Channel_Name= "770"
+Channel_server= "ddy6"
+Event= "Marquee Sports Network"
+
+Channel_Name= "472"
+Channel_server= "wind"
+Event= "Max Sport 1 Bulgaria"
+
+Channel_Name= "473"
+Channel_server= "wind"
+Event= "Max Sport 2 Bulgaria"
+
+Channel_Name= "474"
+Channel_server= "ddy6"
+Event= "Max Sport 3 Bulgaria"
+
+Channel_Name= "475"
+Channel_server= "wind"
+Event= "Max Sport 4 Bulgaria"
+
+Channel_Name= "399"
+Channel_server= "wind"
+Event= "MLB Network USA"
+
+Channel_Name= "829"
+Channel_server= "nfs"
+Event= "MASN USA"
+
+Channel_Name= "654"
+Channel_server= "ddy6"
+Event= "MY9TV USA"
+
+Channel_Name= "661"
+Channel_server= "dokko1"
+Event= "Motor Trend"
+
+Channel_Name= "662"
+Channel_server= "ddy6"
+Event= "METV USA"
+
+Channel_Name= "733"
+Channel_server= "ddy6"
+Event= "MDR DE"
+
+Channel_Name= "749"
+Channel_server= "ddy6"
+Event= "Mundotoro TV Spain"
+
+Channel_Name= "806"
+Channel_server= "dokko1"
+Event= "MTV Denmark"
+
+Channel_Name= "663"
+Channel_server= "dokko1"
+Event= "NHL Network USA"
+
+Channel_Name= "468"
+Channel_server= "wind"
+Event= "Nova Sport Bulgaria"
+
+Channel_Name= "582"
+Channel_server= "ddy6"
+Event= "Nova Sport Serbia"
+
+Channel_Name= "631"
+Channel_server= "dokko1"
+Event= "Nova Sports 1 Greece"
+
+Channel_Name= "632"
+Channel_server= "dokko1"
+Event= "Nova Sports 2 Greece"
+
+Channel_Name= "633"
+Channel_server= "dokko1"
+Event= "Nova Sports 3 Greece"
+
+Channel_Name= "634"
+Channel_server= "dokko1"
+Event= "Nova Sports 4 Greece"
+
+Channel_Name= "635"
+Channel_server= "dokko1"
+Event= "Nova Sports 5 Greece"
+
+Channel_Name= "636"
+Channel_server= "dokko1"
+Event= "Nova Sports 6 Greece"
+
+Channel_Name= "599"
+Channel_server= "wind"
+Event= "Nova Sports Premier League Greece"
+
+Channel_Name= "637"
+Channel_server= "dokko1"
+Event= "Nova Sports Start Greece"
+
+Channel_Name= "638"
+Channel_server= "dokko1"
+Event= "Nova Sports Prime Greece"
+
+Channel_Name= "639"
+Channel_server= "dokko1"
+Event= "Nova Sports News Greece"
+
+Channel_Name= "762"
+Channel_server= "nfs"
+Event= "NESN USA"
+
+Channel_Name= "53"
+Channel_server= "wind"
+Event= "NBC USA"
+
+Channel_Name= "404"
+Channel_server= "zeko"
+Event= "NBA TV USA"
+
+Channel_Name= "776"
+Channel_server= "wind"
+Event= "NBC Sports Chicago"
+
+Channel_Name= "777"
+Channel_server= "zeko"
+Event= "NBC Sports Philadelphia"
+
+Channel_Name= "778"
+Channel_server= "dokko1"
+Event= "NBC Sports Washington"
+
+Channel_Name= "405"
+Channel_server= "zeko"
+Event= "NFL Network"
+
+Channel_Name= "753"
+Channel_server= "wind"
+Event= "NBC Sports Bay Area"
+
+Channel_Name= "754"
+Channel_server= "wind"
+Event= "NBC Sports Boston"
+
+Channel_Name= "755"
+Channel_server= "wind"
+Event= "NBC Sports California"
+
+Channel_Name= "769"
+Channel_server= "zeko"
+Event= "NBCNY USA"
+
+Channel_Name= "480"
+Channel_server= "wind"
+Event= "Nova TV Bulgaria"
+
+Channel_Name= "328"
+Channel_server= "zeko"
+Event= "National Geographic (NGC)"
+
+Channel_Name= "329"
+Channel_server= "wind"
+Event= "NICK JR"
+
+Channel_Name= "330"
+Channel_server= "wind"
+Event= "NICK"
+
+Channel_Name= "666"
+Channel_server= "null"
+Event= "Nick Music"
+
+Channel_Name= "649"
+Channel_server= "dokko1"
+Event= "Nicktoons"
+
+Channel_Name= "736"
+Channel_server= "ddy6"
+Event= "NDR DE"
+
+Channel_Name= "292"
+Channel_server= "nfs"
+Event= "NewsNation USA"
+
+Channel_Name= "613"
+Channel_server= "ddy6"
+Event= "Newsmax USA"
+
+Channel_Name= "745"
+Channel_server= "zeko"
+Event= "Nat Geo Wild USA"
+
+Channel_Name= "835"
+Channel_server= "dokko1"
+Event= "Noovo CA"
+
+Channel_Name= "771"
+Channel_server= "ddy6"
+Event= "New! CWPIX 11"
+
+Channel_Name= "611"
+Channel_server= "ddy6"
+Event= "OnTime Sports"
+
+Channel_Name= "612"
+Channel_server= "ddy6"
+Event= "OnTime Sports 2"
+
+Channel_Name= "541"
+Channel_server= "wind"
+Event= "ONE 1 HD Israel"
+
+Channel_Name= "542"
+Channel_server= "ddy6"
+Event= "ONE 2 HD Israel"
+
+Channel_Name= "439"
+Channel_server= "wiki"
+Event= "Orange Sport 1 Romania"
+
+Channel_Name= "440"
+Channel_server= "wiki"
+Event= "Orange Sport 2 Romania"
+
+Channel_Name= "441"
+Channel_server= "null"
+Event= "Orange Sport 3 Romania"
+
+Channel_Name= "442"
+Channel_server= "null"
+Event= "Orange Sport 4 Romania"
+
+Channel_Name= "331"
+Channel_server= "wind"
+Event= "Oprah Winfrey Network (OWN)"
+
+Channel_Name= "332"
+Channel_server= "wind"
+Event= "Oxygen True Crime"
+
+Channel_Name= "562"
+Channel_server= "dokko1"
+Event= "Polsat Poland"
+
+Channel_Name= "47"
+Channel_server= "wind"
+Event= "Polsat Sport Poland"
+
+Channel_Name= "50"
+Channel_server= "wind"
+Event= "Polsat Sport Extra Poland"
+
+Channel_Name= "129"
+Channel_server= "wind"
+Event= "Polsat Sport News Poland"
+
+Channel_Name= "443"
+Channel_server= "wind"
+Event= "Polsat News Poland"
+
+Channel_Name= "564"
+Channel_server= "dokko1"
+Event= "Polsat Film Poland"
+
+Channel_Name= "718"
+Channel_server= "ddy6"
+Event= "Porto Canal Portugal"
+
+Channel_Name= "730"
+Channel_server= "ddy6"
+Event= "ProSieben (PRO7) DE"
+
+Channel_Name= "450"
+Channel_server= "ddy6"
+Event= "PTV Sports"
+
+Channel_Name= "88"
+Channel_server= "wind"
+Event= "Premier Brasil"
+
+Channel_Name= "583"
+Channel_server= "nfs"
+Event= "Prima Sport 1"
+
+Channel_Name= "584"
+Channel_server= "null"
+Event= "Prima Sport 2"
+
+Channel_Name= "585"
+Channel_server= "null"
+Event= "Prima Sport 3"
+
+Channel_Name= "586"
+Channel_server= "null"
+Event= "Prima Sport 4"
+
+Channel_Name= "334"
+Channel_server= "nfs"
+Event= "Paramount Network"
+
+Channel_Name= "653"
+Channel_server= "ddy6"
+Event= "POP TV USA"
+
+Channel_Name= "364"
+Channel_server= "zeko"
+Event= "RTE 1"
+
+Channel_Name= "365"
+Channel_server= "zeko"
+Event= "RTE 2"
+
+Channel_Name= "119"
+Channel_server= "zeko"
+Event= "RMC Sport 1 France"
+
+Channel_Name= "120"
+Channel_server= "ddy6"
+Event= "RMC Sport 2 France"
+
+Channel_Name= "719"
+Channel_server= "ddy6"
+Event= "RTP 1 Portugal"
+
+Channel_Name= "720"
+Channel_server= "ddy6"
+Event= "RTP 2 Portugal"
+
+Channel_Name= "721"
+Channel_server= "ddy6"
+Event= "RTP 3 Portugal"
+
+Channel_Name= "850"
+Channel_server= "ddy6"
+Event= "Rai 1 Italy"
+
+Channel_Name= "851"
+Channel_server= "ddy6"
+Event= "Rai 2 Italy"
+
+Channel_Name= "852"
+Channel_server= "wind"
+Event= "Rai 3 Italy"
+
+Channel_Name= "853"
+Channel_server= "wind"
+Event= "Rai 3 Italy"
+
+Channel_Name= "882"
+Channel_server= "ddy6"
+Event= "Rai Sport Italy"
+
+Channel_Name= "858"
+Channel_server= "wind"
+Event= "Rai Premium Italy"
+
+Channel_Name= "523"
+Channel_server= "dokko1"
+Event= "Real Madrid TV Spain"
+
+Channel_Name= "839"
+Channel_server= "dokko1"
+Event= "RDS CA"
+
+Channel_Name= "840"
+Channel_server= "dokko1"
+Event= "RDS 2 CA"
+
+Channel_Name= "841"
+Channel_server= "dokko1"
+Event= "RDS Info CA"
+
+Channel_Name= "471"
+Channel_server= "wind"
+Event= "Ring Bulgaria"
+
+Channel_Name= "390"
+Channel_server= "wind"
+Event= "RTL7 Netherland"
+
+Channel_Name= "555"
+Channel_server= "zeko"
+Event= "Racing Tv UK"
+
+Channel_Name= "293"
+Channel_server= "zeko"
+Event= "Reelz Channel"
+
+Channel_Name= "35"
+Channel_server= "zeko"
+Event= "Sky Sports Football UK"
+
+Channel_Name= "36"
+Channel_server= "zeko"
+Event= "Sky Sports Arena UK"
+
+Channel_Name= "37"
+Channel_server= "nfs"
+Event= "Sky Sports Action UK"
+
+Channel_Name= "38"
+Channel_server= "zeko"
+Event= "Sky Sports Main Event"
+
+Channel_Name= "130"
+Channel_server= "dokko1"
+Event= "Sky sports Premier League"
+
+Channel_Name= "60"
+Channel_server= "wind"
+Event= "Sky Sports F1 UK"
+
+Channel_Name= "65"
+Channel_server= "dokko1"
+Event= "Sky Sports Cricket"
+
+Channel_Name= "70"
+Channel_server= "wind"
+Event= "Sky Sports Golf UK"
+
+Channel_Name= "574"
+Channel_server= "ddy6"
+Event= "Sky Sports Golf Italy"
+
+Channel_Name= "575"
+Channel_server= "nfs"
+Event= "Sky Sport MotoGP Italy"
+
+Channel_Name= "576"
+Channel_server= "ddy6"
+Event= "Sky Sport Tennis Italy"
+
+Channel_Name= "577"
+Channel_server= "nfs"
+Event= "Sky Sport F1 Italy"
+
+Channel_Name= "366"
+Channel_server= "wind"
+Event= "Sky Sports News UK"
+
+Channel_Name= "449"
+Channel_server= "ddy6"
+Event= "Sky Sports MIX UK"
+
+Channel_Name= "556"
+Channel_server= "dokko1"
+Event= "Sky Sport Top Event DE"
+
+Channel_Name= "557"
+Channel_server= "ddy6"
+Event= "Sky Sport Mix DE"
+
+Channel_Name= "558"
+Channel_server= "ddy6"
+Event= "Sky Sport Bundesliga 1 HD"
+
+Channel_Name= "559"
+Channel_server= "null"
+Event= "Sky Sport Austria 1 HD"
+
+Channel_Name= "759"
+Channel_server= "zeko"
+Event= "SportsNet New York (SNY)"
+
+Channel_Name= "460"
+Channel_server= "dokko1"
+Event= "Sky Sport Football Italy"
+
+Channel_Name= "461"
+Channel_server= "ddy6"
+Event= "Sky Sport UNO Italy"
+
+Channel_Name= "462"
+Channel_server= "ddy6"
+Event= "Sky Sport Arena Italy"
+
+Channel_Name= "554"
+Channel_server= "wind"
+Event= "Sky Sports Racing UK"
+
+Channel_Name= "881"
+Channel_server= "wind"
+Event= "Sky UNO Italy"
+
+Channel_Name= "588"
+Channel_server= "dokko1"
+Event= "Sky Sport 1 NZ"
+
+Channel_Name= "589"
+Channel_server= "dokko1"
+Event= "Sky Sport 2 NZ"
+
+Channel_Name= "590"
+Channel_server= "dokko1"
+Event= "Sky Sport 3 NZ"
+
+Channel_Name= "591"
+Channel_server= "dokko1"
+Event= "Sky Sport 4 NZ"
+
+Channel_Name= "592"
+Channel_server= "dokko1"
+Event= "Sky Sport 5 NZ"
+
+Channel_Name= "593"
+Channel_server= "dokko1"
+Event= "Sky Sport 6 NZ"
+
+Channel_Name= "594"
+Channel_server= "dokko1"
+Event= "Sky Sport 7 NZ"
+
+Channel_Name= "595"
+Channel_server= "dokko1"
+Event= "Sky Sport 8 NZ"
+
+Channel_Name= "596"
+Channel_server= "dokko1"
+Event= "Sky Sport 9 NZ"
+
+Channel_Name= "587"
+Channel_server= "dokko1"
+Event= "Sky Sport Select NZ"
+
+Channel_Name= "49"
+Channel_server= "wind"
+Event= "Sport TV1 Portugal"
+
+Channel_Name= "74"
+Channel_server= "dokko1"
+Event= "Sport TV2 Portugal"
+
+Channel_Name= "289"
+Channel_server= "ddy6"
+Event= "Sport TV4 Portugal"
+
+Channel_Name= "454"
+Channel_server= "ddy6"
+Event= "Sport TV3 Portugal"
+
+Channel_Name= "290"
+Channel_server= "ddy6"
+Event= "Sport TV5 Portugal"
+
+Channel_Name= "291"
+Channel_server= "ddy6"
+Event= "Sport TV6 Portugal"
+
+Channel_Name= "722"
+Channel_server= "ddy6"
+Event= "SIC Portugal"
+
+Channel_Name= "385"
+Channel_server= "zeko"
+Event= "SEC Network USA"
+
+Channel_Name= "78"
+Channel_server= "ddy6"
+Event= "SporTV Brasil"
+
+Channel_Name= "79"
+Channel_server= "ddy6"
+Event= "SporTV2 Brasil"
+
+Channel_Name= "80"
+Channel_server= "wind"
+Event= "SporTV3 Brasil"
+
+Channel_Name= "101"
+Channel_server= "ddy6"
+Event= "Sport Klub 1 Serbia"
+
+Channel_Name= "102"
+Channel_server= "ddy6"
+Event= "Sport Klub 2 Serbia"
+
+Channel_Name= "103"
+Channel_server= "nfs"
+Event= "Sport Klub 3 Serbia"
+
+Channel_Name= "104"
+Channel_server= "nfs"
+Event= "Sport Klub 4 Serbia"
+
+Channel_Name= "453"
+Channel_server= "wind"
+Event= "Sport Klub HD Serbia"
+
+Channel_Name= "406"
+Channel_server= "wind"
+Event= "Sportsnet Ontario"
+
+Channel_Name= "411"
+Channel_server= "zeko"
+Event= "Sportsnet One"
+
+Channel_Name= "407"
+Channel_server= "wind"
+Event= "Sportsnet West"
+
+Channel_Name= "408"
+Channel_server= "wind"
+Event= "Sportsnet East"
+
+Channel_Name= "409"
+Channel_server= "zeko"
+Event= "Sportsnet 360"
+
+Channel_Name= "410"
+Channel_server= "wind"
+Event= "Sportsnet World"
+
+Channel_Name= "412"
+Channel_server= "zeko"
+Event= "SuperSport Grandstand"
+
+Channel_Name= "413"
+Channel_server= "zeko"
+Event= "SuperSport PSL"
+
+Channel_Name= "414"
+Channel_server= "ddy6"
+Event= "SuperSport Premier league"
+
+Channel_Name= "415"
+Channel_server= "ddy6"
+Event= "SuperSport LaLiga"
+
+Channel_Name= "416"
+Channel_server= "zeko"
+Event= "SuperSport Variety 1"
+
+Channel_Name= "417"
+Channel_server= "null"
+Event= "SuperSport Variety 2"
+
+Channel_Name= "418"
+Channel_server= "ddy6"
+Event= "SuperSport Variety 3"
+
+Channel_Name= "419"
+Channel_server= "zeko"
+Event= "SuperSport Variety 4"
+
+Channel_Name= "420"
+Channel_server= "wind"
+Event= "SuperSport Action"
+
+Channel_Name= "421"
+Channel_server= "zeko"
+Event= "SuperSport Rugby"
+
+Channel_Name= "422"
+Channel_server= "zeko"
+Event= "SuperSport Golf"
+
+Channel_Name= "423"
+Channel_server= "zeko"
+Event= "SuperSport Tennis"
+
+Channel_Name= "424"
+Channel_server= "zeko"
+Event= "SuperSport Motorsport"
+
+Channel_Name= "56"
+Channel_server= "null"
+Event= "Supersport Football"
+
+Channel_Name= "368"
+Channel_server= "zeko"
+Event= "SuperSport Cricket"
+
+Channel_Name= "572"
+Channel_server= "dokko1"
+Event= "SuperSport MaXimo 1"
+
+Channel_Name= "716"
+Channel_server= "ddy6"
+Event= "Sporting TV Portugal"
+
+Channel_Name= "571"
+Channel_server= "dokko1"
+Event= "SportDigital Fussball"
+
+Channel_Name= "764"
+Channel_server= "nfs"
+Event= "Spectrum Sportsnet LA"
+
+Channel_Name= "640"
+Channel_server= "dokko1"
+Event= "Sport1+ Germany"
+
+Channel_Name= "641"
+Channel_server= "ddy6"
+Event= "Sport1 Germany"
+
+Channel_Name= "670"
+Channel_server= "dokko1"
+Event= "S4C UK"
+
+Channel_Name= "729"
+Channel_server= "ddy6"
+Event= "SAT.1 DE"
+
+Channel_Name= "671"
+Channel_server= "wind"
+Event= "Sky Cinema Premiere UK"
+
+Channel_Name= "672"
+Channel_server= "wind"
+Event= "Sky Cinema Select UK"
+
+Channel_Name= "673"
+Channel_server= "wind"
+Event= "Sky Cinema Hits UK"
+
+Channel_Name= "674"
+Channel_server= "wind"
+Event= "Sky Cinema Greats UK"
+
+Channel_Name= "675"
+Channel_server= "wind"
+Event= "Sky Cinema Animation UK"
+
+Channel_Name= "676"
+Channel_server= "wind"
+Event= "Sky Cinema Family UK"
+
+Channel_Name= "677"
+Channel_server= "wind"
+Event= "Sky Cinema Action UK"
+
+Channel_Name= "678"
+Channel_server= "wind"
+Event= "The Hallmark"
+
+Channel_Name= "679"
+Channel_server= "wind"
+Event= "Sky Cinema Thriller UK"
+
+Channel_Name= "680"
+Channel_server= "wind"
+Event= "The Hallmark"
+
+Channel_Name= "681"
+Channel_server= "ddy6"
+Event= "Sky Cinema Sci-Fi Horror UK"
+
+Channel_Name= "859"
+Channel_server= "wind"
+Event= "Sky Cinema Collection Italy"
+
+Channel_Name= "860"
+Channel_server= "wind"
+Event= "Sky Cinema Uno Italy"
+
+Channel_Name= "861"
+Channel_server= "wind"
+Event= "Sky Cinema Action Italy"
+
+Channel_Name= "862"
+Channel_server= "wind"
+Event= "8Sky Cinema Comedy Italy"
+
+Channel_Name= "863"
+Channel_server= "wind"
+Event= "Sky Cinema Uno +24 Italy"
+
+Channel_Name= "864"
+Channel_server= "wind"
+Event= "Sky Cinema Romance Italy"
+
+Channel_Name= "865"
+Channel_server= "wind"
+Event= "Sky Cinema Family Italy"
+
+Channel_Name= "866"
+Channel_server= "wind"
+Event= "Sky Cinema Due +24 Italy"
+
+Channel_Name= "867"
+Channel_server= "wind"
+Event= "Sky Cinema Drama Italy"
+
+Channel_Name= "868"
+Channel_server= "ddy6"
+Event= "8Sky Cinema Suspense Italy"
+
+Channel_Name= "869"
+Channel_server= "wind"
+Event= "Sky Sport 24 Italy"
+
+Channel_Name= "870"
+Channel_server= "wind"
+Event= "Sky Sport Calcio Italy"
+
+Channel_Name= "871"
+Channel_server= "zeko"
+Event= "Sky Calcio 1 (251) Italy"
+
+Channel_Name= "872"
+Channel_server= "wind"
+Event= "Sky Calcio 2 (252) Italy"
+
+Channel_Name= "873"
+Channel_server= "wind"
+Event= "Sky Calcio 3 (253) Italy"
+
+Channel_Name= "874"
+Channel_server= "wind"
+Event= "Sky Calcio 4 (254) Italy"
+
+Channel_Name= "875"
+Channel_server= "null"
+Event= "Sky Calcio 5 (255) Italy"
+
+Channel_Name= "876"
+Channel_server= "wind"
+Event= "Sky Calcio 6 (256) Italy"
+
+Channel_Name= "877"
+Channel_server= "nfs"
+Event= "Sky Calcio 7 (257) Italy"
+
+Channel_Name= "880"
+Channel_server= "wind"
+Event= "Sky Serie Italy"
+
+Channel_Name= "284"
+Channel_server= "nfs"
+Event= "StarzPlay CricLife 1 HD"
+
+Channel_Name= "283"
+Channel_server= "null"
+Event= "StarzPlay CricLife 2 HD"
+
+Channel_Name= "282"
+Channel_server= "ddy6"
+Event= "StarzPlay CricLife 3 HD"
+
+Channel_Name= "682"
+Channel_server= "wind"
+Event= "Sky Showcase UK"
+
+Channel_Name= "683"
+Channel_server= "wind"
+Event= "Sky Arts UK"
+
+Channel_Name= "684"
+Channel_server= "wind"
+Event= "Sky Comedy UK"
+
+Channel_Name= "685"
+Channel_server= "wind"
+Event= "Sky Crime"
+
+Channel_Name= "686"
+Channel_server= "wind"
+Event= "Sky History"
+
+Channel_Name= "614"
+Channel_server= "ddy6"
+Event= "SSC Sport 1"
+
+Channel_Name= "615"
+Channel_server= "null"
+Event= "SSC Sport 2"
+
+Channel_Name= "616"
+Channel_server= "null"
+Event= "SSC Sport 3"
+
+Channel_Name= "617"
+Channel_server= "null"
+Event= "SSC Sport 4"
+
+Channel_Name= "618"
+Channel_server= "null"
+Event= "SSC Sport 5"
+
+Channel_Name= "619"
+Channel_server= "null"
+Event= "SSC Sport Extra 1"
+
+Channel_Name= "620"
+Channel_server= "null"
+Event= "SSC Sport Extra 2"
+
+Channel_Name= "621"
+Channel_server= "null"
+Event= "SSC Sport Extra 3"
+
+Channel_Name= "140"
+Channel_server= "zeko"
+Event= "Sport 1 Israel"
+
+Channel_Name= "141"
+Channel_server= "zeko"
+Event= "Sport 2 Israel"
+
+Channel_Name= "142"
+Channel_server= "zeko"
+Event= "Sport 3 Israel"
+
+Channel_Name= "143"
+Channel_server= "zeko"
+Event= "Sport 4 Israel"
+
+Channel_Name= "144"
+Channel_server= "zeko"
+Event= "Sport 5 Israel"
+
+Channel_Name= "145"
+Channel_server= "zeko"
+Event= "Sport 5 PLUS Israel"
+
+Channel_Name= "146"
+Channel_server= "zeko"
+Event= "Sport 5 Live Israel"
+
+Channel_Name= "147"
+Channel_server= "zeko"
+Event= "Sport 5 Star Israel"
+
+Channel_Name= "148"
+Channel_server= "ddy6"
+Event= "Sport 5 Gold Israel"
+
+Channel_Name= "294"
+Channel_server= "zeko"
+Event= "Science Channel"
+
+Channel_Name= "333"
+Channel_server= "wind"
+Event= "Showtime USA"
+
+Channel_Name= "685"
+Channel_server= "wind"
+Event= "Showtime SHOxBET USA"
+
+Channel_Name= "335"
+Channel_server= "zeko"
+Event= "Starz"
+
+Channel_Name= "361"
+Channel_server= "ddy6"
+Event= "Sky Witness HD"
+
+Channel_Name= "732"
+Channel_server= "ddy6"
+Event= "Sixx DE"
+
+Channel_Name= "362"
+Channel_server= "ddy6"
+Event= "Sky Atlantic"
+
+Channel_Name= "373"
+Channel_server= "zeko"
+Event= "SYFY USA"
+
+Channel_Name= "658"
+Channel_server= "dokko1"
+Event= "Sundance TV"
+
+Channel_Name= "735"
+Channel_server= "ddy6"
+Event= "SWR DE"
+
+Channel_Name= "738"
+Channel_server= "ddy6"
+Event= "SUPER RTL DE"
+
+Channel_Name= "739"
+Channel_server= "ddy6"
+Event= "SR Fernsehen DE"
+
+Channel_Name= "603"
+Channel_server= "dokko1"
+Event= "Smithsonian Channel"
+
+Channel_Name= "31"
+Channel_server= "nfs"
+Event= "TNT Sports 1 UK"
+
+Channel_Name= "32"
+Channel_server= "nfs"
+Event= "TNT Sports 2 UK"
+
+Channel_Name= "33"
+Channel_server= "nfs"
+Event= "TNT Sports 3 UK"
+
+Channel_Name= "34"
+Channel_server= "nfs"
+Event= "TNT Sports 4 UK"
+
+Channel_Name= "111"
+Channel_server= "zeko"
+Event= "TSN1"
+
+Channel_Name= "112"
+Channel_server= "zeko"
+Event= "TSN2"
+
+Channel_Name= "113"
+Channel_server= "zeko"
+Event= "TSN3"
+
+Channel_Name= "114"
+Channel_server= "zeko"
+Event= "TSN4"
+
+Channel_Name= "115"
+Channel_server= "zeko"
+Event= "TSN5"
+
+Channel_Name= "565"
+Channel_server= "dokko1"
+Event= "TVN HD Poland"
+
+Channel_Name= "444"
+Channel_server= "dokko1"
+Event= "TVN24 Poland"
+
+Channel_Name= "560"
+Channel_server= "dokko1"
+Event= "TVP1 Poland"
+
+Channel_Name= "561"
+Channel_server= "dokko1"
+Event= "TVP2 Poland"
+
+Channel_Name= "532"
+Channel_server= "dokko1"
+Event= "Telecinco Spain"
+
+Channel_Name= "533"
+Channel_server= "dokko1"
+Event= "TVE La 1 Spain"
+
+Channel_Name= "536"
+Channel_server= "dokko1"
+Event= "TVE La 2 Spain"
+
+Channel_Name= "723"
+Channel_server= "ddy6"
+Event= "TVI Portugal"
+
+Channel_Name= "724"
+Channel_server= "ddy6"
+Event= "TVI Reality Portugal"
+
+Channel_Name= "529"
+Channel_server= "dokko1"
+Event= "Teledeporte Spain (TDP)"
+
+Channel_Name= "746"
+Channel_server= "ddy6"
+Event= "TYC Sports Argentina"
+
+Channel_Name= "128"
+Channel_server= "nfs"
+Event= "TVP Sport Poland"
+
+Channel_Name= "87"
+Channel_server= "wind"
+Event= "TNT Brasil"
+
+Channel_Name= "388"
+Channel_server= "ddy6"
+Event= "TNT Sports Argentina"
+
+Channel_Name= "642"
+Channel_server= "dokko1"
+Event= "TNT Sports HD Chile"
+
+Channel_Name= "40"
+Channel_server= "ddy6"
+Event= "Tennis Channel"
+
+Channel_Name= "741"
+Channel_server= "ddy6"
+Event= "Ten Sports PK"
+
+Channel_Name= "66"
+Channel_server= "wind"
+Event= "TUDN USA"
+
+Channel_Name= "131"
+Channel_server= "wind"
+Event= "Telemundo"
+
+Channel_Name= "336"
+Channel_server= "zeko"
+Event= "TBS USA"
+
+Channel_Name= "337"
+Channel_server= "wind"
+Event= "TLC"
+
+Channel_Name= "338"
+Channel_server= "zeko"
+Event= "TNT USA"
+
+Channel_Name= "833"
+Channel_server= "dokko1"
+Event= "TVA Sports"
+
+Channel_Name= "834"
+Channel_server= "dokko1"
+Event= "TVA Sports 2"
+
+Channel_Name= "340"
+Channel_server= "wind"
+Event= "Travel Channel"
+
+Channel_Name= "341"
+Channel_server= "dokko1"
+Event= "TruTV USA"
+
+Channel_Name= "342"
+Channel_server= "ddy6"
+Event= "TVLAND"
+
+Channel_Name= "644"
+Channel_server= "nfs"
+Event= "TCM USA"
+
+Channel_Name= "698"
+Channel_server= "dokko1"
+Event= "TMC Channel USA"
+
+Channel_Name= "384"
+Channel_server= "zeko"
+Event= "The Food Network"
+
+Channel_Name= "394"
+Channel_server= "zeko"
+Event= "The Weather Channel"
+
+Channel_Name= "452"
+Channel_server= "dokko1"
+Event= "TVP INFO"
+
+Channel_Name= "650"
+Channel_server= "dokko1"
+Event= "TeenNick"
+
+Channel_Name= "660"
+Channel_server= "dokko1"
+Event= "TV ONE USA"
+
+Channel_Name= "807"
+Channel_server= "dokko1"
+Event= "TV2 Bornholm Denmark"
+
+Channel_Name= "808"
+Channel_server= "dokko1"
+Event= "TV2 Sport X Denmark"
+
+Channel_Name= "809"
+Channel_server= "ddy6"
+Event= "TV3 Sport Denmark"
+
+Channel_Name= "810"
+Channel_server= "dokko1"
+Event= "TV2 Sport Denmark"
+
+Channel_Name= "817"
+Channel_server= "ddy6"
+Event= "TV2 Denmark"
+
+Channel_Name= "818"
+Channel_server= "ddy6"
+Event= "TV2 Zulu"
+
+Channel_Name= "819"
+Channel_server= "ddy6"
+Event= "TV3+ Denmark"
+
+Channel_Name= "842"
+Channel_server= "dokko1"
+Event= "TVO CA"
+
+Channel_Name= "700"
+Channel_server= "zeko"
+Event= "Tennis+ 1"
+
+Channel_Name= "701"
+Channel_server= "zeko"
+Event= "Tennis+ 2"
+
+Channel_Name= "702"
+Channel_server= "zeko"
+Event= "Tennis+ 3"
+
+Channel_Name= "703"
+Channel_server= "zeko"
+Event= "Tennis+ 4"
+
+Channel_Name= "704"
+Channel_server= "zeko"
+Event= "Tennis+ 5"
+
+Channel_Name= "705"
+Channel_server= "zeko"
+Event= "Tennis+ 6"
+
+Channel_Name= "706"
+Channel_server= "zeko"
+Event= "Tennis+ 7"
+
+Channel_Name= "707"
+Channel_server= "zeko"
+Event= "Tennis+ 8"
+
+Channel_Name= "708"
+Channel_server= "null"
+Event= "Tennis+ 9"
+
+Channel_Name= "709"
+Channel_server= "null"
+Event= "Tennis+ 10"
+
+Channel_Name= "710"
+Channel_server= "null"
+Event= "Tennis+ 11"
+
+Channel_Name= "711"
+Channel_server= "null"
+Event= "Tennis+ 12"
+
+Channel_Name= "712"
+Channel_server= "null"
+Event= "Tennis+ 13"
+
+Channel_Name= "713"
+Channel_server= "null"
+Event= "Tennis+ 14"
+
+Channel_Name= "714"
+Channel_server= "wiki"
+Event= "Tennis+ 15"
+
+Channel_Name= "343"
+Channel_server= "nfs"
+Event= "USA Network"
+
+Channel_Name= "668"
+Channel_server= "null"
+Event= "Universal Kids USA"
+
+Channel_Name= "132"
+Channel_server= "nfs"
+Event= "Univision"
+
+Channel_Name= "133"
+Channel_server= "nfs"
+Event= "Unimas"
+
+Channel_Name= "451"
+Channel_server= "wind"
+Event= "Viaplay Sports 1 UK"
+
+Channel_Name= "550"
+Channel_server= "wind"
+Event= "Viaplay Sports 2 UK"
+
+Channel_Name= "597"
+Channel_server= "zeko"
+Event= "Viaplay Xtra UK"
+
+Channel_Name= "521"
+Channel_server= "wind"
+Event= "#Vamos Spain"
+
+Channel_Name= "815"
+Channel_server= "null"
+Event= "V Film Premiere"
+
+Channel_Name= "816"
+Channel_server= "nfs"
+Event= "V Film Family"
+
+Channel_Name= "344"
+Channel_server= "zeko"
+Event= "VH1 USA"
+
+Channel_Name= "378"
+Channel_server= "zeko"
+Event= "Veronica NL Netherland"
+
+Channel_Name= "391"
+Channel_server= "nfs"
+Event= "VTV+ Uruguay"
+
+Channel_Name= "659"
+Channel_server= "dokko1"
+Event= "VICE TV"
+
+Channel_Name= "346"
+Channel_server= "zeko"
+Event= "Willow Cricket"
+
+Channel_Name= "598"
+Channel_server= "zeko"
+Event= "Willow XTRA"
+
+Channel_Name= "376"
+Channel_server= "null"
+Event= "WWE Network"
+
+Channel_Name= "392"
+Channel_server= "dokko1"
+Event= "Win Sports+ Columbia"
+
+Channel_Name= "655"
+Channel_server= "ddy6"
+Event= "WETV USA"
+
+Channel_Name= "734"
+Channel_server= "ddy6"
+Event= "WDR DE"
+
+Channel_Name= "763"
+Channel_server= "zeko"
+Event= "YES Network USA"
+
+Channel_Name= "543"
+Channel_server= "zeko"
+Event= "Yes Movies Action Israel"
+
+Channel_Name= "544"
+Channel_server= "null"
+Event= "Yes Movies Kids Israel"
+
+Channel_Name= "545"
+Channel_server= "null"
+Event= "Yes Movies Comedy Israel"
+
+Channel_Name= "609"
+Channel_server= "dokko1"
+Event= "Yas TV UAE"
+
+Channel_Name= "837"
+Channel_server= "dokko1"
+Event= "Yes TV CA"
+
+Channel_Name= "383"
+Channel_server= "zeko"
+Event= "Ziggo Sport Docu NL"
+
+Channel_Name= "393"
+Channel_server= "null"
+Event= "Ziggo Sport Select NL"
+
+Channel_Name= "396"
+Channel_server= "wind"
+Event= "Ziggo Sport Racing NL"
+
+Channel_Name= "398"
+Channel_server= "zeko"
+Event= "Ziggo Sport Voetbal NL"
+
+Channel_Name= "727"
+Channel_server= "ddy6"
+Event= "BBC 1 DE"
+
+Channel_Name= "728"
+Channel_server= "ddy6"
+Event= "ZDF Info DE"
+
+Channel_Name= "857"
+Channel_server= "wind"
+Event= "20 Mediaset Italy"
+
+Channel_Name= "800"
+Channel_server= "dokko1"
+Event= "6'eren Denmark"
+
+Channel_Name= "437"
+Channel_server= "zeko"
+Event= "#0 Spain"
+
+Channel_Name= "360"
+Channel_server= "wind"
+Event= "5 USA"
+
+Channel_Name= "726"
+Channel_server= "ddy6"
+Event= "3sat DE"
+
+Channel_Name= "501"
+Channel_server= "zeko"
+Event= "18+ (Player-01)"
+
+Channel_Name= "502"
+Channel_server= "zeko"
+Event= "18+ (Player-02)"
+
+Channel_Name= "503"
+Channel_server= "zeko"
+Event= "18+ (Player-03)"
+
+Channel_Name= "504"
+Channel_server= "zeko"
+Event= "18+ (Player-04)"
+
+Channel_Name= "505"
+Channel_server= "zeko"
+Event= "18+ (Player-05)"
+
+Channel_Name= "506"
+Channel_server= "zeko"
+Event= "18+ (Player-06)"
+
+Channel_Name= "507"
+Channel_server= "zeko"
+Event= "18+ (Player-07)"
+
+Channel_Name= "508"
+Channel_server= "zeko"
+Event= "18+ (Player-08)"
+
+Channel_Name= "509"
+Channel_server= "zeko"
+Event= "18+ (Player-09)"
+
+Channel_Name= "510"
+Channel_server= "zeko"
+Event= "18+ (Player-10)"
+
+Channel_Name= "511"
+Channel_server= "ddy6"
+Event= "18+ (Player-11)"
+
+Channel_Name= "512"
+Channel_server= "ddy6"
+Event= "18+ (Player-12)"
+
+Channel_Name= "513"
+Channel_server= "ddy6"
+Event= "18+ (Player-13)"
+
+Channel_Name= "514"
+Channel_server= "ddy6"
+Event= "18+ (Player-14)"
+
+Channel_Name= "515"
+Channel_server= "ddy6"
+Event= "18+ (Player-15)"
+
+Channel_Name= "516"
+Channel_server= "ddy6"
+Event= "18+ (Player-16)"
+
+Channel_Name= "517"
+Channel_server= "ddy6"
+Event= "18+ (Player-17)"
+
+Channel_Name= "518"
+Channel_server= "ddy6"
+Event= "18+ (Player-18)"
+
+Channel_Name= "519"
+Channel_server= "ddy6"
+Event= "18+ (Player-19)"
+
+Channel_Name= "520"
+Channel_server= "ddy6"
+Event= "18+ (Player-20)"
+
+Channel_Name= "51"
+Channel_server= "zeko"
+Event= "ABC USA"
+
+Channel_Name= "302"
+Channel_server= "zeko"
+Event= "A&E USA"
+
+Channel_Name= "303"
+Channel_server= "nfs"
+Event= "AMC USA"
+
+Channel_Name= "304"
+Channel_server= "nfs"
+Event= "Animal Planet"
+
+Channel_Name= "666"
+Channel_server= "null"
+Event= "ACC Network USA"
+
+Channel_Name= "123"
+Channel_server= "zeko"
+Event= "Astro SuperSport 1"
+
+Channel_Name= "124"
+Channel_server= "wind"
+Event= "Astro SuperSport 2"
+
+Channel_Name= "125"
+Channel_server= "zeko"
+Event= "Astro SuperSport 3"
+
+Channel_Name= "126"
+Channel_server= "zeko"
+Event= "Astro SuperSport 4"
+
+Channel_Name= "134"
+Channel_server= "wind"
+Event= "Arena Sport 1 Premium"
+
+Channel_Name= "135"
+Channel_server= "ddy6"
+Event= "Arena Sport 2 Premium"
+
+Channel_Name= "139"
+Channel_server= "ddy6"
+Event= "Arena Sport 3 Premium"
+
+Channel_Name= "429"
+Channel_server= "wind"
+Event= "Arena Sport 1 Serbia"
+
+Channel_Name= "430"
+Channel_server= "zeko"
+Event= "Arena Sport 2 Serbia"
+
+Channel_Name= "431"
+Channel_server= "wind"
+Event= "Arena Sport 3 Serbia"
+
+Channel_Name= "581"
+Channel_server= "wind"
+Event= "Arena Sport 4 Serbia"
+
+Channel_Name= "432"
+Channel_server= "ddy6"
+Event= "Arena Sport 1 Croatia"
+
+Channel_Name= "433"
+Channel_server= "zeko"
+Event= "Arena Sport 2 Croatia"
+
+Channel_Name= "434"
+Channel_server= "ddy6"
+Event= "Arena Sport 3 Croatia"
+
+Channel_Name= "580"
+Channel_server= "wind"
+Event= "Arena Sport 4 Croatia"
+
+Channel_Name= "781"
+Channel_server= "dokko1"
+Event= "Alkass One"
+
+Channel_Name= "782"
+Channel_server= "dokko1"
+Event= "Alkass Two"
+
+Channel_Name= "783"
+Channel_server= "dokko1"
+Event= "Alkass Three"
+
+Channel_Name= "784"
+Channel_server= "dokko1"
+Event= "Alkass Four"
+
+Channel_Name= "785"
+Channel_server= "dokko1"
+Event= "ABS-CBN"
+
+Channel_Name= "579"
+Channel_server= "wind"
+Event= "Arena Sport 1 BiH"
+
+Channel_Name= "600"
+Channel_server= "wind"
+Event= "Abu Dhabi Sports 1 UAE"
+
+Channel_Name= "601"
+Channel_server= "dokko1"
+Event= "Abu Dhabi Sports 2 UAE"
+
+Channel_Name= "609"
+Channel_server= "dokko1"
+Event= "Abu Dhabi Sports 1 Premium"
+
+Channel_Name= "610"
+Channel_server= "dokko1"
+Event= "Abu Dhabi Sports 2 Premium"
+
+Channel_Name= "370"
+Channel_server= "zeko"
+Event= "Astro Cricket"
+
+Channel_Name= "531"
+Channel_server= "dokko1"
+Event= "Antena 3 Spain"
+
+Channel_Name= "664"
+Channel_server= "dokko1"
+Event= "ACC Network USA"
+
+Channel_Name= "295"
+Channel_server= "ddy6"
+Event= "Adult Swim"
+
+Channel_Name= "717"
+Channel_server= "ddy6"
+Event= "AXN Movies Portugal"
+
+Channel_Name= "725"
+Channel_server= "ddy6"
+Event= "Arte DE"
+
+Channel_Name= "742"
+Channel_server= "nfs"
+Event= "AXS TV USA"
+
+Channel_Name= "766"
+Channel_server= "zeko"
+Event= "ABCNY USA"
+
+Channel_Name= "923"
+Channel_server= "nfs"
+Event= "Altitude Sports"
+
+Channel_Name= "844"
+Channel_server= "wind"
+Event= "Azteca 7 MX"
+
+Channel_Name= "269"
+Channel_server= "ddy6"
+Event= "A Sport PK"
+
+Channel_Name= "61"
+Channel_server= "wind"
+Event= "beIN Sports MENA English 1"
+
+Channel_Name= "90"
+Channel_server= "zeko"
+Event= "beIN Sports MENA English 2"
+
+Channel_Name= "46"
+Channel_server= "wind"
+Event= "beIN Sports MENA English 3"
+
+Channel_Name= "91"
+Channel_server= "dokko1"
+Event= "beIN Sports MENA 1"
+
+Channel_Name= "92"
+Channel_server= "dokko1"
+Event= "beIN Sports MENA 2"
+
+Channel_Name= "93"
+Channel_server= "dokko1"
+Event= "beIN Sports MENA 3"
+
+Channel_Name= "94"
+Channel_server= "dokko1"
+Event= "beIN Sports MENA 4"
+
+Channel_Name= "95"
+Channel_server= "dokko1"
+Event= "beIN Sports MENA 5"
+
+Channel_Name= "96"
+Channel_server= "dokko1"
+Event= "beIN Sports MENA 6"
+
+Channel_Name= "97"
+Channel_server= "dokko1"
+Event= "beIN Sports MENA 7"
+
+Channel_Name= "98"
+Channel_server= "ddy6"
+Event= "beIN Sports MENA 8"
+
+Channel_Name= "99"
+Channel_server= "ddy6"
+Event= "beIN Sports MENA 9"
+
+Channel_Name= "100"
+Channel_server= "ddy6"
+Event= "beIN SPORTS XTRA 1"
+
+Channel_Name= "43"
+Channel_server= "wind"
+Event= "beIN SPORTS XTRA 2"
+
+Channel_Name= "494"
+Channel_server= "ddy6"
+Event= "beIN Sports MAX 4 France"
+
+Channel_Name= "495"
+Channel_server= "ddy6"
+Event= "beIN Sports MAX 5 France"
+
+Channel_Name= "496"
+Channel_server= "ddy6"
+Event= "beIN Sports MAX 6 France"
+
+Channel_Name= "497"
+Channel_server= "ddy6"
+Event= "beIN Sports MAX 7 France"
+
+Channel_Name= "498"
+Channel_server= "ddy6"
+Event= "beIN Sports MAX 8 France"
+
+Channel_Name= "499"
+Channel_server= "ddy6"
+Event= "beIN Sports MAX 9 France"
+
+Channel_Name= "500"
+Channel_server= "ddy6"
+Event= "beIN Sports MAX 10 France"
+
+Channel_Name= "116"
+Channel_server= "zeko"
+Event= "beIN SPORTS 1 France"
+
+Channel_Name= "117"
+Channel_server= "zeko"
+Event= "beIN SPORTS 2 France"
+
+Channel_Name= "118"
+Channel_server= "zeko"
+Event= "beIN SPORTS 3 France"
+
+Channel_Name= "62"
+Channel_server= "zeko"
+Event= "beIN SPORTS 1 Turkey"
+
+Channel_Name= "63"
+Channel_server= "zeko"
+Event= "beIN SPORTS 2 Turkey"
+
+Channel_Name= "64"
+Channel_server= "zeko"
+Event= "beIN SPORTS 3 Turkey"
+
+Channel_Name= "67"
+Channel_server= "zeko"
+Event= "beIN SPORTS 4 Turkey"
+
+Channel_Name= "578"
+Channel_server= "wind"
+Event= "BeIN Sports HD Qatar"
+
+Channel_Name= "425"
+Channel_server= "zeko"
+Event= "BeIN SPORTS USA"
+
+Channel_Name= "372"
+Channel_server= "zeko"
+Event= "beIN SPORTS en Español"
+
+Channel_Name= "491"
+Channel_server= "ddy6"
+Event= "beIN SPORTS Australia 1"
+
+Channel_Name= "492"
+Channel_server= "ddy6"
+Event= "beIN SPORTS Australia 2"
+
+Channel_Name= "493"
+Channel_server= "ddy6"
+Event= "beIN SPORTS Australia 3"
+
+Channel_Name= "522"
+Channel_server= "wind"
+Event= "Barca TV Spain"
+
+Channel_Name= "380"
+Channel_server= "dokko1"
+Event= "Benfica TV PT"
+
+Channel_Name= "890"
+Channel_server= "null"
+Event= "Bally Sports Arizona"
+
+Channel_Name= "891"
+Channel_server= "null"
+Event= "Bally Sports Detroit"
+
+Channel_Name= "892"
+Channel_server= "null"
+Event= "Bally Sports Florida"
+
+Channel_Name= "893"
+Channel_server= "null"
+Event= "Bally Sports Great Lakes"
+
+Channel_Name= "894"
+Channel_server= "null"
+Event= "Bally Sports Indiana"
+
+Channel_Name= "895"
+Channel_server= "zeko"
+Event= "Bally Sports Kansas City"
+
+Channel_Name= "896"
+Channel_server= "null"
+Event= "Bally Sports Midwest"
+
+Channel_Name= "897"
+Channel_server= "zeko"
+Event= "Bally Sports New Orleans"
+
+Channel_Name= "898"
+Channel_server= "null"
+Event= "Bally Sports North"
+
+Channel_Name= "899"
+Channel_server= "null"
+Event= "Bally Sports Ohio"
+
+Channel_Name= "900"
+Channel_server= "null"
+Event= "Bally Sports Oklahoma"
+
+Channel_Name= "901"
+Channel_server= "null"
+Event= "Bally Sports San Diego"
+
+Channel_Name= "902"
+Channel_server= "nfs"
+Event= "Bally Sports SoCal"
+
+Channel_Name= "903"
+Channel_server= "null"
+Event= "Bally Sports South"
+
+Channel_Name= "904"
+Channel_server= "null"
+Event= "Bally Sports Southeast"
+
+Channel_Name= "905"
+Channel_server= "zeko"
+Event= "Bally Sports Sun"
+
+Channel_Name= "906"
+Channel_server= "null"
+Event= "Bally Sports West"
+
+Channel_Name= "907"
+Channel_server= "null"
+Event= "Bally Sports Wisconsin"
+
+Channel_Name= "648"
+Channel_server= "dokko1"
+Event= "Boomerang"
+
+Channel_Name= "476"
+Channel_server= "wind"
+Event= "BNT 1 Bulgaria"
+
+Channel_Name= "477"
+Channel_server= "wind"
+Event= "BNT 2 Bulgaria"
+
+Channel_Name= "478"
+Channel_server= "wind"
+Event= "BNT 3 Bulgaria"
+
+Channel_Name= "737"
+Channel_server= "ddy6"
+Event= "BR Fernsehen DE"
+
+Channel_Name= "479"
+Channel_server= "wind"
+Event= "bTV Bulgaria"
+
+Channel_Name= "481"
+Channel_server= "wind"
+Event= "bTV Action Bulgaria"
+
+Channel_Name= "484"
+Channel_server= "wind"
+Event= "bTV Lady Bulgaria"
+
+Channel_Name= "305"
+Channel_server= "null"
+Event= "BBC America (BBCA)"
+
+Channel_Name= "306"
+Channel_server= "zeko"
+Event= "BET USA"
+
+Channel_Name= "307"
+Channel_server= "nfs"
+Event= "Bravo USA"
+
+Channel_Name= "349"
+Channel_server= "dokko1"
+Event= "BBC News Channel HD"
+
+Channel_Name= "356"
+Channel_server= "ddy6"
+Event= "BBC One UK"
+
+Channel_Name= "357"
+Channel_server= "dokko1"
+Event= "BBC Two UK"
+
+Channel_Name= "358"
+Channel_server= "ddy6"
+Event= "BBC Three UK"
+
+Channel_Name= "359"
+Channel_server= "dokko1"
+Event= "BBC Four UK"
+
+Channel_Name= "397"
+Channel_server= "wind"
+Event= "BIG TEN Network (BTN USA)"
+
+Channel_Name= "275"
+Channel_server= "wind"
+Event= "Bandsports Brasil"
+
+Channel_Name= "535"
+Channel_server= "dokko1"
+Event= "Cuatro Spain"
+
+Channel_Name= "354"
+Channel_server= "wind"
+Event= "Channel 4 UK"
+
+Channel_Name= "355"
+Channel_server= "zeko"
+Event= "Channel 5 UK"
+
+Channel_Name= "308"
+Channel_server= "zeko"
+Event= "CBS Sports Network (CBSSN)"
+
+Channel_Name= "121"
+Channel_server= "wind"
+Event= "Canal+ France"
+
+Channel_Name= "122"
+Channel_server= "wind"
+Event= "Canal+ Sport France"
+
+Channel_Name= "463"
+Channel_server= "wind"
+Event= "Canal+ Foot France"
+
+Channel_Name= "464"
+Channel_server= "wind"
+Event= "Canal+ Sport360"
+
+Channel_Name= "271"
+Channel_server= "zeko"
+Event= "CANAL+ MotoGP France"
+
+Channel_Name= "273"
+Channel_server= "zeko"
+Event= "Canal+ Formula 1"
+
+Channel_Name= "540"
+Channel_server= "ddy6"
+Event= "Canal 11 Portugal"
+
+Channel_Name= "48"
+Channel_server= "nfs"
+Event= "Canal+ Sport Poland"
+
+Channel_Name= "73"
+Channel_server= "ddy6"
+Event= "Canal+ Sport 2 Poland"
+
+Channel_Name= "75"
+Channel_server= "wind"
+Event= "CANAL+ SPORT 5 Poland"
+
+Channel_Name= "566"
+Channel_server= "dokko1"
+Event= "Canal+ Premium Poland"
+
+Channel_Name= "567"
+Channel_server= "dokko1"
+Event= "Canal+ Family Poland"
+
+Channel_Name= "570"
+Channel_server= "wind"
+Event= "Canal+ Seriale Poland"
+
+Channel_Name= "486"
+Channel_server= "ddy6"
+Event= "Canal+ Sport 1 Afrique"
+
+Channel_Name= "487"
+Channel_server= "ddy6"
+Event= "Canal+ Sport 2 Afrique"
+
+Channel_Name= "488"
+Channel_server= "ddy6"
+Event= "Canal+ Sport 3 Afrique"
+
+Channel_Name= "489"
+Channel_server= "ddy6"
+Event= "Canal+ Sport 4 Afrique"
+
+Channel_Name= "490"
+Channel_server= "ddy6"
+Event= "Canal+ Sport 5 Afrique"
+
+Channel_Name= "805"
+Channel_server= "dokko1"
+Event= "CANAL9 Denmark"
+
+Channel_Name= "89"
+Channel_server= "wind"
+Event= "Combate Brasil"
+
+Channel_Name= "747"
+Channel_server= "nfs"
+Event= "C More Football Sweden"
+
+Channel_Name= "622"
+Channel_server= "dokko1"
+Event= "Cosmote Sport 1 HD"
+
+Channel_Name= "623"
+Channel_server= "dokko1"
+Event= "Cosmote Sport 2 HD"
+
+Channel_Name= "624"
+Channel_server= "dokko1"
+Event= "Cosmote Sport 3 HD"
+
+Channel_Name= "625"
+Channel_server= "dokko1"
+Event= "Cosmote Sport 4 HD"
+
+Channel_Name= "626"
+Channel_server= "dokko1"
+Event= "Cosmote Sport 5 HD"
+
+Channel_Name= "627"
+Channel_server= "dokko1"
+Event= "Cosmote Sport 6 HD"
+
+Channel_Name= "628"
+Channel_server= "dokko1"
+Event= "Cosmote Sport 7 HD"
+
+Channel_Name= "629"
+Channel_server= "dokko1"
+Event= "Cosmote Sport 8 HD"
+
+Channel_Name= "630"
+Channel_server= "dokko1"
+Event= "Cosmote Sport 9 HD"
+
+Channel_Name= "546"
+Channel_server= "null"
+Event= "Channel 9 Israel"
+
+Channel_Name= "547"
+Channel_server= "null"
+Event= "Channel 10 Israe"
+
+Channel_Name= "548"
+Channel_server= "zeko"
+Event= "Channel 11 Israel"
+
+Channel_Name= "549"
+Channel_server= "zeko"
+Event= "Channel 12 Israel"
+
+Channel_Name= "551"
+Channel_server= "zeko"
+Event= "Channel 13 Israel"
+
+Channel_Name= "552"
+Channel_server= "zeko"
+Event= "Channel 14 Israel"
+
+Channel_Name= "8111"
+Channel_server= "null"
+Event= "C More Stars Sweden"
+
+Channel_Name= "812"
+Channel_server= "null"
+Event= "C More First Sweden"
+
+Channel_Name= "813"
+Channel_server= "null"
+Event= "C More Hits Sweden"
+
+Channel_Name= "814"
+Channel_server= "nfs"
+Event= "C More Series Sweden"
+
+Channel_Name= "748"
+Channel_server= "ddy6"
+Event= "COZI TV USA"
+
+Channel_Name= "647"
+Channel_server= "dokko1"
+Event= "CMT USA"
+
+Channel_Name= "52"
+Channel_server= "nfs"
+Event= "CBS USA"
+
+Channel_Name= "300"
+Channel_server= "zeko"
+Event= "CW USA"
+
+Channel_Name= "280"
+Channel_server= "nfs"
+Event= "CW PIX 11 USA"
+
+Channel_Name= "309"
+Channel_server= "zeko"
+Event= "CNBC USA"
+
+Channel_Name= "310"
+Channel_server= "zeko"
+Event= "Comedy Central"
+
+Channel_Name= "339"
+Channel_server= "nfs"
+Event= "Cartoon Network"
+
+Channel_Name= "345"
+Channel_server= "nfs"
+Event= "CNN USA"
+
+Channel_Name= "374"
+Channel_server= "zeko"
+Event= "Cinemax USA"
+
+Channel_Name= "602"
+Channel_server= "zeko"
+Event= "CTV Canada"
+
+Channel_Name= "838"
+Channel_server= "nfs"
+Event= "CTV 2 Canada"
+
+Channel_Name= "669"
+Channel_server= "dokko1"
+Event= "Crime+ Investigation USA"
+
+Channel_Name= "696"
+Channel_server= "nfs"
+Event= "Comet USA"
+
+Channel_Name= "697"
+Channel_server= "dokko1"
+Event= "Cooking Channel USA"
+
+Channel_Name= "715"
+Channel_server= "wind"
+Event= "Cleo TV"
+
+Channel_Name= "750"
+Channel_server= "wind"
+Event= "C SPAN 1"
+
+Channel_Name= "767"
+Channel_server= "zeko"
+Event= "CBSNY USA"
+
+Channel_Name= "831"
+Channel_server= "nfs"
+Event= "Citytv"
+
+Channel_Name= "832"
+Channel_server= "dokko1"
+Event= "CBC CA"
+
+Channel_Name= "910"
+Channel_server= "zeko"
+Event= "CBS Sports Golazo"
+
+Channel_Name= "790"
+Channel_server= "nfs"
+Event= "CMTV Portugal"
+
+Channel_Name= "911"
+Channel_server= "wind"
+Event= "Cytavision Sports 1 Cyprus"
+
+Channel_Name= "912"
+Channel_server= "wind"
+Event= "Cytavision Sports 2 Cyprus"
+
+Channel_Name= "913"
+Channel_server= "wind"
+Event= "Cytavision Sports 3 Cyprus"
+
+Channel_Name= "914"
+Channel_server= "wind"
+Event= "Cytavision Sports 4 Cyprus"
+
+Channel_Name= "915"
+Channel_server= "wind"
+Event= "Cytavision Sports 5 Cyprus"
+
+Channel_Name= "916"
+Channel_server= "wind"
+Event= "Cytavision Sports 6 Cyprus"
+
+Channel_Name= "917"
+Channel_server= "wind"
+Event= "Cytavision Sports 7 Cyprus"
+
+Channel_Name= "281"
+Channel_server= "ddy6"
+Event= "Court TV USA"
+
+Channel_Name= "426"
+Channel_server= "ddy6"
+Event= "DAZN 1 Bar DE"
+
+Channel_Name= "427"
+Channel_server= "ddy6"
+Event= "DAZN 2 Bar DE"
+
+Channel_Name= "445"
+Channel_server= "wind"
+Event= "DAZN 1 Spain"
+
+Channel_Name= "446"
+Channel_server= "zeko"
+Event= "DAZN 2 Spain"
+
+Channel_Name= "447"
+Channel_server= "zeko"
+Event= "DAZN 3 Spain"
+
+Channel_Name= "448"
+Channel_server= "zeko"
+Event= "DAZN 4 Spain"
+
+Channel_Name= "537"
+Channel_server= "dokko1"
+Event= "DAZN F1 ES"
+
+Channel_Name= "230"
+Channel_server= "wind"
+Event= "DAZN 1 UK"
+
+Channel_Name= "538"
+Channel_server= "dokko1"
+Event= "DAZN LaLiga"
+
+Channel_Name= "43"
+Channel_server= "wind"
+Event= "DAZN LaLiga 2"
+
+Channel_Name= "801"
+Channel_server= "dokko1"
+Event= "DR1 Denmark"
+
+Channel_Name= "802"
+Channel_server= "dokko1"
+Event= "DR2 Denmark"
+
+Channel_Name= "400"
+Channel_server= "nfs"
+Event= "Digi Sport 1 Romania"
+
+Channel_Name= "401"
+Channel_server= "nfs"
+Event= "Digi Sport 2 Romania"
+
+Channel_Name= "402"
+Channel_server= "nfs"
+Event= "Digi Sport 3 Romania"
+
+Channel_Name= "403"
+Channel_server= "nfs"
+Event= "Digi Sport 4 Romania"
+
+Channel_Name= "465"
+Channel_server= "wind"
+Event= "Diema Sport Bulgaria"
+
+Channel_Name= "466"
+Channel_server= "wind"
+Event= "Diema Sport 2 Bulgaria"
+
+Channel_Name= "467"
+Channel_server= "wind"
+Event= "Diema Sport 3 Bulgaria"
+
+Channel_Name= "482"
+Channel_server= "ddy6"
+Event= "Diema Bulgaria"
+
+Channel_Name= "485"
+Channel_server= "wind"
+Event= "Diema Family Bulgaria"
+
+Channel_Name= "604"
+Channel_server= "dokko1"
+Event= "Dubai Sports 1 UAE"
+
+Channel_Name= "605"
+Channel_server= "dokko1"
+Event= "Dubai Sports 2 UAE"
+
+Channel_Name= "606"
+Channel_server= "dokko1"
+Event= "Dubai Sports 3 UAE"
+
+Channel_Name= "607"
+Channel_server= "dokko1"
+Event= "Dubai Racing 1 UAE"
+
+Channel_Name= "608"
+Channel_server= "dokko1"
+Event= "Dubai Racing 2 UAE"
+
+Channel_Name= "786"
+Channel_server= "null"
+Event= "DSTV Mzansi Magic"
+
+Channel_Name= "827"
+Channel_server= "null"
+Event= "DSTV M-Net"
+
+Channel_Name= "828"
+Channel_server= "null"
+Event= "DSTV kykNET & kie"
+
+Channel_Name= "311"
+Channel_server= "zeko"
+Event= "Discovery Life Channel"
+
+Channel_Name= "312"
+Channel_server= "zeko"
+Event= "Disney Channel"
+
+Channel_Name= "313"
+Channel_server= "zeko"
+Event= "Discovery Channel"
+
+Channel_Name= "657"
+Channel_server= "dokko1"
+Event= "Discovery Family"
+
+Channel_Name= "314"
+Channel_server= "zeko"
+Event= "Disney XD"
+
+Channel_Name= "285"
+Channel_server= "ddy6"
+Event= "Discovery Velocity CA"
+
+Channel_Name= "651"
+Channel_server= "dokko1"
+Event= "Destination America"
+
+Channel_Name= "652"
+Channel_server= "nfs"
+Event= "Disney JR"
+
+Channel_Name= "348"
+Channel_server= "dokko1"
+Event= "Dave"
+
+Channel_Name= "44"
+Channel_server= "zeko"
+Event= "ESPN USA"
+
+Channel_Name= "45"
+Channel_server= "wind"
+Event= "ESPN2 USA"
+
+Channel_Name= "316"
+Channel_server= "zeko"
+Event= "ESPNU USA"
+
+Channel_Name= "379"
+Channel_server= "zeko"
+Event= "ESPN 1 NL"
+
+Channel_Name= "386"
+Channel_server= "zeko"
+Event= "ESPN 2 NL"
+
+Channel_Name= "71"
+Channel_server= "wind"
+Event= "Eleven Sports 1 Poland"
+
+Channel_Name= "72"
+Channel_server= "wind"
+Event= "Eleven Sports 2 Poland"
+
+Channel_Name= "428"
+Channel_server= "ddy6"
+Event= "Eleven Sports 3 Poland"
+
+Channel_Name= "455"
+Channel_server= "ddy6"
+Event= "Eleven Sports 1 Portugal"
+
+Channel_Name= "456"
+Channel_server= "wind"
+Event= "Eleven Sports 2 Portugal"
+
+Channel_Name= "457"
+Channel_server= "wind"
+Event= "Eleven Sports 3 Portugal"
+
+Channel_Name= "458"
+Channel_server= "wind"
+Event= "Eleven Sports 4 Portugal"
+
+Channel_Name= "459"
+Channel_server= "wind"
+Event= "Eleven Sports 5 Portugal"
+
+Channel_Name= "41"
+Channel_server= "wind"
+Event= "EuroSport 1 UK"
+
+Channel_Name= "42"
+Channel_server= "wind"
+Event= "EuroSport 2 UK"
+
+Channel_Name= "57"
+Channel_server= "wind"
+Event= "EuroSport 1 Poland"
+
+Channel_Name= "58"
+Channel_server= "wind"
+Event= "EuroSport 2 Poland"
+
+Channel_Name= "774"
+Channel_server= "ddy6"
+Event= "ERT 1 Greece"
+
+Channel_Name= "524"
+Channel_server= "zeko"
+Event= "EuroSport 1 Spain"
+
+Channel_Name= "525"
+Channel_server= "ddy6"
+Event= "EuroSport 2 Spain"
+
+Channel_Name= "878"
+Channel_server= "wind"
+Event= "EuroSport 1 Italy"
+
+Channel_Name= "879"
+Channel_server= "wind"
+Event= "EuroSport 2 Italy"
+
+Channel_Name= "469"
+Channel_server= "null"
+Event= "Eurosport 1 Bulgaria"
+
+Channel_Name= "470"
+Channel_server= "wind"
+Event= "Eurosport 2 Bulgaria"
+
+Channel_Name= "772"
+Channel_server= "ddy6"
+Event= "Eurosport 1 France"
+
+Channel_Name= "773"
+Channel_server= "ddy6"
+Event= "Eurosport 2 France"
+
+Channel_Name= "387"
+Channel_server= "wind"
+Event= "ESPN Premium Argentina"
+
+Channel_Name= "798"
+Channel_server= "dokko1"
+Event= "ESPN Extra Argentina"
+
+Channel_Name= "81"
+Channel_server= "zeko"
+Event= "ESPN Brasil"
+
+Channel_Name= "82"
+Channel_server= "wind"
+Event= "ESPN2 Brasil"
+
+Channel_Name= "83"
+Channel_server= "ddy6"
+Event= "ESPN3 Brasil"
+
+Channel_Name= "85"
+Channel_server= "ddy6"
+Event= "ESPN4 Brasil"
+
+Channel_Name= "149"
+Channel_server= "ddy6"
+Event= "ESPN SUR"
+
+Channel_Name= "150"
+Channel_server= "wind"
+Event= "ESPN2 SUR"
+
+Channel_Name= "375"
+Channel_server= "zeko"
+Event= "ESPN Deportes"
+
+Channel_Name= "288"
+Channel_server= "nfs"
+Event= "ESPNews"
+
+Channel_Name= "315"
+Channel_server= "zeko"
+Event= "E! Entertainment Television"
+
+Channel_Name= "363"
+Channel_server= "ddy6"
+Event= "E4 Channel"
+
+Channel_Name= "39"
+Channel_server= "zeko"
+Event= "Fox Sports 1 USA"
+
+Channel_Name= "758"
+Channel_server= "zeko"
+Event= "Fox Sports 2 USA"
+
+Channel_Name= "756"
+Channel_server= "ddy6"
+Event= "FOX Soccer Plus"
+
+Channel_Name= "369"
+Channel_server= "ddy6"
+Event= "Fox Cricket"
+
+Channel_Name= "643"
+Channel_server= "dokko1"
+Event= "FOX Deportes USA"
+
+Channel_Name= "820"
+Channel_server= "zeko"
+Event= "FOX Sports 502 AU"
+
+Channel_Name= "821"
+Channel_server= "zeko"
+Event= "FOX Sports 503 AU"
+
+Channel_Name= "822"
+Channel_server= "zeko"
+Event= "FOX Sports 504 AU"
+
+Channel_Name= "823"
+Channel_server= "wind"
+Event= "FOX Sports 505 AU"
+
+Channel_Name= "824"
+Channel_server= "wind"
+Event= "FOX Sports 506 AU"
+
+Channel_Name= "825"
+Channel_server= "wind"
+Event= "FOX Sports 507 AU"
+
+Channel_Name= "767"
+Channel_server= "zeko"
+Event= "Fox Sports Argentina"
+
+Channel_Name= "788"
+Channel_server= "wind"
+Event= "Fox Sports 2 Argentina"
+
+Channel_Name= "789"
+Channel_server= "nfs"
+Event= "Fox Sports 3 Argentina"
+
+Channel_Name= "830"
+Channel_server= "ddy6"
+Event= "Fox Sports Premium MX"
+
+Channel_Name= "568"
+Channel_server= "dokko1"
+Event= "FilmBox Premium Poland"
+
+Channel_Name= "757"
+Channel_server= "zeko"
+Event= "Fight Network"
+
+Channel_Name= "297"
+Channel_server= "ddy6"
+Event= "Fox Business"
+
+Channel_Name= "483"
+Channel_server= "wind"
+Event= "FOX HD Bulgaria"
+
+Channel_Name= "54"
+Channel_server= "zeko"
+Event= "FOX USA"
+
+Channel_Name= "317"
+Channel_server= "zeko"
+Event= "FX USA"
+
+Channel_Name= "298"
+Channel_server= "ddy6"
+Event= "FXX USA"
+
+Channel_Name= "301"
+Channel_server= "zeko"
+Event= "Freeform"
+
+Channel_Name= "347"
+Channel_server= "zeko"
+Event= "Fox News"
+
+Channel_Name= "381"
+Channel_server= "zeko"
+Event= "FX Movie Channel"
+
+Channel_Name= "665"
+Channel_server= "null"
+Event= "FYI"
+
+Channel_Name= "688"
+Channel_server= "wind"
+Event= "Film4 UK"
+
+Channel_Name= "744"
+Channel_server= "ddy6"
+Event= "Fashion TV"
+
+Channel_Name= "751"
+Channel_server= "dokko1"
+Event= "FETV - Family Entertainment Television"
+
+Channel_Name= "768"
+Channel_server= "zeko"
+Event= "FOXNY USA"
+
+Channel_Name= "775"
+Channel_server= "zeko"
+Event= "Fox Weather Channel"
+
+Channel_Name= "279"
+Channel_server= "nfs"
+Event= "FUSE TV USA"
+
+Channel_Name= "530"
+Channel_server= "dokko1"
+Event= "GOL PLAY Spain"
+
+Channel_Name= "318"
+Channel_server= "zeko"
+Event= "GOLF Channel USA"
+
+Channel_Name= "319"
+Channel_server= "nfs"
+Event= "Game Show Network"
+
+Channel_Name= "292"
+Channel_server= "nfs"
+Event= "Gol Mundial 1"
+
+Channel_Name= "687"
+Channel_server= "ddy6"
+Event= "Gold UK"
+
+Channel_Name= "743"
+Channel_server= "nfs"
+Event= "Galavisión USA"
+
+Channel_Name= "699"
+Channel_server= "zeko"
+Event= "CBC CA"
+
+Channel_Name= "752"
+Channel_server= "dokko1"
+Event= "Grit Channel"
+
+Channel_Name= "760"
+Channel_server= "zeko"
+Event= "Globo SP"
+
+Channel_Name= "761"
+Channel_server= "zeko"
+Event= "Globo RIO"
+
+Channel_Name= "836"
+Channel_server= "dokko1"
+Event= "Global CA"
+
+Channel_Name= "320"
+Channel_server= "zeko"
+Event= "The Hallmark Channel"
+
+Channel_Name= "296"
+Channel_server= "ddy6"
+Event= "Hallmark Movies & Mysterie"
+
+Channel_Name= "321"
+Channel_server= "zeko"
+Event= "HBO USA"
+
+Channel_Name= "689"
+Channel_server= "nfs"
+Event= "HBO2 USA"
+
+Channel_Name= "690"
+Channel_server= "nfs"
+Event= "HBO Comedy USA"
+
+Channel_Name= "691"
+Channel_server= "nfs"
+Event= "HBO Family USA"
+
+Channel_Name= "692"
+Channel_server= "nfs"
+Event= "HBO Latino USA"
+
+Channel_Name= "693"
+Channel_server= "nfs"
+Event= "HBO Signature USA"
+
+Channel_Name= "694"
+Channel_server= "nfs"
+Event= "HBO Zone USA"
+
+Channel_Name= "569"
+Channel_server= "wind"
+Event= "HBO Poland"
+
+Channel_Name= "322"
+Channel_server= "nfs"
+Event= "History USA"
+
+Channel_Name= "323"
+Channel_server= "ddy6"
+Event= "Headline News"
+
+Channel_Name= "382"
+Channel_server= "zeko"
+Event= "HGTV"
+
+Channel_Name= "553"
+Channel_server= "ddy6"
+Event= "HOT3 Israel"
+
+Channel_Name= "740"
+Channel_server= "ddy6"
+Event= "HR Fernsehen DE"
+
+Channel_Name= "350"
+Channel_server= "dokko1"
+Event= "ITV 1 UK"
+
+Channel_Name= "351"
+Channel_server= "zeko"
+Event= "ITV 2 UK"
+
+Channel_Name= "352"
+Channel_server= "zeko"
+Event= "ITV 3 UK"
+
+Channel_Name= "353"
+Channel_server= "ddy6"
+Event= "ITV 4 UK"
+
+Channel_Name= "854"
+Channel_server= "wind"
+Event= "Italia 1 Italy"
+
+Channel_Name= "324"
+Channel_server= "wind"
+Event= "Investigation Discovery (ID USA)"
+
+Channel_Name= "325"
+Channel_server= "wind"
+Event= "ION USA"
+
+Channel_Name= "656"
+Channel_server= "nfs"
+Event= "IFC TV USA"
+
+Channel_Name= "803"
+Channel_server= "dokko1"
+Event= "Kanal 4 Denmark"
+
+Channel_Name= "804"
+Channel_server= "dokko1"
+Event= "Kanal 5 Denmark"
+
+Channel_Name= "731"
+Channel_server= "null"
+Event= "Kabel Eins (Kabel 1) DE"
+
+Channel_Name= "276"
+Channel_server= "wind"
+Event= "LaLigaTV UK"
+
+Channel_Name= "539"
+Channel_server= "dokko1"
+Event= "LALIGA TV Hypermotion"
+
+Channel_Name= "645"
+Channel_server= "dokko1"
+Event= "L'Equipe France"
+
+Channel_Name= "534"
+Channel_server= "dokko1"
+Event= "La Sexta Spain"
+
+Channel_Name= "826"
+Channel_server= "ddy6"
+Event= "Liverpool TV (LFC TV)"
+
+Channel_Name= "326"
+Channel_server= "wind"
+Event= "Lifetime Network"
+
+Channel_Name= "389"
+Channel_server= "nfs"
+Event= "Lifetime Movies Network"
+
+Channel_Name= "667"
+Channel_server= "null"
+Event= "Longhorn Network USA"
+
+Channel_Name= "855"
+Channel_server= "wind"
+Event= "La7 Italy"
+
+Channel_Name= "856"
+Channel_server= "wind"
+Event= "LA7d HD+ Italy"
+
+Channel_Name= "278"
+Channel_server= "zeko"
+Event= "Law & Crime Network"
+
+Channel_Name= "136"
+Channel_server= "ddy6"
+Event= "Match Football 1 Russia"
+
+Channel_Name= "137"
+Channel_server= "ddy6"
+Event= "Match Football 2 Russia"
+
+Channel_Name= "138"
+Channel_server= "ddy6"
+Event= "Match Football 3 Russia"
+
+Channel_Name= "573"
+Channel_server= "ddy6"
+Event= "Match Premier Russia"
+
+Channel_Name= "127"
+Channel_server= "ddy6"
+Event= "Match TV Russia"
+
+Channel_Name= "395"
+Channel_server= "nfs"
+Event= "МАТЧ! БОЕЦ Russia"
+
+Channel_Name= "84"
+Channel_server= "wind"
+Event= "Movistar Laliga"
+
+Channel_Name= "435"
+Channel_server= "zeko"
+Event= "Movistar Liga de Campeones"
+
+Channel_Name= "436"
+Channel_server= "zeko"
+Event= "Movistar Deportes Spain"
+
+Channel_Name= "438"
+Channel_server= "zeko"
+Event= "Movistar Deportes 2 Spain"
+
+Channel_Name= "526"
+Channel_server= "dokko1"
+Event= "Movistar Deportes 3 Spain"
+
+Channel_Name= "527"
+Channel_server= "dokko1"
+Event= "Movistar Deportes 4 Spain"
+
+Channel_Name= "528"
+Channel_server= "dokko1"
+Event= "Movistar Golf Spain"
+
+Channel_Name= "924"
+Channel_server= "nfs"
+Event= "Monumental Sports Network"
+
+Channel_Name= "563"
+Channel_server= "dokko1"
+Event= "Motowizja Poland"
+
+Channel_Name= "470"
+Channel_server= "wind"
+Event= "M6 France"
+
+Channel_Name= "765"
+Channel_server= "zeko"
+Event= "MSG USA"
+
+Channel_Name= "327"
+Channel_server= "wind"
+Event= "MSNBC"
+
+Channel_Name= "299"
+Channel_server= "ddy6"
+Event= "Magnolia Network"
+
+Channel_Name= "367"
+Channel_server= "zeko"
+Event= "MTV UK"
+
+Channel_Name= "371"
+Channel_server= "nfs"
+Event= "MTV USA"
+
+Channel_Name= "377"
+Channel_server= "wind"
+Event= "MUTV UK"
+
+Channel_Name= "646"
+Channel_server= "null"
+Event= "MAVTV USA"
+
+Channel_Name= "791"
+Channel_server= "zeko"
+Event= "MGM+ USA / Epix"
+
+Channel_Name= "779"
+Channel_server= "dokko1"
+Event= "Max Sport 1 Croatia"
+
+Channel_Name= "780"
+Channel_server= "dokko1"
+Event= "Max Sport 2 Croatia"
+
+Channel_Name= "770"
+Channel_server= "ddy6"
+Event= "Marquee Sports Network"
+
+Channel_Name= "472"
+Channel_server= "wind"
+Event= "Max Sport 1 Bulgaria"
+
+Channel_Name= "473"
+Channel_server= "wind"
+Event= "Max Sport 2 Bulgaria"
+
+Channel_Name= "474"
+Channel_server= "ddy6"
+Event= "Max Sport 3 Bulgaria"
+
+Channel_Name= "475"
+Channel_server= "wind"
+Event= "Max Sport 4 Bulgaria"
+
+Channel_Name= "437"
+Channel_server= "zeko"
+Event= "Movistar Supercopa de Espa�a"
+
+Channel_Name= "399"
+Channel_server= "wind"
+Event= "MLB Network USA"
+
+Channel_Name= "829"
+Channel_server= "nfs"
+Event= "MASN USA"
+
+Channel_Name= "654"
+Channel_server= "ddy6"
+Event= "MY9TV USA"
+
+Channel_Name= "661"
+Channel_server= "dokko1"
+Event= "Motor Trend"
+
+Channel_Name= "662"
+Channel_server= "ddy6"
+Event= "METV USA"
+
+Channel_Name= "733"
+Channel_server= "ddy6"
+Event= "MDR DE"
+
+Channel_Name= "749"
+Channel_server= "ddy6"
+Event= "Mundotoro TV Spain"
+
+Channel_Name= "806"
+Channel_server= "dokko1"
+Event= "MTV Denmark"
+
+Channel_Name= "663"
+Channel_server= "dokko1"
+Event= "NHL Network USA"
+
+Channel_Name= "468"
+Channel_server= "wind"
+Event= "Nova Sport Bulgaria"
+
+Channel_Name= "582"
+Channel_server= "ddy6"
+Event= "Nova Sport Serbia"
+
+Channel_Name= "631"
+Channel_server= "dokko1"
+Event= "Nova Sports 1 Greece"
+
+Channel_Name= "632"
+Channel_server= "dokko1"
+Event= "Nova Sports 2 Greece"
+
+Channel_Name= "633"
+Channel_server= "dokko1"
+Event= "Nova Sports 3 Greece"
+
+Channel_Name= "634"
+Channel_server= "dokko1"
+Event= "Nova Sports 4 Greece"
+
+Channel_Name= "635"
+Channel_server= "dokko1"
+Event= "Nova Sports 5 Greece"
+
+Channel_Name= "636"
+Channel_server= "dokko1"
+Event= "Nova Sports 6 Greece"
+
+Channel_Name= "599"
+Channel_server= "wind"
+Event= "Nova Sports Premier League Greece"
+
+Channel_Name= "637"
+Channel_server= "dokko1"
+Event= "Nova Sports Start Greece"
+
+Channel_Name= "638"
+Channel_server= "dokko1"
+Event= "Nova Sports Prime Greece"
+
+Channel_Name= "639"
+Channel_server= "dokko1"
+Event= "Nova Sports News Greece"
+
+Channel_Name= "762"
+Channel_server= "nfs"
+Event= "NESN USA"
+
+Channel_Name= "53"
+Channel_server= "wind"
+Event= "NBC USA"
+
+Channel_Name= "404"
+Channel_server= "zeko"
+Event= "NBA TV USA"
+
+Channel_Name= "776"
+Channel_server= "wind"
+Event= "NBC Sports Chicago"
+
+Channel_Name= "777"
+Channel_server= "zeko"
+Event= "NBC Sports Philadelphia"
+
+Channel_Name= "778"
+Channel_server= "dokko1"
+Event= "NBC Sports Washington"
+
+Channel_Name= "277"
+Channel_server= "zeko"
+Event= "NBC10 Philadelphia"
+
+Channel_Name= "405"
+Channel_server= "zeko"
+Event= "NFL Network"
+
+Channel_Name= "753"
+Channel_server= "wind"
+Event= "NBC Sports Bay Area"
+
+Channel_Name= "754"
+Channel_server= "wind"
+Event= "NBC Sports Boston"
+
+Channel_Name= "755"
+Channel_server= "wind"
+Event= "NBC Sports California"
+
+Channel_Name= "769"
+Channel_server= "zeko"
+Event= "NBCNY USA"
+
+Channel_Name= "480"
+Channel_server= "wind"
+Event= "Nova TV Bulgaria"
+
+Channel_Name= "328"
+Channel_server= "zeko"
+Event= "National Geographic (NGC)"
+
+Channel_Name= "329"
+Channel_server= "wind"
+Event= "NICK JR"
+
+Channel_Name= "330"
+Channel_server= "wind"
+Event= "NICK"
+
+Channel_Name= "666"
+Channel_server= "null"
+Event= "Nick Music"
+
+Channel_Name= "649"
+Channel_server= "dokko1"
+Event= "Nicktoons"
+
+Channel_Name= "736"
+Channel_server= "ddy6"
+Event= "NDR DE"
+
+Channel_Name= "292"
+Channel_server= "nfs"
+Event= "NewsNation USA"
+
+Channel_Name= "613"
+Channel_server= "ddy6"
+Event= "Newsmax USA"
+
+Channel_Name= "745"
+Channel_server= "zeko"
+Event= "Nat Geo Wild USA"
+
+Channel_Name= "835"
+Channel_server= "dokko1"
+Event= "Noovo CA"
+
+Channel_Name= "771"
+Channel_server= "ddy6"
+Event= "New! CWPIX 11"
+
+Channel_Name= "611"
+Channel_server= "ddy6"
+Event= "OnTime Sports"
+
+Channel_Name= "612"
+Channel_server= "ddy6"
+Event= "OnTime Sports 2"
+
+Channel_Name= "541"
+Channel_server= "wind"
+Event= "ONE 1 HD Israel"
+
+Channel_Name= "542"
+Channel_server= "ddy6"
+Event= "ONE 2 HD Israel"
+
+Channel_Name= "439"
+Channel_server= "wiki"
+Event= "Orange Sport 1 Romania"
+
+Channel_Name= "440"
+Channel_server= "wiki"
+Event= "Orange Sport 2 Romania"
+
+Channel_Name= "441"
+Channel_server= "null"
+Event= "Orange Sport 3 Romania"
+
+Channel_Name= "442"
+Channel_server= "null"
+Event= "Orange Sport 4 Romania"
+
+Channel_Name= "331"
+Channel_server= "wind"
+Event= "Oprah Winfrey Network (OWN)"
+
+Channel_Name= "332"
+Channel_server= "wind"
+Event= "Oxygen True Crime"
+
+Channel_Name= "771"
+Channel_server= "ddy6"
+Event= "Premier Sports Ireland 1"
+
+Channel_Name= "799"
+Channel_server= "zeko"
+Event= "Premier Sports Ireland 2"
+
+Channel_Name= "562"
+Channel_server= "dokko1"
+Event= "Polsat Poland"
+
+Channel_Name= "47"
+Channel_server= "wind"
+Event= "Polsat Sport Poland"
+
+Channel_Name= "50"
+Channel_server= "wind"
+Event= "Polsat Sport Extra Poland"
+
+Channel_Name= "129"
+Channel_server= "wind"
+Event= "Polsat Sport News Poland"
+
+Channel_Name= "443"
+Channel_server= "wind"
+Event= "Polsat News Poland"
+
+Channel_Name= "564"
+Channel_server= "dokko1"
+Event= "Polsat Film Poland"
+
+Channel_Name= "718"
+Channel_server= "ddy6"
+Event= "Porto Canal Portugal"
+
+Channel_Name= "730"
+Channel_server= "ddy6"
+Event= "ProSieben (PRO7) DE"
+
+Channel_Name= "843"
+Channel_server= "wiki"
+Event= "Prima TV RO"
+
+Channel_Name= "450"
+Channel_server= "ddy6"
+Event= "PTV Sports"
+
+Channel_Name= "287"
+Channel_server= "ddy6"
+Event= "Pac-12 Network USA"
+
+Channel_Name= "88"
+Channel_server= "wind"
+Event= "Premier Brasil"
+
+Channel_Name= "583"
+Channel_server= "nfs"
+Event= "Prima Sport 1"
+
+Channel_Name= "584"
+Channel_server= "null"
+Event= "Prima Sport 2"
+
+Channel_Name= "585"
+Channel_server= "null"
+Event= "Prima Sport 3"
+
+Channel_Name= "586"
+Channel_server= "null"
+Event= "Prima Sport 4"
+
+Channel_Name= "334"
+Channel_server= "nfs"
+Event= "Paramount Network"
+
+Channel_Name= "653"
+Channel_server= "ddy6"
+Event= "POP TV USA"
+
+Channel_Name= "210"
+Channel_server= "null"
+Event= "PBS USA USA"
+
+Channel_Name= "43"
+Channel_server= "wind"
+Event= "PDC TV"
+
+Channel_Name= "364"
+Channel_server= "zeko"
+Event= "RTE 1"
+
+Channel_Name= "365"
+Channel_server= "zeko"
+Event= "RTE 2"
+
+Channel_Name= "119"
+Channel_server= "zeko"
+Event= "RMC Sport 1 France"
+
+Channel_Name= "120"
+Channel_server= "ddy6"
+Event= "RMC Sport 2 France"
+
+Channel_Name= "719"
+Channel_server= "ddy6"
+Event= "RTP 1 Portugal"
+
+Channel_Name= "720"
+Channel_server= "ddy6"
+Event= "RTP 2 Portugal"
+
+Channel_Name= "721"
+Channel_server= "ddy6"
+Event= "RTP 3 Portugal"
+
+Channel_Name= "850"
+Channel_server= "ddy6"
+Event= "Rai 1 Italy"
+
+Channel_Name= "851"
+Channel_server= "ddy6"
+Event= "Rai 2 Italy"
+
+Channel_Name= "852"
+Channel_server= "wind"
+Event= "Rai 3 Italy"
+
+Channel_Name= "853"
+Channel_server= "wind"
+Event= "Rai 3 Italy"
+
+Channel_Name= "882"
+Channel_server= "ddy6"
+Event= "Rai Sport Italy"
+
+Channel_Name= "858"
+Channel_server= "wind"
+Event= "Rai Premium Italy"
+
+Channel_Name= "523"
+Channel_server= "dokko1"
+Event= "Real Madrid TV Spain"
+
+Channel_Name= "839"
+Channel_server= "dokko1"
+Event= "RDS CA"
+
+Channel_Name= "840"
+Channel_server= "dokko1"
+Event= "RDS 2 CA"
+
+Channel_Name= "607"
+Channel_server= "dokko1"
+Event= "Rally Tv"
+
+Channel_Name= "841"
+Channel_server= "dokko1"
+Event= "RDS Info CA"
+
+Channel_Name= "471"
+Channel_server= "wind"
+Event= "Ring Bulgaria"
+
+Channel_Name= "390"
+Channel_server= "wind"
+Event= "RTL7 Netherland"
+
+Channel_Name= "740"
+Channel_server= "ddy6"
+Event= "RTL DE"
+
+Channel_Name= "555"
+Channel_server= "zeko"
+Event= "Racing Tv UK"
+
+Channel_Name= "293"
+Channel_server= "zeko"
+Event= "Reelz Channel"
+
+Channel_Name= "920"
+Channel_server= "dokko1"
+Event= "Root Sports Northwest"
+
+Channel_Name= "35"
+Channel_server= "zeko"
+Event= "Sky Sports Football UK"
+
+Channel_Name= "36"
+Channel_server= "zeko"
+Event= "Sky Sports Arena UK"
+
+Channel_Name= "37"
+Channel_server= "nfs"
+Event= "Sky Sports Action UK"
+
+Channel_Name= "38"
+Channel_server= "zeko"
+Event= "Sky Sports Main Event"
+
+Channel_Name= "130"
+Channel_server= "dokko1"
+Event= "Sky sports Premier League"
+
+Channel_Name= "60"
+Channel_server= "wind"
+Event= "Sky Sports F1 UK"
+
+Channel_Name= "274"
+Channel_server= "wind"
+Event= "Sky Sports F1 DE"
+
+Channel_Name= "65"
+Channel_server= "dokko1"
+Event= "Sky Sports Cricket"
+
+Channel_Name= "70"
+Channel_server= "wind"
+Event= "Sky Sports Golf UK"
+
+Channel_Name= "574"
+Channel_server= "ddy6"
+Event= "Sky Sports Golf Italy"
+
+Channel_Name= "575"
+Channel_server= "nfs"
+Event= "Sky Sport MotoGP Italy"
+
+Channel_Name= "576"
+Channel_server= "ddy6"
+Event= "Sky Sport Tennis Italy"
+
+Channel_Name= "46"
+Channel_server= "wind"
+Event= "Sky Sports Tennis UK"
+
+Channel_Name= "884"
+Channel_server= "wind"
+Event= "Sky Sports Tennis DE"
+
+Channel_Name= "577"
+Channel_server= "nfs"
+Event= "Sky Sport F1 Italy"
+
+Channel_Name= "366"
+Channel_server= "wind"
+Event= "Sky Sports News UK"
+
+Channel_Name= "449"
+Channel_server= "ddy6"
+Event= "Sky Sports MIX UK"
+
+Channel_Name= "556"
+Channel_server= "dokko1"
+Event= "Sky Sport Top Event DE"
+
+Channel_Name= "557"
+Channel_server= "ddy6"
+Event= "Sky Sport Mix DE"
+
+Channel_Name= "558"
+Channel_server= "ddy6"
+Event= "Sky Sport Bundesliga 1 HD"
+
+Channel_Name= "559"
+Channel_server= "null"
+Event= "Sky Sport Austria 1 HD"
+
+Channel_Name= "759"
+Channel_server= "zeko"
+Event= "SportsNet New York (SNY)"
+
+Channel_Name= "460"
+Channel_server= "dokko1"
+Event= "Sky Sport Football Italy"
+
+Channel_Name= "461"
+Channel_server= "ddy6"
+Event= "Sky Sport UNO Italy"
+
+Channel_Name= "462"
+Channel_server= "ddy6"
+Event= "Sky Sport Arena Italy"
+
+Channel_Name= "554"
+Channel_server= "wind"
+Event= "Sky Sports Racing UK"
+
+Channel_Name= "881"
+Channel_server= "wind"
+Event= "Sky UNO Italy"
+
+Channel_Name= "588"
+Channel_server= "dokko1"
+Event= "Sky Sport 1 NZ"
+
+Channel_Name= "589"
+Channel_server= "dokko1"
+Event= "Sky Sport 2 NZ"
+
+Channel_Name= "590"
+Channel_server= "dokko1"
+Event= "Sky Sport 3 NZ"
+
+Channel_Name= "591"
+Channel_server= "dokko1"
+Event= "Sky Sport 4 NZ"
+
+Channel_Name= "592"
+Channel_server= "dokko1"
+Event= "Sky Sport 5 NZ"
+
+Channel_Name= "593"
+Channel_server= "dokko1"
+Event= "Sky Sport 6 NZ"
+
+Channel_Name= "594"
+Channel_server= "dokko1"
+Event= "Sky Sport 7 NZ"
+
+Channel_Name= "595"
+Channel_server= "dokko1"
+Event= "Sky Sport 8 NZ"
+
+Channel_Name= "596"
+Channel_server= "dokko1"
+Event= "Sky Sport 9 NZ"
+
+Channel_Name= "587"
+Channel_server= "dokko1"
+Event= "Sky Sport Select NZ"
+
+Channel_Name= "883"
+Channel_server= "zeko"
+Event= "SBS6 NL"
+
+Channel_Name= "49"
+Channel_server= "wind"
+Event= "Sport TV1 Portugal"
+
+Channel_Name= "74"
+Channel_server= "dokko1"
+Event= "Sport TV2 Portugal"
+
+Channel_Name= "289"
+Channel_server= "ddy6"
+Event= "Sport TV4 Portugal"
+
+Channel_Name= "454"
+Channel_server= "ddy6"
+Event= "Sport TV3 Portugal"
+
+Channel_Name= "290"
+Channel_server= "ddy6"
+Event= "Sport TV5 Portugal"
+
+Channel_Name= "291"
+Channel_server= "ddy6"
+Event= "Sport TV6 Portugal"
+
+Channel_Name= "722"
+Channel_server= "ddy6"
+Event= "SIC Portugal"
+
+Channel_Name= "811"
+Channel_server= "dokko1"
+Event= "SEE Denmark"
+
+Channel_Name= "385"
+Channel_server= "zeko"
+Event= "SEC Network USA"
+
+Channel_Name= "78"
+Channel_server= "ddy6"
+Event= "SporTV Brasil"
+
+Channel_Name= "79"
+Channel_server= "ddy6"
+Event= "SporTV2 Brasil"
+
+Channel_Name= "80"
+Channel_server= "wind"
+Event= "SporTV3 Brasil"
+
+Channel_Name= "101"
+Channel_server= "ddy6"
+Event= "Sport Klub 1 Serbia"
+
+Channel_Name= "102"
+Channel_server= "ddy6"
+Event= "Sport Klub 2 Serbia"
+
+Channel_Name= "103"
+Channel_server= "nfs"
+Event= "Sport Klub 3 Serbia"
+
+Channel_Name= "104"
+Channel_server= "nfs"
+Event= "Sport Klub 4 Serbia"
+
+Channel_Name= "453"
+Channel_server= "wind"
+Event= "Sport Klub HD Serbia"
+
+Channel_Name= "406"
+Channel_server= "wind"
+Event= "Sportsnet Ontario"
+
+Channel_Name= "411"
+Channel_server= "zeko"
+Event= "Sportsnet One"
+
+Channel_Name= "407"
+Channel_server= "wind"
+Event= "Sportsnet West"
+
+Channel_Name= "408"
+Channel_server= "wind"
+Event= "Sportsnet East"
+
+Channel_Name= "409"
+Channel_server= "zeko"
+Event= "Sportsnet 360"
+
+Channel_Name= "410"
+Channel_server= "wind"
+Event= "Sportsnet World"
+
+Channel_Name= "412"
+Channel_server= "zeko"
+Event= "SuperSport Grandstand"
+
+Channel_Name= "413"
+Channel_server= "zeko"
+Event= "SuperSport PSL"
+
+Channel_Name= "414"
+Channel_server= "ddy6"
+Event= "SuperSport Premier league"
+
+Channel_Name= "415"
+Channel_server= "ddy6"
+Event= "SuperSport LaLiga"
+
+Channel_Name= "416"
+Channel_server= "zeko"
+Event= "SuperSport Variety 1"
+
+Channel_Name= "417"
+Channel_server= "null"
+Event= "SuperSport Variety 2"
+
+Channel_Name= "418"
+Channel_server= "ddy6"
+Event= "SuperSport Variety 3"
+
+Channel_Name= "419"
+Channel_server= "zeko"
+Event= "SuperSport Variety 4"
+
+Channel_Name= "420"
+Channel_server= "wind"
+Event= "SuperSport Action"
+
+Channel_Name= "421"
+Channel_server= "zeko"
+Event= "SuperSport Rugby"
+
+Channel_Name= "422"
+Channel_server= "zeko"
+Event= "SuperSport Golf"
+
+Channel_Name= "423"
+Channel_server= "zeko"
+Event= "SuperSport Tennis"
+
+Channel_Name= "424"
+Channel_server= "zeko"
+Event= "SuperSport Motorsport"
+
+Channel_Name= "56"
+Channel_server= "null"
+Event= "Supersport Football"
+
+Channel_Name= "368"
+Channel_server= "zeko"
+Event= "SuperSport Cricket"
+
+Channel_Name= "572"
+Channel_server= "dokko1"
+Event= "SuperSport MaXimo 1"
+
+Channel_Name= "716"
+Channel_server= "ddy6"
+Event= "Sporting TV Portugal"
+
+Channel_Name= "571"
+Channel_server= "dokko1"
+Event= "SportDigital Fussball"
+
+Channel_Name= "764"
+Channel_server= "nfs"
+Event= "Spectrum Sportsnet LA"
+
+Channel_Name= "640"
+Channel_server= "dokko1"
+Event= "Sport1+ Germany"
+
+Channel_Name= "641"
+Channel_server= "ddy6"
+Event= "Sport1 Germany"
+
+Channel_Name= "670"
+Channel_server= "dokko1"
+Event= "S4C UK"
+
+Channel_Name= "729"
+Channel_server= "ddy6"
+Event= "SAT.1 DE"
+
+Channel_Name= "671"
+Channel_server= "wind"
+Event= "Sky Cinema Premiere UK"
+
+Channel_Name= "672"
+Channel_server= "wind"
+Event= "Sky Cinema Select UK"
+
+Channel_Name= "673"
+Channel_server= "wind"
+Event= "Sky Cinema Hits UK"
+
+Channel_Name= "674"
+Channel_server= "wind"
+Event= "Sky Cinema Greats UK"
+
+Channel_Name= "675"
+Channel_server= "wind"
+Event= "Sky Cinema Animation UK"
+
+Channel_Name= "676"
+Channel_server= "wind"
+Event= "Sky Cinema Family UK"
+
+Channel_Name= "677"
+Channel_server= "wind"
+Event= "Sky Cinema Action UK"
+
+Channel_Name= "267"
+Channel_server= "zeko"
+Event= "Star Sports 1 IN"
+
+Channel_Name= "268"
+Channel_server= "ddy6"
+Event= "Star Sports Hindi IN"
+
+Channel_Name= "678"
+Channel_server= "wind"
+Event= "Sky Cinema Comedy UK"
+
+Channel_Name= "679"
+Channel_server= "wind"
+Event= "Sky Cinema Thriller UK"
+
+Channel_Name= "680"
+Channel_server= "wind"
+Event= "Sky Cinema Drama UK"
+
+Channel_Name= "681"
+Channel_server= "ddy6"
+Event= "Sky Cinema Sci-Fi Horror UK"
+
+Channel_Name= "859"
+Channel_server= "wind"
+Event= "Sky Cinema Collection Italy"
+
+Channel_Name= "860"
+Channel_server= "wind"
+Event= "Sky Cinema Uno Italy"
+
+Channel_Name= "861"
+Channel_server= "wind"
+Event= "Sky Cinema Action Italy"
+
+Channel_Name= "862"
+Channel_server= "wind"
+Event= "8Sky Cinema Comedy Italy"
+
+Channel_Name= "863"
+Channel_server= "wind"
+Event= "Sky Cinema Uno +24 Italy"
+
+Channel_Name= "864"
+Channel_server= "wind"
+Event= "Sky Cinema Romance Italy"
+
+Channel_Name= "865"
+Channel_server= "wind"
+Event= "Sky Cinema Family Italy"
+
+Channel_Name= "866"
+Channel_server= "wind"
+Event= "Sky Cinema Due +24 Italy"
+
+Channel_Name= "867"
+Channel_server= "wind"
+Event= "Sky Cinema Drama Italy"
+
+Channel_Name= "868"
+Channel_server= "ddy6"
+Event= "8Sky Cinema Suspense Italy"
+
+Channel_Name= "869"
+Channel_server= "wind"
+Event= "Sky Sport 24 Italy"
+
+Channel_Name= "870"
+Channel_server= "wind"
+Event= "Sky Sport Calcio Italy"
+
+Channel_Name= "871"
+Channel_server= "zeko"
+Event= "Sky Calcio 1 (251) Italy"
+
+Channel_Name= "872"
+Channel_server= "wind"
+Event= "Sky Calcio 2 (252) Italy"
+
+Channel_Name= "873"
+Channel_server= "wind"
+Event= "Sky Calcio 3 (253) Italy"
+
+Channel_Name= "874"
+Channel_server= "wind"
+Event= "Sky Calcio 4 (254) Italy"
+
+Channel_Name= "875"
+Channel_server= "null"
+Event= "Sky Calcio 5 (255) Italy"
+
+Channel_Name= "876"
+Channel_server= "wind"
+Event= "Sky Calcio 6 (256) Italy"
+
+Channel_Name= "877"
+Channel_server= "nfs"
+Event= "Sky Calcio 7 (257) Italy"
+
+Channel_Name= "880"
+Channel_server= "wind"
+Event= "Sky Serie Italy"
+
+Channel_Name= "284"
+Channel_server= "nfs"
+Event= "StarzPlay CricLife 1 HD"
+
+Channel_Name= "283"
+Channel_server= "null"
+Event= "StarzPlay CricLife 2 HD"
+
+Channel_Name= "282"
+Channel_server= "ddy6"
+Event= "StarzPlay CricLife 3 HD"
+
+Channel_Name= "682"
+Channel_server= "wind"
+Event= "Sky Showcase UK"
+
+Channel_Name= "683"
+Channel_server= "wind"
+Event= "Sky Arts UK"
+
+Channel_Name= "684"
+Channel_server= "wind"
+Event= "Sky Comedy UK"
+
+Channel_Name= "685"
+Channel_server= "wind"
+Event= "Sky Crime"
+
+Channel_Name= "686"
+Channel_server= "wind"
+Event= "Sky History"
+
+Channel_Name= "614"
+Channel_server= "ddy6"
+Event= "SSC Sport 1"
+
+Channel_Name= "615"
+Channel_server= "null"
+Event= "SSC Sport 2"
+
+Channel_Name= "616"
+Channel_server= "null"
+Event= "SSC Sport 3"
+
+Channel_Name= "617"
+Channel_server= "null"
+Event= "SSC Sport 4"
+
+Channel_Name= "618"
+Channel_server= "null"
+Event= "SSC Sport 5"
+
+Channel_Name= "619"
+Channel_server= "null"
+Event= "SSC Sport Extra 1"
+
+Channel_Name= "620"
+Channel_server= "null"
+Event= "SSC Sport Extra 2"
+
+Channel_Name= "621"
+Channel_server= "null"
+Event= "SSC Sport Extra 3"
+
+Channel_Name= "140"
+Channel_server= "zeko"
+Event= "Sport 1 Israel"
+
+Channel_Name= "141"
+Channel_server= "zeko"
+Event= "Sport 2 Israel"
+
+Channel_Name= "142"
+Channel_server= "zeko"
+Event= "Sport 3 Israel"
+
+Channel_Name= "143"
+Channel_server= "zeko"
+Event= "Sport 4 Israel"
+
+Channel_Name= "144"
+Channel_server= "zeko"
+Event= "Sport 5 Israel"
+
+Channel_Name= "145"
+Channel_server= "zeko"
+Event= "Sport 5 PLUS Israel"
+
+Channel_Name= "146"
+Channel_server= "zeko"
+Event= "Sport 5 Live Israel"
+
+Channel_Name= "147"
+Channel_server= "zeko"
+Event= "Sport 5 Star Israel"
+
+Channel_Name= "148"
+Channel_server= "ddy6"
+Event= "Sport 5 Gold Israel"
+
+Channel_Name= "294"
+Channel_server= "zeko"
+Event= "Science Channel"
+
+Channel_Name= "333"
+Channel_server= "wind"
+Event= "Showtime USA"
+
+Channel_Name= "685"
+Channel_server= "wind"
+Event= "Showtime SHOxBET USA"
+
+Channel_Name= "792"
+Channel_server= "zeko"
+Event= "Showtime 2 USA (SHO2) USA"
+
+Channel_Name= "793"
+Channel_server= "zeko"
+Event= "Showtime Showcase USA"
+
+Channel_Name= "794"
+Channel_server= "nfs"
+Event= "Showtime Extreme USA"
+
+Channel_Name= "795"
+Channel_server= "nfs"
+Event= "Showtime Family Zone (SHO Family Zone) USA"
+
+Channel_Name= "796"
+Channel_server= "nfs"
+Event= "Showtime Next (SHO Next) USA"
+
+Channel_Name= "797"
+Channel_server= "dokko1"
+Event= "Showtime Women USA"
+
+Channel_Name= "335"
+Channel_server= "zeko"
+Event= "Starz"
+
+Channel_Name= "361"
+Channel_server= "ddy6"
+Event= "Sky Witness HD"
+
+Channel_Name= "732"
+Channel_server= "ddy6"
+Event= "Sixx DE"
+
+Channel_Name= "362"
+Channel_server= "ddy6"
+Event= "Sky Atlantic"
+
+Channel_Name= "373"
+Channel_server= "zeko"
+Event= "SYFY USA"
+
+Channel_Name= "658"
+Channel_server= "dokko1"
+Event= "Sundance TV"
+
+Channel_Name= "735"
+Channel_server= "ddy6"
+Event= "SWR DE"
+
+Channel_Name= "738"
+Channel_server= "ddy6"
+Event= "SUPER RTL DE"
+
+Channel_Name= "739"
+Channel_server= "ddy6"
+Event= "SR Fernsehen DE"
+
+Channel_Name= "603"
+Channel_server= "dokko1"
+Event= "Smithsonian Channel"
+
+Channel_Name= "921"
+Channel_server= "dokko1"
+Event= "Space City Home Network"
+
+Channel_Name= "922"
+Channel_server= "nfs"
+Event= "SportsNet Pittsburgh"
+
+Channel_Name= "31"
+Channel_server= "nfs"
+Event= "TNT Sports 1 UK"
+
+Channel_Name= "32"
+Channel_server= "nfs"
+Event= "TNT Sports 2 UK"
+
+Channel_Name= "33"
+Channel_server= "nfs"
+Event= "TNT Sports 3 UK"
+
+Channel_Name= "34"
+Channel_server= "nfs"
+Event= "TNT Sports 4 UK"
+
+Channel_Name= "469"
+Channel_server= "null"
+Event= "TF1 France"
+
+Channel_Name= "111"
+Channel_server= "zeko"
+Event= "TSN1"
+
+Channel_Name= "112"
+Channel_server= "zeko"
+Event= "TSN2"
+
+Channel_Name= "113"
+Channel_server= "zeko"
+Event= "TSN3"
+
+Channel_Name= "114"
+Channel_server= "zeko"
+Event= "TSN4"
+
+Channel_Name= "115"
+Channel_server= "zeko"
+Event= "TSN5"
+
+Channel_Name= "565"
+Channel_server= "dokko1"
+Event= "TVN HD Poland"
+
+Channel_Name= "444"
+Channel_server= "dokko1"
+Event= "TVN24 Poland"
+
+Channel_Name= "560"
+Channel_server= "dokko1"
+Event= "TVP1 Poland"
+
+Channel_Name= "561"
+Channel_server= "dokko1"
+Event= "TVP2 Poland"
+
+Channel_Name= "532"
+Channel_server= "dokko1"
+Event= "Telecinco Spain"
+
+Channel_Name= "533"
+Channel_server= "dokko1"
+Event= "TVE La 1 Spain"
+
+Channel_Name= "536"
+Channel_server= "dokko1"
+Event= "TVE La 2 Spain"
+
+Channel_Name= "723"
+Channel_server= "ddy6"
+Event= "TVI Portugal"
+
+Channel_Name= "724"
+Channel_server= "ddy6"
+Event= "TVI Reality Portugal"
+
+Channel_Name= "529"
+Channel_server= "dokko1"
+Event= "Teledeporte Spain (TDP)"
+
+Channel_Name= "746"
+Channel_server= "ddy6"
+Event= "TYC Sports Argentina"
+
+Channel_Name= "128"
+Channel_server= "nfs"
+Event= "TVP Sport Poland"
+
+Channel_Name= "87"
+Channel_server= "wind"
+Event= "TNT Brasil"
+
+Channel_Name= "388"
+Channel_server= "ddy6"
+Event= "TNT Sports Argentina"
+
+Channel_Name= "642"
+Channel_server= "dokko1"
+Event= "TNT Sports HD Chile"
+
+Channel_Name= "40"
+Channel_server= "ddy6"
+Event= "Tennis Channel"
+
+Channel_Name= "741"
+Channel_server= "ddy6"
+Event= "Ten Sports PK"
+
+Channel_Name= "66"
+Channel_server= "wind"
+Event= "TUDN USA"
+
+Channel_Name= "131"
+Channel_server= "wind"
+Event= "Telemundo"
+
+Channel_Name= "336"
+Channel_server= "zeko"
+Event= "TBS USA"
+
+Channel_Name= "337"
+Channel_server= "wind"
+Event= "TLC"
+
+Channel_Name= "338"
+Channel_server= "zeko"
+Event= "TNT USA"
+
+Channel_Name= "833"
+Channel_server= "dokko1"
+Event= "TVA Sports"
+
+Channel_Name= "834"
+Channel_server= "dokko1"
+Event= "TVA Sports 2"
+
+Channel_Name= "340"
+Channel_server= "wind"
+Event= "Travel Channel"
+
+Channel_Name= "341"
+Channel_server= "dokko1"
+Event= "TruTV USA"
+
+Channel_Name= "342"
+Channel_server= "ddy6"
+Event= "TVLAND"
+
+Channel_Name= "644"
+Channel_server= "nfs"
+Event= "TCM USA"
+
+Channel_Name= "698"
+Channel_server= "dokko1"
+Event= "TMC Channel USA"
+
+Channel_Name= "384"
+Channel_server= "zeko"
+Event= "The Food Network"
+
+Channel_Name= "394"
+Channel_server= "zeko"
+Event= "The Weather Channel"
+
+Channel_Name= "452"
+Channel_server= "dokko1"
+Event= "TVP INFO"
+
+Channel_Name= "650"
+Channel_server= "dokko1"
+Event= "TeenNick"
+
+Channel_Name= "660"
+Channel_server= "dokko1"
+Event= "TV ONE USA"
+
+Channel_Name= "807"
+Channel_server= "dokko1"
+Event= "TV2 Bornholm Denmark"
+
+Channel_Name= "808"
+Channel_server= "dokko1"
+Event= "TV2 Sport X Denmark"
+
+Channel_Name= "809"
+Channel_server= "ddy6"
+Event= "TV3 Sport Denmark"
+
+Channel_Name= "810"
+Channel_server= "dokko1"
+Event= "TV2 Sport Denmark"
+
+Channel_Name= "817"
+Channel_server= "ddy6"
+Event= "TV2 Denmark"
+
+Channel_Name= "818"
+Channel_server= "ddy6"
+Event= "TV2 Zulu"
+
+Channel_Name= "819"
+Channel_server= "ddy6"
+Event= "TV3+ Denmark"
+
+Channel_Name= "223"
+Channel_server= "ddy6"
+Event= "TV3 Max Denmark"
+
+Channel_Name= "842"
+Channel_server= "dokko1"
+Event= "TVO CA"
+
+Channel_Name= "270"
+Channel_server= "null"
+Event= "T Sports BD"
+
+Channel_Name= "700"
+Channel_server= "zeko"
+Event= "Tennis+ 1"
+
+Channel_Name= "701"
+Channel_server= "zeko"
+Event= "Tennis+ 2"
+
+Channel_Name= "702"
+Channel_server= "zeko"
+Event= "Tennis+ 3"
+
+Channel_Name= "703"
+Channel_server= "zeko"
+Event= "Tennis+ 4"
+
+Channel_Name= "704"
+Channel_server= "zeko"
+Event= "Tennis+ 5"
+
+Channel_Name= "705"
+Channel_server= "zeko"
+Event= "Tennis+ 6"
+
+Channel_Name= "706"
+Channel_server= "zeko"
+Event= "Tennis+ 7"
+
+Channel_Name= "707"
+Channel_server= "zeko"
+Event= "Tennis+ 8"
+
+Channel_Name= "708"
+Channel_server= "null"
+Event= "Tennis+ 9"
+
+Channel_Name= "709"
+Channel_server= "null"
+Event= "Tennis+ 10"
+
+Channel_Name= "710"
+Channel_server= "null"
+Event= "Tennis+ 11"
+
+Channel_Name= "711"
+Channel_server= "null"
+Event= "Tennis+ 12"
+
+Channel_Name= "712"
+Channel_server= "null"
+Event= "Tennis+ 13"
+
+Channel_Name= "713"
+Channel_server= "null"
+Event= "Tennis+ 14"
+
+Channel_Name= "714"
+Channel_server= "wiki"
+Event= "Tennis+ 15"
+
+Channel_Name= "343"
+Channel_server= "nfs"
+Event= "USA Network"
+
+Channel_Name= "668"
+Channel_server= "null"
+Event= "Universal Kids USA"
+
+Channel_Name= "132"
+Channel_server= "nfs"
+Event= "Univision"
+
+Channel_Name= "133"
+Channel_server= "nfs"
+Event= "Unimas"
+
+Channel_Name= "451"
+Channel_server= "wind"
+Event= "Viaplay Sports 1 UK"
+
+Channel_Name= "550"
+Channel_server= "wind"
+Event= "Viaplay Sports 2 UK"
+
+Channel_Name= "597"
+Channel_server= "zeko"
+Event= "Viaplay Xtra UK"
+
+Channel_Name= "260"
+Channel_server= "wind"
+Event= "Vodafone Sport"
+
+Channel_Name= "521"
+Channel_server= "wind"
+Event= "#Vamos Spain"
+
+Channel_Name= "272"
+Channel_server= "zeko"
+Event= "V Sport Motor Sweden"
+
+Channel_Name= "815"
+Channel_server= "null"
+Event= "V Film Premiere"
+
+Channel_Name= "816"
+Channel_server= "nfs"
+Event= "V Film Family"
+
+Channel_Name= "344"
+Channel_server= "zeko"
+Event= "VH1 USA"
+
+Channel_Name= "378"
+Channel_server= "zeko"
+Event= "Veronica NL Netherland"
+
+Channel_Name= "391"
+Channel_server= "nfs"
+Event= "VTV+ Uruguay"
+
+Channel_Name= "659"
+Channel_server= "dokko1"
+Event= "VICE TV"
+
+Channel_Name= "346"
+Channel_server= "zeko"
+Event= "Willow Cricket"
+
+Channel_Name= "598"
+Channel_server= "zeko"
+Event= "Willow XTRA"
+
+Channel_Name= "376"
+Channel_server= "null"
+Event= "WWE Network"
+
+Channel_Name= "392"
+Channel_server= "dokko1"
+Event= "Win Sports+ Columbia"
+
+Channel_Name= "655"
+Channel_server= "ddy6"
+Event= "WETV USA"
+
+Channel_Name= "734"
+Channel_server= "ddy6"
+Event= "WDR DE"
+
+Channel_Name= "763"
+Channel_server= "zeko"
+Event= "YES Network USA"
+
+Channel_Name= "543"
+Channel_server= "zeko"
+Event= "Yes Movies Action Israel"
+
+Channel_Name= "544"
+Channel_server= "null"
+Event= "Yes Movies Kids Israel"
+
+Channel_Name= "545"
+Channel_server= "null"
+Event= "Yes Movies Comedy Israel"
+
+Channel_Name= "609"
+Channel_server= "dokko1"
+Event= "Yas TV UAE"
+
+Channel_Name= "837"
+Channel_server= "dokko1"
+Event= "Yes TV CA"
+
+Channel_Name= "296"
+Channel_server= "ddy6"
+Event= "YTV CA"
+
+Channel_Name= "383"
+Channel_server= "zeko"
+Event= "Ziggo Sport Docu NL"
+
+Channel_Name= "393"
+Channel_server= "null"
+Event= "Ziggo Sport Select NL"
+
+Channel_Name= "396"
+Channel_server= "wind"
+Event= "Ziggo Sport Racing NL"
+
+Channel_Name= "398"
+Channel_server= "zeko"
+Event= "Ziggo Sport Voetbal NL"
+
+Channel_Name= "727"
+Channel_server= "ddy6"
+Event= "BBC 1 DE"
+
+Channel_Name= "728"
+Channel_server= "ddy6"
+Event= "ZDF Info DE"
+
+Channel_Name= "857"
+Channel_server= "wind"
+Event= "20 Mediaset Italy"
+
+Channel_Name= "800"
+Channel_server= "dokko1"
+Event= "6'eren Denmark"
+
+Channel_Name= "437"
+Channel_server= "zeko"
+Event= "#0 Spain"
+
+Channel_Name= "360"
+Channel_server= "wind"
+Event= "5 USA"
+
+Channel_Name= "726"
+Channel_server= "ddy6"
+Event= "3sat DE"
+
+Channel_Name= "501"
+Channel_server= "zeko"
+Event= "18+ (Player-01)"
+
+Channel_Name= "502"
+Channel_server= "zeko"
+Event= "18+ (Player-02)"
+
+Channel_Name= "503"
+Channel_server= "zeko"
+Event= "18+ (Player-03)"
+
+Channel_Name= "504"
+Channel_server= "zeko"
+Event= "18+ (Player-04)"
+
+Channel_Name= "505"
+Channel_server= "zeko"
+Event= "18+ (Player-05)"
+
+Channel_Name= "506"
+Channel_server= "zeko"
+Event= "18+ (Player-06)"
+
+Channel_Name= "507"
+Channel_server= "zeko"
+Event= "18+ (Player-07)"
+
+Channel_Name= "508"
+Channel_server= "zeko"
+Event= "18+ (Player-08)"
+
+Channel_Name= "509"
+Channel_server= "zeko"
+Event= "18+ (Player-09)"
+
+Channel_Name= "510"
+Channel_server= "zeko"
+Event= "18+ (Player-10)"
+
+Channel_Name= "511"
+Channel_server= "ddy6"
+Event= "18+ (Player-11)"
+
+Channel_Name= "512"
+Channel_server= "ddy6"
+Event= "18+ (Player-12)"
+
+Channel_Name= "513"
+Channel_server= "ddy6"
+Event= "18+ (Player-13)"
+
+Channel_Name= "514"
+Channel_server= "ddy6"
+Event= "18+ (Player-14)"
+
+Channel_Name= "515"
+Channel_server= "ddy6"
+Event= "18+ (Player-15)"
+
+Channel_Name= "516"
+Channel_server= "ddy6"
+Event= "18+ (Player-16)"
+
+Channel_Name= "517"
+Channel_server= "ddy6"
+Event= "18+ (Player-17)"
+
+Channel_Name= "518"
+Channel_server= "ddy6"
+Event= "18+ (Player-18)"
+
+Channel_Name= "519"
+Channel_server= "ddy6"
+Event= "18+ (Player-19)"
+
+Channel_Name= "520"
+Channel_server= "ddy6"
+Event= "18+ (Player-20)"
+
