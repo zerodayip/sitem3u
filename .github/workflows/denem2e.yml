@@ -1,0 +1,58 @@
+name: Run Python Scripts from Private Repo (D- JSON)
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '30 */2 * * *'
+
+jobs:
+  run-python-scripts:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Public Repository (veriler)
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Clone Private Repository (Py)
+        run: |
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/Py.git private_py
+
+      - name: Install Python dependencies from private repo
+        run: |
+          python -m pip install --upgrade pip
+          pip install beautifulsoup4
+          pip install playwright
+          pip install bs4
+          pip install lxml
+          playwright install
+
+      # daddylivejson scripts
+      - name: Run dadhtml.py
+        run: python private_py/daddylivejson/miztvtop.py
+
+      - name: Copy output file to d/ folder
+        run: cp private_py/daddylivejson/schedule.json ./d/schedule.json
+
+      - name: Configure Git User
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+
+      - name: Set remote URL
+        run: git remote set-url origin https://github.com/zerodayip/sitem3u.git
+
+      - name: Add and Commit Changes
+        run: |
+          git add d/schedule.json
+          git commit -m "Update schedule.json via workflow D" || echo "No changes to commit"
+
+      - name: Push Changes
+        run: git push origin main
