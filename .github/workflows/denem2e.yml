@@ -1,4 +1,4 @@
-name: Run Python Scripts from Private Repo (D- JSON)
+name: Run Pytho22n Scripts from Private Repo (D- JSON)
 
 on:
   workflow_dispatch:
