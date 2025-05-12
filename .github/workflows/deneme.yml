@@ -36,7 +36,7 @@ jobs:
 
       # daddylivejson scripts
       - name: Run dadhtml.py
-        run: python private_py/daddylivejson/miztoptv.py
+        run: python private_py/daddylivejson/miztvtop.py
 
       - name: Copy output file to d/ folder
         run: cp private_py/daddylivejson/schedule.json ./d/schedule.json
