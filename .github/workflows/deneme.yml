@@ -30,7 +30,10 @@ jobs:
           pip install -r private_py/requirements.txt
 
       # ---------------- V Section ----------------
-      - name: Run datatxt.py
+      - name: Run schedule_aljson.py
+        run: python private_py/daddyliveevent/schedule_aljson.py
+
+      - name: Run server_key_schedule.py
         run: python private_py/daddyliveevent/server_key.py
 
       - name: Add all changes
