@@ -2,7 +2,8 @@ name: Run Python Scripts from Private Repo (D- JSON 2)
 
 on:
   workflow_dispatch:
-
+  schedule:
+    - cron: '30 */2 * * *'
 jobs:
   run-python-scripts:
     runs-on: ubuntu-latest
