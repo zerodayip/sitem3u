@@ -1,0 +1,64 @@
+Grup = "ICON-TENNIS"
+Kanal_Adı = "16:00 J.PAOLINI - P.STEARNS"
+Url = "https://alpha.cf-worker-9135fc41f2ff63.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "16:00 BANDIRMASPOR - ERZURUMSPOR"
+Url = "https://alpha.cf-worker-9135fc41f2ff63.workers.dev/live/selcuktrtspor/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "16:00 BANDIRMASPOR - ERZURUMSPOR"
+Url = "https://alpha.cf-worker-9135fc41f2ff63.workers.dev/live/selcuktrtspor/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "20:00 OSASUNA - ATLETICO MADRID"
+Url = "https://alpha.cf-worker-9135fc41f2ff63.workers.dev/live/selcukssport/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "20:00 RAYO VALLECANO - REAL BETIS"
+Url = "https://alpha.cf-worker-9135fc41f2ff63.workers.dev/live/selcukssport2/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "20:00 OSASUNA - ATLETICO MADRID"
+Url = "https://alpha.cf-worker-9135fc41f2ff63.workers.dev/live/selcukssport/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "20:00 İSTANBULSPOR - BOLUSPOR"
+Url = "https://alpha.cf-worker-9135fc41f2ff63.workers.dev/live/selcuktrtspor/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "20:00 İSTANBULSPOR - BOLUSPOR"
+Url = "https://alpha.cf-worker-9135fc41f2ff63.workers.dev/live/selcuktrtspor/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "20:00 RAYO VALLECANO - REAL BETIS"
+Url = "https://alpha.cf-worker-9135fc41f2ff63.workers.dev/live/selcukssport2/playlist.m3u8"
+
+Grup = "ICON-TENNIS"
+Kanal_Adı = "21:30 Q.ZHENG - C.GAUFF"
+Url = "https://alpha.cf-worker-9135fc41f2ff63.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 CHARLTON ATHLETIC - WYCOMBE"
+Url = "https://alpha.cf-worker-9135fc41f2ff63.workers.dev/live/selcuktv85/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 CHARLTON ATHLETIC - WYCOMBE"
+Url = "https://alpha.cf-worker-9135fc41f2ff63.workers.dev/live/selcuktv85/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:30 GETAFE - ATHLETIC BILBAO"
+Url = "https://alpha.cf-worker-9135fc41f2ff63.workers.dev/live/selcukssport2/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:30 ESPANYOL - BARCELONA"
+Url = "https://alpha.cf-worker-9135fc41f2ff63.workers.dev/live/selcukssport/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:30 ESPANYOL - BARCELONA"
+Url = "https://alpha.cf-worker-9135fc41f2ff63.workers.dev/live/selcukssport/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:30 GETAFE - ATHLETIC BILBAO"
+Url = "https://alpha.cf-worker-9135fc41f2ff63.workers.dev/live/selcukssport2/playlist.m3u8"
+
