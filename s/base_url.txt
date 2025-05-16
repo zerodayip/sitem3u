@@ -1,0 +1,24 @@
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:30 ASTON VILLA - TOTTENHAM"
+Url = "https://alpha.cf-worker-9135fc41f2ff63.workers.dev/live/selcukbeinsports2/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:30 ASTON VILLA - TOTTENHAM"
+Url = "https://alpha.cf-worker-9135fc41f2ff63.workers.dev/live/selcukbeinsports2/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 WALSALL - CHESTERFIELD"
+Url = "https://alpha.cf-worker-9135fc41f2ff63.workers.dev/live/selcuktv85/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 WALSALL - CHESTERFIELD"
+Url = "https://alpha.cf-worker-9135fc41f2ff63.workers.dev/live/selcuktv85/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:15 CHELSEA - MANCHESTER UTD"
+Url = "https://alpha.cf-worker-9135fc41f2ff63.workers.dev/live/selcukbeinsports3/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:15 CHELSEA - MANCHESTER UTD"
+Url = "https://alpha.cf-worker-9135fc41f2ff63.workers.dev/live/selcukbeinsports3/playlist.m3u8"
+
