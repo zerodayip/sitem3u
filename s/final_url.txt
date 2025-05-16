@@ -1,0 +1,56 @@
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "03:30 FLAMENGO - LDU QUITO"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-9135fc41f2ff63.workers.dev/live/selcukssport2/playlist.m3u8&referer=https://www.selcuksportshd1803.xyz/&origin=https://www.selcuksportshd1803.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "03:30 FLAMENGO - LDU QUITO"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-9135fc41f2ff63.workers.dev/live/selcukssport2/playlist.m3u8&referer=https://www.selcuksportshd1803.xyz/&origin=https://www.selcuksportshd1803.xyz/"
+
+Grup = "ICON-BASKETBALL"
+Kanal_Adı = "03:30 DENVER NUGGETS - OKC THUNDER"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-9135fc41f2ff63.workers.dev/live/selcukssport/playlist.m3u8&referer=https://www.selcuksportshd1803.xyz/&origin=https://www.selcuksportshd1803.xyz/"
+
+Grup = "ICON-BASKETBALL"
+Kanal_Adı = "19:00 TÜRK TELEKOM - BEŞIKTAŞ FIBABANKA"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-9135fc41f2ff63.workers.dev/live/selcukbeinsports5/playlist.m3u8&referer=https://www.selcuksportshd1803.xyz/&origin=https://www.selcuksportshd1803.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "19:00 AL FATEH - AL HILAL"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-9135fc41f2ff63.workers.dev/live/selcuktrtspor/playlist.m3u8&referer=https://www.selcuksportshd1803.xyz/&origin=https://www.selcuksportshd1803.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "19:00 AL FATEH - AL HILAL"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-9135fc41f2ff63.workers.dev/live/selcuktrtspor/playlist.m3u8&referer=https://www.selcuksportshd1803.xyz/&origin=https://www.selcuksportshd1803.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:00 AL NASSR - AL TAAWON"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-9135fc41f2ff63.workers.dev/live/selcuktrtspor/playlist.m3u8&referer=https://www.selcuksportshd1803.xyz/&origin=https://www.selcuksportshd1803.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:00 AL NASSR - AL TAAWON"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-9135fc41f2ff63.workers.dev/live/selcuktrtspor/playlist.m3u8&referer=https://www.selcuksportshd1803.xyz/&origin=https://www.selcuksportshd1803.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:30 ASTON VILLA - TOTTENHAM"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-9135fc41f2ff63.workers.dev/live/selcukbeinsports2/playlist.m3u8&referer=https://www.selcuksportshd1803.xyz/&origin=https://www.selcuksportshd1803.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:30 ASTON VILLA - TOTTENHAM"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-9135fc41f2ff63.workers.dev/live/selcukbeinsports2/playlist.m3u8&referer=https://www.selcuksportshd1803.xyz/&origin=https://www.selcuksportshd1803.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 WALSALL - CHESTERFIELD"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-9135fc41f2ff63.workers.dev/live/selcuktv85/playlist.m3u8&referer=https://www.selcuksportshd1803.xyz/&origin=https://www.selcuksportshd1803.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 WALSALL - CHESTERFIELD"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-9135fc41f2ff63.workers.dev/live/selcuktv85/playlist.m3u8&referer=https://www.selcuksportshd1803.xyz/&origin=https://www.selcuksportshd1803.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:15 CHELSEA - MANCHESTER UTD"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-9135fc41f2ff63.workers.dev/live/selcukbeinsports3/playlist.m3u8&referer=https://www.selcuksportshd1803.xyz/&origin=https://www.selcuksportshd1803.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:15 CHELSEA - MANCHESTER UTD"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-9135fc41f2ff63.workers.dev/live/selcukbeinsports3/playlist.m3u8&referer=https://www.selcuksportshd1803.xyz/&origin=https://www.selcuksportshd1803.xyz/"
+
