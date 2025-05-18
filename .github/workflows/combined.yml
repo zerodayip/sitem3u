@@ -50,20 +50,20 @@ jobs:
         run: python private_py/vavoo/spor_ekrani_m3u.py
 
       # ---------------- D Section ----------------
-#     - name: Run schedule_aljson.py
-#        run: python private_py/daddyliveevent/schedule_aljson.py
+      - name: Run schedule_aljson.py
+        run: python private_py/daddyliveevent/schedule_aljson.py
 
-#      - name: Run server_key_schedule.py
-#        run: python private_py/daddyliveevent/server_key_schedule.py
+      - name: Run server_key_schedule.py
+        run: python private_py/daddyliveevent/server_key_schedule.py
 
-#      - name: Run schedule_son.py
-#        run: python private_py/daddyliveevent/schedule_son.py
+      - name: Run schedule_son.py
+        run: python private_py/daddyliveevent/schedule_son.py
 
-#      - name: Run eventm3u.py
-#        run: python private_py/daddyliveevent/eventm3u.py
+      - name: Run eventm3u.py
+        run: python private_py/daddyliveevent/eventm3uprox.py
 
-#      - name: Run convertm3u.py
-#        run: python private_py/daddyliveevent/convertm3u.py
+      - name: Run convertm3u.py
+        run: python private_py/daddyliveevent/convertm3u.py
 
       # ---------------- Kanal Section ----------------
 #      - name: Run kanal_verileri.py
