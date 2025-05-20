@@ -66,17 +66,17 @@ jobs:
         run: python private_py/daddyliveevent/convertm3u.py
 
       # ---------------- Kanal Section ----------------
-#      - name: Run kanal_verileri.py
-#        run: python private_py/daddylivekanal/kanal_verileri.py
+      - name: Run kanal_verileri.py
+        run: python private_py/daddylivekanal/kanal_verileri.py
 
-#      - name: Run server_key_kanal.py
-#        run: python private_py/daddylivekanal/server_key_kanal.py
+      - name: Run server_key_kanal.py
+        run: python private_py/daddylivekanal/server_key_kanal.py
 
-#      - name: Run kanal_birlestir.py
-#        run: python private_py/daddylivekanal/kanal_birlestir.py
+      - name: Run kanal_birlestir.py
+        run: python private_py/daddylivekanal/kanal_birlestir.py
 
-#      - name: Run kanalm3u.py
-#        run: python private_py/daddylivekanal/kanalm3u.py
+      - name: Run kanalm3u.py
+        run: python private_py/daddylivekanal/kanalm3uprox.py
 
       # ---------------- S Section ----------------
       - name: Run ana_domain.py
