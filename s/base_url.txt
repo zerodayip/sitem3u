@@ -1,0 +1,32 @@
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:00 AL SHABAB - AL ITTIHAD"
+Url = "https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcuktrtspor/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:00 AL SHABAB - AL ITTIHAD"
+Url = "https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcuktrtspor/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:45 BOULOGNE - CLERMONT"
+Url = "https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcukbeinsports2/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:45 BOULOGNE - CLERMONT"
+Url = "https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcukbeinsports2/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 CRYSTAL PALACE - WOLVERHAMPTON"
+Url = "https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcukbeinsports4/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 CRYSTAL PALACE - WOLVERHAMPTON"
+Url = "https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcukbeinsports4/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 MANCHESTER CITY - BOURNEMOUTH"
+Url = "https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcukbeinsports3/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 MANCHESTER CITY - BOURNEMOUTH"
+Url = "https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcukbeinsports3/playlist.m3u8"
+
