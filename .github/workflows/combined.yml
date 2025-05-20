@@ -60,7 +60,7 @@ jobs:
         run: python private_py/daddyliveevent/schedule_son.py
 
       - name: Run eventm3u.py
-        run: python private_py/daddyliveevent/eventm3ulogo.py
+        run: python private_py/daddyliveevent/eventm3uprox.py
 
       - name: Run convertm3u.py
         run: python private_py/daddyliveevent/convertm3u.py
