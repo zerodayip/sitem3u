@@ -47,7 +47,7 @@ jobs:
         run: python private_py/vavoo/sporekrani.py
 
       - name: Run spor_ekrani_m3u.py
-        run: python private_py/vavoo/spor_ekrani_m3u.py
+        run: python private_py/vavoo/spor_ekrani_m3uprox.py
 
       # ---------------- D Section ----------------
       - name: Run schedule_aljson.py
