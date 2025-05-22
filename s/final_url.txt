@@ -1,0 +1,28 @@
+Grup = "ICON-BASKETBALL"
+Kanal_Adı = "03:00 NEW YORK KNICKS - INDIANA PACERS"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcukssport/playlist.m3u8&referer=https://www.selcuksportshd1808.xyz/&origin=https://www.selcuksportshd1808.xyz/"
+
+Grup = "ICON-TENNIS"
+Kanal_Adı = "13:00 J.MANEIRO - A.TOMLJANOVIC"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8&referer=https://www.selcuksportshd1808.xyz/&origin=https://www.selcuksportshd1808.xyz/"
+
+Grup = "ICON-TENNIS"
+Kanal_Adı = "14:30 A.LI - M.JOINT"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8&referer=https://www.selcuksportshd1808.xyz/&origin=https://www.selcuksportshd1808.xyz/"
+
+Grup = "ICON-TENNIS"
+Kanal_Adı = "16:00 M.MATEAS - C.OSORIO"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8&referer=https://www.selcuksportshd1808.xyz/&origin=https://www.selcuksportshd1808.xyz/"
+
+Grup = "ICON-TENNIS"
+Kanal_Adı = "17:30 J.CRISTIAN - A.SEVASTOVA"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8&referer=https://www.selcuksportshd1808.xyz/&origin=https://www.selcuksportshd1808.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:30 HEIDENHEIM - ELVERSBERG"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcuktivibuspor1/playlist.m3u8&referer=https://www.selcuksportshd1808.xyz/&origin=https://www.selcuksportshd1808.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:30 HEIDENHEIM - ELVERSBERG"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcuktivibuspor1/playlist.m3u8&referer=https://www.selcuksportshd1808.xyz/&origin=https://www.selcuksportshd1808.xyz/"
+
