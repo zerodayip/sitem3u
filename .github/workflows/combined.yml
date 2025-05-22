@@ -35,7 +35,7 @@ jobs:
         run: python private_py/vavoo/datatxt.py
 
       - name: Run datatxtm3u.py
-        run: python private_py/vavoo/datatxtm3u.py
+        run: python private_py/vavoo/datatxtm3uprox.py
 
 #     - name: Run dizi_gunluk.py
 #       run: python private_py/vavoo/dizi_gunluk.py
