@@ -1,0 +1,36 @@
+Grup = "ICON-BASKETBALL"
+Kanal_Adı = "21:00 OLYMPIAKOS - MONACO"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcukssport/playlist.m3u8&referer=https://www.selcuksportshd1808.xyz/&origin=https://www.selcuksportshd1808.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:30 SAARBRUCKEN FC - BRAUNSCHWEIG"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcuktivibuspor1/playlist.m3u8&referer=https://www.selcuksportshd1808.xyz/&origin=https://www.selcuksportshd1808.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:30 SAARBRUCKEN FC - BRAUNSCHWEIG"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcuktivibuspor1/playlist.m3u8&referer=https://www.selcuksportshd1808.xyz/&origin=https://www.selcuksportshd1808.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:45 NAPOLI - CAGLIARI"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcukssport2/playlist.m3u8&referer=https://www.selcuksportshd1808.xyz/&origin=https://www.selcuksportshd1808.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:45 NAPOLI - CAGLIARI"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcukssport2/playlist.m3u8&referer=https://www.selcuksportshd1808.xyz/&origin=https://www.selcuksportshd1808.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:45 COMO - INTER"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcukssport2/playlist.m3u8&referer=https://www.selcuksportshd1808.xyz/&origin=https://www.selcuksportshd1808.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:45 COMO - INTER"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcukssport2/playlist.m3u8&referer=https://www.selcuksportshd1808.xyz/&origin=https://www.selcuksportshd1808.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 REAL BETIS - VALENCIA"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcuktivibuspor2/playlist.m3u8&referer=https://www.selcuksportshd1808.xyz/&origin=https://www.selcuksportshd1808.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 REAL BETIS - VALENCIA"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcuktivibuspor2/playlist.m3u8&referer=https://www.selcuksportshd1808.xyz/&origin=https://www.selcuksportshd1808.xyz/"
+
