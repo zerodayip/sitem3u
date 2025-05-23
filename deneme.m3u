@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="None" tvg-name="24" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a6/24_TV_logosu.png" group-title="TURKEY", 24
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1702937932/index.m3u8
