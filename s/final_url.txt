@@ -1,0 +1,104 @@
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "15:00 WUHAN JIANGDA - MELBOURNE CITY"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcuksmartspor/playlist.m3u8&referer=https://www.selcuksportshd1808.xyz/&origin=https://www.selcuksportshd1808.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "15:00 WUHAN JIANGDA - MELBOURNE CITY"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcuksmartspor/playlist.m3u8&referer=https://www.selcuksportshd1808.xyz/&origin=https://www.selcuksportshd1808.xyz/"
+
+Grup = "ICON-BASKETBALL"
+Kanal_Adı = "15:30 GALATASARAY - BÜYÜKÇEKMECE"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcukbeinsports5/playlist.m3u8&referer=https://www.selcuksportshd1808.xyz/&origin=https://www.selcuksportshd1808.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "16:00 EYÜPSPOR - ANTALYASPOR"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcukbeinsports1/playlist.m3u8&referer=https://www.selcuksportshd1808.xyz/&origin=https://www.selcuksportshd1808.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "16:00 EYÜPSPOR - ANTALYASPOR"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcukbeinsports1/playlist.m3u8&referer=https://www.selcuksportshd1808.xyz/&origin=https://www.selcuksportshd1808.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "17:00 SHEFFIELD UTD - SUNDERLAND"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcuktv85/playlist.m3u8&referer=https://www.selcuksportshd1808.xyz/&origin=https://www.selcuksportshd1808.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "17:00 SHEFFIELD UTD - SUNDERLAND"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcuktv85/playlist.m3u8&referer=https://www.selcuksportshd1808.xyz/&origin=https://www.selcuksportshd1808.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "17:15 REAL MADRID - REAL SOCIEDAD"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcukssport/playlist.m3u8&referer=https://www.selcuksportshd1808.xyz/&origin=https://www.selcuksportshd1808.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "17:15 REAL MADRID - REAL SOCIEDAD"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcukssport/playlist.m3u8&referer=https://www.selcuksportshd1808.xyz/&origin=https://www.selcuksportshd1808.xyz/"
+
+Grup = "ICON-BASKETBALL"
+Kanal_Adı = "18:00 BURSASPOR - TÜRK TELEKOM"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcukbeinsports5/playlist.m3u8&referer=https://www.selcuksportshd1808.xyz/&origin=https://www.selcuksportshd1808.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "18:15 JDA DIJON - RENNES"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcukbeinsports3/playlist.m3u8&referer=https://www.selcuksportshd1808.xyz/&origin=https://www.selcuksportshd1808.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "18:15 JDA DIJON - RENNES"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcukbeinsports3/playlist.m3u8&referer=https://www.selcuksportshd1808.xyz/&origin=https://www.selcuksportshd1808.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "19:00 GAZIANTEP FK - KASIMPAŞA"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcukbeinsports2/playlist.m3u8&referer=https://www.selcuksportshd1808.xyz/&origin=https://www.selcuksportshd1808.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "19:00 GAZIANTEP FK - KASIMPAŞA"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcukbeinsports2/playlist.m3u8&referer=https://www.selcuksportshd1808.xyz/&origin=https://www.selcuksportshd1808.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "19:00 GÖZTEPE - GALATASARAY"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcukbeinsports1/playlist.m3u8&referer=https://www.selcuksportshd1808.xyz/&origin=https://www.selcuksportshd1808.xyz/"
+
+Grup = "ICON-BASKETBALL"
+Kanal_Adı = "19:00 BASKONIA - BILBAO BASKET"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcuksmartspor/playlist.m3u8&referer=https://www.selcuksportshd1808.xyz/&origin=https://www.selcuksportshd1808.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "19:00 GÖZTEPE - GALATASARAY"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcukbeinsports1/playlist.m3u8&referer=https://www.selcuksportshd1808.xyz/&origin=https://www.selcuksportshd1808.xyz/"
+
+Grup = "ICON-BASKETBALL"
+Kanal_Adı = "20:30 ANADOLU EFES - BEŞIKTAŞ FIBABANKA"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcukbeinsports5/playlist.m3u8&referer=https://www.selcuksportshd1808.xyz/&origin=https://www.selcuksportshd1808.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:00 CHARLEROI - LEUVEN"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcuktv85/playlist.m3u8&referer=https://www.selcuksportshd1808.xyz/&origin=https://www.selcuksportshd1808.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:00 CHARLEROI - LEUVEN"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcuktv85/playlist.m3u8&referer=https://www.selcuksportshd1808.xyz/&origin=https://www.selcuksportshd1808.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:45 MILAN - MONZA"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcukssport2/playlist.m3u8&referer=https://www.selcuksportshd1808.xyz/&origin=https://www.selcuksportshd1808.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:45 MILAN - MONZA"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcukssport2/playlist.m3u8&referer=https://www.selcuksportshd1808.xyz/&origin=https://www.selcuksportshd1808.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 PSG - REIMS"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcukbeinsports3/playlist.m3u8&referer=https://www.selcuksportshd1808.xyz/&origin=https://www.selcuksportshd1808.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 GETAFE - CELTA VIGO"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcukssport/playlist.m3u8&referer=https://www.selcuksportshd1808.xyz/&origin=https://www.selcuksportshd1808.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 PSG - REIMS"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcukbeinsports3/playlist.m3u8&referer=https://www.selcuksportshd1808.xyz/&origin=https://www.selcuksportshd1808.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 GETAFE - CELTA VIGO"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-2bfd133bf391b2.workers.dev/live/selcukssport/playlist.m3u8&referer=https://www.selcuksportshd1808.xyz/&origin=https://www.selcuksportshd1808.xyz/"
+
