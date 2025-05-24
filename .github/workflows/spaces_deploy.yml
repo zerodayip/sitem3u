@@ -1,0 +1,32 @@
+name: Deploy Spaces
+
+on:
+  workflow_dispatch:
+
+jobs:
+  deploy-spaces:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Clone Private Repository (Py)
+        run: |
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/Py.git private_py
+
+      - name: Install Python dependencies
+        run: |
+          pip install requests
+
+      - name: Run Deploy Script
+        run: |
+          python private_py/deploy_spaces.py
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
