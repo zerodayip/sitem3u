@@ -1,0 +1,36 @@
+Grup = "ICON-BASKETBALL"
+Kanal_Adı = "20:30 ANADOLU EFES - BEŞIKTAŞ FIBABANKA"
+Url = "https://alpha.cf-worker-42e8f204e75bbe.workers.dev/live/selcukbeinsports5/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:00 CHARLEROI - LEUVEN"
+Url = "https://alpha.cf-worker-42e8f204e75bbe.workers.dev/live/selcuktv85/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:00 CHARLEROI - LEUVEN"
+Url = "https://alpha.cf-worker-42e8f204e75bbe.workers.dev/live/selcuktv85/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:45 MILAN - MONZA"
+Url = "https://alpha.cf-worker-42e8f204e75bbe.workers.dev/live/selcukssport2/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:45 MILAN - MONZA"
+Url = "https://alpha.cf-worker-42e8f204e75bbe.workers.dev/live/selcukssport2/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 GETAFE - CELTA VIGO"
+Url = "https://alpha.cf-worker-42e8f204e75bbe.workers.dev/live/selcukssport/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 PSG - REIMS"
+Url = "https://alpha.cf-worker-42e8f204e75bbe.workers.dev/live/selcukbeinsports3/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 GETAFE - CELTA VIGO"
+Url = "https://alpha.cf-worker-42e8f204e75bbe.workers.dev/live/selcukssport/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 PSG - REIMS"
+Url = "https://alpha.cf-worker-42e8f204e75bbe.workers.dev/live/selcukbeinsports3/playlist.m3u8"
+
