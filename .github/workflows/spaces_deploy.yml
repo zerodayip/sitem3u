@@ -20,9 +20,13 @@ jobs:
         run: |
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/Py.git private_py
 
+      - name: Clone tvproxy Repository
+        run: |
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/tvproxy.git tvproxy
+
       - name: Install Python dependencies
         run: |
-          pip install requests
+          pip install requests huggingface_hub
 
       - name: Run Deploy Script
         run: |
