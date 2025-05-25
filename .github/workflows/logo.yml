@@ -1,4 +1,4 @@
-name: Push logo
+name: Push Logo
 
 on:
   workflow_dispatch:
@@ -26,8 +26,8 @@ jobs:
 
       - name: Merge M3U Playlists with Logos
         run: |
-          mkdir -p private_py/logo
-          python private_py/birlestir.py
+          mkdir -p logo
+          python private_py/birlestir2.py
 
       - name: Configure Git for Commit
         run: |
@@ -36,5 +36,5 @@ jobs:
 
       - name: Commit and Push Only playlist.m3u and logo folder
         run: |
-          git add playlist.m3u private_py/logo/
+          git add playlist.m3u logo/
           git diff --cached --quiet || (git commit -m "Update playlist.m3u and logos via GitHub Actions" && git push)
