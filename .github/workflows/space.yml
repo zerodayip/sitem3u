@@ -1,4 +1,4 @@
-name: USERS JSON UPDATE
+name: Users Json Update
 
 on:
   workflow_dispatch:
@@ -24,7 +24,9 @@ jobs:
         run: |
           pip install PyGithub
 
-      - name: hfspaceupdate.py
+      - name: Run hfspaceupdate.py
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           python private_py/hfspaceupdate.py
 
