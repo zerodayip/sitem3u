@@ -1,4 +1,4 @@
-name: Push Logo
+name: USERS JSON UPDATE
 
 on:
   workflow_dispatch:
@@ -22,19 +22,13 @@ jobs:
 
       - name: Install Python dependencies
         run: |
-          pip install requests pillow
+          pip install PyGithub
 
       - name: Merge M3U Playlists with Logos
         run: |
-          mkdir -p logo
-          python private_py/birlestir2.py
+          python private_py/hfspaceupdate.py
 
       - name: Configure Git for Commit
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-
-      - name: Commit and Push Only playlist.m3u and logo folder
-        run: |
-          git add playlist.m3u logo/
-          git diff --cached --quiet || (git commit -m "Update playlist.m3u and logos via GitHub Actions" && git push)
