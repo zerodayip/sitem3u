@@ -1,7 +1,0 @@
-#EXTM3U 
-
-#EXTINF:-1 tvg-id="expireinfo" tvg-name="Abonelik Bilgisi" tvg-logo="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" group-title="SİSTEM", Kullanıcı: kullanici2 | Bitiş: 1 Temmuz 2025 
-http://info.local/kullanici2 
-
-#EXTINF:-1 tvg-id="None" tvg-name="SPOR SMART" tvg-logo="https://img.yayinekrani.com/sports/HrHBG9jQU5nv4zO5utrTJ24yp69ol4V8nZX5n2rh.svg" group-title="GÜNLÜK SPOR AKIŞI", 00:30 CA INDEPENDIENTE - HURACAN (SPOR SMART) 
-https://zeroipday-kullanici2.hf.space/proxy/m3u?url=https://vavoo.to/play/1771511397/index.m3u8&username=kullanici2&password=sifre2
