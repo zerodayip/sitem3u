@@ -1,0 +1,40 @@
+name: Push logo
+
+on:
+  workflow_dispatch:
+
+jobs:
+  merge-m3u-playlists:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Clone Private Repository (Py)
+        run: |
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/Py.git private_py
+
+      - name: Install Python dependencies
+        run: |
+          pip install requests pillow
+
+      - name: Merge M3U Playlists with Logos
+        run: |
+          mkdir -p private_py/logo
+          python private_py/birlestir.py
+
+      - name: Configure Git for Commit
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+
+      - name: Commit and Push Only playlist.m3u and logo folder
+        run: |
+          git add playlist.m3u private_py/logo/
+          git diff --cached --quiet || (git commit -m "Update playlist.m3u and logos via GitHub Actions" && git push)
