@@ -1,0 +1,60 @@
+Grup = "ICON-BASKETBALL"
+Kanal_Adı = "19:00 BÜYÜKÇEKMECE - TÜRK TELEKOM"
+Url = "https://alpha.cf-worker-21e872485b5dfe.workers.dev/live/selcukbeinsports5/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "19:00 HATAYSPOR - FENERBAHÇE (ÇOKLU KALITE)"
+Url = "https://due.08e097e16e4d85a6.click/itis/8c1437d28413db5112720e3ce0579154/master.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "19:00 HATAYSPOR - FENERBAHÇE (ÇOKLU KALITE)"
+Url = "https://due.08e097e16e4d85a6.click/itis/8c1437d28413db5112720e3ce0579154/master.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "20:00 HATAYSPOR - FENERBAHÇE HD1"
+Url = "https://due.08e097e16e4d85a6.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "20:00 HATAYSPOR - FENERBAHÇE"
+Url = "https://alpha.cf-worker-21e872485b5dfe.workers.dev/live/selcukbeinsports1/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "20:00 HATAYSPOR - FENERBAHÇE HD1"
+Url = "https://due.08e097e16e4d85a6.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "20:00 HATAYSPOR - FENERBAHÇE"
+Url = "https://alpha.cf-worker-21e872485b5dfe.workers.dev/live/selcukbeinsports1/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:00 AL FATEH - AL NASSR"
+Url = "https://alpha.cf-worker-21e872485b5dfe.workers.dev/live/selcuktrtspor/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:00 AL ITTIHAD - DAMAC"
+Url = "https://alpha.cf-worker-21e872485b5dfe.workers.dev/live/selcuktrtspor/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:00 AL HILAL - AL QADISIYA"
+Url = "https://alpha.cf-worker-21e872485b5dfe.workers.dev/live/selcuktrtspor/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:00 AL ITTIHAD - DAMAC"
+Url = "https://alpha.cf-worker-21e872485b5dfe.workers.dev/live/selcuktrtspor/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:00 AL FATEH - AL NASSR"
+Url = "https://alpha.cf-worker-21e872485b5dfe.workers.dev/live/selcuktrtspor/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:00 AL HILAL - AL QADISIYA"
+Url = "https://alpha.cf-worker-21e872485b5dfe.workers.dev/live/selcuktrtspor/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:30 ELVERSBERG - HEIDENHEIM"
+Url = "https://alpha.cf-worker-21e872485b5dfe.workers.dev/live/selcuktivibuspor1/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:30 ELVERSBERG - HEIDENHEIM"
+Url = "https://alpha.cf-worker-21e872485b5dfe.workers.dev/live/selcuktivibuspor1/playlist.m3u8"
+
