@@ -1,0 +1,32 @@
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:00 AL HILAL - AL QADISIYA"
+Url = "https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcuktrtspor/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:00 AL ITTIHAD - DAMAC"
+Url = "https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcuktrtspor/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:00 AL FATEH - AL NASSR"
+Url = "https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcuktrtspor/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:00 AL HILAL - AL QADISIYA"
+Url = "https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcuktrtspor/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:00 AL ITTIHAD - DAMAC"
+Url = "https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcuktrtspor/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:00 AL FATEH - AL NASSR"
+Url = "https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcuktrtspor/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:30 ELVERSBERG - HEIDENHEIM"
+Url = "https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcuktivibuspor1/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:30 ELVERSBERG - HEIDENHEIM"
+Url = "https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcuktivibuspor1/playlist.m3u8"
+
