@@ -1,14 +1,16 @@
-name: Run RecTV Script (M3U Generator)
+name: Run RecTV Script
 
 on:
   workflow_dispatch:
+  # schedule:
+  #   - cron: '0 */3 * * *' # İsteğe bağlı zamanlama
 
 jobs:
-  generate-m3u:
+  run-rectv:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Public Repository
+      - name: Checkout Public Repo
         uses: actions/checkout@v2
         with:
           fetch-depth: 0
@@ -19,28 +21,30 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Clone Private Repository
+      - name: Clone Private Py Repo
         run: |
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/Py.git private_py
 
-      - name: Install Python dependencies
+      - name: Install Dependencies
         run: |
-          pip install --upgrade pip
-          pip install requests aiohttp aiofiles
+          python -m pip install --upgrade pip
+          pip install aiohttp aiofiles requests
 
       - name: Run RecTV Script
         run: python private_py/rectv/rectv.py
+
+      - name: Copy M3U Files
+        run: |
+          cp private_py/rectv/r/main.m3u ./r/main.m3u
+          cp private_py/rectv/r/dizi.m3u ./r/dizi.m3u
 
       - name: Configure Git
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
 
-      - name: Set remote URL
-        run: git remote set-url origin https://github.com/zerodayip/sitem3u.git
-
-      - name: Commit and Push M3U Files
+      - name: Commit and Push
         run: |
           git add r/main.m3u r/dizi.m3u
-          git commit -m "Update r/main.m3u and r/dizi.m3u via RecTV workflow" || echo "No changes to commit"
+          git commit -m "Auto update M3U files from RecTV" || echo "No changes to commit"
           git push origin main
