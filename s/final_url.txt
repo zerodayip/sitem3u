@@ -1,0 +1,12 @@
+Grup = "ICON-BASKETBALL"
+Kanal_Adı = "03:30 MINNESOTA TW - OKC THUNDER"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukssport/playlist.m3u8&referer=https://www.selcuksportshd1814.xyz/&origin=https://www.selcuksportshd1814.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:30 BRAUNSCHWEIG - SAARBRUCKEN FC"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcuktivibuspor1/playlist.m3u8&referer=https://www.selcuksportshd1814.xyz/&origin=https://www.selcuksportshd1814.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:30 BRAUNSCHWEIG - SAARBRUCKEN FC"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcuktivibuspor1/playlist.m3u8&referer=https://www.selcuksportshd1814.xyz/&origin=https://www.selcuksportshd1814.xyz/"
+
