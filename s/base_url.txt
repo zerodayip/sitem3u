@@ -1,8 +1,0 @@
-Grup = "ICON-SOCCER-BALL"
-Kanal_Adı = "22:00 REAL BETIS - CHELSEA"
-Url = "https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcuktrt1/playlist.m3u8"
-
-Grup = "ICON-SOCCER-BALL"
-Kanal_Adı = "22:00 REAL BETIS - CHELSEA"
-Url = "https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcuktrt1/playlist.m3u8"
-
