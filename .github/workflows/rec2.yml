@@ -31,13 +31,6 @@ jobs:
       - name: Run RecTV Script
         run: python private_py/rectv/rectv.py
 
-      - name: Print RecTV output files
-        run: |
-          echo "📝 main.m3u:"
-          cat r/main.m3u || echo "main.m3u yok"
-          echo "📝 dizi.m3u:"
-          cat r/dizi.m3u || echo "dizi.m3u yok"
-
       # ✅ Public repoya push
       - name: Commit and Push to Public Repo (sitem3u)
         run: |
