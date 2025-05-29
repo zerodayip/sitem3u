@@ -30,8 +30,8 @@ jobs:
 
       - name: Merge M3U Playlists
         run: |
-         python private_py/birlestiryeni.py ${{ secrets.GH_TOKEN }}
-         
+          python private_py/birlestir.py
+
       - name: Configure Git for Commit
         run: |
           git config --global user.name "GitHub Actions"
