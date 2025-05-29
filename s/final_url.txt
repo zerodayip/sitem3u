@@ -1,4 +1,0 @@
-Grup = "ICON-BASKETBALL"
-Kanal_Adı = "20:30 FENERBAHÇE BEKO - TÜRK TELEKOM"
-Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukbeinsports5/playlist.m3u8&referer=https://www.selcuksportshd1814.xyz/&origin=https://www.selcuksportshd1814.xyz/"
-
