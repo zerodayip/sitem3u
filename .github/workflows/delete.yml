@@ -29,6 +29,10 @@ jobs:
         run: |
           find v -type f ! -name 'logo.txt' ! -name 'bos.txt' -exec git rm {} \;
 
+      - name: Delete all files except a.txt in 'r' folder
+        run: |
+          find r -type f ! -name 'a.txt' -exec git rm {} \;
+
       - name: Delete all files except logo.txt and ana_link.txt in 's' folder
         run: |
           find s -type f ! -name 'logo.txt' ! -name 'ana_link.txt' -exec git rm {} \;
