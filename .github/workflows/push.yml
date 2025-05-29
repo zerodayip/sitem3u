@@ -30,7 +30,7 @@ jobs:
 
       - name: Merge M3U Playlists
         run: |
-          python private_py/birlestir.py
+          python private_py/birlestiryeni.py
 
       - name: Configure Git for Commit
         run: |
