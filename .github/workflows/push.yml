@@ -6,7 +6,6 @@ on:
     workflows: ["Unified Python Workflow"]
     types:
       - completed
-
 jobs:
   merge-m3u-playlists:
     runs-on: ubuntu-latest
@@ -29,8 +28,10 @@ jobs:
           pip install requests
 
       - name: Merge M3U Playlists
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
-          python private_py/birlestir.py
+          python private_py/birlestiryeni.py
 
       - name: Configure Git for Commit
         run: |
@@ -65,13 +66,13 @@ jobs:
 
       - name: Copy ONLY playlist.m3u to m3u8 folder in Private Py Repo
         run: |
-          mkdir -p private_py/m3u8
-          cp playlist.m3u private_py/m3u8/
+          mkdir -p private_py/allm3u
+          cp playlist.m3u private_py/allm3u/
 
       - name: Check if playlist.m3u is copied
         run: |
-          echo "Files in m3u8 folder:"
-          ls private_py/m3u8
+          echo "Files in allm3u folder:"
+          ls private_py/allm3u
 
       - name: Configure Git for Commit (Again)
         run: |
@@ -81,7 +82,7 @@ jobs:
       - name: Commit and Push ONLY playlist.m3u to Private Py Repo
         run: |
           cd private_py
-          git add m3u8/playlist.m3u
+          git add allm3u/playlist.m3u
           git diff --cached --quiet || git commit -m "Sync playlist.m3u into m3u8 folder [auto]"
           git push origin main
 
