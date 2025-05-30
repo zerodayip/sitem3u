@@ -1,0 +1,64 @@
+Grup = "ICON-TENNIS"
+Kanal_Adı = "15:00 CALVO/ULRICH - ARAUJO/PRIETO"
+Url = "https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
+
+Grup = "ICON-TENNIS"
+Kanal_Adı = "17:00 MARTIN/FALLADA - ZIELINSKI/PELEGRI"
+Url = "https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
+
+Grup = "ICON-BASKETBALL"
+Kanal_Adı = "18:00 ANADOLU EFES - MERSIN SPOR"
+Url = "https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukbeinsports5/playlist.m3u8"
+
+Grup = "ICON-TENNIS"
+Kanal_Adı = "19:00 NENNO/TELLO - CHINGOTTO/GALAN"
+Url = "https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
+
+Grup = "ICON-BASKETBALL"
+Kanal_Adı = "19:30 ZARAGOZA - REAL MADRID"
+Url = "https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcuksmartspor/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "20:00 KASIMPAŞA - GÖZTEPE"
+Url = "https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukbeinsports3/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "20:00 KASIMPAŞA - GÖZTEPE"
+Url = "https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukbeinsports3/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "20:00 GALATASARAY - RAMS BAŞAKŞEHIR"
+Url = "https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukbeinsports1/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "20:00 TÜRKIYE - İRLANDA"
+Url = "https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcuktrtspor/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "20:00 TÜRKIYE - İRLANDA"
+Url = "https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcuktrtspor/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "20:00 ANTALYASPOR - TRABZONSPOR"
+Url = "https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukbeinsports2/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "20:00 ANTALYASPOR - TRABZONSPOR"
+Url = "https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukbeinsports2/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "20:00 GALATASARAY - RAMS BAŞAKŞEHIR"
+Url = "https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukbeinsports1/playlist.m3u8"
+
+Grup = "ICON-BASKETBALL"
+Kanal_Adı = "20:30 BEŞIKTAŞ FIBABANKA - GALATASARAY"
+Url = "https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukbeinsports5/playlist.m3u8"
+
+Grup = "ICON-BASKETBALL"
+Kanal_Adı = "22:00 MANRESA - IBEROSTAR TENERIFE"
+Url = "https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcuksmartspor/playlist.m3u8"
+
+Grup = "ICON-TENNIS"
+Kanal_Adı = "23:30 ALCORISA/JENSEN - SENESI/PONS"
+Url = "https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
+
