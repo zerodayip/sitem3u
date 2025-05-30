@@ -1,0 +1,8 @@
+Grup = "ICON-BASKETBALL"
+Kanal_Adı = "22:00 MANRESA - IBEROSTAR TENERIFE"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcuksmartspor/playlist.m3u8&referer=https://www.selcuksportshd1819.xyz/&origin=https://www.selcuksportshd1819.xyz/"
+
+Grup = "ICON-TENNIS"
+Kanal_Adı = "23:30 ALCORISA/JENSEN - SENESI/PONS"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8&referer=https://www.selcuksportshd1819.xyz/&origin=https://www.selcuksportshd1819.xyz/"
+
