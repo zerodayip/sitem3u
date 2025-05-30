@@ -37,12 +37,6 @@ jobs:
       - name: Run datatxtm3u.py
         run: python private_py/vavoo/datatxtm3uprox.py
 
-#     - name: Run dizi_gunluk.py
-#       run: python private_py/vavoo/dizi_gunluk.py
-
-#     - name: Run diziler_m3u.py
-#       run: python private_py/vavoo/diziler_m3u.py
-
       - name: Run sporekrani.py
         run: python private_py/vavoo/sporekrani.py
 
@@ -85,25 +79,33 @@ jobs:
       - name: Run baseurl.py
         run: python private_py/selcuk/baseurl.py
 
-#     - name: Run datahtml.py
-#       run: python private_py/selcuk/datahtml.py
-
-#     - name: Run mac_verileri.py
-#       run: python private_py/selcuk/mac_verileri.py
-
       - name: Run encode.py
         run: python private_py/selcuk/encode.py
 
       - name: Run m3u.py
         run: python private_py/selcuk/m3u.py
 
-      # ---------------- Commit / Push ----------------
-      - name: Add all changes
-        run: git add -A
-
-      - name: Commit and Push Changes
+      # ---------------- STEP 1: Public Repo Push (sitem3u) ----------------
+      - name: Commit and Push to Public Repo (sitem3u)
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git commit -m "Update all output files via unified workflow" || echo "No changes to commit"
+          git add -A
+          git commit -m "Update all output files via unified workflow [auto]" || echo "No changes"
+          git push origin main
+
+      # ---------------- STEP 2: Copy .m3u Files to Private Repo ----------------
+      - name: Copy all .m3u files to private_py/m3u8
+        run: |
+          mkdir -p private_py/m3u8
+          find d s v sdizi -type f -name "*.m3u" -exec cp {} private_py/m3u8/ \; || echo "No .m3u files found"
+
+      # ---------------- STEP 3: Private Repo Push (Py) ----------------
+      - name: Commit and Push to Private Repo (Py)
+        run: |
+          cd private_py
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add m3u8/*.m3u
+          git commit -m "Copied .m3u files to m3u8 [auto]" || echo "No changes"
           git push origin main
