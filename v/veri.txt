@@ -223,6 +223,11 @@ SAAT= 15:00
 KANAL= HT SPOR HD
 LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg
 
+MAÇ ADI= CALVO/ULRICH - ARAUJO/PRIETO
+SAAT= 15:00
+KANAL= BEIN SPORTS MAX 1
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/AffkZa98ZDeZMJUJ5hsCwWZPmnUIminMCG3Q8Ri1.svg
+
 MAÇ ADI= TRENDYOL SÜPER LIG
 SAAT= 15:30
 KANAL= TRT SPOR
@@ -281,6 +286,11 @@ LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/NCWACnWeGJBJTML
 MAÇ ADI= J.PAOLINI - Y.STARODUBTSEVA
 SAAT= 17:00
 KANAL= EUROSPORT 2
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/AffkZa98ZDeZMJUJ5hsCwWZPmnUIminMCG3Q8Ri1.svg
+
+MAÇ ADI= MARTIN/FALLADA - ZIELINSKI/PELEGRI
+SAAT= 17:00
+KANAL= BEIN SPORTS MAX 1
 LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/AffkZa98ZDeZMJUJ5hsCwWZPmnUIminMCG3Q8Ri1.svg
 
 MAÇ ADI= DÜNYADAN SPOR
@@ -373,6 +383,11 @@ SAAT= 19:00
 KANAL= BEIN SPORTS 1 H265
 LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg
 
+MAÇ ADI= NENNO/TELLO - CHINGOTTO/GALAN
+SAAT= 19:00
+KANAL= BEIN SPORTS MAX 1
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/AffkZa98ZDeZMJUJ5hsCwWZPmnUIminMCG3Q8Ri1.svg
+
 MAÇ ADI= GS TV ANA HABER
 SAAT= 19:05
 KANAL= GS TV
@@ -397,11 +412,6 @@ MAÇ ADI= ANTRENMAN SEANSI
 SAAT= 19:30
 KANAL= BEIN SPORTS 4
 LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/NCWACnWeGJBJTMLG11AhxVYSn2nUUnTFs6mb5qKZ.svg
-
-MAÇ ADI= ALMANYA FINALLER YAYIN 2
-SAAT= 19:30
-KANAL= TRT SPOR YILDIZ
-LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/es5OZ5wmRqCTdpHPPVXr8A6swj4DWQfajg44CVWy.svg
 
 MAÇ ADI= KARIŞIK FINALLER
 SAAT= 19:30
@@ -607,4 +617,9 @@ MAÇ ADI= SPOR GECESI
 SAAT= 23:30
 KANAL= BEIN SPORTS HABER
 LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg
+
+MAÇ ADI= ALCORISA/JENSEN - SENESI/PONS
+SAAT= 23:30
+KANAL= BEIN SPORTS MAX 1
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/AffkZa98ZDeZMJUJ5hsCwWZPmnUIminMCG3Q8Ri1.svg
 
