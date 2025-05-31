@@ -1,0 +1,36 @@
+Grup = "ICON-BASKETBALL"
+Kanal_Adı = "20:30 TÜRK TELEKOM - FENERBAHÇE BEKO"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukbeinsports5/playlist.m3u8&referer=https://www.selcuksportshd1823.xyz/&origin=https://www.selcuksportshd1823.xyz/"
+
+Grup = "ICON-TENNIS"
+Kanal_Adı = "20:30 MARTIN/FALLADA - CALVO/ULRICH"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8&referer=https://www.selcuksportshd1823.xyz/&origin=https://www.selcuksportshd1823.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 PSG - INTER (ÇOKLU KALITE)"
+Url = "https://playerpro.live/proxy.php?url=https://due.3dcaa0c5a84bda3a.click/itis/8c1437d28413db5112720e3ce0579154/master.m3u8&referer=https://www.selcuksportshd1823.xyz/&origin=https://www.selcuksportshd1823.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 PSG - INTER (ÇOKLU KALITE)"
+Url = "https://playerpro.live/proxy.php?url=https://due.3dcaa0c5a84bda3a.click/itis/8c1437d28413db5112720e3ce0579154/master.m3u8&referer=https://www.selcuksportshd1823.xyz/&origin=https://www.selcuksportshd1823.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 PSG - INTER HD1"
+Url = "https://playerpro.live/proxy.php?url=https://due.3dcaa0c5a84bda3a.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8&referer=https://www.selcuksportshd1823.xyz/&origin=https://www.selcuksportshd1823.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 PSG - INTER HD1"
+Url = "https://playerpro.live/proxy.php?url=https://due.3dcaa0c5a84bda3a.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8&referer=https://www.selcuksportshd1823.xyz/&origin=https://www.selcuksportshd1823.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 PSG - INTER"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcuktrt1/playlist.m3u8&referer=https://www.selcuksportshd1823.xyz/&origin=https://www.selcuksportshd1823.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 PSG - INTER"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcuktrt1/playlist.m3u8&referer=https://www.selcuksportshd1823.xyz/&origin=https://www.selcuksportshd1823.xyz/"
+
+Grup = "ICON-TENNIS"
+Kanal_Adı = "22:30 SANCHEZ/FERNANDEZ - SENESI/PONS"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8&referer=https://www.selcuksportshd1823.xyz/&origin=https://www.selcuksportshd1823.xyz/"
+
