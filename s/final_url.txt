@@ -1,0 +1,56 @@
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "16:00 Ç.RIZESPOR - HATAYSPOR"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukbeinsports2/playlist.m3u8&referer=https://www.selcuksportshd1820.xyz/&origin=https://www.selcuksportshd1820.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "16:00 FENERBAHÇE - KONYASPOR"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukbeinsports1/playlist.m3u8&referer=https://www.selcuksportshd1820.xyz/&origin=https://www.selcuksportshd1820.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "16:00 Ç.RIZESPOR - HATAYSPOR"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukbeinsports2/playlist.m3u8&referer=https://www.selcuksportshd1820.xyz/&origin=https://www.selcuksportshd1820.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "16:00 FENERBAHÇE - KONYASPOR"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukbeinsports1/playlist.m3u8&referer=https://www.selcuksportshd1820.xyz/&origin=https://www.selcuksportshd1820.xyz/"
+
+Grup = "ICON-BASKETBALL"
+Kanal_Adı = "18:00 BAHÇEŞEHIR KLJ - TOFAŞ"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukbeinsports5/playlist.m3u8&referer=https://www.selcuksportshd1820.xyz/&origin=https://www.selcuksportshd1820.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "19:00 ADANA DEMIRSPOR - GAZIANTEP FK"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukbeinsports2/playlist.m3u8&referer=https://www.selcuksportshd1820.xyz/&origin=https://www.selcuksportshd1820.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "19:00 ALANYASPOR - SIVASSPOR"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukbeinsports1/playlist.m3u8&referer=https://www.selcuksportshd1820.xyz/&origin=https://www.selcuksportshd1820.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "19:00 ADANA DEMIRSPOR - GAZIANTEP FK"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukbeinsports2/playlist.m3u8&referer=https://www.selcuksportshd1820.xyz/&origin=https://www.selcuksportshd1820.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "19:00 ALANYASPOR - SIVASSPOR"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukbeinsports1/playlist.m3u8&referer=https://www.selcuksportshd1820.xyz/&origin=https://www.selcuksportshd1820.xyz/"
+
+Grup = "ICON-TENNIS"
+Kanal_Adı = "20:30 MARTIN/FALLADA - CALVO/ULRICH"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8&referer=https://www.selcuksportshd1820.xyz/&origin=https://www.selcuksportshd1820.xyz/"
+
+Grup = "ICON-BASKETBALL"
+Kanal_Adı = "20:30 TÜRK TELEKOM - FENERBAHÇE BEKO"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukbeinsports5/playlist.m3u8&referer=https://www.selcuksportshd1820.xyz/&origin=https://www.selcuksportshd1820.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 PSG - INTER"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcuktrt1/playlist.m3u8&referer=https://www.selcuksportshd1820.xyz/&origin=https://www.selcuksportshd1820.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 PSG - INTER"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcuktrt1/playlist.m3u8&referer=https://www.selcuksportshd1820.xyz/&origin=https://www.selcuksportshd1820.xyz/"
+
+Grup = "ICON-TENNIS"
+Kanal_Adı = "22:30 SANCHEZ/FERNANDEZ - SENESI/PONS"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8&referer=https://www.selcuksportshd1820.xyz/&origin=https://www.selcuksportshd1820.xyz/"
+
