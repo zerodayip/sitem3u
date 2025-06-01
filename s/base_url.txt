@@ -1,0 +1,76 @@
+Grup = "ICON-TENNIS"
+Kanal_Adı = "01:30 GONZALEZ/SANZ - STUPACZUK/LEBRON"
+Url = "https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
+
+Grup = "ICON-TENNIS"
+Kanal_Adı = "02:30 COELLO/TAPIA - ALONSO/BAUTISTA"
+Url = "https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
+
+Grup = "ICON-BASKETBALL"
+Kanal_Adı = "03:00 INDIANA PACERS - NEW YORK KNICKS"
+Url = "https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukssport/playlist.m3u8"
+
+Grup = "ICON-BASKETBALL"
+Kanal_Adı = "18:00 MERSIN SPOR - ANADOLU EFES"
+Url = "https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukbeinsports5/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "19:00 SAMSUNSPOR - KAYSERISPOR"
+Url = "https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukbeinsports2/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "19:00 SAMSUNSPOR - KAYSERISPOR"
+Url = "https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukbeinsports2/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "19:00 BODRUMSPOR - BEŞIKTAŞ"
+Url = "https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukbeinsports1/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "19:00 BODRUMSPOR - BEŞIKTAŞ"
+Url = "https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukbeinsports1/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "20:00 GALACTICOS DEL CARIBE - ERA COLONIA"
+Url = "https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukssport2/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "20:00 GALACTICOS DEL CARIBE - ERA COLONIA"
+Url = "https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukssport2/playlist.m3u8"
+
+Grup = "ICON-BASKETBALL"
+Kanal_Adı = "20:30 GALATASARAY - BEŞIKTAŞ FIBABANKA"
+Url = "https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukbeinsports5/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:00 G2 - ULTIMATE MOSTOLES"
+Url = "https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukssport2/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:00 G2 - ULTIMATE MOSTOLES"
+Url = "https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukssport2/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 FURIA - KUNISPORTS"
+Url = "https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukssport/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 FURIA - KUNISPORTS"
+Url = "https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukssport/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "23:00 PORCINOS - MIAMI 7"
+Url = "https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukssport/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "23:00 HURACAN - CA PLATENSE"
+Url = "https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcuksmartspor/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "23:00 HURACAN - CA PLATENSE"
+Url = "https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcuksmartspor/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "23:00 PORCINOS - MIAMI 7"
+Url = "https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukssport/playlist.m3u8"
+
