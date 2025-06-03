@@ -1,0 +1,24 @@
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "20:00 YUNANISTAN - TÜRKIYE"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-7df90b083f9d09.workers.dev/live/selcuktrtspor/playlist.m3u8&referer=https://www.selcuksportshd1825.xyz/&origin=https://www.selcuksportshd1825.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "20:00 YUNANISTAN - TÜRKIYE"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-7df90b083f9d09.workers.dev/live/selcuktrtspor/playlist.m3u8&referer=https://www.selcuksportshd1825.xyz/&origin=https://www.selcuksportshd1825.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:00 GEAR7 - KARASU"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-7df90b083f9d09.workers.dev/live/selcukssport/playlist.m3u8&referer=https://www.selcuksportshd1825.xyz/&origin=https://www.selcuksportshd1825.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:00 GEAR7 - KARASU"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-7df90b083f9d09.workers.dev/live/selcukssport/playlist.m3u8&referer=https://www.selcuksportshd1825.xyz/&origin=https://www.selcuksportshd1825.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 XBUYER - CHAMOS"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-7df90b083f9d09.workers.dev/live/selcukssport/playlist.m3u8&referer=https://www.selcuksportshd1825.xyz/&origin=https://www.selcuksportshd1825.xyz/"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 XBUYER - CHAMOS"
+Url = "https://playerpro.live/proxy.php?url=https://alpha.cf-worker-7df90b083f9d09.workers.dev/live/selcukssport/playlist.m3u8&referer=https://www.selcuksportshd1825.xyz/&origin=https://www.selcuksportshd1825.xyz/"
+
