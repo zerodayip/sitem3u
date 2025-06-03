@@ -1,8 +1,0 @@
-Grup = "ICON-SOCCER-BALL"
-Kanal_Adı = "22:00 XBUYER - CHAMOS"
-Url = "https://alpha.cf-worker-7df90b083f9d09.workers.dev/live/selcukssport/playlist.m3u8"
-
-Grup = "ICON-SOCCER-BALL"
-Kanal_Adı = "22:00 XBUYER - CHAMOS"
-Url = "https://alpha.cf-worker-7df90b083f9d09.workers.dev/live/selcukssport/playlist.m3u8"
-
