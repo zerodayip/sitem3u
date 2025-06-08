@@ -1,0 +1,60 @@
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "19:30 RACING SANTANDER - MIRANDES"
+Url = "https://alpha.cf-worker-7df90b083f9d09.workers.dev/live/selcukssport/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "19:30 RACING SANTANDER - MIRANDES"
+Url = "https://alpha.cf-worker-7df90b083f9d09.workers.dev/live/selcukssport/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "20:00 TÜRKIYE - ARNAVUTLUK"
+Url = "https://alpha.cf-worker-7df90b083f9d09.workers.dev/live/selcukaspor/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "20:00 XBUYER - BOOMERS"
+Url = "https://alpha.cf-worker-7df90b083f9d09.workers.dev/live/selcukssport2/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "20:00 XBUYER - BOOMERS"
+Url = "https://alpha.cf-worker-7df90b083f9d09.workers.dev/live/selcukssport2/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "20:00 TÜRKIYE - ARNAVUTLUK"
+Url = "https://alpha.cf-worker-7df90b083f9d09.workers.dev/live/selcukaspor/playlist.m3u8"
+
+Grup = "ICON-BASKETBALL"
+Kanal_Adı = "20:30 BEŞIKTAŞ FIBABANKA - ANADOLU EFES"
+Url = "https://alpha.cf-worker-7df90b083f9d09.workers.dev/live/selcukbeinsports5/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:00 ULTIMATE MOSTOLES - FUTBOLISTAS LOCOS"
+Url = "https://alpha.cf-worker-7df90b083f9d09.workers.dev/live/selcukssport2/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:00 ULTIMATE MOSTOLES - FUTBOLISTAS LOCOS"
+Url = "https://alpha.cf-worker-7df90b083f9d09.workers.dev/live/selcukssport2/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 PORTEKIZ - İSPANYA"
+Url = "https://alpha.cf-worker-7df90b083f9d09.workers.dev/live/selcuktv8/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 GALACTICOS DEL CARIBE - LOS CHAMOS"
+Url = "https://alpha.cf-worker-7df90b083f9d09.workers.dev/live/selcukssport/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 GALACTICOS DEL CARIBE - LOS CHAMOS"
+Url = "https://alpha.cf-worker-7df90b083f9d09.workers.dev/live/selcukssport/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 PORTEKIZ - İSPANYA"
+Url = "https://alpha.cf-worker-7df90b083f9d09.workers.dev/live/selcuktv8/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "23:00 FLUXO - MIAMI 7"
+Url = "https://alpha.cf-worker-7df90b083f9d09.workers.dev/live/selcukssport/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "23:00 FLUXO - MIAMI 7"
+Url = "https://alpha.cf-worker-7df90b083f9d09.workers.dev/live/selcukssport/playlist.m3u8"
+
