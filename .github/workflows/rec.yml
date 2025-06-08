@@ -29,7 +29,7 @@ jobs:
           pip install aiohttp aiofiles requests
 
       - name: Run RecTV Script
-        run: python private_py/rectv/grouptitlefarkli.py
+        run: python private_py/rectv/grouptitlefarkli2.py
 
       # ✅ Public repoya push
       - name: Commit and Push to Public Repo (sitem3u)
