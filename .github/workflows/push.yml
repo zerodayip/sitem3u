@@ -31,7 +31,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
-          python private_py/birlestir.py
+          python private_py/birlestir2.py
 
       - name: Configure Git for Commit
         run: |
