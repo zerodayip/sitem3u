@@ -1,0 +1,24 @@
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:45 BELÇIKA - GALLER"
+Url = "https://alpha.cf-worker-7df90b083f9d09.workers.dev/live/selcuktv85/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:45 BELÇIKA - GALLER"
+Url = "https://alpha.cf-worker-7df90b083f9d09.workers.dev/live/selcuktv85/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 KARASU - SXB"
+Url = "https://alpha.cf-worker-7df90b083f9d09.workers.dev/live/selcukssport/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 KARASU - SXB"
+Url = "https://alpha.cf-worker-7df90b083f9d09.workers.dev/live/selcukssport/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "23:00 DESIMPEDIDOS GOTI - JYNXZI"
+Url = "https://alpha.cf-worker-7df90b083f9d09.workers.dev/live/selcukssport/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "23:00 DESIMPEDIDOS GOTI - JYNXZI"
+Url = "https://alpha.cf-worker-7df90b083f9d09.workers.dev/live/selcukssport/playlist.m3u8"
+
