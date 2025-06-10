@@ -1,0 +1,954 @@
+Channel_Name= "319"
+Channel_server= "nfs"
+
+Channel_Name= "766"
+Channel_server= "zeko"
+
+Channel_Name= "131"
+Channel_server= "wind"
+
+Channel_Name= "78"
+Channel_server= "ddy6"
+
+Channel_Name= "316"
+Channel_server= "zeko"
+
+Channel_Name= "375"
+Channel_server= "zeko"
+
+Channel_Name= "44"
+Channel_server= "zeko"
+
+Channel_Name= "8"
+Channel_server= "nfs"
+
+Channel_Name= "905"
+Channel_server= "zeko"
+
+Channel_Name= "762"
+Channel_server= "nfs"
+
+Channel_Name= "9"
+Channel_server= "nfs"
+
+Channel_Name= "111"
+Channel_server= "zeko"
+
+Channel_Name= "114"
+Channel_server= "zeko"
+
+Channel_Name= "903"
+Channel_server= "null"
+
+Channel_Name= "904"
+Channel_server= "null"
+
+Channel_Name= "907"
+Channel_server= "null"
+
+Channel_Name= "10"
+Channel_server= "nfs"
+
+Channel_Name= "411"
+Channel_server= "zeko"
+
+Channel_Name= "900"
+Channel_server= "null"
+
+Channel_Name= "894"
+Channel_server= "null"
+
+Channel_Name= "896"
+Channel_server= "zeko"
+
+Channel_Name= "753"
+Channel_server= "wind"
+
+Channel_Name= "340"
+Channel_server= "wind"
+
+Channel_Name= "665"
+Channel_server= "dokko1"
+
+Channel_Name= "307"
+Channel_server= "nfs"
+
+Channel_Name= "769"
+Channel_server= "zeko"
+
+Channel_Name= "306"
+Channel_server= "zeko"
+
+Channel_Name= "344"
+Channel_server= "zeko"
+
+Channel_Name= "371"
+Channel_server= "nfs"
+
+Channel_Name= "334"
+Channel_server= "nfs"
+
+Channel_Name= "653"
+Channel_server= "ddy6"
+
+Channel_Name= "647"
+Channel_server= "dokko1"
+
+Channel_Name= "330"
+Channel_server= "wind"
+
+Channel_Name= "337"
+Channel_server= "wind"
+
+Channel_Name= "132"
+Channel_server= "nfs"
+
+Channel_Name= "768"
+Channel_server= "zeko"
+
+Channel_Name= "1"
+Channel_server= "nfs"
+
+Channel_Name= "419"
+Channel_server= "zeko"
+
+Channel_Name= "412"
+Channel_server= "zeko"
+
+Channel_Name= "420"
+Channel_server= "wind"
+
+Channel_Name= "45"
+Channel_server= "wind"
+
+Channel_Name= "3"
+Channel_server= "nfs"
+
+Channel_Name= "4"
+Channel_server= "nfs"
+
+Channel_Name= "260"
+Channel_server= "wind"
+
+Channel_Name= "550"
+Channel_server= "wind"
+
+Channel_Name= "341"
+Channel_server= "dokko1"
+
+Channel_Name= "407"
+Channel_server= "wind"
+
+Channel_Name= "406"
+Channel_server= "wind"
+
+Channel_Name= "408"
+Channel_server= "wind"
+
+Channel_Name= "833"
+Channel_server= "dokko1"
+
+Channel_Name= "521"
+Channel_server= "wind"
+
+Channel_Name= "436"
+Channel_server= "zeko"
+
+Channel_Name= "14"
+Channel_server= "nfs"
+
+Channel_Name= "556"
+Channel_server= "dokko1"
+
+Channel_Name= "557"
+Channel_server= "ddy6"
+
+Channel_Name= "432"
+Channel_server= "ddy6"
+
+Channel_Name= "454"
+Channel_server= "ddy6"
+
+Channel_Name= "116"
+Channel_server= "zeko"
+
+Channel_Name= "134"
+Channel_server= "wind"
+
+Channel_Name= "472"
+Channel_server= "wind"
+
+Channel_Name= "150"
+Channel_server= "wind"
+
+Channel_Name= "82"
+Channel_server= "wind"
+
+Channel_Name= "144"
+Channel_server= "zeko"
+
+Channel_Name= "316"
+Channel_server= "zeko"
+
+Channel_Name= "375"
+Channel_server= "zeko"
+
+Channel_Name= "660"
+Channel_server= "dokko1"
+
+Channel_Name= "768"
+Channel_server= "zeko"
+
+Channel_Name= "382"
+Channel_server= "zeko"
+
+Channel_Name= "326"
+Channel_server= "wind"
+
+Channel_Name= "302"
+Channel_server= "zeko"
+
+Channel_Name= "665"
+Channel_server= "dokko1"
+
+Channel_Name= "337"
+Channel_server= "wind"
+
+Channel_Name= "324"
+Channel_server= "wind"
+
+Channel_Name= "848"
+Channel_server= "zeko"
+
+Channel_Name= "848"
+Channel_server= "zeko"
+
+Channel_Name= "11"
+Channel_server= "nfs"
+
+Channel_Name= "755"
+Channel_server= "wind"
+
+Channel_Name= "906"
+Channel_server= "null"
+
+Channel_Name= "12"
+Channel_server= "nfs"
+
+Channel_Name= "408"
+Channel_server= "wind"
+
+Channel_Name= "764"
+Channel_server= "nfs"
+
+Channel_Name= "494"
+Channel_server= "ddy6"
+
+Channel_Name= "146"
+Channel_server= "zeko"
+
+Channel_Name= "13"
+Channel_server= "nfs"
+
+Channel_Name= "39"
+Channel_server= "zeko"
+
+Channel_Name= "920"
+Channel_server= "dokko1"
+
+Channel_Name= "643"
+Channel_server= "dokko1"
+
+Channel_Name= "769"
+Channel_server= "zeko"
+
+Channel_Name= "305"
+Channel_server= "zeko"
+
+Channel_Name= "302"
+Channel_server= "zeko"
+
+Channel_Name= "665"
+Channel_server= "dokko1"
+
+Channel_Name= "324"
+Channel_server= "wind"
+
+Channel_Name= "982"
+Channel_server= "nfs"
+
+Channel_Name= "114"
+Channel_server= "zeko"
+
+Channel_Name= "113"
+Channel_server= "zeko"
+
+Channel_Name= "792"
+Channel_server= "zeko"
+
+Channel_Name= "338"
+Channel_server= "zeko"
+
+Channel_Name= "306"
+Channel_server= "zeko"
+
+Channel_Name= "344"
+Channel_server= "zeko"
+
+Channel_Name= "589"
+Channel_server= "dokko1"
+
+Channel_Name= "758"
+Channel_server= "zeko"
+
+Channel_Name= "31"
+Channel_server= "nfs"
+
+Channel_Name= "589"
+Channel_server= "dokko1"
+
+Channel_Name= "40"
+Channel_server= "ddy6"
+
+Channel_Name= "46"
+Channel_server= "wind"
+
+Channel_Name= "701"
+Channel_server= "zeko"
+
+Channel_Name= "117"
+Channel_server= "zeko"
+
+Channel_Name= "628"
+Channel_server= "dokko1"
+
+Channel_Name= "472"
+Channel_server= "wind"
+
+Channel_Name= "429"
+Channel_server= "wind"
+
+Channel_Name= "884"
+Channel_server= "wind"
+
+Channel_Name= "915"
+Channel_server= "wind"
+
+Channel_Name= "917"
+Channel_server= "wind"
+
+Channel_Name= "393"
+Channel_server= "ddy6"
+
+Channel_Name= "396"
+Channel_server= "wind"
+
+Channel_Name= "383"
+Channel_server= "zeko"
+
+Channel_Name= "491"
+Channel_server= "ddy6"
+
+Channel_Name= "492"
+Channel_server= "ddy6"
+
+Channel_Name= "713"
+Channel_server= "nfs"
+
+Channel_Name= "714"
+Channel_server= "nfs"
+
+Channel_Name= "102"
+Channel_server= "ddy6"
+
+Channel_Name= "453"
+Channel_server= "wind"
+
+Channel_Name= "146"
+Channel_server= "zeko"
+
+Channel_Name= "145"
+Channel_server= "zeko"
+
+Channel_Name= "882"
+Channel_server= "ddy6"
+
+Channel_Name= "144"
+Channel_server= "zeko"
+
+Channel_Name= "211"
+Channel_server= "ddy6"
+
+Channel_Name= "74"
+Channel_server= "dokko1"
+
+Channel_Name= "643"
+Channel_server= "dokko1"
+
+Channel_Name= "554"
+Channel_server= "wind"
+
+Channel_Name= "419"
+Channel_server= "zeko"
+
+Channel_Name= "413"
+Channel_server= "zeko"
+
+Channel_Name= "572"
+Channel_server= "dokko1"
+
+Channel_Name= "145"
+Channel_server= "zeko"
+
+Channel_Name= "31"
+Channel_server= "nfs"
+
+Channel_Name= "33"
+Channel_server= "nfs"
+
+Channel_Name= "951"
+Channel_server= "dokko1"
+
+Channel_Name= "588"
+Channel_server= "dokko1"
+
+Channel_Name= "57"
+Channel_server= "wind"
+
+Channel_Name= "524"
+Channel_server= "zeko"
+
+Channel_Name= "772"
+Channel_server= "ddy6"
+
+Channel_Name= "231"
+Channel_server= "wind"
+
+Channel_Name= "878"
+Channel_server= "wind"
+
+Channel_Name= "772"
+Channel_server= "ddy6"
+
+Channel_Name= "41"
+Channel_server= "wind"
+
+Channel_Name= "83"
+Channel_server= "ddy6"
+
+Channel_Name= "10"
+Channel_server= "nfs"
+
+Channel_Name= "756"
+Channel_server= "ddy6"
+
+Channel_Name= "1"
+Channel_server= "nfs"
+
+Channel_Name= "260"
+Channel_server= "wind"
+
+Channel_Name= "589"
+Channel_server= "dokko1"
+
+Channel_Name= "426"
+Channel_server= "ddy6"
+
+Channel_Name= "49"
+Channel_server= "wind"
+
+Channel_Name= "47"
+Channel_server= "wind"
+
+Channel_Name= "400"
+Channel_server= "nfs"
+
+Channel_Name= "583"
+Channel_server= "nfs"
+
+Channel_Name= "914"
+Channel_server= "wind"
+
+Channel_Name= "398"
+Channel_server= "zeko"
+
+Channel_Name= "134"
+Channel_server= "wind"
+
+Channel_Name= "637"
+Channel_server= "dokko1"
+
+Channel_Name= "808"
+Channel_server= "dokko1"
+
+Channel_Name= "150"
+Channel_server= "wind"
+
+Channel_Name= "79"
+Channel_server= "ddy6"
+
+Channel_Name= "101"
+Channel_server= "ddy6"
+
+Channel_Name= "467"
+Channel_server= "wind"
+
+Channel_Name= "414"
+Channel_server= "ddy6"
+
+Channel_Name= "92"
+Channel_server= "dokko1"
+
+Channel_Name= "140"
+Channel_server= "zeko"
+
+Channel_Name= "291"
+Channel_server= "ddy6"
+
+Channel_Name= "767"
+Channel_server= "zeko"
+
+Channel_Name= "74"
+Channel_server= "dokko1"
+
+Channel_Name= "643"
+Channel_server= "dokko1"
+
+Channel_Name= "555"
+Channel_server= "zeko"
+
+Channel_Name= "289"
+Channel_server= "ddy6"
+
+Channel_Name= "431"
+Channel_server= "wind"
+
+Channel_Name= "629"
+Channel_server= "dokko1"
+
+Channel_Name= "142"
+Channel_server= "zeko"
+
+Channel_Name= "430"
+Channel_server= "zeko"
+
+Channel_Name= "419"
+Channel_server= "zeko"
+
+Channel_Name= "413"
+Channel_server= "zeko"
+
+Channel_Name= "572"
+Channel_server= "dokko1"
+
+Channel_Name= "357"
+Channel_server= "dokko1"
+
+Channel_Name= "758"
+Channel_server= "zeko"
+
+Channel_Name= "260"
+Channel_server= "wind"
+
+Channel_Name= "2"
+Channel_server= "nfs"
+
+Channel_Name= "427"
+Channel_server= "ddy6"
+
+Channel_Name= "47"
+Channel_server= "wind"
+
+Channel_Name= "808"
+Channel_server= "dokko1"
+
+Channel_Name= "468"
+Channel_server= "wind"
+
+Channel_Name= "79"
+Channel_server= "ddy6"
+
+Channel_Name= "104"
+Channel_server= "nfs"
+
+Channel_Name= "414"
+Channel_server= "ddy6"
+
+Channel_Name= "141"
+Channel_server= "zeko"
+
+Channel_Name= "45"
+Channel_server= "wind"
+
+Channel_Name= "18"
+Channel_server= "nfs"
+
+Channel_Name= "127"
+Channel_server= "ddy6"
+
+Channel_Name= "134"
+Channel_server= "wind"
+
+Channel_Name= "16"
+Channel_server= "nfs"
+
+Channel_Name= "32"
+Channel_server= "nfs"
+
+Channel_Name= "712"
+Channel_server= "nfs"
+
+Channel_Name= "588"
+Channel_server= "dokko1"
+
+Channel_Name= "9"
+Channel_server= "nfs"
+
+Channel_Name= "135"
+Channel_server= "ddy6"
+
+Channel_Name= "143"
+Channel_server= "zeko"
+
+Channel_Name= "103"
+Channel_server= "nfs"
+
+Channel_Name= "144"
+Channel_server= "zeko"
+
+Channel_Name= "767"
+Channel_server= "zeko"
+
+Channel_Name= "96"
+Channel_server= "dokko1"
+
+Channel_Name= "31"
+Channel_server= "nfs"
+
+Channel_Name= "47"
+Channel_server= "wind"
+
+Channel_Name= "638"
+Channel_server= "dokko1"
+
+Channel_Name= "393"
+Channel_server= "ddy6"
+
+Channel_Name= "11"
+Channel_server= "nfs"
+
+Channel_Name= "758"
+Channel_server= "zeko"
+
+Channel_Name= "1"
+Channel_server= "nfs"
+
+Channel_Name= "850"
+Channel_server= "ddy6"
+
+Channel_Name= "590"
+Channel_server= "dokko1"
+
+Channel_Name= "427"
+Channel_server= "ddy6"
+
+Channel_Name= "49"
+Channel_server= "wind"
+
+Channel_Name= "400"
+Channel_server= "nfs"
+
+Channel_Name= "583"
+Channel_server= "nfs"
+
+Channel_Name= "913"
+Channel_server= "wind"
+
+Channel_Name= "139"
+Channel_server= "ddy6"
+
+Channel_Name= "632"
+Channel_server= "dokko1"
+
+Channel_Name= "810"
+Channel_server= "dokko1"
+
+Channel_Name= "467"
+Channel_server= "wind"
+
+Channel_Name= "78"
+Channel_server= "ddy6"
+
+Channel_Name= "149"
+Channel_server= "ddy6"
+
+Channel_Name= "56"
+Channel_server= "zeko"
+
+Channel_Name= "572"
+Channel_server= "dokko1"
+
+Channel_Name= "104"
+Channel_server= "nfs"
+
+Channel_Name= "412"
+Channel_server= "zeko"
+
+Channel_Name= "91"
+Channel_server= "dokko1"
+
+Channel_Name= "90"
+Channel_server= "zeko"
+
+Channel_Name= "141"
+Channel_server= "zeko"
+
+Channel_Name= "12"
+Channel_server= "nfs"
+
+Channel_Name= "3"
+Channel_server= "nfs"
+
+Channel_Name= "4"
+Channel_server= "nfs"
+
+Channel_Name= "589"
+Channel_server= "dokko1"
+
+Channel_Name= "454"
+Channel_server= "ddy6"
+
+Channel_Name= "128"
+Channel_server= "nfs"
+
+Channel_Name= "50"
+Channel_server= "wind"
+
+Channel_Name= "402"
+Channel_server= "nfs"
+
+Channel_Name= "584"
+Channel_server= "null"
+
+Channel_Name= "919"
+Channel_server= "nfs"
+
+Channel_Name= "430"
+Channel_server= "zeko"
+
+Channel_Name= "631"
+Channel_server= "dokko1"
+
+Channel_Name= "5"
+Channel_server= "nfs"
+
+Channel_Name= "465"
+Channel_server= "wind"
+
+Channel_Name= "85"
+Channel_server= "ddy6"
+
+Channel_Name= "415"
+Channel_server= "ddy6"
+
+Channel_Name= "13"
+Channel_server= "nfs"
+
+Channel_Name= "593"
+Channel_server= "dokko1"
+
+Channel_Name= "637"
+Channel_server= "dokko1"
+
+Channel_Name= "95"
+Channel_server= "dokko1"
+
+Channel_Name= "14"
+Channel_server= "nfs"
+
+Channel_Name= "356"
+Channel_server= "ddy6"
+
+Channel_Name= "670"
+Channel_server= "dokko1"
+
+Channel_Name= "260"
+Channel_server= "wind"
+
+Channel_Name= "6"
+Channel_server= "nfs"
+
+Channel_Name= "591"
+Channel_server= "dokko1"
+
+Channel_Name= "426"
+Channel_server= "ddy6"
+
+Channel_Name= "74"
+Channel_server= "dokko1"
+
+Channel_Name= "129"
+Channel_server= "wind"
+
+Channel_Name= "645"
+Channel_server= "dokko1"
+
+Channel_Name= "401"
+Channel_server= "nfs"
+
+Channel_Name= "585"
+Channel_server= "null"
+
+Channel_Name= "914"
+Channel_server= "wind"
+
+Channel_Name= "398"
+Channel_server= "zeko"
+
+Channel_Name= "134"
+Channel_server= "wind"
+
+Channel_Name= "633"
+Channel_server= "dokko1"
+
+Channel_Name= "466"
+Channel_server= "wind"
+
+Channel_Name= "79"
+Channel_server= "ddy6"
+
+Channel_Name= "101"
+Channel_server= "ddy6"
+
+Channel_Name= "414"
+Channel_server= "ddy6"
+
+Channel_Name= "92"
+Channel_server= "dokko1"
+
+Channel_Name= "140"
+Channel_server= "zeko"
+
+Channel_Name= "15"
+Channel_server= "nfs"
+
+Channel_Name= "756"
+Channel_server= "ddy6"
+
+Channel_Name= "7"
+Channel_server= "nfs"
+
+Channel_Name= "8"
+Channel_server= "nfs"
+
+Channel_Name= "592"
+Channel_server= "dokko1"
+
+Channel_Name= "289"
+Channel_server= "ddy6"
+
+Channel_Name= "403"
+Channel_server= "nfs"
+
+Channel_Name= "586"
+Channel_server= "null"
+
+Channel_Name= "634"
+Channel_server= "dokko1"
+
+Channel_Name= "808"
+Channel_server= "dokko1"
+
+Channel_Name= "468"
+Channel_server= "wind"
+
+Channel_Name= "83"
+Channel_server= "ddy6"
+
+Channel_Name= "150"
+Channel_server= "wind"
+
+Channel_Name= "413"
+Channel_server= "zeko"
+
+Channel_Name= "142"
+Channel_server= "zeko"
+
+Channel_Name= "879"
+Channel_server= "wind"
+
+Channel_Name= "629"
+Channel_server= "dokko1"
+
+Channel_Name= "769"
+Channel_server= "zeko"
+
+Channel_Name= "766"
+Channel_server= "zeko"
+
+Channel_Name= "17"
+Channel_server= "nfs"
+
+Channel_Name= "45"
+Channel_server= "wind"
+
+Channel_Name= "2"
+Channel_server= "nfs"
+
+Channel_Name= "924"
+Channel_server= "nfs"
+
+Channel_Name= "306"
+Channel_server= "zeko"
+
+Channel_Name= "344"
+Channel_server= "zeko"
+
+Channel_Name= "81"
+Channel_server= "zeko"
+
+Channel_Name= "5"
+Channel_server= "nfs"
+
+Channel_Name= "31"
+Channel_server= "nfs"
+
+Channel_Name= "894"
+Channel_server= "null"
+
+Channel_Name= "899"
+Channel_server= "null"
+
+Channel_Name= "146"
+Channel_server= "zeko"
+
+Channel_Name= "6"
+Channel_server= "nfs"
+
+Channel_Name= "39"
+Channel_server= "zeko"
+
+Channel_Name= "922"
+Channel_server= "nfs"
+
+Channel_Name= "892"
+Channel_server= "null"
+
+Channel_Name= "643"
+Channel_server= "dokko1"
+
+Channel_Name= "7"
+Channel_server= "nfs"
+
+Channel_Name= "839"
+Channel_server= "dokko1"
+
+Channel_Name= "770"
+Channel_server= "ddy6"
+
+Channel_Name= "777"
+Channel_server= "zeko"
+
+Channel_Name= "83"
+Channel_server= "ddy6"
+
