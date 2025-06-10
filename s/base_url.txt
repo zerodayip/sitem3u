@@ -1,0 +1,48 @@
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "13:35 JAPONYA - ENDONEZYA"
+Url = "https://alpha.cf-worker-7df90b083f9d09.workers.dev/live/selcuksmartspor/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "13:35 JAPONYA - ENDONEZYA"
+Url = "https://alpha.cf-worker-7df90b083f9d09.workers.dev/live/selcuksmartspor/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "16:45 ÖZBEKISTAN - KATAR"
+Url = "https://alpha.cf-worker-7df90b083f9d09.workers.dev/live/selcuksmartspor/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "16:45 ÖZBEKISTAN - KATAR"
+Url = "https://alpha.cf-worker-7df90b083f9d09.workers.dev/live/selcuksmartspor/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "19:00 AZERBAYCAN - MACARISTAN"
+Url = "https://alpha.cf-worker-7df90b083f9d09.workers.dev/live/selcuktv85/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "19:00 İRAN - KUZEY KORE"
+Url = "https://alpha.cf-worker-7df90b083f9d09.workers.dev/live/selcuksmartspor/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "19:00 İRAN - KUZEY KORE"
+Url = "https://alpha.cf-worker-7df90b083f9d09.workers.dev/live/selcuksmartspor/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "19:00 AZERBAYCAN - MACARISTAN"
+Url = "https://alpha.cf-worker-7df90b083f9d09.workers.dev/live/selcuktv85/playlist.m3u8"
+
+Grup = "ICON-BASKETBALL"
+Kanal_Adı = "20:30 ANADOLU EFES - BEŞIKTAŞ FIBABANKA"
+Url = "https://alpha.cf-worker-7df90b083f9d09.workers.dev/live/selcukbeinsports5/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:45 İNGILTERE - SENEGAL"
+Url = "https://alpha.cf-worker-7df90b083f9d09.workers.dev/live/selcuktv85/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:45 İNGILTERE - SENEGAL"
+Url = "https://alpha.cf-worker-7df90b083f9d09.workers.dev/live/selcuktv85/playlist.m3u8"
+
+Grup = "ICON-BASKETBALL"
+Kanal_Adı = "22:15 VALENCIA BASKET - IBEROSTAR TENERIFE"
+Url = "https://alpha.cf-worker-7df90b083f9d09.workers.dev/live/selcuksmartspor/playlist.m3u8"
+
