@@ -1,0 +1,1468 @@
+Channel_Name= "654"
+Channel_server= "ddy6"
+Event= "00:00 (TV PROGRAMLARI) SUPER ANIMALS SEASON 2, EPISODE 9 (MY9TV USA)"
+
+Channel_Name= "371"
+Channel_server= "nfs"
+Event= "00:00 (TV PROGRAMLARI) RIDICULOUSNESS SEASON 44, EPISODE 15 (MTV USA)"
+
+Channel_Name= "331"
+Channel_server= "wind"
+Event= "00:00 (TV PROGRAMLARI) MY LOTTERY DREAM HOME SEASON 5, EPISODE 7 (OWN USA)"
+
+Channel_Name= "299"
+Channel_server= "ddy6"
+Event= "00:00 (TV PROGRAMLARI) MINI RENI SEASON 1, EPISODE 6 (MAGNOLIA NETWORK)"
+
+Channel_Name= "132"
+Channel_server= "nfs"
+Event= "00:00 (TV PROGRAMLARI) A.MAR SEASON 1, EPISODE 17 (UNIVISION USA)"
+
+Channel_Name= "766"
+Channel_server= "zeko"
+Event= "00:00 (TV PROGRAMLARI) NBA COUNTDOWN LIVE (ABC NY USA)"
+
+Channel_Name= "768"
+Channel_server= "zeko"
+Event= "00:00 (TV PROGRAMLARI) MASTERCHEF SEASON 24, EPISODE 4 (FOXNY USA)"
+
+Channel_Name= "300"
+Channel_server= "zeko"
+Event= "00:00 (TV PROGRAMLARI) SULLIVAN'S CROSSING SEASON 3, EPISODE 5 (CW USA)"
+
+Channel_Name= "280"
+Channel_server= "nfs"
+Event= "00:00 (TV PROGRAMLARI) SULLIVAN'S CROSSING SEASON 3, EPISODE 5 (CW PIX 11 USA)"
+
+Channel_Name= "307"
+Channel_server= "nfs"
+Event= "00:00 (TV PROGRAMLARI) SUMMER HOUSE SEASON 9, EPISODE 18 (BRAVO USA)"
+
+Channel_Name= "332"
+Channel_server= "wind"
+Event= "00:00 (TV PROGRAMLARI) DATELINE: SECRETS UNCOVERED SEASON 15, EPISODE 2 (OXYGEN TRUE CRIME)"
+
+Channel_Name= "45"
+Channel_server= "wind"
+Event= "00:00 (FUTBOL) USL CHAMPIONSHIP : LOUISVILLE CITY VS RHODE ISLAND (ESPN2 USA)"
+
+Channel_Name= "336"
+Channel_server= "zeko"
+Event= "00:00 (WWE) ALL ELITE WRESTLING: DYNAMITE (TBS USA)"
+
+Channel_Name= "112"
+Channel_server= "zeko"
+Event= "00:00 (WWE) ALL ELITE WRESTLING: DYNAMITE (TSN2)"
+
+Channel_Name= "830"
+Channel_server= "ddy6"
+Event= "00:00 (WWE) ALL ELITE WRESTLING: DYNAMITE (FOX SPORTS PREMIUM MX)"
+
+Channel_Name= "47"
+Channel_server= "wind"
+Event= "00:00 (VOLEYBOL) NATIONS LEAGUE : GERMANY VS. CANADA (POLSAT SPORT 1 POLAND)"
+
+Channel_Name= "833"
+Channel_server= "dokko1"
+Event= "00:00 (VOLEYBOL) NATIONS LEAGUE : GERMANY VS. CANADA (TVA SPORTS)"
+
+Channel_Name= "103"
+Channel_server= "nfs"
+Event= "00:00 (VOLEYBOL) NATIONS LEAGUE : GERMANY VS. CANADA (SPORT KLUB 3 CROATIA)"
+
+Channel_Name= "50"
+Channel_server= "wind"
+Event= "00:00 (VOLEYBOL) NATIONS LEAGUE : SLOVENIA VS. CUBA (POLSAT SPORT 2 POLAND)"
+
+Channel_Name= "135"
+Channel_server= "ddy6"
+Event= "00:00 (VOLEYBOL) NATIONS LEAGUE : SLOVENIA VS. CUBA (ARENA PREMIUM 2 SERBIA)"
+
+Channel_Name= "79"
+Channel_server= "ddy6"
+Event= "00:00 (VOLEYBOL) NATIONS LEAGUE : SLOVENIA VS. CUBA (SPORTV2 BTAZIL)"
+
+Channel_Name= "102"
+Channel_server= "ddy6"
+Event= "00:00 (VOLEYBOL) NATIONS LEAGUE : SLOVENIA VS. CUBA (SPORT KLUB 2 CROATIA)"
+
+Channel_Name= "8"
+Channel_server= "nfs"
+Event= "00:10 (BEYZBOL) MLB : HOUSTON ASTROS VS CHICAGO WHITE SOX (MLB LEAGUE PASS)"
+
+Channel_Name= "111"
+Channel_server= "zeko"
+Event= "00:10 (BEYZBOL) MLB : HOUSTON ASTROS VS CHICAGO WHITE SOX (TSN1)"
+
+Channel_Name= "113"
+Channel_server= "zeko"
+Event= "00:10 (BEYZBOL) MLB : HOUSTON ASTROS VS CHICAGO WHITE SOX (TSN3)"
+
+Channel_Name= "114"
+Channel_server= "zeko"
+Event= "00:10 (BEYZBOL) MLB : HOUSTON ASTROS VS CHICAGO WHITE SOX (TSN4)"
+
+Channel_Name= "776"
+Channel_server= "wind"
+Event= "00:10 (BEYZBOL) MLB : HOUSTON ASTROS VS CHICAGO WHITE SOX (CHICAGO SPORTS NETWORK)"
+
+Channel_Name= "921"
+Channel_server= "dokko1"
+Event= "00:10 (BEYZBOL) MLB : HOUSTON ASTROS VS CHICAGO WHITE SOX (SPACE CITY HOME NETWORK)"
+
+Channel_Name= "1"
+Channel_server= "nfs"
+Event= "00:30 (BASKETBOL) NBA : OKLAHOMA CITY THUNDER VS INDIANA PACERS (HOME FEED)"
+
+Channel_Name= "2"
+Channel_server= "nfs"
+Event= "00:30 (BASKETBOL) NBA : OKLAHOMA CITY THUNDER VS INDIANA PACERS (AWAY FEED)"
+
+Channel_Name= "31"
+Channel_server= "nfs"
+Event= "00:30 (BASKETBOL) NBA : OKLAHOMA CITY THUNDER VS INDIANA PACERS (TNT SPORTS 1 UK)"
+
+Channel_Name= "51"
+Channel_server= "zeko"
+Event= "00:30 (BASKETBOL) NBA : OKLAHOMA CITY THUNDER VS INDIANA PACERS (ABC USA)"
+
+Channel_Name= "766"
+Channel_server= "zeko"
+Event= "00:30 (BASKETBOL) NBA : OKLAHOMA CITY THUNDER VS INDIANA PACERS (ABC NY USA)"
+
+Channel_Name= "436"
+Channel_server= "zeko"
+Event= "00:30 (BASKETBOL) NBA : OKLAHOMA CITY THUNDER VS INDIANA PACERS (MOVISTAR DEPORTES SPAIN)"
+
+Channel_Name= "407"
+Channel_server= "wind"
+Event= "00:30 (BASKETBOL) NBA : OKLAHOMA CITY THUNDER VS INDIANA PACERS (SPORTSNET WEST)"
+
+Channel_Name= "406"
+Channel_server= "wind"
+Event= "00:30 (BASKETBOL) NBA : OKLAHOMA CITY THUNDER VS INDIANA PACERS (SPORTSNET ONTARIO)"
+
+Channel_Name= "408"
+Channel_server= "wind"
+Event= "00:30 (BASKETBOL) NBA : OKLAHOMA CITY THUNDER VS INDIANA PACERS (SPORTSNET EAST)"
+
+Channel_Name= "411"
+Channel_server= "zeko"
+Event= "00:30 (BASKETBOL) NBA : OKLAHOMA CITY THUNDER VS INDIANA PACERS (SPORTSNET ONE)"
+
+Channel_Name= "839"
+Channel_server= "dokko1"
+Event= "00:30 (BASKETBOL) NBA : OKLAHOMA CITY THUNDER VS INDIANA PACERS (RDS CA)"
+
+Channel_Name= "49"
+Channel_server= "wind"
+Event= "00:30 (BASKETBOL) NBA : OKLAHOMA CITY THUNDER VS INDIANA PACERS (SPORT TV1 PORTUGAL)"
+
+Channel_Name= "48"
+Channel_server= "nfs"
+Event= "00:30 (BASKETBOL) NBA : OKLAHOMA CITY THUNDER VS INDIANA PACERS (CANAL+ SPORT POLAND)"
+
+Channel_Name= "116"
+Channel_server= "zeko"
+Event= "00:30 (BASKETBOL) NBA : OKLAHOMA CITY THUNDER VS INDIANA PACERS (BEIN SPORTS 1 FRANCE)"
+
+Channel_Name= "379"
+Channel_server= "zeko"
+Event= "00:30 (BASKETBOL) NBA : OKLAHOMA CITY THUNDER VS INDIANA PACERS (ESPN 1 NL)"
+
+Channel_Name= "375"
+Channel_server= "zeko"
+Event= "00:30 (BASKETBOL) NBA : OKLAHOMA CITY THUNDER VS INDIANA PACERS (ESPN DEPORTES)"
+
+Channel_Name= "926"
+Channel_server= "nfs"
+Event= "00:30 (BASKETBOL) NBA : OKLAHOMA CITY THUNDER VS INDIANA PACERS (ESPN 2 MEXICO)"
+
+Channel_Name= "707"
+Channel_server= "zeko"
+Event= "00:30 (BASKETBOL) NBA : OKLAHOMA CITY THUNDER VS INDIANA PACERS (TV4 SPORTKANALEN)"
+
+Channel_Name= "466"
+Channel_server= "wind"
+Event= "00:30 (BASKETBOL) NBA : OKLAHOMA CITY THUNDER VS INDIANA PACERS (DIEMA SPORT 2 BULGARIA)"
+
+Channel_Name= "134"
+Channel_server= "wind"
+Event= "00:30 (BASKETBOL) NBA : OKLAHOMA CITY THUNDER VS INDIANA PACERS (ARENA 1 PREMIUM SERBIA)"
+
+Channel_Name= "432"
+Channel_server= "ddy6"
+Event= "00:30 (BASKETBOL) NBA : OKLAHOMA CITY THUNDER VS INDIANA PACERS (ARENA SPORT 1 CROATIA)"
+
+Channel_Name= "916"
+Channel_server= "wind"
+Event= "00:30 (BASKETBOL) NBA : OKLAHOMA CITY THUNDER VS INDIANA PACERS (CYTAVISION SPORTS 6 CYPRUS)"
+
+Channel_Name= "81"
+Channel_server= "zeko"
+Event= "00:30 (BASKETBOL) NBA : OKLAHOMA CITY THUNDER VS INDIANA PACERS (ESPN BR)"
+
+Channel_Name= "625"
+Channel_server= "dokko1"
+Event= "00:30 (BASKETBOL) NBA : OKLAHOMA CITY THUNDER VS INDIANA PACERS (COSMOTE SPORT 4 GR)"
+
+Channel_Name= "150"
+Channel_server= "wind"
+Event= "00:30 (BASKETBOL) NBA : OKLAHOMA CITY THUNDER VS INDIANA PACERS (ESPN 2 ARGENTINA)"
+
+Channel_Name= "91"
+Channel_server= "dokko1"
+Event= "00:30 (BASKETBOL) NBA : OKLAHOMA CITY THUNDER VS INDIANA PACERS (BEIN SPORTS MENA 1)"
+
+Channel_Name= "61"
+Channel_server= "wind"
+Event= "00:30 (BASKETBOL) NBA : OKLAHOMA CITY THUNDER VS INDIANA PACERS (BEIN SPORTS MENA ENGLISH 1)"
+
+Channel_Name= "144"
+Channel_server= "zeko"
+Event= "00:30 (BASKETBOL) NBA : OKLAHOMA CITY THUNDER VS INDIANA PACERS (SPORT 5 ISRAEL)"
+
+Channel_Name= "9"
+Channel_server= "nfs"
+Event= "00:40 (BEYZBOL) MLB : COLORADO ROCKIES VS SAN FRANCISCO GIANTS (MLB LEAGUE PASS)"
+
+Channel_Name= "753"
+Channel_server= "wind"
+Event= "00:40 (BEYZBOL) MLB : COLORADO ROCKIES VS SAN FRANCISCO GIANTS (NBCS BAY AREA)"
+
+Channel_Name= "76"
+Channel_server= "wind"
+Event= "00:55 (PPV EVENTS) 2025 NARC 410 SPRINTS AT SOUTHERN OREGON SPEEDWAY (FLORACING)"
+
+Channel_Name= "767"
+Channel_server= "zeko"
+Event= "01:00 (TV PROGRAMLARI) RAID THE CAGE SEASON 2, EPISODE 10 (CBSNY USA)"
+
+Channel_Name= "768"
+Channel_server= "zeko"
+Event= "01:00 (TV PROGRAMLARI) GORDON RAMSAY'S SECRET SERVICE SEASON 1, EPISODE 4 (FOXNY USA)"
+
+Channel_Name= "382"
+Channel_server= "zeko"
+Event= "01:00 (TV PROGRAMLARI) HOLMES FAMILY RESCUE SEASON 3, EPISODE 2 (HGTV USA)"
+
+Channel_Name= "300"
+Channel_server= "zeko"
+Event= "01:00 (TV PROGRAMLARI) SHERLOCK & DAUGHTER SEASON 1, EPISODE 8 • FINALE (CW USA)"
+
+Channel_Name= "280"
+Channel_server= "nfs"
+Event= "01:00 (TV PROGRAMLARI) SHERLOCK & DAUGHTER SEASON 1, EPISODE 8 • FINALE (CW PIX 11 USA)"
+
+Channel_Name= "307"
+Channel_server= "nfs"
+Event= "01:00 (TV PROGRAMLARI) THE REAL HOUSEWIVES OF MIAMI SEASON 7, EPISODE 1 • PREMIERE (BRAVO USA)"
+
+Channel_Name= "317"
+Channel_server= "zeko"
+Event= "01:00 (TV PROGRAMLARI) ADULTS SEASON 1, EPISODE 5 (FX USA)"
+
+Channel_Name= "302"
+Channel_server= "zeko"
+Event= "01:00 (TV PROGRAMLARI) COURT CAM SEASON 8, EPISODE 23 (A&AMP;E TV USA)"
+
+Channel_Name= "322"
+Channel_server= "nfs"
+Event= "01:00 (TV PROGRAMLARI) AMERICAN PICKERS SEASON 25 (HISTORY USA)"
+
+Channel_Name= "328"
+Channel_server= "zeko"
+Event= "01:00 (TV PROGRAMLARI) BORDER SECURITY: AUSTRALIA'S FRONT LINE SEASON 15, EPISODE 15 (NATIONAL GEOGRAPHIC (NGC))"
+
+Channel_Name= "661"
+Channel_server= "dokko1"
+Event= "01:00 (TV PROGRAMLARI) BITCHIN' RIDES SEASON 11 (MOTOR TREND)"
+
+Channel_Name= "660"
+Channel_server= "dokko1"
+Event= "01:00 (TV PROGRAMLARI) PAYBACK SEASON 4, EPISODE 8 (TV ONE USA)"
+
+Channel_Name= "306"
+Channel_server= "zeko"
+Event= "01:00 (TV PROGRAMLARI) TYLER PERRY'S HOUSE OF PAYNE SEASON 14, EPISODE 7 (BET USA)"
+
+Channel_Name= "328"
+Channel_server= "zeko"
+Event= "02:00 (TV PROGRAMLARI) LIFE OR DEATH: THE NEGOTIATORS SEASON 2, EPISODE 4 (NATIONAL GEOGRAPHIC (NGC))"
+
+Channel_Name= "302"
+Channel_server= "zeko"
+Event= "02:00 (TV PROGRAMLARI) TAKING THE STAND SEASON 4, EPISODE 3 (A&AMP;E TV USA)"
+
+Channel_Name= "336"
+Channel_server= "zeko"
+Event= "02:00 (TV PROGRAMLARI) ALL ELITE WRESTLING: COLLISION SUMMER BLOCKBUSTER 2025 • LIVE (TBS USA)"
+
+Channel_Name= "307"
+Channel_server= "nfs"
+Event= "02:00 (TV PROGRAMLARI) LOVE ISLAND SEASON 7, EPISODE 1 • PREMIERE (BRAVO USA)"
+
+Channel_Name= "382"
+Channel_server= "zeko"
+Event= "02:00 (TV PROGRAMLARI) HOUSE HUNTERS SEASON 261, EPISODE 4 (HGTV USA)"
+
+Channel_Name= "373"
+Channel_server= "zeko"
+Event= "02:00 (TV PROGRAMLARI) TWISTED METAL SEASON 1, EPISODE 3 (SYFY USA)"
+
+Channel_Name= "313"
+Channel_server= "zeko"
+Event= "02:00 (TV PROGRAMLARI) MYSTERY AT BLIND FROG RANCH SECRETS BENEATH THE STONE (DISCOVERY USA)"
+
+Channel_Name= "308"
+Channel_server= "zeko"
+Event= "02:00 (BASKETBOL) WNBA : LAS VEGAS ACES W VS LOS ANGELES SPARKS W (CBS SPORTS NETWORK USA)"
+
+Channel_Name= "10"
+Channel_server= "nfs"
+Event= "02:00 (BASKETBOL) WNBA : MINNESOTA LYNX VS SEATTLE STORM (WNBA LEAGUE PASS)"
+
+Channel_Name= "898"
+Channel_server= "null"
+Event= "02:00 (BASKETBOL) WNBA : MINNESOTA LYNX VS SEATTLE STORM (FANDUEL SPORTS NETWORK NORTH)"
+
+Channel_Name= "306"
+Channel_server= "zeko"
+Event= "02:30 (TV PROGRAMLARI) THE MS. PAT SHOW SEASON 4, EPISODE 7 (BET USA)"
+
+Channel_Name= "659"
+Channel_server= "dokko1"
+Event= "04:00 (TV PROGRAMLARI) WOW - WOMEN OF WRESTLING SEASON 5, EPISODE 39 (VICE TV USA)"
+
+Channel_Name= "47"
+Channel_server= "wind"
+Event= "05:30 (VOLEYBOL) NATIONS LEAGUE : POLAND VS. NETHERLANDS (POLSAT SPORT 1 POLAND)"
+
+Channel_Name= "139"
+Channel_server= "ddy6"
+Event= "05:30 (VOLEYBOL) NATIONS LEAGUE : POLAND VS. NETHERLANDS (ARENA PREMIUM 3 SERBIA)"
+
+Channel_Name= "473"
+Channel_server= "wind"
+Event= "05:30 (VOLEYBOL) NATIONS LEAGUE : POLAND VS. NETHERLANDS (MAX SPORT 2 BULGARIA)"
+
+Channel_Name= "101"
+Channel_server= "ddy6"
+Event= "05:30 (VOLEYBOL) NATIONS LEAGUE : POLAND VS. NETHERLANDS (SPORT KLUB 1 CROATIA)"
+
+Channel_Name= "1507"
+Channel_server= "null"
+Event= "09:00 (ATP - HERTOGENBOSCH) ATP - HERTOGENBOSCH : THOMPSON J. VS DIALLO G. (TENNIS STREAM 7)"
+
+Channel_Name= "1508"
+Channel_server= "null"
+Event= "09:00 (ATP - STUTTGART) ATP - STUTTGART : RINDERKNECH A. VS FUCSOVICS M. (TENNIS STREAM 8)"
+
+Channel_Name= "1503"
+Channel_server= "null"
+Event= "09:00 (WTA - HERTOGENBOSCH) WTA - HERTOGENBOSCH : KOEVERMANS A. VS SAKKARI M. (TENNIS STREAM 3)"
+
+Channel_Name= "1504"
+Channel_server= "null"
+Event= "09:00 (WTA - HERTOGENBOSCH) WTA - HERTOGENBOSCH : VAN DEN BROEK I. L. VS RUSE G. (TENNIS STREAM 4)"
+
+Channel_Name= "356"
+Channel_server= "ddy6"
+Event= "09:00 (TENİS) WTA 500 LONDON & ATP 250 STUTTGART & WTA 250 + ATP 250 HERTOGENBOSCH (BBC ONE UK)"
+
+Channel_Name= "357"
+Channel_server= "dokko1"
+Event= "09:00 (TENİS) WTA 500 LONDON & ATP 250 STUTTGART & WTA 250 + ATP 250 HERTOGENBOSCH (BBC TWO UK)"
+
+Channel_Name= "40"
+Channel_server= "ddy6"
+Event= "09:00 (TENİS) WTA 500 LONDON & ATP 250 STUTTGART & WTA 250 + ATP 250 HERTOGENBOSCH (TENNIS CHANNEL)"
+
+Channel_Name= "46"
+Channel_server= "wind"
+Event= "09:00 (TENİS) WTA 500 LONDON & ATP 250 STUTTGART & WTA 250 + ATP 250 HERTOGENBOSCH (SKY SPORTS TENNIS UK)"
+
+Channel_Name= "701"
+Channel_server= "zeko"
+Event= "09:00 (TENİS) WTA 500 LONDON & ATP 250 STUTTGART & WTA 250 + ATP 250 HERTOGENBOSCH (TV4 TENNIS)"
+
+Channel_Name= "117"
+Channel_server= "zeko"
+Event= "09:00 (TENİS) WTA 500 LONDON & ATP 250 STUTTGART & WTA 250 + ATP 250 HERTOGENBOSCH (BEIN SPORTS 2 FRANCE)"
+
+Channel_Name= "628"
+Channel_server= "dokko1"
+Event= "09:00 (TENİS) WTA 500 LONDON & ATP 250 STUTTGART & WTA 250 + ATP 250 HERTOGENBOSCH (COSMOTE SPORT 7 HD)"
+
+Channel_Name= "472"
+Channel_server= "wind"
+Event= "09:00 (TENİS) WTA 500 LONDON & ATP 250 STUTTGART & WTA 250 + ATP 250 HERTOGENBOSCH (MAX SPORT 1 BULGARIA)"
+
+Channel_Name= "474"
+Channel_server= "ddy6"
+Event= "09:00 (TENİS) WTA 500 LONDON & ATP 250 STUTTGART & WTA 250 + ATP 250 HERTOGENBOSCH (MAX SPORT 3 BULGARIA)"
+
+Channel_Name= "429"
+Channel_server= "wind"
+Event= "09:00 (TENİS) WTA 500 LONDON & ATP 250 STUTTGART & WTA 250 + ATP 250 HERTOGENBOSCH (ARENA SPORT 1 SERBIA)"
+
+Channel_Name= "884"
+Channel_server= "wind"
+Event= "09:00 (TENİS) WTA 500 LONDON & ATP 250 STUTTGART & WTA 250 + ATP 250 HERTOGENBOSCH (SKY SPORTS TENNIS DE)"
+
+Channel_Name= "915"
+Channel_server= "wind"
+Event= "09:00 (TENİS) WTA 500 LONDON & ATP 250 STUTTGART & WTA 250 + ATP 250 HERTOGENBOSCH (CYTAVISION SPORTS 5 CYPRUS)"
+
+Channel_Name= "917"
+Channel_server= "wind"
+Event= "09:00 (TENİS) WTA 500 LONDON & ATP 250 STUTTGART & WTA 250 + ATP 250 HERTOGENBOSCH (CYTAVISION SPORTS 7 CYPRUS)"
+
+Channel_Name= "393"
+Channel_server= "ddy6"
+Event= "09:00 (TENİS) WTA 500 LONDON & ATP 250 STUTTGART & WTA 250 + ATP 250 HERTOGENBOSCH (ZIGGO SPORT 1 NL)"
+
+Channel_Name= "396"
+Channel_server= "wind"
+Event= "09:00 (TENİS) WTA 500 LONDON & ATP 250 STUTTGART & WTA 250 + ATP 250 HERTOGENBOSCH (ZIGGO SPORT 4 NL)"
+
+Channel_Name= "383"
+Channel_server= "zeko"
+Event= "09:00 (TENİS) WTA 500 LONDON & ATP 250 STUTTGART & WTA 250 + ATP 250 HERTOGENBOSCH (ZIGGO SPORT 5 NL)"
+
+Channel_Name= "491"
+Channel_server= "ddy6"
+Event= "09:00 (TENİS) WTA 500 LONDON & ATP 250 STUTTGART & WTA 250 + ATP 250 HERTOGENBOSCH (BEIN SPORTS AUSTRALIA 1)"
+
+Channel_Name= "492"
+Channel_server= "ddy6"
+Event= "09:00 (TENİS) WTA 500 LONDON & ATP 250 STUTTGART & WTA 250 + ATP 250 HERTOGENBOSCH (BEIN SPORTS AUSTRALIA 2)"
+
+Channel_Name= "713"
+Channel_server= "nfs"
+Event= "09:00 (TENİS) WTA 500 LONDON & ATP 250 STUTTGART & WTA 250 + ATP 250 HERTOGENBOSCH (BEIN SPORTS 2 MALAYSIA)"
+
+Channel_Name= "714"
+Channel_server= "nfs"
+Event= "09:00 (TENİS) WTA 500 LONDON & ATP 250 STUTTGART & WTA 250 + ATP 250 HERTOGENBOSCH (BEIN SPORTS 3 MALAYSIA)"
+
+Channel_Name= "102"
+Channel_server= "ddy6"
+Event= "09:00 (TENİS) WTA 500 LONDON & ATP 250 STUTTGART & WTA 250 + ATP 250 HERTOGENBOSCH (SPORT KLUB 2 CROATIA)"
+
+Channel_Name= "453"
+Channel_server= "wind"
+Event= "09:00 (TENİS) WTA 500 LONDON & ATP 250 STUTTGART & WTA 250 + ATP 250 HERTOGENBOSCH (SPORT KLUB HD CROATIA)"
+
+Channel_Name= "146"
+Channel_server= "zeko"
+Event= "09:00 (TENİS) WTA 500 LONDON & ATP 250 STUTTGART & WTA 250 + ATP 250 HERTOGENBOSCH (SPORT 5 LIVE ISRAEL)"
+
+Channel_Name= "97"
+Channel_server= "dokko1"
+Event= "09:00 (TENİS) WTA 500 LONDON & ATP 250 STUTTGART & WTA 250 + ATP 250 HERTOGENBOSCH (BEIN SPORTS MENA 7)"
+
+Channel_Name= "50"
+Channel_server= "wind"
+Event= "09:00 (VOLEYBOL) NATIONS LEAGUE : CHINA VS. JAPAN (POLSAT SPORT 2 POLAND)"
+
+Channel_Name= "101"
+Channel_server= "ddy6"
+Event= "09:00 (VOLEYBOL) NATIONS LEAGUE : CHINA VS. JAPAN (SPORT KLUB 1 CROATIA)"
+
+Channel_Name= "346"
+Channel_server= "zeko"
+Event= "09:30 (KRIKET) TEST MATCH DAY 1 : AUSTRALIA VS SOUTH AFRICA (WILLOW CRICKET)"
+
+Channel_Name= "65"
+Channel_server= "dokko1"
+Event= "09:30 (KRIKET) TEST MATCH DAY 1 : AUSTRALIA VS SOUTH AFRICA (SKY SPORTS CRICKET UK)"
+
+Channel_Name= "38"
+Channel_server= "zeko"
+Event= "09:30 (KRIKET) TEST MATCH DAY 1 : AUSTRALIA VS SOUTH AFRICA (SKY SPORTS MAIN EVENT)"
+
+Channel_Name= "588"
+Channel_server= "dokko1"
+Event= "09:30 (KRIKET) TEST MATCH DAY 1 : AUSTRALIA VS SOUTH AFRICA (SKY SPORT 1 NZ)"
+
+Channel_Name= "712"
+Channel_server= "nfs"
+Event= "09:30 (DUVAR TENİSİ) PREMIER PADEL 2025: ITALY MAJOR DAY 2 (BEIN SPORTS 1 MALAYSIA)"
+
+Channel_Name= "145"
+Channel_server= "zeko"
+Event= "10:00 (SU TOPU) MEN'S EUROPEAN WATER POLO CHAMPIONSHIP QUALIFIERS : ISRAEL VS GEORGIA (SPORT 5 PLUS ISRAEL)"
+
+Channel_Name= "1507"
+Channel_server= "null"
+Event= "10:30 (ATP - HERTOGENBOSCH) ATP - HERTOGENBOSCH : BAUTISTA-AGUT R. VS HURKACZ H. (TENNIS STREAM 7)"
+
+Channel_Name= "1508"
+Channel_server= "null"
+Event= "10:30 (ATP - STUTTGART) ATP - STUTTGART : SHELTON B. VS HERBERT P. (TENNIS STREAM 8)"
+
+Channel_Name= "1503"
+Channel_server= "null"
+Event= "10:30 (WTA - HERTOGENBOSCH) WTA - HERTOGENBOSCH : PERA B. VS COCCIARETTO E. (TENNIS STREAM 3)"
+
+Channel_Name= "1504"
+Channel_server= "null"
+Event= "10:30 (WTA - HERTOGENBOSCH) WTA - HERTOGENBOSCH : SAMSONOVA L. VS BRANSTINE C. (TENNIS STREAM 4)"
+
+Channel_Name= "32"
+Channel_server= "nfs"
+Event= "11:45 (MOTORSPORT) FIA WEC | ROUND 4 | 24 HOURS OF LE MANS FREE PRACTICE 1 (TNT SPORTS 2 UK)"
+
+Channel_Name= "58"
+Channel_server= "wind"
+Event= "11:45 (MOTORSPORT) FIA WEC | ROUND 4 | 24 HOURS OF LE MANS FREE PRACTICE 1 (EUROSPORT 2 POLAND)"
+
+Channel_Name= "525"
+Channel_server= "ddy6"
+Event= "11:45 (MOTORSPORT) FIA WEC | ROUND 4 | 24 HOURS OF LE MANS FREE PRACTICE 1 (EUROSPORT 2 SPAIN)"
+
+Channel_Name= "773"
+Channel_server= "ddy6"
+Event= "11:45 (MOTORSPORT) FIA WEC | ROUND 4 | 24 HOURS OF LE MANS FREE PRACTICE 1 (EUROSPORT 2 FRANCE)"
+
+Channel_Name= "232"
+Channel_server= "wind"
+Event= "11:45 (MOTORSPORT) FIA WEC | ROUND 4 | 24 HOURS OF LE MANS FREE PRACTICE 1 (EUROSPORT 2 SE)"
+
+Channel_Name= "879"
+Channel_server= "wind"
+Event= "11:45 (MOTORSPORT) FIA WEC | ROUND 4 | 24 HOURS OF LE MANS FREE PRACTICE 1 (EUROSPORT 2 ITALY)"
+
+Channel_Name= "773"
+Channel_server= "ddy6"
+Event= "11:45 (MOTORSPORT) FIA WEC | ROUND 4 | 24 HOURS OF LE MANS FREE PRACTICE 1 (EUROSPORT 2 FRANCE)"
+
+Channel_Name= "42"
+Channel_server= "wind"
+Event= "11:45 (MOTORSPORT) FIA WEC | ROUND 4 | 24 HOURS OF LE MANS FREE PRACTICE 1 (EUROSPORT 2 GREECE)"
+
+Channel_Name= "232"
+Channel_server= "wind"
+Event= "11:45 (MOTORSPORT) FIA WEC | ROUND 4 | 24 HOURS OF LE MANS FREE PRACTICE 1 (EUROSPORT 2 SE)"
+
+Channel_Name= "1507"
+Channel_server= "null"
+Event= "12:00 (ATP - HERTOGENBOSCH) ATP - HERTOGENBOSCH : MCDONALD M. VS KHACHANOV K. (TENNIS STREAM 7)"
+
+Channel_Name= "1503"
+Channel_server= "null"
+Event= "12:00 (WTA - HERTOGENBOSCH) WTA - HERTOGENBOSCH : BLINKOVA A. VS ALEXANDROVA E. (TENNIS STREAM 3)"
+
+Channel_Name= "1501"
+Channel_server= "null"
+Event= "12:00 (WTA - LONDON) WTA - LONDON : NAVARRO E. VS HADDAD MAIA B. (TENNIS STREAM 1)"
+
+Channel_Name= "47"
+Channel_server= "wind"
+Event= "12:30 (VOLEYBOL) NATIONS LEAGUE : SERBIA VS. TURKIYE (POLSAT SPORT 1 POLAND)"
+
+Channel_Name= "134"
+Channel_server= "wind"
+Event= "12:30 (VOLEYBOL) NATIONS LEAGUE : SERBIA VS. TURKIYE (ARENA PREMIUM 1 SERBIA)"
+
+Channel_Name= "5"
+Channel_server= "nfs"
+Event= "12:30 (VOLEYBOL) NATIONS LEAGUE : SERBIA VS. TURKIYE (RTVS SPORT SLOVAKIA)"
+
+Channel_Name= "101"
+Channel_server= "ddy6"
+Event= "12:30 (VOLEYBOL) NATIONS LEAGUE : SERBIA VS. TURKIYE (SPORT KLUB 1 CROATIA)"
+
+Channel_Name= "554"
+Channel_server= "wind"
+Event= "12:45 (AT YARIŞI) LIVE RACING FROM AROUND THE UK (SKY SPORTS RACING UK)"
+
+Channel_Name= "572"
+Channel_server= "dokko1"
+Event= "13:00 (FUTBOL) AFRICA - COSAFA CUP : BOTSWANA VS ZAMBIA (SUPERSPORT MAXIMO 1)"
+
+Channel_Name= "419"
+Channel_server= "zeko"
+Event= "13:00 (FUTBOL) AFRICA - COSAFA CUP : BOTSWANA VS ZAMBIA (SUPERSPORT VARIETY 4)"
+
+Channel_Name= "415"
+Channel_server= "ddy6"
+Event= "13:00 (FUTBOL) AFRICA - COSAFA CUP : ESWATINI VS TANZANIA (SUPERSPORT LALIGA)"
+
+Channel_Name= "1508"
+Channel_server= "null"
+Event= "13:00 (ATP - STUTTGART) ATP - STUTTGART : HALYS Q. VS FRITZ T. (TENNIS STREAM 8)"
+
+Channel_Name= "1502"
+Channel_server= "null"
+Event= "13:00 (WTA - LONDON) WTA - LONDON : MUCHOVA K. VS MARIA T. (TENNIS STREAM 2)"
+
+Channel_Name= "417"
+Channel_server= "wind"
+Event= "13:00 (FIELD HOCKEY) FIH PRO LEAGUE : ARGENTINA VS INDIA (SUPERSPORT VARIETY 2)"
+
+Channel_Name= "150"
+Channel_server= "wind"
+Event= "13:00 (FIELD HOCKEY) FIH PRO LEAGUE : ARGENTINA VS INDIA (ESPN 2 ARGENTINA)"
+
+Channel_Name= "1501"
+Channel_server= "null"
+Event= "13:30 (WTA - LONDON) WTA - LONDON : KARTAL S. VS ANISIMOVA A. (TENNIS STREAM 1)"
+
+Channel_Name= "33"
+Channel_server= "nfs"
+Event= "13:30 (BİSİKLET YARIŞI) CRITERIUM DU DAUPHINE | STAGE 4 MEN | CHARMES SUR RHONE – SAINT PERAY (ITT, 17.4KM) (TNT SPORTS 3 UK)"
+
+Channel_Name= "31"
+Channel_server= "nfs"
+Event= "13:30 (BİSİKLET YARIŞI) CRITERIUM DU DAUPHINE | STAGE 4 MEN | CHARMES SUR RHONE – SAINT PERAY (ITT, 17.4KM) (TNT SPORTS 1 UK)"
+
+Channel_Name= "589"
+Channel_server= "dokko1"
+Event= "13:30 (BİSİKLET YARIŞI) CRITERIUM DU DAUPHINE | STAGE 4 MEN | CHARMES SUR RHONE – SAINT PERAY (ITT, 17.4KM) (SKY SPORT 2 NZ)"
+
+Channel_Name= "83"
+Channel_server= "ddy6"
+Event= "13:30 (BİSİKLET YARIŞI) CRITERIUM DU DAUPHINE | STAGE 4 MEN | CHARMES SUR RHONE – SAINT PERAY (ITT, 17.4KM) (ESPN3 BRAZIL)"
+
+Channel_Name= "57"
+Channel_server= "wind"
+Event= "13:30 (BİSİKLET YARIŞI) CRITERIUM DU DAUPHINE | STAGE 4 MEN | CHARMES SUR RHONE – SAINT PERAY (ITT, 17.4KM) (EUROSPORT 1 POLAND)"
+
+Channel_Name= "524"
+Channel_server= "zeko"
+Event= "13:30 (BİSİKLET YARIŞI) CRITERIUM DU DAUPHINE | STAGE 4 MEN | CHARMES SUR RHONE – SAINT PERAY (ITT, 17.4KM) (EUROSPORT 1 SPAIN)"
+
+Channel_Name= "772"
+Channel_server= "ddy6"
+Event= "13:30 (BİSİKLET YARIŞI) CRITERIUM DU DAUPHINE | STAGE 4 MEN | CHARMES SUR RHONE – SAINT PERAY (ITT, 17.4KM) (EUROSPORT 1 FRANCE)"
+
+Channel_Name= "231"
+Channel_server= "wind"
+Event= "13:30 (BİSİKLET YARIŞI) CRITERIUM DU DAUPHINE | STAGE 4 MEN | CHARMES SUR RHONE – SAINT PERAY (ITT, 17.4KM) (EUROSPORT 1 SE)"
+
+Channel_Name= "878"
+Channel_server= "wind"
+Event= "13:30 (BİSİKLET YARIŞI) CRITERIUM DU DAUPHINE | STAGE 4 MEN | CHARMES SUR RHONE – SAINT PERAY (ITT, 17.4KM) (EUROSPORT 1 ITALY)"
+
+Channel_Name= "772"
+Channel_server= "ddy6"
+Event= "13:30 (BİSİKLET YARIŞI) CRITERIUM DU DAUPHINE | STAGE 4 MEN | CHARMES SUR RHONE – SAINT PERAY (ITT, 17.4KM) (EUROSPORT 1 FRANCE)"
+
+Channel_Name= "41"
+Channel_server= "wind"
+Event= "13:30 (BİSİKLET YARIŞI) CRITERIUM DU DAUPHINE | STAGE 4 MEN | CHARMES SUR RHONE – SAINT PERAY (ITT, 17.4KM) (EUROSPORT 1 GREECE)"
+
+Channel_Name= "400"
+Channel_server= "nfs"
+Event= "14:00 (FUTBOL) ROMANIACUPA ROMÂNIEI FEMININĂ : FC FARUL CONSTANTA VS FK CSÍKSZEREDA MIERCUREA CIUC (DIGI SPORT 1 ROMANIA)"
+
+Channel_Name= "412"
+Channel_server= "zeko"
+Event= "14:00 (KRIKET) 1ST ODI : WEST INDIES W VS SOUTH AFRICA W (SUPERSPORT GRANDSTAND)"
+
+Channel_Name= "1507"
+Channel_server= "null"
+Event= "14:00 (ATP - HERTOGENBOSCH) ATP - HERTOGENBOSCH : DJERE L. VS LAJAL M. (TENNIS STREAM 7)"
+
+Channel_Name= "1505"
+Channel_server= "null"
+Event= "14:00 (WTA - HERTOGENBOSCH) WTA - HERTOGENBOSCH : KUDERMETOVA V. VS MINNEN G. (TENNIS STREAM 5)"
+
+Channel_Name= "767"
+Channel_server= "zeko"
+Event= "15:00 (TV PROGRAMLARI) THE PRICE IS RIGHT SEASON 53, EPISODE 174 (CBSNY USA)"
+
+Channel_Name= "766"
+Channel_server= "zeko"
+Event= "15:00 (TV PROGRAMLARI) THE VIEW SEASON 28, EPISODE 181 (ABC NY USA)"
+
+Channel_Name= "1508"
+Channel_server= "null"
+Event= "15:00 (ATP - STUTTGART) ATP - STUTTGART : STRUFF J-L. VS LEHECKA J. (TENNIS STREAM 8)"
+
+Channel_Name= "1501"
+Channel_server= "null"
+Event= "15:00 (WTA - LONDON) WTA - LONDON : ZAKHAROVA A. VS KEYS M. (TENNIS STREAM 1)"
+
+Channel_Name= "104"
+Channel_server= "nfs"
+Event= "15:00 (ATHLETICS) ATHLETICS: VRBOVEC JUMPING MEETING: VRBOVEC (SPORT KLUB 4 CROATIA)"
+
+Channel_Name= "47"
+Channel_server= "wind"
+Event= "15:00 (VOLEYBOL) NATIONS LEAGUE : BULGARIA VS. ITALY (POLSAT SPORT 1 POLAND)"
+
+Channel_Name= "473"
+Channel_server= "wind"
+Event= "15:00 (VOLEYBOL) NATIONS LEAGUE : BULGARIA VS. ITALY (MAX SPORT 2 BULGARIA)"
+
+Channel_Name= "79"
+Channel_server= "ddy6"
+Event= "15:00 (VOLEYBOL) NATIONS LEAGUE : BULGARIA VS. ITALY (SPORTV2 BTAZIL)"
+
+Channel_Name= "101"
+Channel_server= "ddy6"
+Event= "15:00 (VOLEYBOL) NATIONS LEAGUE : BULGARIA VS. ITALY (SPORT KLUB 1 CROATIA)"
+
+Channel_Name= "438"
+Channel_server= "zeko"
+Event= "15:15 (AT YARIŞI) SAN SEBASTIÁN HIPPODROME (2025): SPRING SEASON (MOVISTAR DEPORTES 2 SPAIN)"
+
+Channel_Name= "417"
+Channel_server= "wind"
+Event= "15:30 (FIELD HOCKEY) FIH PRO LEAGUE WOMEN : NETHERLANDS W VS SPAIN W (SUPERSPORT VARIETY 2)"
+
+Channel_Name= "555"
+Channel_server= "zeko"
+Event= "15:45 (AT YARIŞI) LIVE RACING FROM HAMILTON, KEMPTON AND LIMERICK (RACING TV UK)"
+
+Channel_Name= "18"
+Channel_server= "nfs"
+Event= "16:00 (FUTBOL) UEFA EURO U-21 : SLOVAKIA U21 VS SPAIN U21 (RTVS SPORT SLOVAKIA)"
+
+Channel_Name= "529"
+Channel_server= "dokko1"
+Event= "16:00 (FUTBOL) UEFA EURO U-21 : SLOVAKIA U21 VS SPAIN U21 (TELEDEPORTE SPAIN)"
+
+Channel_Name= "533"
+Channel_server= "dokko1"
+Event= "16:00 (FUTBOL) UEFA EURO U-21 : SLOVAKIA U21 VS SPAIN U21 (TVE LA 1 SPAIN)"
+
+Channel_Name= "265"
+Channel_server= "zeko"
+Event= "16:00 (FUTBOL) UEFA EURO U-21 : SLOVAKIA U21 VS SPAIN U21 (M4 SPORT HUNGARY)"
+
+Channel_Name= "799"
+Channel_server= "zeko"
+Event= "16:00 (FUTBOL) UEFA EURO U-21 : SLOVAKIA U21 VS SPAIN U21 (PREMIER SPORTS 2 IRELAND)"
+
+Channel_Name= "1"
+Channel_server= "nfs"
+Event= "16:00 (FUTBOL) UEFA EURO U-21 : SLOVAKIA U21 VS SPAIN U21 (4SEVEN UK)"
+
+Channel_Name= "49"
+Channel_server= "wind"
+Event= "16:00 (FUTBOL) UEFA EURO U-21 : SLOVAKIA U21 VS SPAIN U21 (SPORT TV1 PORTUGAL)"
+
+Channel_Name= "128"
+Channel_server= "nfs"
+Event= "16:00 (FUTBOL) UEFA EURO U-21 : SLOVAKIA U21 VS SPAIN U21 (TVP SPORT POLAND)"
+
+Channel_Name= "393"
+Channel_server= "ddy6"
+Event= "16:00 (FUTBOL) UEFA EURO U-21 : SLOVAKIA U21 VS SPAIN U21 (ZIGGO SPORT 1 NL)"
+
+Channel_Name= "116"
+Channel_server= "zeko"
+Event= "16:00 (FUTBOL) UEFA EURO U-21 : SLOVAKIA U21 VS SPAIN U21 (BEIN SPORTS 1 FRANCE)"
+
+Channel_Name= "2"
+Channel_server= "nfs"
+Event= "16:00 (FUTBOL) UEFA EURO U-21 : SLOVAKIA U21 VS SPAIN U21 (ČT SPORT CZECH REPUBLIC)"
+
+Channel_Name= "926"
+Channel_server= "nfs"
+Event= "16:00 (FUTBOL) UEFA EURO U-21 : SLOVAKIA U21 VS SPAIN U21 (ESPN 2 MEXICO)"
+
+Channel_Name= "809"
+Channel_server= "ddy6"
+Event= "16:00 (FUTBOL) UEFA EURO U-21 : SLOVAKIA U21 VS SPAIN U21 (TV3 SPORT DENMARK)"
+
+Channel_Name= "3"
+Channel_server= "nfs"
+Event= "16:00 (FUTBOL) UEFA EURO U-21 : SLOVAKIA U21 VS SPAIN U21 (PRO ARENA ROMANIA)"
+
+Channel_Name= "919"
+Channel_server= "nfs"
+Event= "16:00 (FUTBOL) UEFA EURO U-21 : SLOVAKIA U21 VS SPAIN U21 (ZIGGO SPORT 3 NL)"
+
+Channel_Name= "4"
+Channel_server= "nfs"
+Event= "16:00 (FUTBOL) UEFA EURO U-21 : SLOVAKIA U21 VS SPAIN U21 (V SPORT PREMIUM)"
+
+Channel_Name= "92"
+Channel_server= "dokko1"
+Event= "16:00 (FUTBOL) UEFA EURO U-21 : SLOVAKIA U21 VS SPAIN U21 (BEIN SPORTS MENA 2)"
+
+Channel_Name= "61"
+Channel_server= "wind"
+Event= "16:00 (FUTBOL) UEFA EURO U-21 : SLOVAKIA U21 VS SPAIN U21 (BEIN SPORTS MENA ENGLISH 1)"
+
+Channel_Name= "140"
+Channel_server= "zeko"
+Event= "16:00 (FUTBOL) UEFA EURO U-21 : SLOVAKIA U21 VS SPAIN U21 (SPORT 1 ISRAEL)"
+
+Channel_Name= "9"
+Channel_server= "nfs"
+Event= "16:00 (BASKETBOL) TOYRNOYA VASO MPESKAKI : HELLAS VS MEGALI VRETANIA (ERT 2 GREECE)"
+
+Channel_Name= "32"
+Channel_server= "nfs"
+Event= "16:30 (MOTORSPORT) FIA WEC | ROUND 4 | 24 HOURS OF LE MANS QUALIFYING (TNT SPORTS 2 UK)"
+
+Channel_Name= "57"
+Channel_server= "wind"
+Event= "16:30 (MOTORSPORT) FIA WEC | ROUND 4 | 24 HOURS OF LE MANS QUALIFYING (EUROSPORT 1 POLAND)"
+
+Channel_Name= "524"
+Channel_server= "zeko"
+Event= "16:30 (MOTORSPORT) FIA WEC | ROUND 4 | 24 HOURS OF LE MANS QUALIFYING (EUROSPORT 1 SPAIN)"
+
+Channel_Name= "772"
+Channel_server= "ddy6"
+Event= "16:30 (MOTORSPORT) FIA WEC | ROUND 4 | 24 HOURS OF LE MANS QUALIFYING (EUROSPORT 1 FRANCE)"
+
+Channel_Name= "231"
+Channel_server= "wind"
+Event= "16:30 (MOTORSPORT) FIA WEC | ROUND 4 | 24 HOURS OF LE MANS QUALIFYING (EUROSPORT 1 SE)"
+
+Channel_Name= "878"
+Channel_server= "wind"
+Event= "16:30 (MOTORSPORT) FIA WEC | ROUND 4 | 24 HOURS OF LE MANS QUALIFYING (EUROSPORT 1 ITALY)"
+
+Channel_Name= "772"
+Channel_server= "ddy6"
+Event= "16:30 (MOTORSPORT) FIA WEC | ROUND 4 | 24 HOURS OF LE MANS QUALIFYING (EUROSPORT 1 FRANCE)"
+
+Channel_Name= "41"
+Channel_server= "wind"
+Event= "16:30 (MOTORSPORT) FIA WEC | ROUND 4 | 24 HOURS OF LE MANS QUALIFYING (EUROSPORT 1 GREECE)"
+
+Channel_Name= "127"
+Channel_server= "ddy6"
+Event= "16:30 (FUTSAL) RUSSIA SUPERLIGA, PLAYOFFS : UKHTA VS GAZPROM-UGRA YUGORSK (MATCH TV RUSSIA)"
+
+Channel_Name= "10"
+Channel_server= "nfs"
+Event= "16:35 (BEYZBOL) MLB : PITTSBURGH PIRATES VS MIAMI MARLINS (MLB LEAGUE PASS)"
+
+Channel_Name= "922"
+Channel_server= "nfs"
+Event= "16:35 (BEYZBOL) MLB : PITTSBURGH PIRATES VS MIAMI MARLINS (SPORTSNET PITTSBURGH)"
+
+Channel_Name= "892"
+Channel_server= "null"
+Event= "16:35 (BEYZBOL) MLB : PITTSBURGH PIRATES VS MIAMI MARLINS (FANDUEL SPORTS NETWORK FLORIDA)"
+
+Channel_Name= "144"
+Channel_server= "zeko"
+Event= "17:00 (BASKETBOL) ISRAELI NATIONAL LEAGUE BASKETBALL : HAPOEL EILAT VS MACCABI RISHON (SPORT 5 ISRAEL)"
+
+Channel_Name= "50"
+Channel_server= "wind"
+Event= "17:00 (VOLEYBOL) NATIONS LEAGUE : UKRAINE VS. USA (POLSAT SPORT 2 POLAND)"
+
+Channel_Name= "308"
+Channel_server= "zeko"
+Event= "17:00 (VOLEYBOL) NATIONS LEAGUE : UKRAINE VS. USA (CBS SPORTS NETWORK)"
+
+Channel_Name= "79"
+Channel_server= "ddy6"
+Event= "17:00 (VOLEYBOL) NATIONS LEAGUE : UKRAINE VS. USA (SPORTV2 BTAZIL)"
+
+Channel_Name= "103"
+Channel_server= "nfs"
+Event= "17:00 (VOLEYBOL) NATIONS LEAGUE : UKRAINE VS. USA (SPORT KLUB 3 CROATIA)"
+
+Channel_Name= "11"
+Channel_server= "nfs"
+Event= "17:05 (BEYZBOL) MLB : PHILADELPHIA PHILLIES VS CHICAGO CUBS (MLB LEAGUE PASS)"
+
+Channel_Name= "777"
+Channel_server= "zeko"
+Event= "17:05 (BEYZBOL) MLB : PHILADELPHIA PHILLIES VS CHICAGO CUBS (NBCS PHILADELPHIA USA)"
+
+Channel_Name= "770"
+Channel_server= "ddy6"
+Event= "17:05 (BEYZBOL) MLB : PHILADELPHIA PHILLIES VS CHICAGO CUBS (MARQUEE SPORTS NETWORK USA)"
+
+Channel_Name= "399"
+Channel_server= "wind"
+Event= "17:05 (BEYZBOL) MLB : PHILADELPHIA PHILLIES VS CHICAGO CUBS (MLB NETWORK USA)"
+
+Channel_Name= "12"
+Channel_server= "nfs"
+Event= "17:10 (BEYZBOL) MLB : CLEVELAND GUARDIANS VS CINCINNATI REDS (MLB LEAGUE PASS)"
+
+Channel_Name= "899"
+Channel_server= "null"
+Event= "17:10 (BEYZBOL) MLB : CLEVELAND GUARDIANS VS CINCINNATI REDS (FANDUEL SPORTS NETWORK OHIO)"
+
+Channel_Name= "894"
+Channel_server= "null"
+Event= "17:10 (BEYZBOL) MLB : CLEVELAND GUARDIANS VS CINCINNATI REDS (FANDUEL SPORTS NETWORK INDIANA)"
+
+Channel_Name= "346"
+Channel_server= "zeko"
+Event= "17:30 (KRIKET) NATWEST T20 BLAST : NORTHAMPTONSHIRE VS WARWICKSHIRE (WILLOW CRICKET)"
+
+Channel_Name= "65"
+Channel_server= "dokko1"
+Event= "17:30 (KRIKET) NATWEST T20 BLAST : NORTHAMPTONSHIRE VS WARWICKSHIRE (SKY SPORTS CRICKET UK)"
+
+Channel_Name= "38"
+Channel_server= "zeko"
+Event= "17:30 (KRIKET) NATWEST T20 BLAST : NORTHAMPTONSHIRE VS WARWICKSHIRE (SKY SPORTS MAIN EVENT)"
+
+Channel_Name= "767"
+Channel_server= "zeko"
+Event= "18:00 (TV PROGRAMLARI) BEYOND THE GATES SEASON 1, EPISODE 71 (CBSNY USA)"
+
+Channel_Name= "665"
+Channel_server= "dokko1"
+Event= "18:00 (TV PROGRAMLARI) DR. PIMPLE POPPER: BREAKING OUT SEASON 1, EPISODE 6 (FYI USA)"
+
+Channel_Name= "417"
+Channel_server= "wind"
+Event= "18:00 (FIELD HOCKEY) FIH PRO LEAGUE : NETHERLANDS VS IRELAND (SUPERSPORT VARIETY 2)"
+
+Channel_Name= "779"
+Channel_server= "dokko1"
+Event= "18:00 (BASKETBOL) PREMIJER LIGA : SPLIT VS ZADAR (MAXSPORT1 CROATIA)"
+
+Channel_Name= "47"
+Channel_server= "wind"
+Event= "18:00 (BASKETBOL) POLISH BASKETBALL LEAGUE : LUBLIN VS LEGIA (POLSAT SPORT 1 POLAND)"
+
+Channel_Name= "13"
+Channel_server= "nfs"
+Event= "18:10 (BEYZBOL) MLB : MILWAUKEE BREWERS VS ATLANTA BRAVES (MLB LEAGUE PASS)"
+
+Channel_Name= "31"
+Channel_server= "nfs"
+Event= "18:10 (BEYZBOL) MLB : MILWAUKEE BREWERS VS ATLANTA BRAVES (TNT SPORTS 1 UK)"
+
+Channel_Name= "903"
+Channel_server= "null"
+Event= "18:10 (BEYZBOL) MLB : MILWAUKEE BREWERS VS ATLANTA BRAVES (FANDUEL SPORTS NETWORK SOUTH)"
+
+Channel_Name= "904"
+Channel_server= "null"
+Event= "18:10 (BEYZBOL) MLB : MILWAUKEE BREWERS VS ATLANTA BRAVES (FANDUEL SPORTS NETWORK SOUTHEAST)"
+
+Channel_Name= "907"
+Channel_server= "null"
+Event= "18:10 (BEYZBOL) MLB : MILWAUKEE BREWERS VS ATLANTA BRAVES (FANDUEL SPORTS NETWORK WISCONSIN)"
+
+Channel_Name= "14"
+Channel_server= "nfs"
+Event= "18:15 (BEYZBOL) MLB : ST. LOUIS CARDINALS VS TORONTO BLUE JAYS (MLB LEAGUE PASS)"
+
+Channel_Name= "260"
+Channel_server= "wind"
+Event= "18:15 (BEYZBOL) MLB : ST. LOUIS CARDINALS VS TORONTO BLUE JAYS (VODAFONE SPORT)"
+
+Channel_Name= "408"
+Channel_server= "wind"
+Event= "18:15 (BEYZBOL) MLB : ST. LOUIS CARDINALS VS TORONTO BLUE JAYS (SPORTSNET EAST)"
+
+Channel_Name= "406"
+Channel_server= "wind"
+Event= "18:15 (BEYZBOL) MLB : ST. LOUIS CARDINALS VS TORONTO BLUE JAYS (SPORTSNET ONTARIO)"
+
+Channel_Name= "407"
+Channel_server= "wind"
+Event= "18:15 (BEYZBOL) MLB : ST. LOUIS CARDINALS VS TORONTO BLUE JAYS (SPORTSNET WEST)"
+
+Channel_Name= "894"
+Channel_server= "null"
+Event= "18:15 (BEYZBOL) MLB : ST. LOUIS CARDINALS VS TORONTO BLUE JAYS (FANDUEL SPORTS NETWORK INDIANA)"
+
+Channel_Name= "896"
+Channel_server= "zeko"
+Event= "18:15 (BEYZBOL) MLB : ST. LOUIS CARDINALS VS TORONTO BLUE JAYS (FANDUEL SPORTS NETWORK MIDWEST)"
+
+Channel_Name= "900"
+Channel_server= "null"
+Event= "18:15 (BEYZBOL) MLB : ST. LOUIS CARDINALS VS TORONTO BLUE JAYS (FANDUEL SPORTS NETWORK OKLAHOMA)"
+
+Channel_Name= "430"
+Channel_server= "zeko"
+Event= "18:15 (BEYZBOL) MLB : ST. LOUIS CARDINALS VS TORONTO BLUE JAYS (ARENA SPORT 2 SERBIA)"
+
+Channel_Name= "433"
+Channel_server= "zeko"
+Event= "18:15 (BEYZBOL) MLB : ST. LOUIS CARDINALS VS TORONTO BLUE JAYS (ARENA SPORT 2 CROATIA)"
+
+Channel_Name= "146"
+Channel_server= "zeko"
+Event= "18:15 (BEYZBOL) MLB : ST. LOUIS CARDINALS VS TORONTO BLUE JAYS (SPORT 5 LIVE ISRAEL)"
+
+Channel_Name= "769"
+Channel_server= "zeko"
+Event= "19:00 (TV PROGRAMLARI) THE KELLY CLARKSON SHOW SEASON 6, EPISODE 168 (NBCNY USA)"
+
+Channel_Name= "766"
+Channel_server= "zeko"
+Event= "19:00 (TV PROGRAMLARI) GENERAL HOSPITAL SEASON 62, EPISODE 191 (ABC NY USA)"
+
+Channel_Name= "851"
+Channel_server= "ddy6"
+Event= "19:00 (FUTBOL) UEFA EURO U-21 : ITALY U21 VS ROMANIA U21 (RAI 2 IT)"
+
+Channel_Name= "5"
+Channel_server= "nfs"
+Event= "19:00 (FUTBOL) UEFA EURO U-21 : ITALY U21 VS ROMANIA U21 (PRO TV ROMANIA)"
+
+Channel_Name= "74"
+Channel_server= "dokko1"
+Event= "19:00 (FUTBOL) UEFA EURO U-21 : ITALY U21 VS ROMANIA U21 (SPORT TV2 PORTUGAL)"
+
+Channel_Name= "117"
+Channel_server= "zeko"
+Event= "19:00 (FUTBOL) UEFA EURO U-21 : ITALY U21 VS ROMANIA U21 (BEIN SPORTS 2 FRANCE)"
+
+Channel_Name= "398"
+Channel_server= "zeko"
+Event= "19:00 (FUTBOL) UEFA EURO U-21 : ITALY U21 VS ROMANIA U21 (ZIGGO SPORT 2 NL)"
+
+Channel_Name= "529"
+Channel_server= "dokko1"
+Event= "19:00 (FUTBOL) UEFA EURO U-21 : ITALY U21 VS ROMANIA U21 (TELEDEPORTE SPAIN)"
+
+Channel_Name= "19"
+Channel_server= "nfs"
+Event= "19:00 (FUTBOL) UEFA EURO U-21 : ITALY U21 VS ROMANIA U21 (V SPORT FOTBOLL SWEDEN)"
+
+Channel_Name= "926"
+Channel_server= "nfs"
+Event= "19:00 (FUTBOL) UEFA EURO U-21 : ITALY U21 VS ROMANIA U21 (ESPN2 MEXICO)"
+
+Channel_Name= "809"
+Channel_server= "ddy6"
+Event= "19:00 (FUTBOL) UEFA EURO U-21 : ITALY U21 VS ROMANIA U21 (TV3 SPORT DENMARK)"
+
+Channel_Name= "92"
+Channel_server= "dokko1"
+Event= "19:00 (FUTBOL) UEFA EURO U-21 : ITALY U21 VS ROMANIA U21 (BEIN SPORTS MENA 2)"
+
+Channel_Name= "61"
+Channel_server= "wind"
+Event= "19:00 (FUTBOL) UEFA EURO U-21 : ITALY U21 VS ROMANIA U21 (BEIN SPORTS MENA ENGLISH 1)"
+
+Channel_Name= "141"
+Channel_server= "zeko"
+Event= "19:00 (FUTBOL) UEFA EURO U-21 : ITALY U21 VS ROMANIA U21 (SPORT 2 ISRAEL)"
+
+Channel_Name= "49"
+Channel_server= "wind"
+Event= "19:00 (FUTBOL) UEFA EURO U-21 : PORTUGAL U21 VS FRANCE U21 (SPORT TV1 PORTUGAL)"
+
+Channel_Name= "540"
+Channel_server= "ddy6"
+Event= "19:00 (FUTBOL) UEFA EURO U-21 : PORTUGAL U21 VS FRANCE U21 (CANAL 11 PORTUGAL)"
+
+Channel_Name= "116"
+Channel_server= "zeko"
+Event= "19:00 (FUTBOL) UEFA EURO U-21 : PORTUGAL U21 VS FRANCE U21 (BEIN SPORTS 1 FRANCE)"
+
+Channel_Name= "6"
+Channel_server= "nfs"
+Event= "19:00 (FUTBOL) UEFA EURO U-21 : PORTUGAL U21 VS FRANCE U21 (W9 FRANCE)"
+
+Channel_Name= "265"
+Channel_server= "zeko"
+Event= "19:00 (FUTBOL) UEFA EURO U-21 : PORTUGAL U21 VS FRANCE U21 (M4 SPORT HUNGARY)"
+
+Channel_Name= "1"
+Channel_server= "nfs"
+Event= "19:00 (FUTBOL) UEFA EURO U-21 : PORTUGAL U21 VS FRANCE U21 (4SEVEN UK)"
+
+Channel_Name= "393"
+Channel_server= "ddy6"
+Event= "19:00 (FUTBOL) UEFA EURO U-21 : PORTUGAL U21 VS FRANCE U21 (ZIGGO SPORT 1 NL)"
+
+Channel_Name= "2"
+Channel_server= "nfs"
+Event= "19:00 (FUTBOL) UEFA EURO U-21 : PORTUGAL U21 VS FRANCE U21 (ČT SPORT CZECH REPUBLIC)"
+
+Channel_Name= "7"
+Channel_server= "nfs"
+Event= "19:00 (FUTBOL) UEFA EURO U-21 : PORTUGAL U21 VS FRANCE U21 (DVOJKA SLOVAKIA)"
+
+Channel_Name= "819"
+Channel_server= "ddy6"
+Event= "19:00 (FUTBOL) UEFA EURO U-21 : PORTUGAL U21 VS FRANCE U21 (TV3+ HD DENMARK)"
+
+Channel_Name= "8"
+Channel_server= "nfs"
+Event= "19:00 (FUTBOL) UEFA EURO U-21 : PORTUGAL U21 VS FRANCE U21 (ERT 3 GREECE)"
+
+Channel_Name= "4"
+Channel_server= "nfs"
+Event= "19:00 (FUTBOL) UEFA EURO U-21 : PORTUGAL U21 VS FRANCE U21 (V SPORT PREMIUM)"
+
+Channel_Name= "93"
+Channel_server= "dokko1"
+Event= "19:00 (FUTBOL) UEFA EURO U-21 : PORTUGAL U21 VS FRANCE U21 (BEIN SPORTS MENA 3)"
+
+Channel_Name= "90"
+Channel_server= "zeko"
+Event= "19:00 (FUTBOL) UEFA EURO U-21 : PORTUGAL U21 VS FRANCE U21 (BEIN SPORTS MENA ENGLISH 2)"
+
+Channel_Name= "140"
+Channel_server= "zeko"
+Event= "19:00 (FUTBOL) UEFA EURO U-21 : PORTUGAL U21 VS FRANCE U21 (SPORT 1 ISRAEL)"
+
+Channel_Name= "454"
+Channel_server= "ddy6"
+Event= "19:00 (FUTBOL) UEFA EURO U-21 : POLAND U21 VS GEORGIA U21 (SPORT TV3 PORTUGAL)"
+
+Channel_Name= "128"
+Channel_server= "nfs"
+Event= "19:00 (FUTBOL) UEFA EURO U-21 : POLAND U21 VS GEORGIA U21 (TVP SPORT POLAND)"
+
+Channel_Name= "560"
+Channel_server= "dokko1"
+Event= "19:00 (FUTBOL) UEFA EURO U-21 : POLAND U21 VS GEORGIA U21 (TVP1 POLAND)"
+
+Channel_Name= "118"
+Channel_server= "zeko"
+Event= "19:00 (FUTBOL) UEFA EURO U-21 : POLAND U21 VS GEORGIA U21 (BEIN SPORTS 3 FRANCE)"
+
+Channel_Name= "94"
+Channel_server= "dokko1"
+Event= "19:00 (FUTBOL) UEFA EURO U-21 : POLAND U21 VS GEORGIA U21 (BEIN SPORTS MENA 4)"
+
+Channel_Name= "142"
+Channel_server= "zeko"
+Event= "19:00 (FUTBOL) UEFA EURO U-21 : POLAND U21 VS GEORGIA U21 (SPORT 3 ISRAEL)"
+
+Channel_Name= "539"
+Channel_server= "dokko1"
+Event= "19:00 (FUTBOL) SPAIN - SEGUNDA DIVISION : REAL OVIEDO VS ALMERÍA (LALIGA TV HYPERMOTION)"
+
+Channel_Name= "521"
+Channel_server= "wind"
+Event= "19:00 (FUTBOL) SPAIN - SEGUNDA DIVISION : REAL OVIEDO VS ALMERÍA (#VAMOS ES)"
+
+Channel_Name= "451"
+Channel_server= "wind"
+Event= "19:00 (FUTBOL) SPAIN - SEGUNDA DIVISION : REAL OVIEDO VS ALMERÍA (VIAPLAY SPORTS 1 UK)"
+
+Channel_Name= "276"
+Channel_server= "wind"
+Event= "19:00 (FUTBOL) SPAIN - SEGUNDA DIVISION : REAL OVIEDO VS ALMERÍA (LALIGATV UK)"
+
+Channel_Name= "771"
+Channel_server= "ddy6"
+Event= "19:00 (FUTBOL) SPAIN - SEGUNDA DIVISION : REAL OVIEDO VS ALMERÍA (PREMIER SPORTS 1 IRELAND)"
+
+Channel_Name= "455"
+Channel_server= "ddy6"
+Event= "19:00 (FUTBOL) SPAIN - SEGUNDA DIVISION : REAL OVIEDO VS ALMERÍA (DAZN ELEVEN 1 PORTUGAL)"
+
+Channel_Name= "375"
+Channel_server= "zeko"
+Event= "19:00 (FUTBOL) SPAIN - SEGUNDA DIVISION : REAL OVIEDO VS ALMERÍA (ESPN DEPORTES)"
+
+Channel_Name= "139"
+Channel_server= "ddy6"
+Event= "19:00 (FUTBOL) SPAIN - SEGUNDA DIVISION : REAL OVIEDO VS ALMERÍA (ARENA PREMIUM 3 SERBIA)"
+
+Channel_Name= "631"
+Channel_server= "dokko1"
+Event= "19:00 (FUTBOL) SPAIN - SEGUNDA DIVISION : REAL OVIEDO VS ALMERÍA (NOVA SPORTS 1 GREECE)"
+
+Channel_Name= "808"
+Channel_server= "dokko1"
+Event= "19:00 (FUTBOL) SPAIN - SEGUNDA DIVISION : REAL OVIEDO VS ALMERÍA (TV2 SPORT X DENMARK)"
+
+Channel_Name= "747"
+Channel_server= "nfs"
+Event= "19:00 (FUTBOL) SPAIN - SEGUNDA DIVISION : REAL OVIEDO VS ALMERÍA (TV4 FOTBALL)"
+
+Channel_Name= "48"
+Channel_server= "nfs"
+Event= "19:00 (FUTBOL) SPAIN - SEGUNDA DIVISION : REAL OVIEDO VS ALMERÍA (CANAL+ SPORT POLAND)"
+
+Channel_Name= "401"
+Channel_server= "nfs"
+Event= "19:00 (FUTBOL) SPAIN - SEGUNDA DIVISION : REAL OVIEDO VS ALMERÍA (DIGI SPORT 2 ROMANIA)"
+
+Channel_Name= "584"
+Channel_server= "null"
+Event= "19:00 (FUTBOL) SPAIN - SEGUNDA DIVISION : REAL OVIEDO VS ALMERÍA (PRIMA SPORT 2 ROMANIA)"
+
+Channel_Name= "917"
+Channel_server= "wind"
+Event= "19:00 (FUTBOL) SPAIN - SEGUNDA DIVISION : REAL OVIEDO VS ALMERÍA (CYTAVISION SPORTS 7 CYPRUS)"
+
+Channel_Name= "137"
+Channel_server= "ddy6"
+Event= "19:00 (FUTBOL) SPAIN - SEGUNDA DIVISION : REAL OVIEDO VS ALMERÍA (MATCH! FOOTBALL 2 RUSSIA)"
+
+Channel_Name= "712"
+Channel_server= "nfs"
+Event= "19:00 (FUTBOL) SPAIN - SEGUNDA DIVISION : REAL OVIEDO VS ALMERÍA (BEIN SPORTS 1 MALAYSIA)"
+
+Channel_Name= "493"
+Channel_server= "ddy6"
+Event= "19:00 (FUTBOL) SPAIN - SEGUNDA DIVISION : REAL OVIEDO VS ALMERÍA (BEIN SPORTS AUSTRALIA 3)"
+
+Channel_Name= "432"
+Channel_server= "ddy6"
+Event= "19:00 (FUTBOL) SPAIN - SEGUNDA DIVISION : REAL OVIEDO VS ALMERÍA (ARENA SPORT 1 CROATIA)"
+
+Channel_Name= "475"
+Channel_server= "wind"
+Event= "19:00 (FUTBOL) SPAIN - SEGUNDA DIVISION : REAL OVIEDO VS ALMERÍA (MAX SPORT 4 BULGARIA)"
+
+Channel_Name= "415"
+Channel_server= "ddy6"
+Event= "19:00 (FUTBOL) SPAIN - SEGUNDA DIVISION : REAL OVIEDO VS ALMERÍA (SUPERSPORT LALIGA)"
+
+Channel_Name= "95"
+Channel_server= "dokko1"
+Event= "19:00 (FUTBOL) SPAIN - SEGUNDA DIVISION : REAL OVIEDO VS ALMERÍA (BEIN SPORTS MENA 5)"
+
+Channel_Name= "85"
+Channel_server= "ddy6"
+Event= "19:00 (FUTBOL) SPAIN - SEGUNDA DIVISION : REAL OVIEDO VS ALMERÍA (ESPN4 BRAZIL)"
+
+Channel_Name= "436"
+Channel_server= "zeko"
+Event= "19:15 (BASKETBOL) ACB : REAL MADRID VS UNICAJA (MOVISTAR SPORTS SPAIN)"
+
+Channel_Name= "134"
+Channel_server= "wind"
+Event= "19:15 (BASKETBOL) ACB : REAL MADRID VS UNICAJA (ARENA 1 PREMIUM SERBIA)"
+
+Channel_Name= "640"
+Channel_server= "dokko1"
+Event= "19:15 (BASKETBOL) ACB : REAL MADRID VS UNICAJA (SPORTDIGITAL+ DE)"
+
+Channel_Name= "456"
+Channel_server= "wind"
+Event= "19:15 (BASKETBOL) ACB : REAL MADRID VS UNICAJA (DAZN ELEVEN 2 PORTUGAL)"
+
+Channel_Name= "628"
+Channel_server= "dokko1"
+Event= "19:15 (BASKETBOL) ACB : REAL MADRID VS UNICAJA (COSMOTE SPORT 7 GREECE)"
+
+Channel_Name= "101"
+Channel_server= "ddy6"
+Event= "19:15 (BASKETBOL) ACB : REAL MADRID VS UNICAJA (SPORT KLUB 1 CROATIA)"
+
+Channel_Name= "143"
+Channel_server= "zeko"
+Event= "19:15 (BASKETBOL) ACB : REAL MADRID VS UNICAJA (SPORT 4 ISRAEL)"
+
+Channel_Name= "15"
+Channel_server= "nfs"
+Event= "19:40 (BEYZBOL) MLB : ARIZONA DIAMONDBACKS VS SEATTLE MARINERS (MLB LEAGUE PASS)"
+
+Channel_Name= "920"
+Channel_server= "dokko1"
+Event= "19:40 (BEYZBOL) MLB : ARIZONA DIAMONDBACKS VS SEATTLE MARINERS (ROOT SPORTS NW USA)"
+
+Channel_Name= "32"
+Channel_server= "nfs"
+Event= "19:45 (MOTORSPORT) FIA WEC | ROUND 4 | 24 HOURS OF LE MANS FREE PRACTICE 2 (TNT SPORTS 2 UK)"
+
+Channel_Name= "57"
+Channel_server= "wind"
+Event= "19:45 (MOTORSPORT) FIA WEC | ROUND 4 | 24 HOURS OF LE MANS FREE PRACTICE 2 (EUROSPORT 1 POLAND)"
+
+Channel_Name= "524"
+Channel_server= "zeko"
+Event= "19:45 (MOTORSPORT) FIA WEC | ROUND 4 | 24 HOURS OF LE MANS FREE PRACTICE 2 (EUROSPORT 1 SPAIN)"
+
+Channel_Name= "772"
+Channel_server= "ddy6"
+Event= "19:45 (MOTORSPORT) FIA WEC | ROUND 4 | 24 HOURS OF LE MANS FREE PRACTICE 2 (EUROSPORT 1 FRANCE)"
+
+Channel_Name= "231"
+Channel_server= "wind"
+Event= "19:45 (MOTORSPORT) FIA WEC | ROUND 4 | 24 HOURS OF LE MANS FREE PRACTICE 2 (EUROSPORT 1 SE)"
+
+Channel_Name= "878"
+Channel_server= "wind"
+Event= "19:45 (MOTORSPORT) FIA WEC | ROUND 4 | 24 HOURS OF LE MANS FREE PRACTICE 2 (EUROSPORT 1 ITALY)"
+
+Channel_Name= "772"
+Channel_server= "ddy6"
+Event= "19:45 (MOTORSPORT) FIA WEC | ROUND 4 | 24 HOURS OF LE MANS FREE PRACTICE 2 (EUROSPORT 1 FRANCE)"
+
+Channel_Name= "41"
+Channel_server= "wind"
+Event= "19:45 (MOTORSPORT) FIA WEC | ROUND 4 | 24 HOURS OF LE MANS FREE PRACTICE 2 (EUROSPORT 1 GREECE)"
+
+Channel_Name= "16"
+Channel_server= "nfs"
+Event= "20:07 (BEYZBOL) MLB : LOS ANGELES ANGELS VS OAKLAND ATHLETICS (MLB LEAGUE PASS)"
+
+Channel_Name= "755"
+Channel_server= "wind"
+Event= "20:07 (BEYZBOL) MLB : LOS ANGELES ANGELS VS OAKLAND ATHLETICS (NBCS CALIFORNIA USA)"
+
+Channel_Name= "906"
+Channel_server= "null"
+Event= "20:07 (BEYZBOL) MLB : LOS ANGELES ANGELS VS OAKLAND ATHLETICS (FANDUEL SPORTS NETWORK WEST)"
+
+Channel_Name= "17"
+Channel_server= "nfs"
+Event= "20:10 (BEYZBOL) MLB : SAN DIEGO PADRES VS LOS ANGELES DODGERS (MLB LEAGUE PASS)"
+
+Channel_Name= "31"
+Channel_server= "nfs"
+Event= "20:10 (BEYZBOL) MLB : SAN DIEGO PADRES VS LOS ANGELES DODGERS (TNT SPORTS 1 UK)"
+
+Channel_Name= "33"
+Channel_server= "nfs"
+Event= "20:10 (BEYZBOL) MLB : SAN DIEGO PADRES VS LOS ANGELES DODGERS (TNT SPORTS 3 UK)"
+
+Channel_Name= "764"
+Channel_server= "nfs"
+Event= "20:10 (BEYZBOL) MLB : SAN DIEGO PADRES VS LOS ANGELES DODGERS (SPECTRUM SPORTSNET LA)"
+
+Channel_Name= "50"
+Channel_server= "wind"
+Event= "20:30 (VOLEYBOL) NATIONS LEAGUE : ARGENTINA VS. FRANCE (POLSAT SPORT 2 POLAND)"
+
+Channel_Name= "135"
+Channel_server= "ddy6"
+Event= "20:30 (VOLEYBOL) NATIONS LEAGUE : ARGENTINA VS. FRANCE (ARENA PREMIUM 2 SERBIA)"
+
+Channel_Name= "473"
+Channel_server= "wind"
+Event= "20:30 (VOLEYBOL) NATIONS LEAGUE : ARGENTINA VS. FRANCE (MAX SPORT 2 BULGARIA)"
+
+Channel_Name= "453"
+Channel_server= "wind"
+Event= "20:30 (VOLEYBOL) NATIONS LEAGUE : ARGENTINA VS. FRANCE (SPORT KLUB HD CROATIA)"
+
+Channel_Name= "47"
+Channel_server= "wind"
+Event= "20:30 (VOLEYBOL) NATIONS LEAGUE : BRAZIL VS. IRAN (POLSAT SPORT 1 POLAND)"
+
+Channel_Name= "79"
+Channel_server= "ddy6"
+Event= "20:30 (VOLEYBOL) NATIONS LEAGUE : BRAZIL VS. IRAN (SPORTV2 BTAZIL)"
+
+Channel_Name= "103"
+Channel_server= "nfs"
+Event= "20:30 (VOLEYBOL) NATIONS LEAGUE : BRAZIL VS. IRAN (SPORT KLUB 3 CROATIA)"
+
+Channel_Name= "923"
+Channel_server= "nfs"
+Event= "21:00 (TV PROGRAMLARI) FANDUEL RACING LIVE (ALTITUDE SPORTS)"
+
+Channel_Name= "922"
+Channel_server= "nfs"
+Event= "22:00 (BEYZBOL) MINOR LEAGUE BASEBALL : ERIE SEAWOLVES VS ALTOONA CURVE (SPORTSNET PITTSBURGH)"
+
+Channel_Name= "55"
+Channel_server= "ddy6"
+Event= "22:15 (PPV EVENTS) MILLBRIDGE SPEEDWAY SPRINTS (EVENT PPV)"
+
+Channel_Name= "59"
+Channel_server= "wind"
+Event= "22:15 (PPV EVENTS) 358 MODIFIED SPECIAL UTICA (FLORACING)"
+
+Channel_Name= "319"
+Channel_server= "nfs"
+Event= "22:30 (TV PROGRAMLARI) BEAT THE BRIDGE NEW (GAME SHOW NETWORK USA)"
+
+Channel_Name= "3"
+Channel_server= "nfs"
+Event= "22:35 (BEYZBOL) MLB : BALTIMORE ORIOLES VS DETROIT TIGERS (MLB LEAGUE PASS)"
+
+Channel_Name= "891"
+Channel_server= "null"
+Event= "22:35 (BEYZBOL) MLB : BALTIMORE ORIOLES VS DETROIT TIGERS (FANDUEL SPORTS NETWORK DETROIT)"
+
+Channel_Name= "68"
+Channel_server= "wind"
+Event= "22:45 (PPV EVENTS) DIRTCAR SUMMER NATIONALS LATE MODELS (DIRTVISION)"
+
+Channel_Name= "131"
+Channel_server= "wind"
+Event= "23:00 (TV PROGRAMLARI) MISS UNIVERSE LATINA, EL REALITY NEW (TELEMUNDO USA)"
+
+Channel_Name= "766"
+Channel_server= "zeko"
+Event= "23:00 (TV PROGRAMLARI) JEOPARDY! SEASON 41, EPISODE 198 (ABC NY USA)"
+
+Channel_Name= "758"
+Channel_server= "zeko"
+Event= "23:00 (FUTBOL) CANADIAN CHAMPIONSHIP : ATLÉTICO OTTAWA VS YORK UNITED (FOX SPORTS 2 USA)"
+
+Channel_Name= "44"
+Channel_server= "zeko"
+Event= "23:00 (ATHLETICS) ATHLETICS: NCAA (M) - USA CHAMPIONSHIPS: USA CHAMPIONSHIPS - DAY 1 (ESPN USA)"
+
+Channel_Name= "101"
+Channel_server= "ddy6"
+Event= "23:00 (ATHLETICS) ATHLETICS: NCAA (M) - USA CHAMPIONSHIPS: USA CHAMPIONSHIPS - DAY 1 (SPORT KLUB 1 CROATIA)"
+
+Channel_Name= "39"
+Channel_server= "zeko"
+Event= "23:00 (BEYZBOL) BASEBALL CONGRESSIONAL BASEBALL GAME FOR CHARITY (FOX SPORTS 1 USA)"
+
+Channel_Name= "770"
+Channel_server= "ddy6"
+Event= "23:00 (BEYZBOL) MINOR LEAGUE BASEBALL : HICKORY CRAWDADS VS MYRTLE BEACH PELICANS (MARQUEE SPORTS NETWORK USA)"
+
+Channel_Name= "4"
+Channel_server= "nfs"
+Event= "23:10 (BEYZBOL) MLB : BOSTON RED SOX VS TAMPA BAY RAYS (MLB LEAGUE PASS)"
+
+Channel_Name= "113"
+Channel_server= "zeko"
+Event= "23:10 (BEYZBOL) MLB : BOSTON RED SOX VS TAMPA BAY RAYS (TSN3)"
+
+Channel_Name= "905"
+Channel_server= "zeko"
+Event= "23:10 (BEYZBOL) MLB : BOSTON RED SOX VS TAMPA BAY RAYS (BALLY SPORTS SUN)"
+
+Channel_Name= "840"
+Channel_server= "dokko1"
+Event= "23:10 (BEYZBOL) MLB : BOSTON RED SOX VS TAMPA BAY RAYS (RDS 2 CA)"
+
+Channel_Name= "5"
+Channel_server= "nfs"
+Event= "23:10 (BEYZBOL) MLB : NEW YORK METS VS WASHINGTON NATIONALS (MLB LEAGUE PASS)"
+
+Channel_Name= "759"
+Channel_server= "zeko"
+Event= "23:10 (BEYZBOL) MLB : NEW YORK METS VS WASHINGTON NATIONALS (SPORTSNET NEW YORK USA)"
+
+Channel_Name= "829"
+Channel_server= "nfs"
+Event= "23:10 (BEYZBOL) MLB : NEW YORK METS VS WASHINGTON NATIONALS (MASN USA)"
+
+Channel_Name= "69"
+Channel_server= "ddy6"
+Event= "23:30 (PPV EVENTS) 2025 IMCA CLASH AT THE CREEK AT 141 SPEEDWAY (FLORACING)"
+
+Channel_Name= "6"
+Channel_server= "nfs"
+Event= "23:40 (BEYZBOL) MLB : KANSAS CITY ROYALS VS NEW YORK YANKEES (MLB LEAGUE PASS)"
+
+Channel_Name= "399"
+Channel_server= "wind"
+Event= "23:40 (BEYZBOL) MLB : KANSAS CITY ROYALS VS NEW YORK YANKEES (MLB NETWORK USA)"
+
+Channel_Name= "895"
+Channel_server= "zeko"
+Event= "23:40 (BEYZBOL) MLB : KANSAS CITY ROYALS VS NEW YORK YANKEES (FANDUEL SPORTS NETWORK KANSAS CITY)"
+
+Channel_Name= "494"
+Channel_server= "ddy6"
+Event= "23:40 (BEYZBOL) MLB : KANSAS CITY ROYALS VS NEW YORK YANKEES (BEIN SPORTS 4 MAX FRANCE)"
+
+Channel_Name= "85"
+Channel_server= "ddy6"
+Event= "23:40 (BEYZBOL) MLB : KANSAS CITY ROYALS VS NEW YORK YANKEES (ESPN4 BRAZIL)"
+
+Channel_Name= "146"
+Channel_server= "zeko"
+Event= "23:40 (BEYZBOL) MLB : KANSAS CITY ROYALS VS NEW YORK YANKEES (SPORT 5 LIVE ISRAEL)"
+
+Channel_Name= "7"
+Channel_server= "nfs"
+Event= "23:40 (BEYZBOL) MLB : MINNESOTA TWINS VS TEXAS RANGERS (MLB LEAGUE PASS)"
+

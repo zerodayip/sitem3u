@@ -1,0 +1,28 @@
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 DENDELE - DESIMPEDIDOS GOTI"
+Url = "https://alpha.cf-worker-f9865672506d71.workers.dev/live/selcukssport2/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 DENDELE - DESIMPEDIDOS GOTI"
+Url = "https://alpha.cf-worker-f9865672506d71.workers.dev/live/selcukssport2/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 REAL OVIEDO - ALMERIA"
+Url = "https://alpha.cf-worker-f9865672506d71.workers.dev/live/selcukssport/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 REAL OVIEDO - ALMERIA"
+Url = "https://alpha.cf-worker-f9865672506d71.workers.dev/live/selcukssport/playlist.m3u8"
+
+Grup = "ICON-BASKETBALL"
+Kanal_Adı = "22:15 REAL MADRID - UNICAJA MALAGA"
+Url = "https://alpha.cf-worker-f9865672506d71.workers.dev/live/selcuksmartspor/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "23:00 FURIA - KARASU"
+Url = "https://alpha.cf-worker-f9865672506d71.workers.dev/live/selcukssport2/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "23:00 FURIA - KARASU"
+Url = "https://alpha.cf-worker-f9865672506d71.workers.dev/live/selcukssport2/playlist.m3u8"
+
