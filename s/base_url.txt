@@ -1,0 +1,36 @@
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "04:00 MEKSIKA - TÜRKIYE"
+Url = "https://alpha.cf-worker-7df90b083f9d09.workers.dev/live/selcuktv8/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "04:00 MEKSIKA - TÜRKIYE"
+Url = "https://alpha.cf-worker-7df90b083f9d09.workers.dev/live/selcuktv8/playlist.m3u8"
+
+Grup = "ICON-TENNIS"
+Kanal_Adı = "12:00 E.RADUCANU - R.SRAMKOVA"
+Url = "https://alpha.cf-worker-7df90b083f9d09.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
+
+Grup = "ICON-TENNIS"
+Kanal_Adı = "15:00 E.NAVARRO - B.HADDAD MAIA"
+Url = "https://alpha.cf-worker-7df90b083f9d09.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
+
+Grup = "ICON-TENNIS"
+Kanal_Adı = "16:30 SONAY KARTAL - A.ANISIMOVA"
+Url = "https://alpha.cf-worker-7df90b083f9d09.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
+
+Grup = "ICON-TENNIS"
+Kanal_Adı = "18:00 A.ZAKHAROVA - M.KEYS"
+Url = "https://alpha.cf-worker-7df90b083f9d09.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 REAL OVIEDO - ALMERIA"
+Url = "https://alpha.cf-worker-7df90b083f9d09.workers.dev/live/selcukssport/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 REAL OVIEDO - ALMERIA"
+Url = "https://alpha.cf-worker-7df90b083f9d09.workers.dev/live/selcukssport/playlist.m3u8"
+
+Grup = "ICON-BASKETBALL"
+Kanal_Adı = "22:15 REAL MADRID - UNICAJA MALAGA"
+Url = "https://alpha.cf-worker-7df90b083f9d09.workers.dev/live/selcuksmartspor/playlist.m3u8"
+
