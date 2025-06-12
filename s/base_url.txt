@@ -1,0 +1,72 @@
+Grup = "ICON-TENNIS"
+Kanal_Adı = "14:00 M.SAKKARI - E.MERTENS"
+Url = "https://alpha.cf-worker-f9865672506d71.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
+
+Grup = "ICON-TENNIS"
+Kanal_Adı = "14:00 D.SHNAIDER - K.BOULTER"
+Url = "https://alpha.cf-worker-f9865672506d71.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8"
+
+Grup = "ICON-TENNIS"
+Kanal_Adı = "16:00 H.WATSON - E.RYBAKINA"
+Url = "https://alpha.cf-worker-f9865672506d71.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8"
+
+Grup = "ICON-TENNIS"
+Kanal_Adı = "16:00 B.ANDREESCU - L.SUN"
+Url = "https://alpha.cf-worker-f9865672506d71.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
+
+Grup = "ICON-TENNIS"
+Kanal_Adı = "18:00 E.RADUCANU - R.SRAMKOVA"
+Url = "https://alpha.cf-worker-f9865672506d71.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8"
+
+Grup = "ICON-TENNIS"
+Kanal_Adı = "20:00 Q.ZHENG - M.KESSLER"
+Url = "https://alpha.cf-worker-f9865672506d71.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "20:00 UNIT3D - FUTBOLISTAS LOCOS"
+Url = "https://alpha.cf-worker-f9865672506d71.workers.dev/live/selcukssport2/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "20:00 UNIT3D - FUTBOLISTAS LOCOS"
+Url = "https://alpha.cf-worker-f9865672506d71.workers.dev/live/selcukssport2/playlist.m3u8"
+
+Grup = "ICON-BASKETBALL"
+Kanal_Adı = "20:30 ANADOLU EFES - BEŞIKTAŞ FIBABANKA"
+Url = "https://alpha.cf-worker-f9865672506d71.workers.dev/live/selcukbeinsports5/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:00 PORCINOS - XBUYER"
+Url = "https://alpha.cf-worker-f9865672506d71.workers.dev/live/selcukssport2/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "21:00 PORCINOS - XBUYER"
+Url = "https://alpha.cf-worker-f9865672506d71.workers.dev/live/selcukssport2/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 DENDELE - DESIMPEDIDOS GOTI"
+Url = "https://alpha.cf-worker-f9865672506d71.workers.dev/live/selcukssport2/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 MIRANDES - RACING SANTANDER"
+Url = "https://alpha.cf-worker-f9865672506d71.workers.dev/live/selcukssport/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 DENDELE - DESIMPEDIDOS GOTI"
+Url = "https://alpha.cf-worker-f9865672506d71.workers.dev/live/selcukssport2/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "22:00 MIRANDES - RACING SANTANDER"
+Url = "https://alpha.cf-worker-f9865672506d71.workers.dev/live/selcukssport/playlist.m3u8"
+
+Grup = "ICON-BASKETBALL"
+Kanal_Adı = "22:15 VALENCIA BASKET - IBEROSTAR TENERIFE"
+Url = "https://alpha.cf-worker-f9865672506d71.workers.dev/live/selcuksmartspor/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "23:00 FURIA - KARASU"
+Url = "https://alpha.cf-worker-f9865672506d71.workers.dev/live/selcukssport2/playlist.m3u8"
+
+Grup = "ICON-SOCCER-BALL"
+Kanal_Adı = "23:00 FURIA - KARASU"
+Url = "https://alpha.cf-worker-f9865672506d71.workers.dev/live/selcukssport2/playlist.m3u8"
+
