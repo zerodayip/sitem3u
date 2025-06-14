@@ -1,0 +1,40 @@
+Grup = "ICON-BASKETBALL"
+Kanal_Adı = "03:30 INDIANA PACERS - OKC THUNDER"
+Url = "https://alpha.cf-worker-f9865672506d71.workers.dev/live/selcukssport/playlist.m3u8"
+
+Grup = "ICON-TENNIS"
+Kanal_Adı = "12:00 E.MERTENS - E.ALEXANDROVA"
+Url = "https://alpha.cf-worker-f9865672506d71.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
+
+Grup = "ICON-TENNIS"
+Kanal_Adı = "13:30 E.G.RUSE - E.COCCIARETTO"
+Url = "https://alpha.cf-worker-f9865672506d71.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
+
+Grup = "ICON-TENNIS"
+Kanal_Adı = "15:30 T.MARIA - M.KEYS"
+Url = "https://alpha.cf-worker-f9865672506d71.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8"
+
+Grup = "ICON-TENNIS"
+Kanal_Adı = "16:50 ESPANA/SEGADOR - SENESI/PONS"
+Url = "https://alpha.cf-worker-f9865672506d71.workers.dev/live/selcukbeinsports3/playlist.m3u8"
+
+Grup = "ICON-TENNIS"
+Kanal_Adı = "17:30 Q.ZHENG - A.ANISIMOVA"
+Url = "https://alpha.cf-worker-f9865672506d71.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8"
+
+Grup = "ICON-TENNIS"
+Kanal_Adı = "18:50 STUPACZUK/LEBRON - CHINGOTTO/GALAN"
+Url = "https://alpha.cf-worker-f9865672506d71.workers.dev/live/selcukbeinsports3/playlist.m3u8"
+
+Grup = "ICON-TENNIS"
+Kanal_Adı = "19:30 MARTIN/FALLADA - SANCHEZ/FERNANDEZ"
+Url = "https://alpha.cf-worker-f9865672506d71.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
+
+Grup = "ICON-BASKETBALL"
+Kanal_Adı = "20:30 BEŞIKTAŞ FIBABANKA - ANADOLU EFES"
+Url = "https://alpha.cf-worker-f9865672506d71.workers.dev/live/selcukbeinsports5/playlist.m3u8"
+
+Grup = "ICON-BASKETBALL"
+Kanal_Adı = "22:15 IBEROSTAR TENERIFE - VALENCIA BASKET"
+Url = "https://alpha.cf-worker-f9865672506d71.workers.dev/live/selcuksmartspor/playlist.m3u8"
+
