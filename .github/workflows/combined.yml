@@ -108,4 +108,5 @@ jobs:
           git config user.email "actions@github.com"
           git add m3u8/*.m3u
           git commit -m "Copied .m3u files to m3u8 [auto]" || echo "No changes"
+          git pull --rebase origin main || echo "No upstream changes"
           git push origin main
