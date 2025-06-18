@@ -73,17 +73,17 @@ jobs:
         run: python private_py/daddylivekanal/kanalm3uprox.py
 
       # ---------------- S Section ----------------
-      - name: Run ana_domain.py
-        run: python private_py/selcuk/ana_domain.py
+#      - name: Run ana_domain.py
+#        run: python private_py/selcuk/ana_domain.py
 
-      - name: Run baseurl.py
-        run: python private_py/selcuk/baseurl.py
+#      - name: Run baseurl.py
+#        run: python private_py/selcuk/baseurl.py
 
 #      - name: Run encode.py
 #        run: python private_py/selcuk/encode.py
 
-      - name: Run m3u.py
-        run: python private_py/selcuk/m3uyeni.py
+#      - name: Run m3u.py
+#        run: python private_py/selcuk/m3uyeni.py
 
       # ---------------- STEP 1: Public Repo Push (sitem3u) ----------------
       - name: Commit and Push to Public Repo (sitem3u)
