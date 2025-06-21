@@ -5484,9 +5484,117 @@
                 ]
             }
         ],
+        "Tennis ATP - LONDON</span>": [
+            {
+                "time": "08:30",
+                "event": "ATP - LONDON : Lehecka J. vs Draper J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 7",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "ATP - LONDON : Alcaraz C. vs Bautista-Agut R.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 7",
+                        "channel_id": "1507"
+                    }
+                ]
+            }
+        ],
+        "Tennis ATP - HALLE</span>": [
+            {
+                "time": "06:30",
+                "event": "ATP - HALLE : Krawietz K./Puetz T. vs Cabral F./Miedler L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 10",
+                        "channel_id": "1510"
+                    }
+                ]
+            },
+            {
+                "time": "09:30",
+                "event": "ATP - HALLE : Medvedev D. vs Zverev A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 10",
+                        "channel_id": "1510"
+                    }
+                ]
+            },
+            {
+                "time": "11:00",
+                "event": "ATP - HALLE : Bublik A. vs Khachanov K.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 10",
+                        "channel_id": "1510"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - BERLIN</span>": [
+            {
+                "time": "06:30",
+                "event": "WTA - BERLIN : Sabalenka A. vs Vondrousova M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 1",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "09:00",
+                "event": "WTA - BERLIN : Samsonova L. vs Wang Xin.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 1",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "10:30",
+                "event": "WTA - BERLIN : Muhammad A./Schuurs D. vs Mihalikova T./Nicholls O.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 2",
+                        "channel_id": "1502"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - NOTTINGHAM</span>": [
+            {
+                "time": "06:30",
+                "event": "WTA - NOTTINGHAM : Yastremska D. vs Linette M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 4",
+                        "channel_id": "1504"
+                    }
+                ]
+            },
+            {
+                "time": "08:00",
+                "event": "WTA - NOTTINGHAM : Kessler M. vs Sramkova R.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 4",
+                        "channel_id": "1504"
+                    }
+                ]
+            }
+        ],
         "Tennis</span>": [
             {
-                "time": "21:10",
+                "time": "01:04",
                 "event": "ATP & WTA: ATP London & WTA Berlin Conference, Day 6",
                 "channels": [
                     {
