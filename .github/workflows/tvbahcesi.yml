@@ -37,7 +37,7 @@ jobs:
           M3U_FILE_PATH="tvbahcesi/tvbahcesi.m3u"
 
           if git status --porcelain | grep "$M3U_FILE_PATH"; then
-            echo "Değişiklikler tespit edildi $M3U_FILE_PATH. Yolluyorum tut..."
+            echo "Değişiklikler tespit edildi $M3U_FILE_PATH"
             git add "$M3U_FILE_PATH"
             git commit -m "♻️ Tv Bahçesi eklentisi için liste güncellendi"
             git push
