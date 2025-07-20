@@ -9,6 +9,9 @@ jobs:
   run-all-scripts:
     runs-on: ubuntu-latest
 
+    env:
+      GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
     steps:
       - name: Checkout Public Repository
         uses: actions/checkout@v2
@@ -37,76 +40,69 @@ jobs:
       - name: Run datatxtm3u.py
         run: python private_py/vavoo/vavooiptvm3u.py
 
-  #    - name: Run sporekrani.py
-  #      run: python private_py/vavoo/sporekrani.py
+      # - name: Run sporekrani.py
+      #   run: python private_py/vavoo/sporekrani.py
 
-  #    - name: Run spor_ekrani_m3u.py
-  #      run: python private_py/vavoo/spor_ekrani_m3uyeni.py
+      # - name: Run spor_ekrani_m3u.py
+      #   run: python private_py/vavoo/spor_ekrani_m3uyeni.py
 
       # ---------------- D Section ----------------
-   #   - name: Run schedule_aljson.py
-   #     run: python private_py/daddyliveevent/schedule_aljson.py
+      # - name: Run schedule_aljson.py
+      #   run: python private_py/daddyliveevent/schedule_aljson.py
 
-   #   - name: Run server_key_schedule.py
-   #     run: python private_py/daddyliveevent/server_key_schedule.py
+      # - name: Run server_key_schedule.py
+      #   run: python private_py/daddyliveevent/server_key_schedule.py
 
-   #   - name: Run schedule_son.py
-   #     run: python private_py/daddyliveevent/schedule_son.py
+      # - name: Run schedule_son.py
+      #   run: python private_py/daddyliveevent/schedule_son.py
 
-   #   - name: Run eventm3u.py
-   #     run: python private_py/daddyliveevent/eventm3uprox.py
+      # - name: Run eventm3u.py
+      #   run: python private_py/daddyliveevent/eventm3uprox.py
 
-   #   - name: Run convertm3u.py
-   #     run: python private_py/daddyliveevent/convertm3u.py
+      # - name: Run convertm3u.py
+      #   run: python private_py/daddyliveevent/convertm3u.py
 
       # ---------------- Kanal Section ----------------
-   #   - name: Run kanal_verileri.py
-   #     run: python private_py/daddylivekanal/kanal_verileri.py
+      # - name: Run kanal_verileri.py
+      #   run: python private_py/daddylivekanal/kanal_verileri.py
 
-   #   - name: Run server_key_kanal.py
-   #     run: python private_py/daddylivekanal/server_key_kanal.py
+      # - name: Run server_key_kanal.py
+      #   run: python private_py/daddylivekanal/server_key_kanal.py
 
-   #   - name: Run kanal_birlestir.py
-   #     run: python private_py/daddylivekanal/kanal_birlestir.py
+      # - name: Run kanal_birlestir.py
+      #   run: python private_py/daddylivekanal/kanal_birlestir.py
 
-   #   - name: Run kanalm3u.py
-   #     run: python private_py/daddylivekanal/kanalm3uprox.py
+      # - name: Run kanalm3u.py
+      #   run: python private_py/daddylivekanal/kanalm3uprox.py
 
       # ---------------- S Section ----------------
-#      - name: Run ana_domain.py
-#        run: python private_py/selcuk/ana_domain.py
+      # - name: Run ana_domain.py
+      #   run: python private_py/selcuk/ana_domain.py
 
-#      - name: Run baseurl.py
-#        run: python private_py/selcuk/baseurl.py
+      # - name: Run baseurl.py
+      #   run: python private_py/selcuk/baseurl.py
 
-#      - name: Run encode.py
-#        run: python private_py/selcuk/encode.py
+      # - name: Run encode.py
+      #   run: python private_py/selcuk/encode.py
 
-#      - name: Run m3u.py
-#        run: python private_py/selcuk/m3uyeni.py
+      # - name: Run m3u.py
+      #   run: python private_py/selcuk/m3uyeni.py
 
-      # ---------------- STEP 1: Public Repo Push (sitem3u) ----------------
-      - name: Commit and Push to Public Repo (sitem3u)
+      # ---------------- STEP: Copy .m3u Files to m3u8file Repo ----------------
+      - name: Clone m3u8file Repo
         run: |
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/zerodayip/m3u8file.git m3u8file_repo
+
+      - name: Copy all .m3u files to m3u8file Repo (root)
+        run: |
+          find d s v sdizi -type f -name "*.m3u" -exec cp {} m3u8file_repo/ \; || echo "No .m3u files found"
+
+      - name: Commit and Push to m3u8file Repo
+        run: |
+          cd m3u8file_repo
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add -A
-          git commit -m "Update all output files via unified workflow [auto]" || echo "No changes"
-          git push origin main
-
-      # ---------------- STEP 2: Copy .m3u Files to Private Repo ----------------
-      - name: Copy all .m3u files to private_py/m3u8
-        run: |
-          mkdir -p private_py/m3u8
-          find d s v sdizi -type f -name "*.m3u" -exec cp {} private_py/m3u8/ \; || echo "No .m3u files found"
-
-      # ---------------- STEP 3: Private Repo Push (Py) ----------------
-      - name: Commit and Push to Private Repo (Py)
-        run: |
-          cd private_py
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git add m3u8/*.m3u
-          git commit -m "Copied .m3u files to m3u8 [auto]" || echo "No changes"
+          git add *.m3u
+          git commit -m "Unified workflow .m3u dosyaları eklendi [auto]" || echo "No changes"
           git pull --rebase origin main || echo "No upstream changes"
           git push origin main
