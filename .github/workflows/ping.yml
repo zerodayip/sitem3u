@@ -10,13 +10,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Install xmllint
-        run: sudo apt-get update && sudo apt-get install -y libxml2-utils
-
-      - name: Fetch and Print "Sistem şu anda aktif" from HTML
+      - name: Fetch and Print "Sistem şu anda aktif" from HTML (Fast Version)
         run: |
           HTML=$(curl -s https://diziboxproxy.onrender.com/proxy/ping)
-          TEXT=$(echo "$HTML" | xmllint --html --xpath "string(//h1)" - 2>/dev/null)
+          TEXT=$(echo "$HTML" | grep -oP '(?<=<h1>).*?(?=</h1>)')
           if [[ -z "$TEXT" ]]; then
             echo "❌ Sistem pasif olabilir!"
           else
