@@ -17,4 +17,8 @@ jobs:
         run: |
           HTML=$(curl -s https://diziboxproxy.onrender.com/proxy/ping)
           TEXT=$(echo "$HTML" | xmllint --html --xpath "string(//h1)" - 2>/dev/null)
-          echo "$TEXT"
+          if [[ -z "$TEXT" ]]; then
+            echo "❌ Sistem pasif olabilir!"
+          else
+            echo "$TEXT"
+          fi
