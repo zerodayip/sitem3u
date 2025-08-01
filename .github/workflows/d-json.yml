@@ -39,7 +39,7 @@ jobs:
         run: python private_py/channels/daddylive/jsonal/dadhtml.py
 
       - name: Copy output file to d/ folder
-        run: cp private_py/daddylivejson/schedule.json ./d/schedule.json
+        run: cp private_py/channels/daddylive/jsonal/schedule.json ./d/schedule.json
 
       - name: Configure Git User
         run: |
