@@ -2,7 +2,7 @@ name: Keep Proxy Alive
 
 on:
   schedule:
-    - cron: "* */5 * * *"  # Her 15 dakikada bir çalışır (UTC)
+    - cron: '10 */5 * * *'
   workflow_dispatch:
 
 jobs:
