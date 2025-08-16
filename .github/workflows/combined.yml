@@ -34,11 +34,14 @@ jobs:
           pip install -r private_py/requirements.txt
 
       # ---------------- V Section ----------------
-      - name: Run datatxt.py
-        run: python private_py/vavoo/datatxt.py
+    #  - name: Run datatxt.py
+    #    run: python private_py/vavoo/datatxt.py
 
-      - name: Run datatxtm3u.py
-        run: python private_py/vavoo/vavooiptvm3u.py
+    #  - name: Run GOLDVOD.py
+    #    run: python private_py/vavoo/iptv/vavooiptvgoldvod.py
+
+      - name: Run KENDIPROXYIM.py
+        run: python private_py/vavoo/iptv/vavooiptvkendi.py
 
       # - name: Run sporekrani.py
       #   run: python private_py/vavoo/sporekrani.py
